@@ -1,0 +1,93 @@
+*****************       Ping    Command     Output ************************************
+----------------------------------------------------------------------------------------
+Sun Apr 16 00:46:00 UTC 2017
+----------------------------------------------------------------------------------------
+PING Planetlab1.cs.ucla.edu (131.179.150.70) 56(84) bytes of data.
+64 bytes from Planetlab1.CS.UCLA.EDU (131.179.150.70): icmp_seq=1 ttl=56 time=24.5 ms
+64 bytes from Planetlab1.CS.UCLA.EDU (131.179.150.70): icmp_seq=2 ttl=56 time=24.6 ms
+64 bytes from Planetlab1.CS.UCLA.EDU (131.179.150.70): icmp_seq=3 ttl=56 time=24.5 ms
+64 bytes from Planetlab1.CS.UCLA.EDU (131.179.150.70): icmp_seq=4 ttl=56 time=24.7 ms
+64 bytes from Planetlab1.CS.UCLA.EDU (131.179.150.70): icmp_seq=5 ttl=56 time=24.5 ms
+64 bytes from Planetlab1.CS.UCLA.EDU (131.179.150.70): icmp_seq=6 ttl=56 time=24.8 ms
+64 bytes from Planetlab1.CS.UCLA.EDU (131.179.150.70): icmp_seq=7 ttl=56 time=24.7 ms
+64 bytes from Planetlab1.CS.UCLA.EDU (131.179.150.70): icmp_seq=8 ttl=56 time=24.8 ms
+64 bytes from Planetlab1.CS.UCLA.EDU (131.179.150.70): icmp_seq=9 ttl=56 time=24.4 ms
+64 bytes from Planetlab1.CS.UCLA.EDU (131.179.150.70): icmp_seq=10 ttl=56 time=24.4 ms
+64 bytes from Planetlab1.CS.UCLA.EDU (131.179.150.70): icmp_seq=11 ttl=56 time=24.4 ms
+64 bytes from Planetlab1.CS.UCLA.EDU (131.179.150.70): icmp_seq=12 ttl=56 time=24.5 ms
+64 bytes from Planetlab1.CS.UCLA.EDU (131.179.150.70): icmp_seq=13 ttl=56 time=24.5 ms
+64 bytes from Planetlab1.CS.UCLA.EDU (131.179.150.70): icmp_seq=14 ttl=56 time=24.4 ms
+64 bytes from Planetlab1.CS.UCLA.EDU (131.179.150.70): icmp_seq=15 ttl=56 time=24.5 ms
+64 bytes from Planetlab1.CS.UCLA.EDU (131.179.150.70): icmp_seq=16 ttl=56 time=24.4 ms
+64 bytes from Planetlab1.CS.UCLA.EDU (131.179.150.70): icmp_seq=17 ttl=56 time=24.6 ms
+64 bytes from Planetlab1.CS.UCLA.EDU (131.179.150.70): icmp_seq=18 ttl=56 time=24.4 ms
+64 bytes from Planetlab1.CS.UCLA.EDU (131.179.150.70): icmp_seq=19 ttl=56 time=25.1 ms
+64 bytes from Planetlab1.CS.UCLA.EDU (131.179.150.70): icmp_seq=20 ttl=56 time=24.5 ms
+
+--- Planetlab1.cs.ucla.edu ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19033ms
+rtt min/avg/max/mdev = 24.457/24.612/25.182/0.267 ms
+========================================================================================
+========================================================================================
+*****************       Ping    Command     Output ************************************
+----------------------------------------------------------------------------------------
+Sun Apr 16 01:46:24 UTC 2017
+----------------------------------------------------------------------------------------
+PING Planetlab1.cs.ucla.edu (131.179.150.70) 56(84) bytes of data.
+64 bytes from Planetlab1.CS.UCLA.EDU (131.179.150.70): icmp_seq=1 ttl=56 time=24.4 ms
+64 bytes from Planetlab1.CS.UCLA.EDU (131.179.150.70): icmp_seq=2 ttl=56 time=24.5 ms
+64 bytes from Planetlab1.CS.UCLA.EDU (131.179.150.70): icmp_seq=3 ttl=56 time=24.5 ms
+64 bytes from Planetlab1.CS.UCLA.EDU (131.179.150.70): icmp_seq=4 ttl=56 time=24.5 ms
+64 bytes from Planetlab1.CS.UCLA.EDU (131.179.150.70): icmp_seq=5 ttl=56 time=24.5 ms
+64 bytes from Planetlab1.CS.UCLA.EDU (131.179.150.70): icmp_seq=6 ttl=56 time=24.5 ms
+64 bytes from Planetlab1.CS.UCLA.EDU (131.179.150.70): icmp_seq=7 ttl=56 time=24.5 ms
+64 bytes from Planetlab1.CS.UCLA.EDU (131.179.150.70): icmp_seq=8 ttl=56 time=24.5 ms
+64 bytes from Planetlab1.CS.UCLA.EDU (131.179.150.70): icmp_seq=9 ttl=56 time=24.4 ms
+64 bytes from Planetlab1.CS.UCLA.EDU (131.179.150.70): icmp_seq=10 ttl=56 time=24.5 ms
+64 bytes from Planetlab1.CS.UCLA.EDU (131.179.150.70): icmp_seq=11 ttl=56 time=24.8 ms
+64 bytes from Planetlab1.CS.UCLA.EDU (131.179.150.70): icmp_seq=12 ttl=56 time=24.5 ms
+64 bytes from Planetlab1.CS.UCLA.EDU (131.179.150.70): icmp_seq=13 ttl=56 time=24.5 ms
+64 bytes from Planetlab1.CS.UCLA.EDU (131.179.150.70): icmp_seq=14 ttl=56 time=24.4 ms
+64 bytes from Planetlab1.CS.UCLA.EDU (131.179.150.70): icmp_seq=15 ttl=56 time=24.5 ms
+64 bytes from Planetlab1.CS.UCLA.EDU (131.179.150.70): icmp_seq=16 ttl=56 time=24.5 ms
+64 bytes from Planetlab1.CS.UCLA.EDU (131.179.150.70): icmp_seq=17 ttl=56 time=25.2 ms
+64 bytes from Planetlab1.CS.UCLA.EDU (131.179.150.70): icmp_seq=18 ttl=56 time=24.7 ms
+64 bytes from Planetlab1.CS.UCLA.EDU (131.179.150.70): icmp_seq=19 ttl=56 time=24.5 ms
+64 bytes from Planetlab1.CS.UCLA.EDU (131.179.150.70): icmp_seq=20 ttl=56 time=24.5 ms
+
+--- Planetlab1.cs.ucla.edu ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19030ms
+rtt min/avg/max/mdev = 24.467/24.591/25.245/0.263 ms
+========================================================================================
+========================================================================================
+*****************       Ping    Command     Output ************************************
+----------------------------------------------------------------------------------------
+Sun Apr 16 02:46:48 UTC 2017
+----------------------------------------------------------------------------------------
+PING Planetlab1.cs.ucla.edu (131.179.150.70) 56(84) bytes of data.
+64 bytes from Planetlab1.CS.UCLA.EDU (131.179.150.70): icmp_seq=1 ttl=56 time=24.9 ms
+64 bytes from Planetlab1.CS.UCLA.EDU (131.179.150.70): icmp_seq=2 ttl=56 time=24.5 ms
+64 bytes from Planetlab1.CS.UCLA.EDU (131.179.150.70): icmp_seq=3 ttl=56 time=24.6 ms
+64 bytes from Planetlab1.CS.UCLA.EDU (131.179.150.70): icmp_seq=4 ttl=56 time=24.5 ms
+64 bytes from Planetlab1.CS.UCLA.EDU (131.179.150.70): icmp_seq=5 ttl=56 time=24.5 ms
+64 bytes from Planetlab1.CS.UCLA.EDU (131.179.150.70): icmp_seq=6 ttl=56 time=24.6 ms
+64 bytes from Planetlab1.CS.UCLA.EDU (131.179.150.70): icmp_seq=7 ttl=56 time=24.8 ms
+64 bytes from Planetlab1.CS.UCLA.EDU (131.179.150.70): icmp_seq=8 ttl=56 time=24.5 ms
+64 bytes from Planetlab1.CS.UCLA.EDU (131.179.150.70): icmp_seq=9 ttl=56 time=24.5 ms
+64 bytes from Planetlab1.CS.UCLA.EDU (131.179.150.70): icmp_seq=10 ttl=56 time=24.5 ms
+64 bytes from Planetlab1.CS.UCLA.EDU (131.179.150.70): icmp_seq=11 ttl=56 time=24.4 ms
+64 bytes from Planetlab1.CS.UCLA.EDU (131.179.150.70): icmp_seq=12 ttl=56 time=24.6 ms
+64 bytes from Planetlab1.CS.UCLA.EDU (131.179.150.70): icmp_seq=13 ttl=56 time=24.5 ms
+64 bytes from Planetlab1.CS.UCLA.EDU (131.179.150.70): icmp_seq=14 ttl=56 time=24.5 ms
+64 bytes from Planetlab1.CS.UCLA.EDU (131.179.150.70): icmp_seq=15 ttl=56 time=24.6 ms
+64 bytes from Planetlab1.CS.UCLA.EDU (131.179.150.70): icmp_seq=16 ttl=56 time=24.6 ms
+64 bytes from Planetlab1.CS.UCLA.EDU (131.179.150.70): icmp_seq=17 ttl=56 time=24.9 ms
+64 bytes from Planetlab1.CS.UCLA.EDU (131.179.150.70): icmp_seq=18 ttl=56 time=24.5 ms
+64 bytes from Planetlab1.CS.UCLA.EDU (131.179.150.70): icmp_seq=19 ttl=56 time=24.6 ms
+64 bytes from Planetlab1.CS.UCLA.EDU (131.179.150.70): icmp_seq=20 ttl=56 time=24.5 ms
+
+--- Planetlab1.cs.ucla.edu ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19028ms
+rtt min/avg/max/mdev = 24.478/24.636/24.993/0.219 ms
+========================================================================================
+========================================================================================

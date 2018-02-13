@@ -1,0 +1,124 @@
+*****************       Ping    Command     Output ************************************
+----------------------------------------------------------------------------------------
+Mon Apr 17 00:39:58 UTC 2017
+----------------------------------------------------------------------------------------
+PING planetlab01.cs.washington.edu (128.208.4.197) 56(84) bytes of data.
+64 bytes from planetlab01.cs.washington.edu (128.208.4.197): icmp_seq=1 ttl=53 time=7.69 ms
+64 bytes from planetlab01.cs.washington.edu (128.208.4.197): icmp_seq=2 ttl=53 time=7.72 ms
+64 bytes from planetlab01.cs.washington.edu (128.208.4.197): icmp_seq=3 ttl=53 time=7.71 ms
+64 bytes from planetlab01.cs.washington.edu (128.208.4.197): icmp_seq=4 ttl=53 time=7.71 ms
+64 bytes from planetlab01.cs.washington.edu (128.208.4.197): icmp_seq=5 ttl=53 time=8.56 ms
+64 bytes from planetlab01.cs.washington.edu (128.208.4.197): icmp_seq=6 ttl=53 time=7.71 ms
+64 bytes from planetlab01.cs.washington.edu (128.208.4.197): icmp_seq=7 ttl=53 time=7.70 ms
+64 bytes from planetlab01.cs.washington.edu (128.208.4.197): icmp_seq=8 ttl=53 time=7.70 ms
+64 bytes from planetlab01.cs.washington.edu (128.208.4.197): icmp_seq=9 ttl=53 time=7.71 ms
+64 bytes from planetlab01.cs.washington.edu (128.208.4.197): icmp_seq=10 ttl=53 time=7.71 ms
+64 bytes from planetlab01.cs.washington.edu (128.208.4.197): icmp_seq=11 ttl=53 time=7.68 ms
+64 bytes from planetlab01.cs.washington.edu (128.208.4.197): icmp_seq=12 ttl=53 time=7.71 ms
+64 bytes from planetlab01.cs.washington.edu (128.208.4.197): icmp_seq=13 ttl=53 time=7.77 ms
+64 bytes from planetlab01.cs.washington.edu (128.208.4.197): icmp_seq=14 ttl=53 time=7.68 ms
+64 bytes from planetlab01.cs.washington.edu (128.208.4.197): icmp_seq=15 ttl=53 time=7.68 ms
+64 bytes from planetlab01.cs.washington.edu (128.208.4.197): icmp_seq=16 ttl=53 time=7.68 ms
+64 bytes from planetlab01.cs.washington.edu (128.208.4.197): icmp_seq=17 ttl=53 time=7.68 ms
+64 bytes from planetlab01.cs.washington.edu (128.208.4.197): icmp_seq=18 ttl=53 time=7.66 ms
+64 bytes from planetlab01.cs.washington.edu (128.208.4.197): icmp_seq=19 ttl=53 time=7.69 ms
+64 bytes from planetlab01.cs.washington.edu (128.208.4.197): icmp_seq=20 ttl=53 time=7.77 ms
+
+--- planetlab01.cs.washington.edu ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19020ms
+rtt min/avg/max/mdev = 7.668/7.750/8.565/0.215 ms
+========================================================================================
+========================================================================================
+*****************       Ping    Command     Output ************************************
+----------------------------------------------------------------------------------------
+Mon Apr 17 01:40:23 UTC 2017
+----------------------------------------------------------------------------------------
+PING planetlab01.cs.washington.edu (128.208.4.197) 56(84) bytes of data.
+64 bytes from planetlab01.cs.washington.edu (128.208.4.197): icmp_seq=1 ttl=53 time=7.70 ms
+64 bytes from planetlab01.cs.washington.edu (128.208.4.197): icmp_seq=2 ttl=53 time=7.74 ms
+64 bytes from planetlab01.cs.washington.edu (128.208.4.197): icmp_seq=3 ttl=53 time=7.70 ms
+64 bytes from planetlab01.cs.washington.edu (128.208.4.197): icmp_seq=4 ttl=53 time=7.71 ms
+64 bytes from planetlab01.cs.washington.edu (128.208.4.197): icmp_seq=5 ttl=53 time=7.71 ms
+64 bytes from planetlab01.cs.washington.edu (128.208.4.197): icmp_seq=6 ttl=53 time=17.2 ms
+64 bytes from planetlab01.cs.washington.edu (128.208.4.197): icmp_seq=7 ttl=53 time=7.69 ms
+64 bytes from planetlab01.cs.washington.edu (128.208.4.197): icmp_seq=8 ttl=53 time=7.71 ms
+64 bytes from planetlab01.cs.washington.edu (128.208.4.197): icmp_seq=9 ttl=53 time=7.76 ms
+64 bytes from planetlab01.cs.washington.edu (128.208.4.197): icmp_seq=10 ttl=53 time=7.71 ms
+64 bytes from planetlab01.cs.washington.edu (128.208.4.197): icmp_seq=11 ttl=53 time=7.68 ms
+64 bytes from planetlab01.cs.washington.edu (128.208.4.197): icmp_seq=12 ttl=53 time=7.70 ms
+64 bytes from planetlab01.cs.washington.edu (128.208.4.197): icmp_seq=13 ttl=53 time=7.72 ms
+64 bytes from planetlab01.cs.washington.edu (128.208.4.197): icmp_seq=14 ttl=53 time=7.68 ms
+64 bytes from planetlab01.cs.washington.edu (128.208.4.197): icmp_seq=15 ttl=53 time=7.70 ms
+64 bytes from planetlab01.cs.washington.edu (128.208.4.197): icmp_seq=16 ttl=53 time=7.73 ms
+64 bytes from planetlab01.cs.washington.edu (128.208.4.197): icmp_seq=17 ttl=53 time=7.72 ms
+64 bytes from planetlab01.cs.washington.edu (128.208.4.197): icmp_seq=18 ttl=53 time=7.77 ms
+64 bytes from planetlab01.cs.washington.edu (128.208.4.197): icmp_seq=19 ttl=53 time=8.07 ms
+64 bytes from planetlab01.cs.washington.edu (128.208.4.197): icmp_seq=20 ttl=53 time=7.79 ms
+
+--- planetlab01.cs.washington.edu ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19026ms
+rtt min/avg/max/mdev = 7.685/8.215/17.244/2.075 ms
+========================================================================================
+========================================================================================
+*****************       Ping    Command     Output ************************************
+----------------------------------------------------------------------------------------
+Mon Apr 17 02:40:47 UTC 2017
+----------------------------------------------------------------------------------------
+PING planetlab01.cs.washington.edu (128.208.4.197) 56(84) bytes of data.
+64 bytes from planetlab01.cs.washington.edu (128.208.4.197): icmp_seq=1 ttl=53 time=7.69 ms
+64 bytes from planetlab01.cs.washington.edu (128.208.4.197): icmp_seq=2 ttl=53 time=7.73 ms
+64 bytes from planetlab01.cs.washington.edu (128.208.4.197): icmp_seq=3 ttl=53 time=7.70 ms
+64 bytes from planetlab01.cs.washington.edu (128.208.4.197): icmp_seq=4 ttl=53 time=7.70 ms
+64 bytes from planetlab01.cs.washington.edu (128.208.4.197): icmp_seq=5 ttl=53 time=7.71 ms
+64 bytes from planetlab01.cs.washington.edu (128.208.4.197): icmp_seq=6 ttl=53 time=11.8 ms
+64 bytes from planetlab01.cs.washington.edu (128.208.4.197): icmp_seq=7 ttl=53 time=7.70 ms
+64 bytes from planetlab01.cs.washington.edu (128.208.4.197): icmp_seq=8 ttl=53 time=7.70 ms
+64 bytes from planetlab01.cs.washington.edu (128.208.4.197): icmp_seq=9 ttl=53 time=7.67 ms
+64 bytes from planetlab01.cs.washington.edu (128.208.4.197): icmp_seq=10 ttl=53 time=7.74 ms
+64 bytes from planetlab01.cs.washington.edu (128.208.4.197): icmp_seq=11 ttl=53 time=7.71 ms
+64 bytes from planetlab01.cs.washington.edu (128.208.4.197): icmp_seq=12 ttl=53 time=7.73 ms
+64 bytes from planetlab01.cs.washington.edu (128.208.4.197): icmp_seq=13 ttl=53 time=7.75 ms
+64 bytes from planetlab01.cs.washington.edu (128.208.4.197): icmp_seq=14 ttl=53 time=7.69 ms
+64 bytes from planetlab01.cs.washington.edu (128.208.4.197): icmp_seq=15 ttl=53 time=7.87 ms
+64 bytes from planetlab01.cs.washington.edu (128.208.4.197): icmp_seq=16 ttl=53 time=7.71 ms
+64 bytes from planetlab01.cs.washington.edu (128.208.4.197): icmp_seq=17 ttl=53 time=7.69 ms
+64 bytes from planetlab01.cs.washington.edu (128.208.4.197): icmp_seq=18 ttl=53 time=7.69 ms
+64 bytes from planetlab01.cs.washington.edu (128.208.4.197): icmp_seq=19 ttl=53 time=7.71 ms
+64 bytes from planetlab01.cs.washington.edu (128.208.4.197): icmp_seq=20 ttl=53 time=7.70 ms
+
+--- planetlab01.cs.washington.edu ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19029ms
+rtt min/avg/max/mdev = 7.673/7.926/11.847/0.900 ms
+========================================================================================
+========================================================================================
+*****************       Ping    Command     Output ************************************
+----------------------------------------------------------------------------------------
+Mon Apr 17 03:41:11 UTC 2017
+----------------------------------------------------------------------------------------
+PING planetlab01.cs.washington.edu (128.208.4.197) 56(84) bytes of data.
+64 bytes from planetlab01.cs.washington.edu (128.208.4.197): icmp_seq=1 ttl=53 time=7.68 ms
+64 bytes from planetlab01.cs.washington.edu (128.208.4.197): icmp_seq=2 ttl=53 time=7.66 ms
+64 bytes from planetlab01.cs.washington.edu (128.208.4.197): icmp_seq=3 ttl=53 time=7.67 ms
+64 bytes from planetlab01.cs.washington.edu (128.208.4.197): icmp_seq=4 ttl=53 time=7.73 ms
+64 bytes from planetlab01.cs.washington.edu (128.208.4.197): icmp_seq=5 ttl=53 time=7.65 ms
+64 bytes from planetlab01.cs.washington.edu (128.208.4.197): icmp_seq=6 ttl=53 time=7.73 ms
+64 bytes from planetlab01.cs.washington.edu (128.208.4.197): icmp_seq=7 ttl=53 time=7.91 ms
+64 bytes from planetlab01.cs.washington.edu (128.208.4.197): icmp_seq=8 ttl=53 time=7.66 ms
+64 bytes from planetlab01.cs.washington.edu (128.208.4.197): icmp_seq=9 ttl=53 time=7.76 ms
+64 bytes from planetlab01.cs.washington.edu (128.208.4.197): icmp_seq=10 ttl=53 time=7.76 ms
+64 bytes from planetlab01.cs.washington.edu (128.208.4.197): icmp_seq=11 ttl=53 time=7.68 ms
+64 bytes from planetlab01.cs.washington.edu (128.208.4.197): icmp_seq=12 ttl=53 time=7.68 ms
+64 bytes from planetlab01.cs.washington.edu (128.208.4.197): icmp_seq=13 ttl=53 time=7.78 ms
+64 bytes from planetlab01.cs.washington.edu (128.208.4.197): icmp_seq=14 ttl=53 time=7.66 ms
+64 bytes from planetlab01.cs.washington.edu (128.208.4.197): icmp_seq=15 ttl=53 time=7.66 ms
+64 bytes from planetlab01.cs.washington.edu (128.208.4.197): icmp_seq=16 ttl=53 time=7.88 ms
+64 bytes from planetlab01.cs.washington.edu (128.208.4.197): icmp_seq=17 ttl=53 time=7.69 ms
+64 bytes from planetlab01.cs.washington.edu (128.208.4.197): icmp_seq=18 ttl=53 time=7.81 ms
+64 bytes from planetlab01.cs.washington.edu (128.208.4.197): icmp_seq=19 ttl=53 time=7.69 ms
+64 bytes from planetlab01.cs.washington.edu (128.208.4.197): icmp_seq=20 ttl=53 time=7.68 ms
+
+--- planetlab01.cs.washington.edu ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19023ms
+rtt min/avg/max/mdev = 7.655/7.726/7.914/0.082 ms
+========================================================================================
+========================================================================================

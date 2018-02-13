@@ -1,0 +1,558 @@
+*****************       Ping    Command     Output ************************************
+----------------------------------------------------------------------------------------
+Fri Apr  7 05:56:24 UTC 2017
+----------------------------------------------------------------------------------------
+PING plonk.cs.uwaterloo.ca (129.97.74.14) 56(84) bytes of data.
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=1 ttl=53 time=53.7 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=2 ttl=53 time=53.8 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=3 ttl=53 time=56.3 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=4 ttl=53 time=61.2 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=5 ttl=53 time=53.9 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=6 ttl=53 time=53.9 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=7 ttl=53 time=53.7 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=8 ttl=53 time=54.2 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=9 ttl=53 time=53.9 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=10 ttl=53 time=53.9 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=11 ttl=53 time=53.9 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=12 ttl=53 time=53.8 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=13 ttl=53 time=53.8 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=14 ttl=53 time=53.8 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=15 ttl=53 time=53.9 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=16 ttl=53 time=53.8 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=17 ttl=53 time=53.7 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=18 ttl=53 time=53.7 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=19 ttl=53 time=54.0 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=20 ttl=53 time=53.7 ms
+
+--- plonk.cs.uwaterloo.ca ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19020ms
+rtt min/avg/max/mdev = 53.726/54.384/61.292/1.694 ms
+========================================================================================
+========================================================================================
+*****************       Ping    Command     Output ************************************
+----------------------------------------------------------------------------------------
+Fri Apr  7 06:56:48 UTC 2017
+----------------------------------------------------------------------------------------
+PING plonk.cs.uwaterloo.ca (129.97.74.14) 56(84) bytes of data.
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=1 ttl=53 time=53.9 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=2 ttl=53 time=53.9 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=3 ttl=53 time=55.2 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=4 ttl=53 time=56.0 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=5 ttl=53 time=54.5 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=6 ttl=53 time=56.2 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=7 ttl=53 time=55.2 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=8 ttl=53 time=54.0 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=9 ttl=53 time=54.0 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=10 ttl=53 time=53.8 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=11 ttl=53 time=53.9 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=12 ttl=53 time=53.9 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=13 ttl=53 time=53.8 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=14 ttl=53 time=54.3 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=15 ttl=53 time=54.5 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=16 ttl=53 time=54.9 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=17 ttl=53 time=54.5 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=18 ttl=53 time=59.3 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=19 ttl=53 time=55.0 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=20 ttl=53 time=55.5 ms
+
+--- plonk.cs.uwaterloo.ca ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19019ms
+rtt min/avg/max/mdev = 53.842/54.866/59.300/1.253 ms
+========================================================================================
+========================================================================================
+*****************       Ping    Command     Output ************************************
+----------------------------------------------------------------------------------------
+Fri Apr  7 07:57:12 UTC 2017
+----------------------------------------------------------------------------------------
+PING PLONK.CS.UWATERLOO.CA (129.97.74.14) 56(84) bytes of data.
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=1 ttl=53 time=54.7 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=2 ttl=53 time=54.4 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=3 ttl=53 time=54.6 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=4 ttl=53 time=54.2 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=5 ttl=53 time=53.9 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=6 ttl=53 time=53.8 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=7 ttl=53 time=53.8 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=8 ttl=53 time=53.8 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=9 ttl=53 time=53.8 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=10 ttl=53 time=53.7 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=11 ttl=53 time=53.8 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=12 ttl=53 time=54.0 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=13 ttl=53 time=54.4 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=14 ttl=53 time=54.6 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=15 ttl=53 time=53.9 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=16 ttl=53 time=53.9 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=17 ttl=53 time=56.2 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=18 ttl=53 time=54.2 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=19 ttl=53 time=54.8 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=20 ttl=53 time=54.0 ms
+
+--- PLONK.CS.UWATERLOO.CA ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19001ms
+rtt min/avg/max/mdev = 53.761/54.268/56.231/0.638 ms
+========================================================================================
+========================================================================================
+*****************       Ping    Command     Output ************************************
+----------------------------------------------------------------------------------------
+Fri Apr  7 08:57:37 UTC 2017
+----------------------------------------------------------------------------------------
+PING PLONK.cs.uwaterloo.ca (129.97.74.14) 56(84) bytes of data.
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=1 ttl=53 time=65.1 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=2 ttl=53 time=60.9 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=3 ttl=53 time=58.8 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=4 ttl=53 time=56.9 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=5 ttl=53 time=54.5 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=6 ttl=53 time=67.3 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=7 ttl=53 time=56.2 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=8 ttl=53 time=62.2 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=9 ttl=53 time=55.1 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=10 ttl=53 time=54.8 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=11 ttl=53 time=55.5 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=12 ttl=53 time=55.3 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=13 ttl=53 time=68.4 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=14 ttl=53 time=65.4 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=15 ttl=53 time=57.7 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=16 ttl=53 time=62.2 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=17 ttl=53 time=65.1 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=18 ttl=53 time=55.6 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=19 ttl=53 time=54.7 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=20 ttl=53 time=58.3 ms
+
+--- PLONK.cs.uwaterloo.ca ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19019ms
+rtt min/avg/max/mdev = 54.561/59.556/68.485/4.559 ms
+========================================================================================
+========================================================================================
+*****************       Ping    Command     Output ************************************
+----------------------------------------------------------------------------------------
+Fri Apr  7 09:58:01 UTC 2017
+----------------------------------------------------------------------------------------
+PING PLONK.cs.uwaterloo.ca (129.97.74.14) 56(84) bytes of data.
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=1 ttl=53 time=53.8 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=2 ttl=53 time=53.8 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=3 ttl=53 time=53.8 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=4 ttl=53 time=53.8 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=5 ttl=53 time=53.8 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=6 ttl=53 time=53.8 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=7 ttl=53 time=53.8 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=8 ttl=53 time=54.0 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=9 ttl=53 time=53.8 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=10 ttl=53 time=53.8 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=11 ttl=53 time=53.9 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=12 ttl=53 time=53.8 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=13 ttl=53 time=53.9 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=14 ttl=53 time=54.0 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=15 ttl=53 time=53.9 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=16 ttl=53 time=53.9 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=17 ttl=53 time=53.9 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=18 ttl=53 time=53.9 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=19 ttl=53 time=53.9 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=20 ttl=53 time=53.8 ms
+
+--- PLONK.cs.uwaterloo.ca ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19026ms
+rtt min/avg/max/mdev = 53.800/53.903/54.049/0.254 ms
+========================================================================================
+========================================================================================
+*****************       Ping    Command     Output ************************************
+----------------------------------------------------------------------------------------
+Fri Apr  7 10:58:25 UTC 2017
+----------------------------------------------------------------------------------------
+PING PLONK.CS.UWATERLOO.CA (129.97.74.14) 56(84) bytes of data.
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=1 ttl=53 time=53.9 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=2 ttl=53 time=53.9 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=3 ttl=53 time=53.6 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=4 ttl=53 time=54.0 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=5 ttl=53 time=53.7 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=6 ttl=53 time=53.9 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=7 ttl=53 time=53.6 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=8 ttl=53 time=53.6 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=9 ttl=53 time=53.9 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=10 ttl=53 time=53.8 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=11 ttl=53 time=53.8 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=12 ttl=53 time=53.8 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=13 ttl=53 time=53.8 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=14 ttl=53 time=53.8 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=15 ttl=53 time=53.8 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=16 ttl=53 time=53.7 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=17 ttl=53 time=53.8 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=18 ttl=53 time=53.7 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=19 ttl=53 time=53.8 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=20 ttl=53 time=53.7 ms
+
+--- PLONK.CS.UWATERLOO.CA ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19020ms
+rtt min/avg/max/mdev = 53.669/53.838/54.066/0.218 ms
+========================================================================================
+========================================================================================
+*****************       Ping    Command     Output ************************************
+----------------------------------------------------------------------------------------
+Fri Apr  7 11:58:50 UTC 2017
+----------------------------------------------------------------------------------------
+PING PLONK.cs.uwaterloo.ca (129.97.74.14) 56(84) bytes of data.
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=1 ttl=53 time=54.1 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=2 ttl=53 time=53.8 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=3 ttl=53 time=53.8 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=4 ttl=53 time=54.0 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=5 ttl=53 time=53.8 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=6 ttl=53 time=53.8 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=7 ttl=53 time=53.9 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=8 ttl=53 time=54.0 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=9 ttl=53 time=54.0 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=10 ttl=53 time=54.0 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=11 ttl=53 time=54.0 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=12 ttl=53 time=53.9 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=13 ttl=53 time=53.9 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=14 ttl=53 time=53.9 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=15 ttl=53 time=54.1 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=16 ttl=53 time=54.1 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=17 ttl=53 time=53.8 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=18 ttl=53 time=53.8 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=19 ttl=53 time=53.7 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=20 ttl=53 time=53.8 ms
+
+--- PLONK.cs.uwaterloo.ca ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19023ms
+rtt min/avg/max/mdev = 53.750/53.955/54.130/0.266 ms
+========================================================================================
+========================================================================================
+*****************       Ping    Command     Output ************************************
+----------------------------------------------------------------------------------------
+Fri Apr  7 12:59:14 UTC 2017
+----------------------------------------------------------------------------------------
+PING PLONK.cs.uwaterloo.ca (129.97.74.14) 56(84) bytes of data.
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=1 ttl=53 time=54.0 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=2 ttl=53 time=54.1 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=3 ttl=53 time=53.8 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=4 ttl=53 time=54.0 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=5 ttl=53 time=53.8 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=6 ttl=53 time=59.7 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=7 ttl=53 time=53.9 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=8 ttl=53 time=53.9 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=9 ttl=53 time=54.0 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=10 ttl=53 time=54.0 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=11 ttl=53 time=54.5 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=12 ttl=53 time=54.0 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=13 ttl=53 time=54.0 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=14 ttl=53 time=53.9 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=15 ttl=53 time=53.9 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=16 ttl=53 time=53.9 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=17 ttl=53 time=53.8 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=18 ttl=53 time=53.8 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=19 ttl=53 time=54.0 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=20 ttl=53 time=53.8 ms
+
+--- PLONK.cs.uwaterloo.ca ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19021ms
+rtt min/avg/max/mdev = 53.820/54.291/59.709/1.259 ms
+========================================================================================
+========================================================================================
+*****************       Ping    Command     Output ************************************
+----------------------------------------------------------------------------------------
+Fri Apr  7 13:59:38 UTC 2017
+----------------------------------------------------------------------------------------
+PING PLONK.CS.UWATERLOO.CA (129.97.74.14) 56(84) bytes of data.
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=1 ttl=53 time=54.2 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=2 ttl=53 time=53.7 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=3 ttl=53 time=54.0 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=4 ttl=53 time=54.0 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=5 ttl=53 time=53.9 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=6 ttl=53 time=54.0 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=7 ttl=53 time=54.2 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=8 ttl=53 time=53.7 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=9 ttl=53 time=53.9 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=10 ttl=53 time=53.9 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=11 ttl=53 time=53.7 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=12 ttl=53 time=53.8 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=13 ttl=53 time=53.8 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=14 ttl=53 time=53.8 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=15 ttl=53 time=53.9 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=16 ttl=53 time=53.8 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=17 ttl=53 time=54.1 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=18 ttl=53 time=54.0 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=19 ttl=53 time=54.0 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=20 ttl=53 time=54.0 ms
+
+--- PLONK.CS.UWATERLOO.CA ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19021ms
+rtt min/avg/max/mdev = 53.717/53.960/54.228/0.281 ms
+========================================================================================
+========================================================================================
+*****************       Ping    Command     Output ************************************
+----------------------------------------------------------------------------------------
+Fri Apr  7 15:00:03 UTC 2017
+----------------------------------------------------------------------------------------
+PING PLONK.cs.uwaterloo.ca (129.97.74.14) 56(84) bytes of data.
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=1 ttl=53 time=53.9 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=2 ttl=53 time=54.1 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=3 ttl=53 time=53.9 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=4 ttl=53 time=54.2 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=5 ttl=53 time=54.2 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=6 ttl=53 time=54.4 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=7 ttl=53 time=53.9 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=8 ttl=53 time=53.9 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=9 ttl=53 time=53.8 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=10 ttl=53 time=54.1 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=11 ttl=53 time=54.7 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=12 ttl=53 time=53.9 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=13 ttl=53 time=53.8 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=14 ttl=53 time=53.9 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=15 ttl=53 time=54.0 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=16 ttl=53 time=53.9 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=17 ttl=53 time=53.9 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=18 ttl=53 time=53.9 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=19 ttl=53 time=54.7 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=20 ttl=53 time=53.9 ms
+
+--- PLONK.cs.uwaterloo.ca ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19020ms
+rtt min/avg/max/mdev = 53.803/54.099/54.764/0.362 ms
+========================================================================================
+========================================================================================
+*****************       Ping    Command     Output ************************************
+----------------------------------------------------------------------------------------
+Fri Apr  7 16:00:27 UTC 2017
+----------------------------------------------------------------------------------------
+PING PLONK.cs.uwaterloo.ca (129.97.74.14) 56(84) bytes of data.
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=1 ttl=53 time=53.9 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=2 ttl=53 time=53.8 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=3 ttl=53 time=54.0 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=4 ttl=53 time=53.8 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=5 ttl=53 time=53.8 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=6 ttl=53 time=53.8 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=7 ttl=53 time=54.0 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=8 ttl=53 time=54.0 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=9 ttl=53 time=53.8 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=10 ttl=53 time=54.0 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=11 ttl=53 time=54.0 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=12 ttl=53 time=54.0 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=13 ttl=53 time=53.9 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=14 ttl=53 time=53.9 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=15 ttl=53 time=53.9 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=16 ttl=53 time=53.9 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=17 ttl=53 time=53.8 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=18 ttl=53 time=53.8 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=19 ttl=53 time=53.9 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=20 ttl=53 time=53.8 ms
+
+--- PLONK.cs.uwaterloo.ca ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19021ms
+rtt min/avg/max/mdev = 53.808/53.928/54.051/0.312 ms
+========================================================================================
+========================================================================================
+*****************       Ping    Command     Output ************************************
+----------------------------------------------------------------------------------------
+Fri Apr  7 17:00:51 UTC 2017
+----------------------------------------------------------------------------------------
+PING PLONK.CS.UWATERLOO.CA (129.97.74.14) 56(84) bytes of data.
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=1 ttl=53 time=54.1 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=2 ttl=53 time=53.9 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=3 ttl=53 time=53.9 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=4 ttl=53 time=53.9 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=5 ttl=53 time=53.9 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=6 ttl=53 time=53.9 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=7 ttl=53 time=53.9 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=8 ttl=53 time=54.0 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=9 ttl=53 time=54.2 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=10 ttl=53 time=54.0 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=11 ttl=53 time=53.8 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=12 ttl=53 time=53.8 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=13 ttl=53 time=54.0 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=14 ttl=53 time=54.0 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=15 ttl=53 time=54.2 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=16 ttl=53 time=54.0 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=17 ttl=53 time=54.0 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=18 ttl=53 time=53.9 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=19 ttl=53 time=53.9 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=20 ttl=53 time=59.9 ms
+
+--- PLONK.CS.UWATERLOO.CA ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19018ms
+rtt min/avg/max/mdev = 53.801/54.305/59.988/1.322 ms
+========================================================================================
+========================================================================================
+*****************       Ping    Command     Output ************************************
+----------------------------------------------------------------------------------------
+Fri Apr  7 18:01:15 UTC 2017
+----------------------------------------------------------------------------------------
+PING PLONK.cs.uwaterloo.ca (129.97.74.14) 56(84) bytes of data.
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=1 ttl=53 time=65.4 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=2 ttl=53 time=66.3 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=3 ttl=53 time=54.3 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=4 ttl=53 time=54.5 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=5 ttl=53 time=54.0 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=6 ttl=53 time=55.4 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=7 ttl=53 time=54.8 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=8 ttl=53 time=53.9 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=9 ttl=53 time=57.6 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=10 ttl=53 time=54.0 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=11 ttl=53 time=57.1 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=12 ttl=53 time=54.5 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=13 ttl=53 time=55.0 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=14 ttl=53 time=54.3 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=15 ttl=53 time=54.1 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=16 ttl=53 time=54.3 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=17 ttl=53 time=54.3 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=18 ttl=53 time=54.7 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=19 ttl=53 time=54.2 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=20 ttl=53 time=54.2 ms
+
+--- PLONK.cs.uwaterloo.ca ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19019ms
+rtt min/avg/max/mdev = 53.948/55.891/66.396/3.480 ms
+========================================================================================
+========================================================================================
+*****************       Ping    Command     Output ************************************
+----------------------------------------------------------------------------------------
+Fri Apr  7 19:01:40 UTC 2017
+----------------------------------------------------------------------------------------
+PING PLONK.cs.uwaterloo.ca (129.97.74.14) 56(84) bytes of data.
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=1 ttl=53 time=54.0 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=2 ttl=53 time=53.8 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=3 ttl=53 time=54.6 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=4 ttl=53 time=62.0 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=5 ttl=53 time=54.3 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=6 ttl=53 time=55.0 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=7 ttl=53 time=54.2 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=8 ttl=53 time=54.4 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=9 ttl=53 time=54.1 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=10 ttl=53 time=54.0 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=11 ttl=53 time=54.5 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=12 ttl=53 time=54.0 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=13 ttl=53 time=54.1 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=14 ttl=53 time=54.5 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=15 ttl=53 time=53.9 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=16 ttl=53 time=54.3 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=17 ttl=53 time=60.1 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=18 ttl=53 time=57.8 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=19 ttl=53 time=54.1 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=20 ttl=53 time=54.1 ms
+
+--- PLONK.cs.uwaterloo.ca ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19018ms
+rtt min/avg/max/mdev = 53.875/55.141/62.078/2.172 ms
+========================================================================================
+========================================================================================
+*****************       Ping    Command     Output ************************************
+----------------------------------------------------------------------------------------
+Fri Apr  7 20:02:04 UTC 2017
+----------------------------------------------------------------------------------------
+PING PLONK.CS.UWATERLOO.CA (129.97.74.14) 56(84) bytes of data.
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=1 ttl=53 time=53.8 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=2 ttl=53 time=54.0 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=3 ttl=53 time=54.8 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=4 ttl=53 time=54.6 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=5 ttl=53 time=53.9 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=6 ttl=53 time=54.2 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=7 ttl=53 time=60.4 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=8 ttl=53 time=54.3 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=9 ttl=53 time=54.8 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=10 ttl=53 time=54.3 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=11 ttl=53 time=53.8 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=12 ttl=53 time=54.1 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=13 ttl=53 time=56.1 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=14 ttl=53 time=56.1 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=15 ttl=53 time=58.6 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=16 ttl=53 time=56.0 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=17 ttl=53 time=54.5 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=18 ttl=53 time=54.5 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=19 ttl=53 time=54.1 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=20 ttl=53 time=63.9 ms
+
+--- PLONK.CS.UWATERLOO.CA ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19021ms
+rtt min/avg/max/mdev = 53.862/55.597/63.915/2.531 ms
+========================================================================================
+========================================================================================
+*****************       Ping    Command     Output ************************************
+----------------------------------------------------------------------------------------
+Fri Apr  7 21:02:29 UTC 2017
+----------------------------------------------------------------------------------------
+PING PLONK.cs.uwaterloo.ca (129.97.74.14) 56(84) bytes of data.
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=1 ttl=53 time=54.9 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=2 ttl=53 time=54.1 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=3 ttl=53 time=54.4 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=4 ttl=53 time=56.8 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=5 ttl=53 time=54.0 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=6 ttl=53 time=54.3 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=7 ttl=53 time=54.7 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=8 ttl=53 time=54.2 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=9 ttl=53 time=54.7 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=10 ttl=53 time=55.4 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=11 ttl=53 time=54.8 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=12 ttl=53 time=54.8 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=13 ttl=53 time=54.0 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=14 ttl=53 time=54.7 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=15 ttl=53 time=55.6 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=16 ttl=53 time=54.7 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=17 ttl=53 time=55.0 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=18 ttl=53 time=53.8 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=19 ttl=53 time=53.9 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=20 ttl=53 time=54.8 ms
+
+--- PLONK.cs.uwaterloo.ca ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19021ms
+rtt min/avg/max/mdev = 53.876/54.733/56.846/0.676 ms
+========================================================================================
+========================================================================================
+*****************       Ping    Command     Output ************************************
+----------------------------------------------------------------------------------------
+Fri Apr  7 22:02:53 UTC 2017
+----------------------------------------------------------------------------------------
+PING PLONK.cs.uwaterloo.ca (129.97.74.14) 56(84) bytes of data.
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=1 ttl=53 time=54.3 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=2 ttl=53 time=54.1 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=3 ttl=53 time=54.0 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=4 ttl=53 time=54.0 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=5 ttl=53 time=54.6 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=6 ttl=53 time=53.9 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=7 ttl=53 time=53.8 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=8 ttl=53 time=54.8 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=9 ttl=53 time=53.9 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=10 ttl=53 time=54.9 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=11 ttl=53 time=55.9 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=12 ttl=53 time=54.0 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=13 ttl=53 time=58.4 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=14 ttl=53 time=54.5 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=15 ttl=53 time=54.5 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=16 ttl=53 time=53.9 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=17 ttl=53 time=56.5 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=18 ttl=53 time=54.8 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=19 ttl=53 time=55.2 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=20 ttl=53 time=54.9 ms
+
+--- PLONK.cs.uwaterloo.ca ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19019ms
+rtt min/avg/max/mdev = 53.873/54.798/58.491/1.087 ms
+========================================================================================
+========================================================================================
+*****************       Ping    Command     Output ************************************
+----------------------------------------------------------------------------------------
+Fri Apr  7 23:03:17 UTC 2017
+----------------------------------------------------------------------------------------
+PING PLONK.cs.uwaterloo.ca (129.97.74.14) 56(84) bytes of data.
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=1 ttl=53 time=53.8 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=2 ttl=53 time=54.6 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=3 ttl=53 time=56.5 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=4 ttl=53 time=54.0 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=5 ttl=53 time=54.0 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=6 ttl=53 time=54.4 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=7 ttl=53 time=54.0 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=8 ttl=53 time=54.2 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=9 ttl=53 time=54.0 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=10 ttl=53 time=55.2 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=11 ttl=53 time=54.2 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=12 ttl=53 time=54.0 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=13 ttl=53 time=56.0 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=14 ttl=53 time=62.3 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=15 ttl=53 time=54.4 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=16 ttl=53 time=56.9 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=17 ttl=53 time=54.2 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=18 ttl=53 time=56.4 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=19 ttl=53 time=56.4 ms
+64 bytes from plonk.cs.uwaterloo.ca (129.97.74.14): icmp_seq=20 ttl=53 time=54.0 ms
+
+--- PLONK.cs.uwaterloo.ca ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19016ms
+rtt min/avg/max/mdev = 53.884/55.220/62.313/1.931 ms
+========================================================================================
+========================================================================================

@@ -1,0 +1,456 @@
+*****************   TraceRoute   Command     Output ************************************
+----------------------------------------------------------------------------------------
+Sun Apr 16 00:36:10 UTC 2017
+----------------------------------------------------------------------------------------
+traceroute to planetlab3.cs.uoregon.edu (128.223.8.113), 30 hops max, 60 byte packets
+ 1  acar-atg-02-vlan77.cac.washington.edu (128.208.4.102)  0.269 ms  0.247 ms  0.226 ms
+ 2  lo0--1.uwcr-ads-1.infra.washington.edu (198.48.65.1)  0.550 ms  0.571 ms  0.586 ms
+ 3  10.132.1.66 (10.132.1.66)  0.661 ms  0.646 ms  0.620 ms
+ 4  ae0--4001.icar-sttl1-1.infra.pnw-gigapop.net (209.124.190.132)  0.775 ms  0.900 ms  0.783 ms
+ 5  ae0--403.icar-ptld1-1.infra.pnw-gigapop.net (209.124.179.9)  5.239 ms  5.372 ms  4.731 ms
+ 6  nero-pnw.client.pnw-gigapop.net (209.124.179.10)  6.086 ms  5.814 ms  5.704 ms
+ 7  ptck-p2-gw.nero.net (207.98.64.174)  7.849 ms  7.155 ms ptck-p1-gw.nero.net (207.98.64.172)  6.911 ms
+ 8  eugn-p1-gw.nero.net (207.98.64.14)  49.431 ms eugn-p2-gw.nero.net (207.98.64.20)  10.007 ms  10.040 ms
+ 9  eugn-car1-gw.nero.net (207.98.64.201)  8.250 ms eugn-car1-gw.nero.net (207.98.64.203)  8.053 ms eugn-car1-gw.nero.net (207.98.64.201)  8.225 ms
+10  uonet9-gw.nero.net (207.98.68.182)  8.894 ms  7.547 ms  10.032 ms
+11  vl-2.uonet2-gw.uoregon.edu (128.223.2.2)  7.942 ms vl-2-gw.uoregon.edu (128.223.2.1)  8.831 ms  8.844 ms
+12  planetlab3.cs.uoregon.edu (128.223.8.113)  7.251 ms  7.663 ms  7.641 ms
+========================================================================================
+========================================================================================
+*****************   TraceRoute   Command     Output ************************************
+----------------------------------------------------------------------------------------
+Sun Apr 16 01:36:29 UTC 2017
+----------------------------------------------------------------------------------------
+traceroute to planetlab3.cs.uoregon.edu (128.223.8.113), 30 hops max, 60 byte packets
+ 1  acar-atg-02-vlan77.cac.washington.edu (128.208.4.102)  0.300 ms  0.276 ms  0.255 ms
+ 2  lo0--1.uwcr-ads-1.infra.washington.edu (198.48.65.1)  0.515 ms  0.537 ms  0.562 ms
+ 3  10.132.1.66 (10.132.1.66)  0.692 ms  0.690 ms  0.688 ms
+ 4  ae0--4001.icar-sttl1-1.infra.pnw-gigapop.net (209.124.190.132)  0.847 ms  0.876 ms  1.867 ms
+ 5  ae0--403.icar-ptld1-1.infra.pnw-gigapop.net (209.124.179.9)  5.275 ms  4.795 ms  4.820 ms
+ 6  nero-pnw.client.pnw-gigapop.net (209.124.179.10)  6.157 ms  5.746 ms  5.465 ms
+ 7  ptck-p1-gw.nero.net (207.98.64.172)  6.771 ms ptck-p2-gw.nero.net (207.98.64.174)  7.426 ms  7.432 ms
+ 8  eugn-p2-gw.nero.net (207.98.64.20)  10.082 ms  10.151 ms eugn-p1-gw.nero.net (207.98.64.14)  10.324 ms
+ 9  eugn-car1-gw.nero.net (207.98.64.201)  7.707 ms eugn-car1-gw.nero.net (207.98.64.203)  8.137 ms  7.597 ms
+10  uonet9-gw.nero.net (207.98.68.182)  7.713 ms  7.591 ms  9.433 ms
+11  vl-2-gw.uoregon.edu (128.223.2.1)  8.438 ms  7.433 ms  7.990 ms
+12  planetlab3.cs.uoregon.edu (128.223.8.113)  7.155 ms  7.750 ms  7.618 ms
+========================================================================================
+========================================================================================
+*****************   TraceRoute   Command     Output ************************************
+----------------------------------------------------------------------------------------
+Sun Apr 16 02:36:48 UTC 2017
+----------------------------------------------------------------------------------------
+traceroute to planetlab3.cs.uoregon.edu (128.223.8.113), 30 hops max, 60 byte packets
+ 1  acar-atg-02-vlan77.cac.washington.edu (128.208.4.102)  3.811 ms  3.823 ms  3.804 ms
+ 2  lo0--1.uwcr-ads-1.infra.washington.edu (198.48.65.1)  0.577 ms  0.626 ms  0.616 ms
+ 3  10.132.1.66 (10.132.1.66)  0.481 ms  0.559 ms  0.532 ms
+ 4  ae0--4001.icar-sttl1-1.infra.pnw-gigapop.net (209.124.190.132)  0.848 ms  0.836 ms  0.837 ms
+ 5  ae0--403.icar-ptld1-1.infra.pnw-gigapop.net (209.124.179.9)  5.327 ms  5.343 ms  5.326 ms
+ 6  nero-pnw.client.pnw-gigapop.net (209.124.179.10)  5.904 ms  5.461 ms  5.469 ms
+ 7  ptck-p2-gw.nero.net (207.98.64.174)  7.071 ms  7.027 ms ptck-p1-gw.nero.net (207.98.64.172)  6.691 ms
+ 8  eugn-p1-gw.nero.net (207.98.64.14)  9.459 ms eugn-p2-gw.nero.net (207.98.64.20)  9.754 ms  9.678 ms
+ 9  eugn-car1-gw.nero.net (207.98.64.201)  8.220 ms eugn-car1-gw.nero.net (207.98.64.203)  8.095 ms eugn-car1-gw.nero.net (207.98.64.201)  7.693 ms
+10  uonet9-gw.nero.net (207.98.68.182)  8.887 ms  8.300 ms  8.330 ms
+11  vl-2.uonet2-gw.uoregon.edu (128.223.2.2)  7.856 ms vl-2-gw.uoregon.edu (128.223.2.1)  7.402 ms  7.881 ms
+12  planetlab3.cs.uoregon.edu (128.223.8.113)  7.779 ms  7.092 ms  7.136 ms
+========================================================================================
+========================================================================================
+*****************   TraceRoute   Command     Output ************************************
+----------------------------------------------------------------------------------------
+Sun Apr 16 03:37:07 UTC 2017
+----------------------------------------------------------------------------------------
+traceroute to planetlab3.cs.uoregon.edu (128.223.8.113), 30 hops max, 60 byte packets
+ 1  acar-atg-02-vlan77.cac.washington.edu (128.208.4.102)  0.524 ms  0.504 ms  0.485 ms
+ 2  lo0--1.uwcr-ads-1.infra.washington.edu (198.48.65.1)  0.532 ms  0.557 ms  0.620 ms
+ 3  10.132.1.66 (10.132.1.66)  0.603 ms  0.583 ms  0.564 ms
+ 4  ae0--4001.icar-sttl1-1.infra.pnw-gigapop.net (209.124.190.132)  9.693 ms  9.720 ms  9.704 ms
+ 5  ae0--403.icar-ptld1-1.infra.pnw-gigapop.net (209.124.179.9)  4.788 ms  5.256 ms  5.277 ms
+ 6  nero-pnw.client.pnw-gigapop.net (209.124.179.10)  5.416 ms  5.079 ms  5.553 ms
+ 7  ptck-p2-gw.nero.net (207.98.64.174)  6.841 ms ptck-p1-gw.nero.net (207.98.64.172)  6.186 ms ptck-p2-gw.nero.net (207.98.64.174)  6.707 ms
+ 8  eugn-p1-gw.nero.net (207.98.64.14)  10.333 ms eugn-p2-gw.nero.net (207.98.64.20)  9.727 ms  9.670 ms
+ 9  eugn-car1-gw.nero.net (207.98.64.203)  8.114 ms eugn-car1-gw.nero.net (207.98.64.201)  8.360 ms eugn-car1-gw.nero.net (207.98.64.203)  8.162 ms
+10  uonet9-gw.nero.net (207.98.68.182)  9.556 ms  9.442 ms  10.405 ms
+11  vl-2.uonet2-gw.uoregon.edu (128.223.2.2)  7.633 ms  7.274 ms vl-2-gw.uoregon.edu (128.223.2.1)  15.941 ms
+12  planetlab3.cs.uoregon.edu (128.223.8.113)  7.320 ms  7.644 ms  7.742 ms
+========================================================================================
+========================================================================================
+*****************   TraceRoute   Command     Output ************************************
+----------------------------------------------------------------------------------------
+Sun Apr 16 04:37:26 UTC 2017
+----------------------------------------------------------------------------------------
+traceroute to planetlab3.cs.uoregon.edu (128.223.8.113), 30 hops max, 60 byte packets
+ 1  acar-atg-02-vlan77.cac.washington.edu (128.208.4.102)  1.271 ms  1.248 ms  1.228 ms
+ 2  lo0--1.uwcr-ads-1.infra.washington.edu (198.48.65.1)  0.535 ms  0.560 ms  0.588 ms
+ 3  10.132.1.66 (10.132.1.66)  0.518 ms  0.532 ms  0.515 ms
+ 4  ae0--4001.icar-sttl1-1.infra.pnw-gigapop.net (209.124.190.132)  0.864 ms  0.875 ms  0.857 ms
+ 5  ae0--403.icar-ptld1-1.infra.pnw-gigapop.net (209.124.179.9)  4.870 ms  5.314 ms  5.282 ms
+ 6  nero-pnw.client.pnw-gigapop.net (209.124.179.10)  5.551 ms  6.148 ms  5.427 ms
+ 7  ptck-p1-gw.nero.net (207.98.64.172)  8.015 ms ptck-p2-gw.nero.net (207.98.64.174)  6.624 ms  7.629 ms
+ 8  eugn-p2-gw.nero.net (207.98.64.20)  10.752 ms  9.422 ms eugn-p1-gw.nero.net (207.98.64.14)  10.664 ms
+ 9  eugn-car1-gw.nero.net (207.98.64.203)  7.583 ms eugn-car1-gw.nero.net (207.98.64.201)  8.263 ms eugn-car1-gw.nero.net (207.98.64.203)  8.112 ms
+10  uonet9-gw.nero.net (207.98.68.182)  8.093 ms  8.827 ms  9.196 ms
+11  vl-2.uonet2-gw.uoregon.edu (128.223.2.2)  8.519 ms  7.808 ms  7.589 ms
+12  planetlab3.cs.uoregon.edu (128.223.8.113)  7.218 ms  10.987 ms  7.849 ms
+========================================================================================
+========================================================================================
+*****************   TraceRoute   Command     Output ************************************
+----------------------------------------------------------------------------------------
+Sun Apr 16 05:37:46 UTC 2017
+----------------------------------------------------------------------------------------
+traceroute to planetlab3.cs.uoregon.edu (128.223.8.113), 30 hops max, 60 byte packets
+ 1  acar-atg-02-vlan77.cac.washington.edu (128.208.4.102)  0.276 ms  0.252 ms  0.231 ms
+ 2  lo0--1.uwcr-ads-1.infra.washington.edu (198.48.65.1)  0.543 ms  0.575 ms  0.594 ms
+ 3  10.132.1.66 (10.132.1.66)  0.564 ms  0.565 ms  0.577 ms
+ 4  ae0--4001.icar-sttl1-1.infra.pnw-gigapop.net (209.124.190.132)  0.793 ms  0.792 ms  0.787 ms
+ 5  ae0--403.icar-ptld1-1.infra.pnw-gigapop.net (209.124.179.9)  4.816 ms  4.894 ms  4.878 ms
+ 6  nero-pnw.client.pnw-gigapop.net (209.124.179.10)  5.500 ms  5.139 ms  5.182 ms
+ 7  ptck-p1-gw.nero.net (207.98.64.172)  7.035 ms ptck-p2-gw.nero.net (207.98.64.174)  7.260 ms  7.179 ms
+ 8  eugn-p1-gw.nero.net (207.98.64.14)  10.188 ms eugn-p2-gw.nero.net (207.98.64.20)  9.229 ms eugn-p1-gw.nero.net (207.98.64.14)  10.188 ms
+ 9  eugn-car1-gw.nero.net (207.98.64.203)  8.145 ms eugn-car1-gw.nero.net (207.98.64.201)  7.767 ms eugn-car1-gw.nero.net (207.98.64.203)  7.576 ms
+10  uonet9-gw.nero.net (207.98.68.182)  8.193 ms  8.044 ms  7.791 ms
+11  vl-2.uonet2-gw.uoregon.edu (128.223.2.2)  7.748 ms vl-2-gw.uoregon.edu (128.223.2.1)  8.035 ms vl-2.uonet2-gw.uoregon.edu (128.223.2.2)  7.842 ms
+12  planetlab3.cs.uoregon.edu (128.223.8.113)  7.154 ms  7.238 ms  7.195 ms
+========================================================================================
+========================================================================================
+*****************   TraceRoute   Command     Output ************************************
+----------------------------------------------------------------------------------------
+Sun Apr 16 06:38:05 UTC 2017
+----------------------------------------------------------------------------------------
+traceroute to planetlab3.cs.uoregon.edu (128.223.8.113), 30 hops max, 60 byte packets
+ 1  acar-atg-02-vlan77.cac.washington.edu (128.208.4.102)  0.289 ms  0.256 ms  0.233 ms
+ 2  lo0--1.uwcr-ads-1.infra.washington.edu (198.48.65.1)  0.546 ms  0.600 ms  0.589 ms
+ 3  10.132.1.66 (10.132.1.66)  0.546 ms  0.535 ms  1.361 ms
+ 4  ae0--4001.icar-sttl1-1.infra.pnw-gigapop.net (209.124.190.132)  1.346 ms  0.849 ms  0.803 ms
+ 5  ae0--403.icar-ptld1-1.infra.pnw-gigapop.net (209.124.179.9)  5.295 ms  5.280 ms  4.747 ms
+ 6  nero-pnw.client.pnw-gigapop.net (209.124.179.10)  5.413 ms  5.231 ms  5.146 ms
+ 7  ptck-p2-gw.nero.net (207.98.64.174)  7.853 ms  7.183 ms  7.188 ms
+ 8  eugn-p1-gw.nero.net (207.98.64.14)  13.190 ms  13.205 ms eugn-p2-gw.nero.net (207.98.64.20)  9.948 ms
+ 9  eugn-car1-gw.nero.net (207.98.64.201)  7.752 ms  7.767 ms eugn-car1-gw.nero.net (207.98.64.203)  8.505 ms
+10  uonet9-gw.nero.net (207.98.68.182)  7.765 ms  7.588 ms  8.129 ms
+11  vl-2-gw.uoregon.edu (128.223.2.1)  7.365 ms vl-2.uonet2-gw.uoregon.edu (128.223.2.2)  7.766 ms  7.794 ms
+12  planetlab3.cs.uoregon.edu (128.223.8.113)  7.257 ms  7.202 ms  8.373 ms
+========================================================================================
+========================================================================================
+*****************   TraceRoute   Command     Output ************************************
+----------------------------------------------------------------------------------------
+Sun Apr 16 07:38:24 UTC 2017
+----------------------------------------------------------------------------------------
+traceroute to planetlab3.cs.uoregon.edu (128.223.8.113), 30 hops max, 60 byte packets
+ 1  acar-atg-02-vlan77.cac.washington.edu (128.208.4.102)  0.311 ms  0.256 ms  0.234 ms
+ 2  lo0--1.uwcr-ads-1.infra.washington.edu (198.48.65.1)  0.516 ms  0.538 ms  0.560 ms
+ 3  10.132.1.66 (10.132.1.66)  0.608 ms  0.638 ms  0.569 ms
+ 4  ae0--4001.icar-sttl1-1.infra.pnw-gigapop.net (209.124.190.132)  1.538 ms  1.524 ms  1.474 ms
+ 5  ae0--403.icar-ptld1-1.infra.pnw-gigapop.net (209.124.179.9)  6.144 ms  6.190 ms  6.204 ms
+ 6  nero-pnw.client.pnw-gigapop.net (209.124.179.10)  5.438 ms  5.797 ms  5.689 ms
+ 7  ptck-p1-gw.nero.net (207.98.64.172)  8.022 ms ptck-p2-gw.nero.net (207.98.64.174)  7.408 ms  7.430 ms
+ 8  eugn-p1-gw.nero.net (207.98.64.14)  28.635 ms  28.514 ms  28.522 ms
+ 9  eugn-car1-gw.nero.net (207.98.64.201)  7.757 ms  7.740 ms eugn-car1-gw.nero.net (207.98.64.203)  8.157 ms
+10  uonet9-gw.nero.net (207.98.68.182)  9.627 ms  9.563 ms  9.366 ms
+11  vl-2-gw.uoregon.edu (128.223.2.1)  7.313 ms vl-2.uonet2-gw.uoregon.edu (128.223.2.2)  12.508 ms vl-2-gw.uoregon.edu (128.223.2.1)  7.898 ms
+12  planetlab3.cs.uoregon.edu (128.223.8.113)  7.884 ms  7.237 ms  7.224 ms
+========================================================================================
+========================================================================================
+*****************   TraceRoute   Command     Output ************************************
+----------------------------------------------------------------------------------------
+Sun Apr 16 08:38:43 UTC 2017
+----------------------------------------------------------------------------------------
+traceroute to planetlab3.cs.uoregon.edu (128.223.8.113), 30 hops max, 60 byte packets
+ 1  acar-atg-02-vlan77.cac.washington.edu (128.208.4.102)  0.269 ms  0.245 ms  0.224 ms
+ 2  lo0--1.uwcr-ads-1.infra.washington.edu (198.48.65.1)  0.568 ms  0.561 ms  0.618 ms
+ 3  10.132.1.66 (10.132.1.66)  0.547 ms  0.564 ms  0.550 ms
+ 4  ae0--4001.icar-sttl1-1.infra.pnw-gigapop.net (209.124.190.132)  0.759 ms  0.877 ms  0.778 ms
+ 5  ae0--403.icar-ptld1-1.infra.pnw-gigapop.net (209.124.179.9)  5.251 ms  4.795 ms  4.805 ms
+ 6  nero-pnw.client.pnw-gigapop.net (209.124.179.10)  6.086 ms  5.314 ms  5.338 ms
+ 7  ptck-p2-gw.nero.net (207.98.64.174)  7.066 ms ptck-p1-gw.nero.net (207.98.64.172)  7.780 ms ptck-p2-gw.nero.net (207.98.64.174)  7.159 ms
+ 8  eugn-p2-gw.nero.net (207.98.64.20)  9.559 ms  9.577 ms  10.516 ms
+ 9  eugn-car1-gw.nero.net (207.98.64.201)  7.697 ms eugn-car1-gw.nero.net (207.98.64.203)  7.560 ms  8.149 ms
+10  uonet9-gw.nero.net (207.98.68.182)  8.933 ms  9.702 ms  9.653 ms
+11  vl-2.uonet2-gw.uoregon.edu (128.223.2.2)  7.865 ms vl-2-gw.uoregon.edu (128.223.2.1)  7.382 ms  7.426 ms
+12  planetlab3.cs.uoregon.edu (128.223.8.113)  7.702 ms  7.666 ms  7.751 ms
+========================================================================================
+========================================================================================
+*****************   TraceRoute   Command     Output ************************************
+----------------------------------------------------------------------------------------
+Sun Apr 16 09:39:02 UTC 2017
+----------------------------------------------------------------------------------------
+traceroute to planetlab3.cs.uoregon.edu (128.223.8.113), 30 hops max, 60 byte packets
+ 1  acar-atg-02-vlan77.cac.washington.edu (128.208.4.102)  0.269 ms  0.247 ms  0.228 ms
+ 2  lo0--1.uwcr-ads-1.infra.washington.edu (198.48.65.1)  0.535 ms  0.559 ms  0.595 ms
+ 3  10.132.1.66 (10.132.1.66)  0.505 ms  0.541 ms  0.527 ms
+ 4  ae0--4001.icar-sttl1-1.infra.pnw-gigapop.net (209.124.190.132)  0.787 ms  0.818 ms  0.798 ms
+ 5  ae0--403.icar-ptld1-1.infra.pnw-gigapop.net (209.124.179.9)  5.241 ms  4.763 ms  4.753 ms
+ 6  nero-pnw.client.pnw-gigapop.net (209.124.179.10)  5.584 ms  5.133 ms  6.112 ms
+ 7  ptck-p1-gw.nero.net (207.98.64.172)  6.377 ms ptck-p2-gw.nero.net (207.98.64.174)  7.120 ms ptck-p1-gw.nero.net (207.98.64.172)  6.789 ms
+ 8  eugn-p1-gw.nero.net (207.98.64.14)  10.349 ms  9.304 ms  9.314 ms
+ 9  eugn-car1-gw.nero.net (207.98.64.201)  8.235 ms eugn-car1-gw.nero.net (207.98.64.203)  8.094 ms eugn-car1-gw.nero.net (207.98.64.201)  8.223 ms
+10  uonet9-gw.nero.net (207.98.68.182)  7.904 ms  7.620 ms  7.878 ms
+11  vl-2.uonet2-gw.uoregon.edu (128.223.2.2)  7.704 ms vl-2-gw.uoregon.edu (128.223.2.1)  7.920 ms  7.991 ms
+12  planetlab3.cs.uoregon.edu (128.223.8.113)  7.263 ms  7.279 ms  7.645 ms
+========================================================================================
+========================================================================================
+*****************   TraceRoute   Command     Output ************************************
+----------------------------------------------------------------------------------------
+Sun Apr 16 10:39:21 UTC 2017
+----------------------------------------------------------------------------------------
+traceroute to planetlab3.cs.uoregon.edu (128.223.8.113), 30 hops max, 60 byte packets
+ 1  acar-atg-02-vlan77.cac.washington.edu (128.208.4.102)  0.299 ms  0.276 ms  0.255 ms
+ 2  lo0--1.uwcr-ads-1.infra.washington.edu (198.48.65.1)  0.535 ms  0.540 ms  0.597 ms
+ 3  10.132.1.66 (10.132.1.66)  1.480 ms  1.079 ms  1.595 ms
+ 4  ae0--4001.icar-sttl1-1.infra.pnw-gigapop.net (209.124.190.132)  0.935 ms  0.907 ms  0.810 ms
+ 5  ae0--403.icar-ptld1-1.infra.pnw-gigapop.net (209.124.179.9)  6.248 ms  4.695 ms  6.051 ms
+ 6  nero-pnw.client.pnw-gigapop.net (209.124.179.10)  6.964 ms  6.268 ms  6.237 ms
+ 7  ptck-p1-gw.nero.net (207.98.64.172)  6.667 ms  8.525 ms  8.447 ms
+ 8  eugn-p1-gw.nero.net (207.98.64.14)  9.376 ms eugn-p2-gw.nero.net (207.98.64.20)  9.392 ms eugn-p1-gw.nero.net (207.98.64.14)  9.361 ms
+ 9  eugn-car1-gw.nero.net (207.98.64.203)  7.675 ms  8.268 ms  8.730 ms
+10  uonet9-gw.nero.net (207.98.68.182)  7.723 ms  8.099 ms  7.508 ms
+11  vl-2-gw.uoregon.edu (128.223.2.1)  8.016 ms vl-2.uonet2-gw.uoregon.edu (128.223.2.2)  7.829 ms  7.872 ms
+12  planetlab3.cs.uoregon.edu (128.223.8.113)  7.965 ms  7.546 ms  7.985 ms
+========================================================================================
+========================================================================================
+*****************   TraceRoute   Command     Output ************************************
+----------------------------------------------------------------------------------------
+Sun Apr 16 11:39:40 UTC 2017
+----------------------------------------------------------------------------------------
+traceroute to planetlab3.cs.uoregon.edu (128.223.8.113), 30 hops max, 60 byte packets
+ 1  acar-atg-02-vlan77.cac.washington.edu (128.208.4.102)  0.289 ms  0.266 ms  0.245 ms
+ 2  lo0--1.uwcr-ads-1.infra.washington.edu (198.48.65.1)  0.554 ms  0.554 ms  0.617 ms
+ 3  10.132.1.66 (10.132.1.66)  0.542 ms  0.542 ms  0.551 ms
+ 4  ae0--4001.icar-sttl1-1.infra.pnw-gigapop.net (209.124.190.132)  0.822 ms  0.804 ms  0.797 ms
+ 5  ae0--403.icar-ptld1-1.infra.pnw-gigapop.net (209.124.179.9)  4.859 ms  4.879 ms  5.259 ms
+ 6  nero-pnw.client.pnw-gigapop.net (209.124.179.10)  5.480 ms  5.646 ms  5.671 ms
+ 7  ptck-p1-gw.nero.net (207.98.64.172)  6.982 ms  7.890 ms  6.802 ms
+ 8  eugn-p1-gw.nero.net (207.98.64.14)  14.340 ms eugn-p2-gw.nero.net (207.98.64.20)  9.826 ms eugn-p1-gw.nero.net (207.98.64.14)  9.077 ms
+ 9  eugn-car1-gw.nero.net (207.98.64.201)  8.276 ms eugn-car1-gw.nero.net (207.98.64.203)  7.571 ms eugn-car1-gw.nero.net (207.98.64.201)  8.268 ms
+10  uonet9-gw.nero.net (207.98.68.182)  7.680 ms  8.202 ms  8.111 ms
+11  vl-2.uonet2-gw.uoregon.edu (128.223.2.2)  7.790 ms vl-2-gw.uoregon.edu (128.223.2.1)  24.158 ms vl-2.uonet2-gw.uoregon.edu (128.223.2.2)  7.698 ms
+12  planetlab3.cs.uoregon.edu (128.223.8.113)  7.682 ms  7.746 ms  7.104 ms
+========================================================================================
+========================================================================================
+*****************   TraceRoute   Command     Output ************************************
+----------------------------------------------------------------------------------------
+Sun Apr 16 12:39:59 UTC 2017
+----------------------------------------------------------------------------------------
+traceroute to planetlab3.cs.uoregon.edu (128.223.8.113), 30 hops max, 60 byte packets
+ 1  acar-atg-02-vlan77.cac.washington.edu (128.208.4.102)  0.278 ms  0.251 ms  0.231 ms
+ 2  lo0--1.uwcr-ads-1.infra.washington.edu (198.48.65.1)  0.548 ms  0.550 ms  0.592 ms
+ 3  10.132.1.66 (10.132.1.66)  4.279 ms  4.326 ms  4.311 ms
+ 4  ae0--4001.icar-sttl1-1.infra.pnw-gigapop.net (209.124.190.132)  0.860 ms  0.847 ms  0.797 ms
+ 5  ae0--403.icar-ptld1-1.infra.pnw-gigapop.net (209.124.179.9)  5.251 ms  4.734 ms  5.328 ms
+ 6  nero-pnw.client.pnw-gigapop.net (209.124.179.10)  6.301 ms  5.464 ms  5.459 ms
+ 7  ptck-p2-gw.nero.net (207.98.64.174)  6.869 ms  6.893 ms  6.893 ms
+ 8  eugn-p2-gw.nero.net (207.98.64.20)  9.577 ms eugn-p1-gw.nero.net (207.98.64.14)  10.468 ms  9.415 ms
+ 9  eugn-car1-gw.nero.net (207.98.64.201)  8.222 ms  8.211 ms  7.694 ms
+10  uonet9-gw.nero.net (207.98.68.182)  8.268 ms  9.466 ms  9.473 ms
+11  vl-2-gw.uoregon.edu (128.223.2.1)  7.790 ms vl-2.uonet2-gw.uoregon.edu (128.223.2.2)  7.714 ms  7.776 ms
+12  planetlab3.cs.uoregon.edu (128.223.8.113)  7.145 ms  7.080 ms  7.764 ms
+========================================================================================
+========================================================================================
+*****************   TraceRoute   Command     Output ************************************
+----------------------------------------------------------------------------------------
+Sun Apr 16 13:40:18 UTC 2017
+----------------------------------------------------------------------------------------
+traceroute to planetlab3.cs.uoregon.edu (128.223.8.113), 30 hops max, 60 byte packets
+ 1  acar-atg-02-vlan77.cac.washington.edu (128.208.4.102)  0.264 ms  0.240 ms  0.219 ms
+ 2  lo0--1.uwcr-ads-1.infra.washington.edu (198.48.65.1)  0.527 ms  0.544 ms  0.585 ms
+ 3  10.132.1.66 (10.132.1.66)  1.564 ms  1.565 ms  1.485 ms
+ 4  ae0--4001.icar-sttl1-1.infra.pnw-gigapop.net (209.124.190.132)  0.934 ms  0.809 ms  0.862 ms
+ 5  ae0--403.icar-ptld1-1.infra.pnw-gigapop.net (209.124.179.9)  5.387 ms  4.730 ms  5.299 ms
+ 6  nero-pnw.client.pnw-gigapop.net (209.124.179.10)  5.916 ms  6.342 ms  5.266 ms
+ 7  ptck-p2-gw.nero.net (207.98.64.174)  6.106 ms  7.573 ms  7.586 ms
+ 8  eugn-p1-gw.nero.net (207.98.64.14)  9.330 ms  10.368 ms  9.387 ms
+ 9  eugn-car1-gw.nero.net (207.98.64.203)  8.111 ms  8.121 ms  7.700 ms
+10  uonet9-gw.nero.net (207.98.68.182)  8.865 ms  8.828 ms  8.120 ms
+11  vl-2.uonet2-gw.uoregon.edu (128.223.2.2)  8.787 ms  8.434 ms vl-2-gw.uoregon.edu (128.223.2.1)  8.366 ms
+12  planetlab3.cs.uoregon.edu (128.223.8.113)  7.289 ms  7.774 ms  7.783 ms
+========================================================================================
+========================================================================================
+*****************   TraceRoute   Command     Output ************************************
+----------------------------------------------------------------------------------------
+Sun Apr 16 14:40:37 UTC 2017
+----------------------------------------------------------------------------------------
+traceroute to planetlab3.cs.uoregon.edu (128.223.8.113), 30 hops max, 60 byte packets
+ 1  acar-atg-02-vlan77.cac.washington.edu (128.208.4.102)  0.606 ms  0.651 ms  0.634 ms
+ 2  lo0--1.uwcr-ads-1.infra.washington.edu (198.48.65.1)  0.554 ms  0.561 ms  0.617 ms
+ 3  10.132.1.66 (10.132.1.66)  0.502 ms  0.570 ms  0.539 ms
+ 4  ae0--4001.icar-sttl1-1.infra.pnw-gigapop.net (209.124.190.132)  0.866 ms  0.897 ms  0.878 ms
+ 5  ae0--403.icar-ptld1-1.infra.pnw-gigapop.net (209.124.179.9)  5.206 ms  5.263 ms  5.297 ms
+ 6  nero-pnw.client.pnw-gigapop.net (209.124.179.10)  5.699 ms  5.971 ms  5.631 ms
+ 7  ptck-p2-gw.nero.net (207.98.64.174)  7.142 ms ptck-p1-gw.nero.net (207.98.64.172)  6.835 ms ptck-p2-gw.nero.net (207.98.64.174)  7.119 ms
+ 8  eugn-p2-gw.nero.net (207.98.64.20)  8.797 ms  9.826 ms  9.830 ms
+ 9  eugn-car1-gw.nero.net (207.98.64.203)  7.631 ms  7.648 ms eugn-car1-gw.nero.net (207.98.64.201)  8.179 ms
+10  uonet9-gw.nero.net (207.98.68.182)  9.306 ms  9.520 ms  9.205 ms
+11  vl-2.uonet2-gw.uoregon.edu (128.223.2.2)  7.824 ms vl-2-gw.uoregon.edu (128.223.2.1)  7.464 ms  7.289 ms
+12  planetlab3.cs.uoregon.edu (128.223.8.113)  7.749 ms  7.728 ms  7.218 ms
+========================================================================================
+========================================================================================
+*****************   TraceRoute   Command     Output ************************************
+----------------------------------------------------------------------------------------
+Sun Apr 16 15:40:56 UTC 2017
+----------------------------------------------------------------------------------------
+traceroute to planetlab3.cs.uoregon.edu (128.223.8.113), 30 hops max, 60 byte packets
+ 1  acar-atg-02-vlan77.cac.washington.edu (128.208.4.102)  0.265 ms  0.241 ms  0.221 ms
+ 2  lo0--1.uwcr-ads-1.infra.washington.edu (198.48.65.1)  0.548 ms  0.542 ms  0.611 ms
+ 3  10.132.1.66 (10.132.1.66)  0.469 ms  0.518 ms  0.522 ms
+ 4  ae0--4001.icar-sttl1-1.infra.pnw-gigapop.net (209.124.190.132)  0.798 ms  0.877 ms  0.853 ms
+ 5  ae0--403.icar-ptld1-1.infra.pnw-gigapop.net (209.124.179.9)  4.715 ms  5.288 ms  5.308 ms
+ 6  nero-pnw.client.pnw-gigapop.net (209.124.179.10)  5.893 ms  5.697 ms  5.616 ms
+ 7  ptck-p2-gw.nero.net (207.98.64.174)  7.308 ms ptck-p1-gw.nero.net (207.98.64.172)  6.911 ms  6.928 ms
+ 8  eugn-p2-gw.nero.net (207.98.64.20)  9.856 ms eugn-p1-gw.nero.net (207.98.64.14)  9.796 ms  9.824 ms
+ 9  eugn-car1-gw.nero.net (207.98.64.201)  7.716 ms  7.709 ms  8.250 ms
+10  uonet9-gw.nero.net (207.98.68.182)  10.121 ms  8.903 ms  9.905 ms
+11  vl-2-gw.uoregon.edu (128.223.2.1)  7.502 ms vl-2.uonet2-gw.uoregon.edu (128.223.2.2)  9.399 ms vl-2-gw.uoregon.edu (128.223.2.1)  8.169 ms
+12  planetlab3.cs.uoregon.edu (128.223.8.113)  7.859 ms  7.736 ms  7.721 ms
+========================================================================================
+========================================================================================
+*****************   TraceRoute   Command     Output ************************************
+----------------------------------------------------------------------------------------
+Sun Apr 16 16:41:16 UTC 2017
+----------------------------------------------------------------------------------------
+traceroute to planetlab3.cs.uoregon.edu (128.223.8.113), 30 hops max, 60 byte packets
+ 1  acar-atg-02-vlan77.cac.washington.edu (128.208.4.102)  0.260 ms  0.259 ms  0.241 ms
+ 2  lo0--1.uwcr-ads-1.infra.washington.edu (198.48.65.1)  0.897 ms  0.895 ms  0.938 ms
+ 3  10.132.1.66 (10.132.1.66)  0.470 ms  0.473 ms  0.478 ms
+ 4  ae0--4001.icar-sttl1-1.infra.pnw-gigapop.net (209.124.190.132)  0.878 ms  0.897 ms  0.879 ms
+ 5  ae0--403.icar-ptld1-1.infra.pnw-gigapop.net (209.124.179.9)  4.724 ms  5.251 ms  5.316 ms
+ 6  nero-pnw.client.pnw-gigapop.net (209.124.179.10)  5.472 ms  5.594 ms  5.170 ms
+ 7  ptck-p1-gw.nero.net (207.98.64.172)  7.323 ms  7.344 ms ptck-p2-gw.nero.net (207.98.64.174)  7.582 ms
+ 8  eugn-p2-gw.nero.net (207.98.64.20)  10.269 ms  10.287 ms eugn-p1-gw.nero.net (207.98.64.14)  10.270 ms
+ 9  eugn-car1-gw.nero.net (207.98.64.201)  7.682 ms  7.689 ms  8.213 ms
+10  uonet9-gw.nero.net (207.98.68.182)  8.268 ms  9.008 ms  9.405 ms
+11  vl-2-gw.uoregon.edu (128.223.2.1)  8.070 ms vl-2.uonet2-gw.uoregon.edu (128.223.2.2)  18.667 ms vl-2-gw.uoregon.edu (128.223.2.1)  7.571 ms
+12  planetlab3.cs.uoregon.edu (128.223.8.113)  7.821 ms  7.722 ms  7.642 ms
+========================================================================================
+========================================================================================
+*****************   TraceRoute   Command     Output ************************************
+----------------------------------------------------------------------------------------
+Sun Apr 16 17:41:35 UTC 2017
+----------------------------------------------------------------------------------------
+traceroute to planetlab3.cs.uoregon.edu (128.223.8.113), 30 hops max, 60 byte packets
+ 1  acar-atg-02-vlan77.cac.washington.edu (128.208.4.102)  0.298 ms  0.271 ms  0.251 ms
+ 2  lo0--1.uwcr-ads-1.infra.washington.edu (198.48.65.1)  0.662 ms  0.658 ms  0.699 ms
+ 3  10.132.1.66 (10.132.1.66)  0.512 ms  0.507 ms  0.537 ms
+ 4  ae0--4001.icar-sttl1-1.infra.pnw-gigapop.net (209.124.190.132)  0.743 ms  0.805 ms  0.808 ms
+ 5  ae0--403.icar-ptld1-1.infra.pnw-gigapop.net (209.124.179.9)  4.759 ms  4.801 ms  4.741 ms
+ 6  nero-pnw.client.pnw-gigapop.net (209.124.179.10)  6.062 ms  5.333 ms  5.367 ms
+ 7  ptck-p1-gw.nero.net (207.98.64.172)  13.704 ms ptck-p2-gw.nero.net (207.98.64.174)  6.460 ms  7.458 ms
+ 8  eugn-p1-gw.nero.net (207.98.64.14)  10.045 ms  10.044 ms eugn-p2-gw.nero.net (207.98.64.20)  9.938 ms
+ 9  eugn-car1-gw.nero.net (207.98.64.201)  7.711 ms eugn-car1-gw.nero.net (207.98.64.203)  7.626 ms eugn-car1-gw.nero.net (207.98.64.201)  8.246 ms
+10  uonet9-gw.nero.net (207.98.68.182)  8.209 ms  9.284 ms  9.249 ms
+11  vl-2-gw.uoregon.edu (128.223.2.1)  7.364 ms vl-2.uonet2-gw.uoregon.edu (128.223.2.2)  8.113 ms vl-2-gw.uoregon.edu (128.223.2.1)  8.623 ms
+12  planetlab3.cs.uoregon.edu (128.223.8.113)  7.239 ms  7.205 ms  7.247 ms
+========================================================================================
+========================================================================================
+*****************   TraceRoute   Command     Output ************************************
+----------------------------------------------------------------------------------------
+Sun Apr 16 18:41:55 UTC 2017
+----------------------------------------------------------------------------------------
+traceroute to planetlab3.cs.uoregon.edu (128.223.8.113), 30 hops max, 60 byte packets
+ 1  acar-atg-02-vlan77.cac.washington.edu (128.208.4.102)  0.274 ms  0.251 ms  0.232 ms
+ 2  lo0--1.uwcr-ads-1.infra.washington.edu (198.48.65.1)  0.863 ms  0.932 ms  0.919 ms
+ 3  10.132.1.66 (10.132.1.66)  0.593 ms  0.577 ms  0.570 ms
+ 4  ae0--4001.icar-sttl1-1.infra.pnw-gigapop.net (209.124.190.132)  12.798 ms  12.785 ms  12.739 ms
+ 5  ae0--403.icar-ptld1-1.infra.pnw-gigapop.net (209.124.179.9)  4.824 ms  4.846 ms  5.251 ms
+ 6  nero-pnw.client.pnw-gigapop.net (209.124.179.10)  5.567 ms  5.114 ms  5.586 ms
+ 7  ptck-p2-gw.nero.net (207.98.64.174)  7.267 ms  7.349 ms ptck-p1-gw.nero.net (207.98.64.172)  7.057 ms
+ 8  eugn-p1-gw.nero.net (207.98.64.14)  9.990 ms  10.006 ms eugn-p2-gw.nero.net (207.98.64.20)  10.144 ms
+ 9  eugn-car1-gw.nero.net (207.98.64.201)  7.693 ms eugn-car1-gw.nero.net (207.98.64.203)  7.584 ms  7.592 ms
+10  uonet9-gw.nero.net (207.98.68.182)  10.119 ms  9.698 ms  9.525 ms
+11  vl-2.uonet2-gw.uoregon.edu (128.223.2.2)  7.141 ms vl-2-gw.uoregon.edu (128.223.2.1)  7.433 ms vl-2.uonet2-gw.uoregon.edu (128.223.2.2)  8.766 ms
+12  planetlab3.cs.uoregon.edu (128.223.8.113)  7.673 ms  7.760 ms  7.203 ms
+========================================================================================
+========================================================================================
+*****************   TraceRoute   Command     Output ************************************
+----------------------------------------------------------------------------------------
+Sun Apr 16 19:42:14 UTC 2017
+----------------------------------------------------------------------------------------
+traceroute to planetlab3.cs.uoregon.edu (128.223.8.113), 30 hops max, 60 byte packets
+ 1  acar-atg-02-vlan77.cac.washington.edu (128.208.4.102)  3.808 ms  3.812 ms  3.801 ms
+ 2  lo0--1.uwcr-ads-1.infra.washington.edu (198.48.65.1)  0.527 ms  0.549 ms  0.606 ms
+ 3  10.132.1.66 (10.132.1.66)  0.603 ms  0.567 ms  0.561 ms
+ 4  ae0--4001.icar-sttl1-1.infra.pnw-gigapop.net (209.124.190.132)  0.812 ms  0.859 ms  0.894 ms
+ 5  ae0--403.icar-ptld1-1.infra.pnw-gigapop.net (209.124.179.9)  4.867 ms  4.877 ms  5.245 ms
+ 6  nero-pnw.client.pnw-gigapop.net (209.124.179.10)  5.480 ms  5.722 ms  5.151 ms
+ 7  ptck-p2-gw.nero.net (207.98.64.174)  7.305 ms  7.329 ms ptck-p1-gw.nero.net (207.98.64.172)  7.445 ms
+ 8  eugn-p1-gw.nero.net (207.98.64.14)  9.441 ms eugn-p2-gw.nero.net (207.98.64.20)  9.805 ms eugn-p1-gw.nero.net (207.98.64.14)  9.195 ms
+ 9  eugn-car1-gw.nero.net (207.98.64.201)  7.794 ms  8.226 ms eugn-car1-gw.nero.net (207.98.64.203)  7.600 ms
+10  uonet9-gw.nero.net (207.98.68.182)  8.976 ms  8.401 ms  8.378 ms
+11  vl-2-gw.uoregon.edu (128.223.2.1)  25.401 ms vl-2.uonet2-gw.uoregon.edu (128.223.2.2)  7.296 ms  7.735 ms
+12  planetlab3.cs.uoregon.edu (128.223.8.113)  7.274 ms  7.140 ms  7.147 ms
+========================================================================================
+========================================================================================
+*****************   TraceRoute   Command     Output ************************************
+----------------------------------------------------------------------------------------
+Sun Apr 16 20:42:33 UTC 2017
+----------------------------------------------------------------------------------------
+traceroute to planetlab3.cs.uoregon.edu (128.223.8.113), 30 hops max, 60 byte packets
+ 1  acar-atg-02-vlan77.cac.washington.edu (128.208.4.102)  0.293 ms  0.270 ms  0.250 ms
+ 2  lo0--1.uwcr-ads-1.infra.washington.edu (198.48.65.1)  0.439 ms  0.459 ms  0.483 ms
+ 3  10.132.1.66 (10.132.1.66)  0.603 ms  0.692 ms  0.675 ms
+ 4  ae0--4001.icar-sttl1-1.infra.pnw-gigapop.net (209.124.190.132)  0.806 ms  0.862 ms  0.769 ms
+ 5  ae0--403.icar-ptld1-1.infra.pnw-gigapop.net (209.124.179.9)  5.351 ms  5.371 ms  5.358 ms
+ 6  nero-pnw.client.pnw-gigapop.net (209.124.179.10)  6.241 ms  5.784 ms  5.507 ms
+ 7  ptck-p2-gw.nero.net (207.98.64.174)  7.173 ms ptck-p1-gw.nero.net (207.98.64.172)  7.420 ms  7.361 ms
+ 8  eugn-p1-gw.nero.net (207.98.64.14)  9.169 ms eugn-p2-gw.nero.net (207.98.64.20)  9.587 ms eugn-p1-gw.nero.net (207.98.64.14)  10.132 ms
+ 9  eugn-car1-gw.nero.net (207.98.64.203)  8.108 ms  8.159 ms eugn-car1-gw.nero.net (207.98.64.201)  7.782 ms
+10  uonet9-gw.nero.net (207.98.68.182)  9.479 ms  8.826 ms  10.464 ms
+11  vl-2-gw.uoregon.edu (128.223.2.1)  7.879 ms vl-2.uonet2-gw.uoregon.edu (128.223.2.2)  8.918 ms vl-2-gw.uoregon.edu (128.223.2.1)  7.968 ms
+12  planetlab3.cs.uoregon.edu (128.223.8.113)  7.627 ms  7.628 ms  7.419 ms
+========================================================================================
+========================================================================================
+*****************   TraceRoute   Command     Output ************************************
+----------------------------------------------------------------------------------------
+Sun Apr 16 21:42:52 UTC 2017
+----------------------------------------------------------------------------------------
+traceroute to planetlab3.cs.uoregon.edu (128.223.8.113), 30 hops max, 60 byte packets
+ 1  acar-atg-02-vlan77.cac.washington.edu (128.208.4.102)  0.273 ms  0.251 ms  0.230 ms
+ 2  lo0--1.uwcr-ads-1.infra.washington.edu (198.48.65.1)  0.535 ms  0.533 ms  0.584 ms
+ 3  10.132.1.66 (10.132.1.66)  0.509 ms  0.527 ms  0.508 ms
+ 4  ae0--4001.icar-sttl1-1.infra.pnw-gigapop.net (209.124.190.132)  0.975 ms  0.935 ms  0.912 ms
+ 5  ae0--403.icar-ptld1-1.infra.pnw-gigapop.net (209.124.179.9)  5.349 ms  5.373 ms  5.355 ms
+ 6  nero-pnw.client.pnw-gigapop.net (209.124.179.10)  6.114 ms  6.107 ms  6.103 ms
+ 7  ptck-p2-gw.nero.net (207.98.64.174)  7.271 ms  7.197 ms  7.139 ms
+ 8  eugn-p2-gw.nero.net (207.98.64.20)  9.247 ms eugn-p1-gw.nero.net (207.98.64.14)  10.606 ms  10.615 ms
+ 9  eugn-car1-gw.nero.net (207.98.64.201)  7.867 ms eugn-car1-gw.nero.net (207.98.64.203)  8.138 ms  7.685 ms
+10  uonet9-gw.nero.net (207.98.68.182)  9.712 ms  8.118 ms  7.614 ms
+11  vl-2-gw.uoregon.edu (128.223.2.1)  13.039 ms  12.396 ms vl-2.uonet2-gw.uoregon.edu (128.223.2.2)  8.222 ms
+12  planetlab3.cs.uoregon.edu (128.223.8.113)  7.711 ms  7.225 ms  7.213 ms
+========================================================================================
+========================================================================================
+*****************   TraceRoute   Command     Output ************************************
+----------------------------------------------------------------------------------------
+Sun Apr 16 22:43:11 UTC 2017
+----------------------------------------------------------------------------------------
+traceroute to planetlab3.cs.uoregon.edu (128.223.8.113), 30 hops max, 60 byte packets
+ 1  acar-atg-02-vlan77.cac.washington.edu (128.208.4.102)  0.312 ms  0.287 ms  0.267 ms
+ 2  lo0--1.uwcr-ads-1.infra.washington.edu (198.48.65.1)  0.526 ms  0.577 ms  0.567 ms
+ 3  10.132.1.66 (10.132.1.66)  0.520 ms  0.507 ms  0.604 ms
+ 4  ae0--4001.icar-sttl1-1.infra.pnw-gigapop.net (209.124.190.132)  0.811 ms  0.892 ms  0.798 ms
+ 5  ae0--403.icar-ptld1-1.infra.pnw-gigapop.net (209.124.179.9)  6.655 ms  6.604 ms  6.641 ms
+ 6  nero-pnw.client.pnw-gigapop.net (209.124.179.10)  5.453 ms  5.971 ms  5.180 ms
+ 7  ptck-p2-gw.nero.net (207.98.64.174)  7.269 ms  7.121 ms  7.138 ms
+ 8  eugn-p1-gw.nero.net (207.98.64.14)  10.683 ms  10.625 ms  10.652 ms
+ 9  eugn-car1-gw.nero.net (207.98.64.203)  8.103 ms eugn-car1-gw.nero.net (207.98.64.201)  8.216 ms  7.711 ms
+10  uonet9-gw.nero.net (207.98.68.182)  8.890 ms  8.593 ms  7.846 ms
+11  vl-2-gw.uoregon.edu (128.223.2.1)  7.385 ms  8.028 ms  7.326 ms
+12  planetlab3.cs.uoregon.edu (128.223.8.113)  7.256 ms  7.701 ms  7.225 ms
+========================================================================================
+========================================================================================
+*****************   TraceRoute   Command     Output ************************************
+----------------------------------------------------------------------------------------
+Sun Apr 16 23:43:31 UTC 2017
+----------------------------------------------------------------------------------------
+traceroute to planetlab3.cs.uoregon.edu (128.223.8.113), 30 hops max, 60 byte packets
+ 1  acar-atg-02-vlan77.cac.washington.edu (128.208.4.102)  3.980 ms  3.980 ms  3.961 ms
+ 2  lo0--1.uwcr-ads-1.infra.washington.edu (198.48.65.1)  0.522 ms  0.544 ms  0.602 ms
+ 3  10.132.1.66 (10.132.1.66)  0.564 ms  0.549 ms  0.529 ms
+ 4  ae0--4001.icar-sttl1-1.infra.pnw-gigapop.net (209.124.190.132)  0.752 ms  0.841 ms  0.923 ms
+ 5  ae0--403.icar-ptld1-1.infra.pnw-gigapop.net (209.124.179.9)  5.322 ms  5.339 ms  5.321 ms
+ 6  nero-pnw.client.pnw-gigapop.net (209.124.179.10)  5.661 ms  5.363 ms  6.084 ms
+ 7  ptck-p2-gw.nero.net (207.98.64.174)  7.103 ms  7.052 ms  7.085 ms
+ 8  eugn-p1-gw.nero.net (207.98.64.14)  9.707 ms eugn-p2-gw.nero.net (207.98.64.20)  10.286 ms eugn-p1-gw.nero.net (207.98.64.14)  10.439 ms
+ 9  eugn-car1-gw.nero.net (207.98.64.201)  7.728 ms eugn-car1-gw.nero.net (207.98.64.203)  8.110 ms  7.576 ms
+10  uonet9-gw.nero.net (207.98.68.182)  8.992 ms  9.277 ms  9.217 ms
+11  vl-2-gw.uoregon.edu (128.223.2.1)  7.820 ms  7.749 ms  7.830 ms
+12  planetlab3.cs.uoregon.edu (128.223.8.113)  7.731 ms  7.920 ms  7.639 ms
+========================================================================================
+========================================================================================

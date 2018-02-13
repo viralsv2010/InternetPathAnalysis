@@ -1,0 +1,465 @@
+*****************   TraceRoute   Command     Output ************************************
+----------------------------------------------------------------------------------------
+Mon Apr 10 00:22:42 UTC 2017
+----------------------------------------------------------------------------------------
+traceroute to planetlab-3.cmcl.cs.cmu.edu (128.2.211.115), 30 hops max, 60 byte packets
+ 1  utd8-gi0-0-5.utdallas.edu (129.110.125.1)  0.156 ms  0.399 ms  0.388 ms
+ 2  dlls-lvl3-isp-ae1-251.tx-bb.net (192.124.227.1)  1.065 ms  1.056 ms  1.043 ms
+ 3  * * *
+ 4  XO-Level3.edge2.Dallas3.Level3.net (4.68.127.150)  1.378 ms Cogent-level3-200G.Dallas1.Level3.net (4.68.72.34)  1.981 ms  1.970 ms
+ 5  be2764.ccr22.dfw01.atlas.cogentco.com (154.54.47.213)  1.633 ms 207.88.14.188.ptr.us.xo.net (207.88.14.188)  28.322 ms be2763.ccr21.dfw01.atlas.cogentco.com (154.54.28.73)  1.760 ms
+ 6  be2433.ccr22.mci01.atlas.cogentco.com (154.54.3.214)  11.585 ms be2432.ccr21.mci01.atlas.cogentco.com (154.54.3.134)  11.714 ms 207.88.12.209.ptr.us.xo.net (207.88.12.209)  29.253 ms
+ 7  216.156.16.243.ptr.us.xo.net (216.156.16.243)  28.001 ms be2832.ccr42.ord01.atlas.cogentco.com (154.54.44.170)  22.072 ms  22.040 ms
+ 8  be2718.ccr22.cle04.atlas.cogentco.com (154.54.7.130)  36.841 ms ip66-3-25-94.z25-3-66.customer.algx.net (66.3.25.94)  49.603 ms  49.580 ms
+ 9  CORE255-POD-I-DCNS.GW.CMU.NET (128.2.255.193)  40.807 ms  40.864 ms  40.774 ms
+10  GATES-CORE-CORE255.GW.CMU.NET (128.2.255.138)  41.551 ms 154.24.42.98 (154.24.42.98)  40.355 ms GATES-CORE-CORE255.GW.CMU.NET (128.2.255.138)  41.448 ms
+11  CORE255-VRF-GATES-CORE.GW.CMU.NET (128.2.255.141)  41.011 ms  40.987 ms  40.303 ms
+12  POD-A-CORE255.GW.CMU.NET (128.2.255.154)  40.117 ms CORE0-POD-I-CYH.GW.CMU.NET (128.2.0.249)  43.391 ms POD-A-CORE255.GW.CMU.NET (128.2.255.154)  40.109 ms
+13  WEAN-CORE-CORE0.GW.CMU.NET (128.2.0.130)  44.815 ms  44.879 ms PLANETLAB-3.CMCL.CS.CMU.EDU (128.2.211.115)  40.681 ms
+========================================================================================
+========================================================================================
+*****************   TraceRoute   Command     Output ************************************
+----------------------------------------------------------------------------------------
+Mon Apr 10 01:25:26 UTC 2017
+----------------------------------------------------------------------------------------
+traceroute to planetlab-3.cmcl.cs.cmu.edu (128.2.211.115), 30 hops max, 60 byte packets
+ 1  utd8-gi0-0-5.utdallas.edu (129.110.125.1)  0.172 ms  0.334 ms  0.322 ms
+ 2  dlls-lvl3-isp-ae1-251.tx-bb.net (192.124.227.1)  1.081 ms  1.070 ms  1.053 ms
+ 3  * * *
+ 4  Cogent-level3-200G.Dallas1.Level3.net (4.68.72.34)  1.939 ms  1.861 ms XO-Level3.edge2.Dallas3.Level3.net (4.68.127.150)  1.532 ms
+ 5  207.88.14.188.ptr.us.xo.net (207.88.14.188)  32.454 ms be2763.ccr21.dfw01.atlas.cogentco.com (154.54.28.73)  1.727 ms be2764.ccr22.dfw01.atlas.cogentco.com (154.54.47.213)  1.945 ms
+ 6  207.88.12.209.ptr.us.xo.net (207.88.12.209)  28.009 ms be2432.ccr21.mci01.atlas.cogentco.com (154.54.3.134)  11.895 ms  11.696 ms
+ 7  be2832.ccr42.ord01.atlas.cogentco.com (154.54.44.170)  22.073 ms  22.508 ms 216.156.16.243.ptr.us.xo.net (216.156.16.243)  28.091 ms
+ 8  be2717.ccr21.cle04.atlas.cogentco.com (154.54.6.222)  36.419 ms be2718.ccr22.cle04.atlas.cogentco.com (154.54.7.130)  37.181 ms *
+ 9  CORE255-POD-I-DCNS.GW.CMU.NET (128.2.255.193)  40.257 ms  39.987 ms  40.135 ms
+10  154.24.50.198 (154.24.50.198)  40.342 ms GATES-CORE-CORE255.GW.CMU.NET (128.2.255.138)  41.497 ms  41.484 ms
+11  CORE255-VRF-GATES-CORE.GW.CMU.NET (128.2.255.141)  40.342 ms  40.262 ms  40.235 ms
+12  POD-A-CORE255.GW.CMU.NET (128.2.255.154)  40.051 ms CORE0-POD-I-CYH.GW.CMU.NET (128.2.0.249)  43.016 ms  42.882 ms
+13  WEAN-CORE-CORE0.GW.CMU.NET (128.2.0.130)  44.393 ms PLANETLAB-3.CMCL.CS.CMU.EDU (128.2.211.115)  40.612 ms WEAN-CORE-CORE0.GW.CMU.NET (128.2.0.130)  44.296 ms
+========================================================================================
+========================================================================================
+*****************   TraceRoute   Command     Output ************************************
+----------------------------------------------------------------------------------------
+Mon Apr 10 02:28:01 UTC 2017
+----------------------------------------------------------------------------------------
+traceroute to planetlab-3.cmcl.cs.cmu.edu (128.2.211.115), 30 hops max, 60 byte packets
+ 1  utd8-gi0-0-5.utdallas.edu (129.110.125.1)  0.169 ms  0.370 ms  0.359 ms
+ 2  dlls-lvl3-isp-ae1-251.tx-bb.net (192.124.227.1)  1.304 ms  1.293 ms  1.280 ms
+ 3  * * *
+ 4  XO-Level3.edge2.Dallas3.Level3.net (4.68.127.150)  1.471 ms  1.292 ms  1.422 ms
+ 5  be2764.ccr22.dfw01.atlas.cogentco.com (154.54.47.213)  1.879 ms 207.88.14.188.ptr.us.xo.net (207.88.14.188)  46.657 ms  46.647 ms
+ 6  be2433.ccr22.mci01.atlas.cogentco.com (154.54.3.214)  11.601 ms  11.885 ms be2432.ccr21.mci01.atlas.cogentco.com (154.54.3.134)  11.730 ms
+ 7  be2831.ccr41.ord01.atlas.cogentco.com (154.54.42.166)  22.171 ms 216.156.16.243.ptr.us.xo.net (216.156.16.243)  27.976 ms be2832.ccr42.ord01.atlas.cogentco.com (154.54.44.170)  22.140 ms
+ 8  ip66-3-25-94.z25-3-66.customer.algx.net (66.3.25.94)  39.950 ms  40.084 ms  40.071 ms
+ 9  CORE255-POD-I-DCNS.GW.CMU.NET (128.2.255.193)  40.152 ms be2821.rcr21.pit02.atlas.cogentco.com (154.54.83.118)  40.561 ms be2822.rcr21.pit02.atlas.cogentco.com (154.54.83.158)  40.475 ms
+10  154.24.50.198 (154.24.50.198)  40.614 ms GATES-CORE-CORE255.GW.CMU.NET (128.2.255.138)  45.602 ms 154.24.50.198 (154.24.50.198)  40.204 ms
+11  38.140.44.154 (38.140.44.154)  201.346 ms  201.305 ms  201.277 ms
+12  CORE0-POD-I-CYH.GW.CMU.NET (128.2.0.249)  43.486 ms POD-A-CORE255.GW.CMU.NET (128.2.255.154)  40.035 ms CORE0-POD-I-CYH.GW.CMU.NET (128.2.0.249)  42.902 ms
+13  WEAN-CORE-CORE0.GW.CMU.NET (128.2.0.130)  44.411 ms PLANETLAB-3.CMCL.CS.CMU.EDU (128.2.211.115)  40.523 ms WEAN-CORE-CORE0.GW.CMU.NET (128.2.0.130)  44.368 ms
+========================================================================================
+========================================================================================
+*****************   TraceRoute   Command     Output ************************************
+----------------------------------------------------------------------------------------
+Mon Apr 10 03:30:45 UTC 2017
+----------------------------------------------------------------------------------------
+traceroute to planetlab-3.cmcl.cs.cmu.edu (128.2.211.115), 30 hops max, 60 byte packets
+ 1  utd8-gi0-0-5.utdallas.edu (129.110.125.1)  0.166 ms  0.191 ms  0.382 ms
+ 2  dlls-lvl3-isp-ae1-251.tx-bb.net (192.124.227.1)  1.085 ms  1.067 ms  1.053 ms
+ 3  * * *
+ 4  XO-Level3.edge2.Dallas3.Level3.net (4.68.127.150)  1.400 ms Cogent-level3-200G.Dallas1.Level3.net (4.68.72.34)  2.015 ms XO-Level3.edge2.Dallas3.Level3.net (4.68.127.150)  1.377 ms
+ 5  be2763.ccr21.dfw01.atlas.cogentco.com (154.54.28.73)  2.096 ms 207.88.14.188.ptr.us.xo.net (207.88.14.188)  58.531 ms be2763.ccr21.dfw01.atlas.cogentco.com (154.54.28.73)  1.913 ms
+ 6  be2433.ccr22.mci01.atlas.cogentco.com (154.54.3.214)  11.961 ms 207.88.12.209.ptr.us.xo.net (207.88.12.209)  28.031 ms  41.682 ms
+ 7  216.156.16.243.ptr.us.xo.net (216.156.16.243)  28.048 ms be2831.ccr41.ord01.atlas.cogentco.com (154.54.42.166)  22.416 ms 216.156.16.243.ptr.us.xo.net (216.156.16.243)  28.090 ms
+ 8  ip66-3-25-94.z25-3-66.customer.algx.net (66.3.25.94)  39.896 ms  39.888 ms  40.035 ms
+ 9  CORE255-POD-I-DCNS.GW.CMU.NET (128.2.255.193)  40.075 ms  40.065 ms be2822.rcr21.pit02.atlas.cogentco.com (154.54.83.158)  40.245 ms
+10  154.24.50.198 (154.24.50.198)  40.300 ms GATES-CORE-CORE255.GW.CMU.NET (128.2.255.138)  41.468 ms  41.458 ms
+11  38.140.44.154 (38.140.44.154)  849.428 ms  849.397 ms  49.385 ms
+12  CORE0-POD-I-CYH.GW.CMU.NET (128.2.0.249)  43.553 ms  42.933 ms  42.959 ms
+13  PLANETLAB-3.CMCL.CS.CMU.EDU (128.2.211.115)  40.663 ms WEAN-CORE-CORE0.GW.CMU.NET (128.2.0.130)  44.381 ms PLANETLAB-3.CMCL.CS.CMU.EDU (128.2.211.115)  41.119 ms
+========================================================================================
+========================================================================================
+*****************   TraceRoute   Command     Output ************************************
+----------------------------------------------------------------------------------------
+Mon Apr 10 04:33:25 UTC 2017
+----------------------------------------------------------------------------------------
+traceroute to planetlab-3.cmcl.cs.cmu.edu (128.2.211.115), 30 hops max, 60 byte packets
+ 1  utd8-gi0-0-5.utdallas.edu (129.110.125.1)  0.155 ms  0.371 ms  0.357 ms
+ 2  dlls-lvl3-isp-ae1-251.tx-bb.net (192.124.227.1)  1.081 ms  1.070 ms  1.058 ms
+ 3  * * *
+ 4  XO-Level3.edge2.Dallas3.Level3.net (4.68.127.150)  1.379 ms  1.291 ms Cogent-level3-200G.Dallas1.Level3.net (4.68.72.34)  2.149 ms
+ 5  be2764.ccr22.dfw01.atlas.cogentco.com (154.54.47.213)  1.744 ms 207.88.14.188.ptr.us.xo.net (207.88.14.188)  29.789 ms be2763.ccr21.dfw01.atlas.cogentco.com (154.54.28.73)  1.707 ms
+ 6  207.88.12.209.ptr.us.xo.net (207.88.12.209)  28.011 ms be2432.ccr21.mci01.atlas.cogentco.com (154.54.3.134)  11.881 ms be2433.ccr22.mci01.atlas.cogentco.com (154.54.3.214)  11.459 ms
+ 7  216.156.16.243.ptr.us.xo.net (216.156.16.243)  28.158 ms  27.916 ms be2832.ccr42.ord01.atlas.cogentco.com (154.54.44.170)  22.277 ms
+ 8  be2717.ccr21.cle04.atlas.cogentco.com (154.54.6.222)  36.631 ms  36.623 ms ip66-3-25-94.z25-3-66.customer.algx.net (66.3.25.94)  53.623 ms
+ 9  be2821.rcr21.pit02.atlas.cogentco.com (154.54.83.118)  39.970 ms  40.411 ms  40.236 ms
+10  GATES-CORE-CORE255.GW.CMU.NET (128.2.255.138)  41.563 ms  41.476 ms 154.24.42.98 (154.24.42.98)  40.280 ms
+11  CORE255-VRF-GATES-CORE.GW.CMU.NET (128.2.255.141)  40.252 ms 38.140.44.154 (38.140.44.154)  65.472 ms CORE255-VRF-GATES-CORE.GW.CMU.NET (128.2.255.141)  72.874 ms
+12  CORE0-POD-I-CYH.GW.CMU.NET (128.2.0.249)  43.439 ms  43.031 ms  42.851 ms
+13  PLANETLAB-3.CMCL.CS.CMU.EDU (128.2.211.115)  45.688 ms WEAN-CORE-CORE0.GW.CMU.NET (128.2.0.130)  44.729 ms  44.798 ms
+========================================================================================
+========================================================================================
+*****************   TraceRoute   Command     Output ************************************
+----------------------------------------------------------------------------------------
+Mon Apr 10 05:36:03 UTC 2017
+----------------------------------------------------------------------------------------
+traceroute to planetlab-3.cmcl.cs.cmu.edu (128.2.211.115), 30 hops max, 60 byte packets
+ 1  utd8-gi0-0-5.utdallas.edu (129.110.125.1)  5.918 ms  5.917 ms  5.904 ms
+ 2  dlls-lvl3-isp-ae1-251.tx-bb.net (192.124.227.1)  1.072 ms  1.066 ms  1.049 ms
+ 3  * * *
+ 4  Cogent-level3-200G.Dallas1.Level3.net (4.68.72.34)  1.614 ms XO-Level3.edge2.Dallas3.Level3.net (4.68.127.150)  1.294 ms  1.346 ms
+ 5  207.88.14.188.ptr.us.xo.net (207.88.14.188)  28.144 ms be2763.ccr21.dfw01.atlas.cogentco.com (154.54.28.73)  1.697 ms  1.759 ms
+ 6  207.88.12.209.ptr.us.xo.net (207.88.12.209)  50.772 ms  48.012 ms be2433.ccr22.mci01.atlas.cogentco.com (154.54.3.214)  11.625 ms
+ 7  be2832.ccr42.ord01.atlas.cogentco.com (154.54.44.170)  22.153 ms 216.156.16.243.ptr.us.xo.net (216.156.16.243)  27.934 ms  28.082 ms
+ 8  ip66-3-25-94.z25-3-66.customer.algx.net (66.3.25.94)  456.853 ms  456.717 ms  456.642 ms
+ 9  be2821.rcr21.pit02.atlas.cogentco.com (154.54.83.118)  40.539 ms CORE255-POD-I-DCNS.GW.CMU.NET (128.2.255.193)  40.105 ms  40.061 ms
+10  154.24.50.198 (154.24.50.198)  40.732 ms GATES-CORE-CORE255.GW.CMU.NET (128.2.255.138)  41.577 ms  41.478 ms
+11  CORE255-VRF-GATES-CORE.GW.CMU.NET (128.2.255.141)  40.247 ms 38.140.44.154 (38.140.44.154)  44.953 ms CORE255-VRF-GATES-CORE.GW.CMU.NET (128.2.255.141)  40.311 ms
+12  POD-A-CORE255.GW.CMU.NET (128.2.255.154)  41.219 ms  41.198 ms CORE0-POD-I-CYH.GW.CMU.NET (128.2.0.249)  43.090 ms
+13  PLANETLAB-3.CMCL.CS.CMU.EDU (128.2.211.115)  41.078 ms  41.572 ms  40.541 ms
+========================================================================================
+========================================================================================
+*****************   TraceRoute   Command     Output ************************************
+----------------------------------------------------------------------------------------
+Mon Apr 10 06:38:33 UTC 2017
+----------------------------------------------------------------------------------------
+traceroute to planetlab-3.cmcl.cs.cmu.edu (128.2.211.115), 30 hops max, 60 byte packets
+ 1  utd8-gi0-0-5.utdallas.edu (129.110.125.1)  1.753 ms  1.753 ms  1.742 ms
+ 2  dlls-lvl3-isp-ae1-251.tx-bb.net (192.124.227.1)  1.082 ms  1.098 ms  1.087 ms
+ 3  * * *
+ 4  Cogent-level3-200G.Dallas1.Level3.net (4.68.72.34)  1.611 ms XO-Level3.edge2.Dallas3.Level3.net (4.68.127.150)  1.487 ms  1.405 ms
+ 5  207.88.14.188.ptr.us.xo.net (207.88.14.188)  28.268 ms be2764.ccr22.dfw01.atlas.cogentco.com (154.54.47.213)  2.010 ms 207.88.14.188.ptr.us.xo.net (207.88.14.188)  28.272 ms
+ 6  be2433.ccr22.mci01.atlas.cogentco.com (154.54.3.214)  11.555 ms  11.555 ms 207.88.12.209.ptr.us.xo.net (207.88.12.209)  44.994 ms
+ 7  be2832.ccr42.ord01.atlas.cogentco.com (154.54.44.170)  22.045 ms  22.283 ms 216.156.16.243.ptr.us.xo.net (216.156.16.243)  27.985 ms
+ 8  ip66-3-25-94.z25-3-66.customer.algx.net (66.3.25.94)  40.001 ms be2717.ccr21.cle04.atlas.cogentco.com (154.54.6.222)  36.384 ms ip66-3-25-94.z25-3-66.customer.algx.net (66.3.25.94)  39.999 ms
+ 9  be2822.rcr21.pit02.atlas.cogentco.com (154.54.83.158)  40.315 ms be2821.rcr21.pit02.atlas.cogentco.com (154.54.83.118)  40.236 ms CORE255-POD-I-DCNS.GW.CMU.NET (128.2.255.193)  40.026 ms
+10  154.24.42.98 (154.24.42.98)  40.741 ms GATES-CORE-CORE255.GW.CMU.NET (128.2.255.138)  41.518 ms 154.24.42.98 (154.24.42.98)  40.230 ms
+11  CORE255-VRF-GATES-CORE.GW.CMU.NET (128.2.255.141)  40.330 ms 38.140.44.154 (38.140.44.154)  46.794 ms  46.770 ms
+12  POD-A-CORE255.GW.CMU.NET (128.2.255.154)  40.103 ms CORE0-POD-I-CYH.GW.CMU.NET (128.2.0.249)  42.876 ms  43.362 ms
+13  PLANETLAB-3.CMCL.CS.CMU.EDU (128.2.211.115)  41.134 ms  41.061 ms WEAN-CORE-CORE0.GW.CMU.NET (128.2.0.130)  44.455 ms
+========================================================================================
+========================================================================================
+*****************   TraceRoute   Command     Output ************************************
+----------------------------------------------------------------------------------------
+Mon Apr 10 07:41:27 UTC 2017
+----------------------------------------------------------------------------------------
+traceroute to planetlab-3.cmcl.cs.cmu.edu (128.2.211.115), 30 hops max, 60 byte packets
+ 1  utd8-gi0-0-5.utdallas.edu (129.110.125.1)  0.204 ms  0.371 ms  0.359 ms
+ 2  dlls-lvl3-isp-ae1-251.tx-bb.net (192.124.227.1)  1.046 ms  1.035 ms  1.021 ms
+ 3  * lag-101.ear1.Dallas1.Level3.net (4.71.198.53)  92.895 ms *
+ 4  XO-Level3.edge2.Dallas3.Level3.net (4.68.127.150)  1.280 ms Cogent-level3-200G.Dallas1.Level3.net (4.68.72.34)  1.873 ms  1.862 ms
+ 5  be2764.ccr22.dfw01.atlas.cogentco.com (154.54.47.213)  1.836 ms be2763.ccr21.dfw01.atlas.cogentco.com (154.54.28.73)  1.614 ms 207.88.14.188.ptr.us.xo.net (207.88.14.188)  27.994 ms
+ 6  207.88.12.209.ptr.us.xo.net (207.88.12.209)  27.862 ms  28.133 ms  36.749 ms
+ 7  216.156.16.243.ptr.us.xo.net (216.156.16.243)  28.121 ms  27.977 ms  28.145 ms
+ 8  be2718.ccr22.cle04.atlas.cogentco.com (154.54.7.130)  36.591 ms be2717.ccr21.cle04.atlas.cogentco.com (154.54.6.222)  36.543 ms  36.947 ms
+ 9  be2822.rcr21.pit02.atlas.cogentco.com (154.54.83.158)  39.748 ms CORE255-POD-I-DCNS.GW.CMU.NET (128.2.255.193)  40.038 ms be2821.rcr21.pit02.atlas.cogentco.com (154.54.83.118)  39.897 ms
+10  154.24.50.198 (154.24.50.198)  40.162 ms GATES-CORE-CORE255.GW.CMU.NET (128.2.255.138)  41.640 ms 154.24.42.98 (154.24.42.98)  40.290 ms
+11  38.140.44.154 (38.140.44.154)  43.081 ms  42.601 ms  43.388 ms
+12  POD-A-CORE255.GW.CMU.NET (128.2.255.154)  40.206 ms CORE0-POD-I-CYH.GW.CMU.NET (128.2.0.249)  42.889 ms POD-A-CORE255.GW.CMU.NET (128.2.255.154)  40.135 ms
+13  WEAN-CORE-CORE0.GW.CMU.NET (128.2.0.130)  44.189 ms PLANETLAB-3.CMCL.CS.CMU.EDU (128.2.211.115)  40.687 ms  40.532 ms
+========================================================================================
+========================================================================================
+*****************   TraceRoute   Command     Output ************************************
+----------------------------------------------------------------------------------------
+Mon Apr 10 08:44:12 UTC 2017
+----------------------------------------------------------------------------------------
+traceroute to planetlab-3.cmcl.cs.cmu.edu (128.2.211.115), 30 hops max, 60 byte packets
+ 1  utd8-gi0-0-5.utdallas.edu (129.110.125.1)  0.206 ms  0.188 ms  0.344 ms
+ 2  dlls-lvl3-isp-ae1-251.tx-bb.net (192.124.227.1)  1.123 ms  1.113 ms  1.099 ms
+ 3  * lag-101.ear1.Dallas1.Level3.net (4.71.198.53)  109.599 ms *
+ 4  Cogent-level3-200G.Dallas1.Level3.net (4.68.72.34)  2.005 ms  1.995 ms  2.025 ms
+ 5  be2764.ccr22.dfw01.atlas.cogentco.com (154.54.47.213)  1.853 ms 207.88.14.188.ptr.us.xo.net (207.88.14.188)  28.171 ms be2763.ccr21.dfw01.atlas.cogentco.com (154.54.28.73)  1.762 ms
+ 6  207.88.12.209.ptr.us.xo.net (207.88.12.209)  46.511 ms be2433.ccr22.mci01.atlas.cogentco.com (154.54.3.214)  12.013 ms be2432.ccr21.mci01.atlas.cogentco.com (154.54.3.134)  11.696 ms
+ 7  216.156.16.243.ptr.us.xo.net (216.156.16.243)  28.025 ms be2832.ccr42.ord01.atlas.cogentco.com (154.54.44.170)  22.472 ms be2831.ccr41.ord01.atlas.cogentco.com (154.54.42.166)  22.559 ms
+ 8  be2717.ccr21.cle04.atlas.cogentco.com (154.54.6.222)  36.665 ms be2718.ccr22.cle04.atlas.cogentco.com (154.54.7.130)  36.557 ms ip66-3-25-94.z25-3-66.customer.algx.net (66.3.25.94)  39.842 ms
+ 9  be2821.rcr21.pit02.atlas.cogentco.com (154.54.83.118)  40.357 ms be2822.rcr21.pit02.atlas.cogentco.com (154.54.83.158)  40.347 ms CORE255-POD-I-DCNS.GW.CMU.NET (128.2.255.193)  40.107 ms
+10  154.24.42.98 (154.24.42.98)  40.413 ms GATES-CORE-CORE255.GW.CMU.NET (128.2.255.138)  41.480 ms  41.457 ms
+11  CORE255-VRF-GATES-CORE.GW.CMU.NET (128.2.255.141)  40.262 ms  40.227 ms  40.182 ms
+12  CORE0-POD-I-CYH.GW.CMU.NET (128.2.0.249)  43.401 ms POD-A-CORE255.GW.CMU.NET (128.2.255.154)  40.212 ms  40.180 ms
+13  WEAN-CORE-CORE0.GW.CMU.NET (128.2.0.130)  44.387 ms  44.380 ms  44.360 ms
+14  PLANETLAB-3.CMCL.CS.CMU.EDU (128.2.211.115)  40.551 ms CORE0-VRF-WEAN-CORE.GW.CMU.NET (128.2.0.133)  42.812 ms PLANETLAB-3.CMCL.CS.CMU.EDU (128.2.211.115)  41.047 ms
+========================================================================================
+========================================================================================
+*****************   TraceRoute   Command     Output ************************************
+----------------------------------------------------------------------------------------
+Mon Apr 10 09:47:16 UTC 2017
+----------------------------------------------------------------------------------------
+traceroute to planetlab-3.cmcl.cs.cmu.edu (128.2.211.115), 30 hops max, 60 byte packets
+ 1  utd8-gi0-0-5.utdallas.edu (129.110.125.1)  0.167 ms  0.332 ms  0.319 ms
+ 2  dlls-lvl3-isp-ae1-251.tx-bb.net (192.124.227.1)  1.060 ms  1.048 ms  1.035 ms
+ 3  * * *
+ 4  Cogent-level3-200G.Dallas1.Level3.net (4.68.72.34)  2.358 ms XO-Level3.edge2.Dallas3.Level3.net (4.68.127.150)  14.099 ms Cogent-level3-200G.Dallas1.Level3.net (4.68.72.34)  2.277 ms
+ 5  207.88.14.188.ptr.us.xo.net (207.88.14.188)  28.005 ms be2764.ccr22.dfw01.atlas.cogentco.com (154.54.47.213)  1.890 ms 207.88.14.188.ptr.us.xo.net (207.88.14.188)  28.094 ms
+ 6  be2432.ccr21.mci01.atlas.cogentco.com (154.54.3.134)  11.904 ms 207.88.12.209.ptr.us.xo.net (207.88.12.209)  29.772 ms  28.181 ms
+ 7  be2831.ccr41.ord01.atlas.cogentco.com (154.54.42.166)  22.285 ms 216.156.16.243.ptr.us.xo.net (216.156.16.243)  29.299 ms  29.275 ms
+ 8  ip66-3-25-94.z25-3-66.customer.algx.net (66.3.25.94)  40.995 ms  40.974 ms be2718.ccr22.cle04.atlas.cogentco.com (154.54.7.130)  37.274 ms
+ 9  CORE255-POD-I-DCNS.GW.CMU.NET (128.2.255.193)  40.340 ms  40.240 ms be2821.rcr21.pit02.atlas.cogentco.com (154.54.83.118)  39.807 ms
+10  GATES-CORE-CORE255.GW.CMU.NET (128.2.255.138)  41.536 ms  41.509 ms  41.499 ms
+11  CORE255-VRF-GATES-CORE.GW.CMU.NET (128.2.255.141)  40.409 ms  40.397 ms  40.282 ms
+12  CORE0-POD-I-CYH.GW.CMU.NET (128.2.0.249)  43.041 ms  42.972 ms  43.639 ms
+13  PLANETLAB-3.CMCL.CS.CMU.EDU (128.2.211.115)  41.237 ms  43.437 ms  40.666 ms
+========================================================================================
+========================================================================================
+*****************   TraceRoute   Command     Output ************************************
+----------------------------------------------------------------------------------------
+Mon Apr 10 10:49:40 UTC 2017
+----------------------------------------------------------------------------------------
+traceroute to planetlab-3.cmcl.cs.cmu.edu (128.2.211.115), 30 hops max, 60 byte packets
+ 1  utd8-gi0-0-5.utdallas.edu (129.110.125.1)  0.155 ms  0.370 ms  0.358 ms
+ 2  dlls-lvl3-isp-ae1-251.tx-bb.net (192.124.227.1)  1.115 ms  1.104 ms  1.091 ms
+ 3  * lag-101.ear1.Dallas1.Level3.net (4.71.198.53)  11.055 ms  11.434 ms
+ 4  XO-Level3.edge2.Dallas3.Level3.net (4.68.127.150)  1.479 ms  1.385 ms Cogent-level3-200G.Dallas1.Level3.net (4.68.72.34)  1.960 ms
+ 5  be2763.ccr21.dfw01.atlas.cogentco.com (154.54.28.73)  1.655 ms  2.145 ms 207.88.14.188.ptr.us.xo.net (207.88.14.188)  28.038 ms
+ 6  207.88.12.209.ptr.us.xo.net (207.88.12.209)  27.970 ms  27.974 ms  32.175 ms
+ 7  216.156.16.243.ptr.us.xo.net (216.156.16.243)  27.979 ms be2832.ccr42.ord01.atlas.cogentco.com (154.54.44.170)  22.548 ms  22.445 ms
+ 8  be2718.ccr22.cle04.atlas.cogentco.com (154.54.7.130)  36.524 ms be2717.ccr21.cle04.atlas.cogentco.com (154.54.6.222)  37.438 ms ip66-3-25-94.z25-3-66.customer.algx.net (66.3.25.94)  39.920 ms
+ 9  be2821.rcr21.pit02.atlas.cogentco.com (154.54.83.118)  40.366 ms CORE255-POD-I-DCNS.GW.CMU.NET (128.2.255.193)  40.173 ms be2821.rcr21.pit02.atlas.cogentco.com (154.54.83.118)  39.878 ms
+10  154.24.42.98 (154.24.42.98)  40.504 ms GATES-CORE-CORE255.GW.CMU.NET (128.2.255.138)  41.431 ms 154.24.50.198 (154.24.50.198)  40.714 ms
+11  CORE255-VRF-GATES-CORE.GW.CMU.NET (128.2.255.141)  40.365 ms  40.224 ms  40.302 ms
+12  POD-A-CORE255.GW.CMU.NET (128.2.255.154)  40.169 ms CORE0-POD-I-CYH.GW.CMU.NET (128.2.0.249)  43.033 ms POD-A-CORE255.GW.CMU.NET (128.2.255.154)  40.055 ms
+13  WEAN-CORE-CORE0.GW.CMU.NET (128.2.0.130)  44.874 ms PLANETLAB-3.CMCL.CS.CMU.EDU (128.2.211.115)  41.824 ms WEAN-CORE-CORE0.GW.CMU.NET (128.2.0.130)  44.822 ms
+========================================================================================
+========================================================================================
+*****************   TraceRoute   Command     Output ************************************
+----------------------------------------------------------------------------------------
+Mon Apr 10 11:52:34 UTC 2017
+----------------------------------------------------------------------------------------
+traceroute to planetlab-3.cmcl.cs.cmu.edu (128.2.211.115), 30 hops max, 60 byte packets
+ 1  utd8-gi0-0-5.utdallas.edu (129.110.125.1)  0.421 ms  0.182 ms  0.408 ms
+ 2  dlls-lvl3-isp-ae1-251.tx-bb.net (192.124.227.1)  1.064 ms  1.117 ms  1.105 ms
+ 3  * lag-101.ear1.Dallas1.Level3.net (4.71.198.53)  1.758 ms *
+ 4  Cogent-level3-200G.Dallas1.Level3.net (4.68.72.34)  1.878 ms XO-Level3.edge2.Dallas3.Level3.net (4.68.127.150)  1.551 ms Cogent-level3-200G.Dallas1.Level3.net (4.68.72.34)  1.927 ms
+ 5  be2764.ccr22.dfw01.atlas.cogentco.com (154.54.47.213)  1.581 ms be2763.ccr21.dfw01.atlas.cogentco.com (154.54.28.73)  1.990 ms be2764.ccr22.dfw01.atlas.cogentco.com (154.54.47.213)  2.061 ms
+ 6  be2432.ccr21.mci01.atlas.cogentco.com (154.54.3.134)  12.125 ms 207.88.12.209.ptr.us.xo.net (207.88.12.209)  27.909 ms be2433.ccr22.mci01.atlas.cogentco.com (154.54.3.214)  11.964 ms
+ 7  216.156.16.243.ptr.us.xo.net (216.156.16.243)  28.064 ms be2832.ccr42.ord01.atlas.cogentco.com (154.54.44.170)  22.099 ms 216.156.16.243.ptr.us.xo.net (216.156.16.243)  28.151 ms
+ 8  ip66-3-25-94.z25-3-66.customer.algx.net (66.3.25.94)  43.077 ms be2718.ccr22.cle04.atlas.cogentco.com (154.54.7.130)  36.472 ms  37.767 ms
+ 9  be2822.rcr21.pit02.atlas.cogentco.com (154.54.83.158)  40.223 ms CORE255-POD-I-DCNS.GW.CMU.NET (128.2.255.193)  40.805 ms  40.725 ms
+10  GATES-CORE-CORE255.GW.CMU.NET (128.2.255.138)  41.394 ms 154.24.42.98 (154.24.42.98)  40.687 ms  40.339 ms
+11  CORE255-VRF-GATES-CORE.GW.CMU.NET (128.2.255.141)  40.424 ms 38.140.44.154 (38.140.44.154)  110.970 ms  110.959 ms
+12  CORE0-POD-I-CYH.GW.CMU.NET (128.2.0.249)  43.426 ms * POD-A-CORE255.GW.CMU.NET (128.2.255.154)  40.112 ms
+13  WEAN-CORE-CORE0.GW.CMU.NET (128.2.0.130)  44.826 ms  44.893 ms  44.881 ms
+14  CORE0-VRF-WEAN-CORE.GW.CMU.NET (128.2.0.133)  42.908 ms PLANETLAB-3.CMCL.CS.CMU.EDU (128.2.211.115)  40.644 ms CORE0-VRF-WEAN-CORE.GW.CMU.NET (128.2.0.133)  43.428 ms
+========================================================================================
+========================================================================================
+*****************   TraceRoute   Command     Output ************************************
+----------------------------------------------------------------------------------------
+Mon Apr 10 12:55:44 UTC 2017
+----------------------------------------------------------------------------------------
+traceroute to planetlab-3.cmcl.cs.cmu.edu (128.2.211.115), 30 hops max, 60 byte packets
+ 1  utd8-gi0-0-5.utdallas.edu (129.110.125.1)  3.358 ms  3.362 ms  3.350 ms
+ 2  dlls-lvl3-isp-ae1-251.tx-bb.net (192.124.227.1)  1.060 ms  1.076 ms  1.064 ms
+ 3  * lag-101.ear1.Dallas1.Level3.net (4.71.198.53)  1.682 ms *
+ 4  XO-Level3.edge2.Dallas3.Level3.net (4.68.127.150)  1.415 ms  2.021 ms  1.286 ms
+ 5  be2764.ccr22.dfw01.atlas.cogentco.com (154.54.47.213)  1.601 ms  1.549 ms  1.610 ms
+ 6  207.88.12.209.ptr.us.xo.net (207.88.12.209)  41.244 ms be2433.ccr22.mci01.atlas.cogentco.com (154.54.3.214)  12.147 ms 207.88.12.209.ptr.us.xo.net (207.88.12.209)  70.717 ms
+ 7  be2832.ccr42.ord01.atlas.cogentco.com (154.54.44.170)  22.080 ms  22.465 ms  22.375 ms
+ 8  be2717.ccr21.cle04.atlas.cogentco.com (154.54.6.222)  36.634 ms ip66-3-25-94.z25-3-66.customer.algx.net (66.3.25.94)  40.022 ms be2717.ccr21.cle04.atlas.cogentco.com (154.54.6.222)  36.796 ms
+ 9  be2822.rcr21.pit02.atlas.cogentco.com (154.54.83.158)  40.291 ms CORE255-POD-I-DCNS.GW.CMU.NET (128.2.255.193)  39.982 ms be2821.rcr21.pit02.atlas.cogentco.com (154.54.83.118)  40.377 ms
+10  GATES-CORE-CORE255.GW.CMU.NET (128.2.255.138)  41.448 ms  41.570 ms 154.24.50.198 (154.24.50.198)  40.631 ms
+11  38.140.44.154 (38.140.44.154)  591.834 ms  591.804 ms CORE255-VRF-GATES-CORE.GW.CMU.NET (128.2.255.141)  40.242 ms
+12  CORE0-POD-I-CYH.GW.CMU.NET (128.2.0.249)  43.055 ms  43.523 ms POD-A-CORE255.GW.CMU.NET (128.2.255.154)  40.127 ms
+13  WEAN-CORE-CORE0.GW.CMU.NET (128.2.0.130)  44.355 ms  44.412 ms  44.388 ms
+14  PLANETLAB-3.CMCL.CS.CMU.EDU (128.2.211.115)  46.176 ms CORE0-VRF-WEAN-CORE.GW.CMU.NET (128.2.0.133)  43.427 ms PLANETLAB-3.CMCL.CS.CMU.EDU (128.2.211.115)  43.953 ms
+========================================================================================
+========================================================================================
+*****************   TraceRoute   Command     Output ************************************
+----------------------------------------------------------------------------------------
+Mon Apr 10 13:58:34 UTC 2017
+----------------------------------------------------------------------------------------
+traceroute to planetlab-3.cmcl.cs.cmu.edu (128.2.211.115), 30 hops max, 60 byte packets
+ 1  utd8-gi0-0-5.utdallas.edu (129.110.125.1)  0.222 ms  0.190 ms  0.309 ms
+ 2  dlls-lvl3-isp-ae1-251.tx-bb.net (192.124.227.1)  1.092 ms  1.083 ms  1.070 ms
+ 3  * * *
+ 4  Cogent-level3-200G.Dallas1.Level3.net (4.68.72.34)  2.037 ms *  2.284 ms
+ 5  be2763.ccr21.dfw01.atlas.cogentco.com (154.54.28.73)  1.734 ms 207.88.14.188.ptr.us.xo.net (207.88.14.188)  27.951 ms  28.069 ms
+ 6  207.88.12.209.ptr.us.xo.net (207.88.12.209)  27.890 ms be2432.ccr21.mci01.atlas.cogentco.com (154.54.3.134)  11.961 ms  11.947 ms
+ 7  be2832.ccr42.ord01.atlas.cogentco.com (154.54.44.170)  22.099 ms 216.156.16.243.ptr.us.xo.net (216.156.16.243)  27.977 ms  28.087 ms
+ 8  be2717.ccr21.cle04.atlas.cogentco.com (154.54.6.222)  37.226 ms ip66-3-25-94.z25-3-66.customer.algx.net (66.3.25.94)  40.076 ms be2717.ccr21.cle04.atlas.cogentco.com (154.54.6.222)  36.615 ms
+ 9  be2821.rcr21.pit02.atlas.cogentco.com (154.54.83.118)  39.698 ms CORE255-POD-I-DCNS.GW.CMU.NET (128.2.255.193)  40.040 ms  40.018 ms
+10  154.24.50.198 (154.24.50.198)  40.782 ms GATES-CORE-CORE255.GW.CMU.NET (128.2.255.138)  41.468 ms  41.457 ms
+11  CORE255-VRF-GATES-CORE.GW.CMU.NET (128.2.255.141)  40.239 ms 38.140.44.154 (38.140.44.154)  138.214 ms  64.538 ms
+12  CORE0-POD-I-CYH.GW.CMU.NET (128.2.0.249)  42.937 ms POD-A-CORE255.GW.CMU.NET (128.2.255.154)  40.174 ms  40.165 ms
+13  PLANETLAB-3.CMCL.CS.CMU.EDU (128.2.211.115)  40.923 ms WEAN-CORE-CORE0.GW.CMU.NET (128.2.0.130)  44.454 ms  44.343 ms
+========================================================================================
+========================================================================================
+*****************   TraceRoute   Command     Output ************************************
+----------------------------------------------------------------------------------------
+Mon Apr 10 15:01:08 UTC 2017
+----------------------------------------------------------------------------------------
+traceroute to planetlab-3.cmcl.cs.cmu.edu (128.2.211.115), 30 hops max, 60 byte packets
+ 1  utd8-gi0-0-5.utdallas.edu (129.110.125.1)  0.169 ms  0.368 ms  0.355 ms
+ 2  dlls-lvl3-isp-ae1-251.tx-bb.net (192.124.227.1)  1.071 ms  1.060 ms  1.047 ms
+ 3  * * *
+ 4  Cogent-level3-200G.Dallas1.Level3.net (4.68.72.34)  1.843 ms XO-Level3.edge2.Dallas3.Level3.net (4.68.127.150)  1.349 ms  1.337 ms
+ 5  207.88.14.188.ptr.us.xo.net (207.88.14.188)  28.015 ms  28.116 ms  28.216 ms
+ 6  be2433.ccr22.mci01.atlas.cogentco.com (154.54.3.214)  11.890 ms 207.88.12.209.ptr.us.xo.net (207.88.12.209)  28.127 ms  27.996 ms
+ 7  be2831.ccr41.ord01.atlas.cogentco.com (154.54.42.166)  22.485 ms 216.156.16.243.ptr.us.xo.net (216.156.16.243)  28.194 ms  28.179 ms
+ 8  be2717.ccr21.cle04.atlas.cogentco.com (154.54.6.222)  36.845 ms ip66-3-25-94.z25-3-66.customer.algx.net (66.3.25.94)  39.908 ms be2718.ccr22.cle04.atlas.cogentco.com (154.54.7.130)  36.648 ms
+ 9  be2821.rcr21.pit02.atlas.cogentco.com (154.54.83.118)  40.236 ms CORE255-POD-I-DCNS.GW.CMU.NET (128.2.255.193)  40.024 ms  40.079 ms
+10  154.24.50.198 (154.24.50.198)  40.255 ms 154.24.42.98 (154.24.42.98)  40.854 ms 154.24.50.198 (154.24.50.198)  40.707 ms
+11  38.140.44.154 (38.140.44.154)  615.946 ms CORE255-VRF-GATES-CORE.GW.CMU.NET (128.2.255.141)  40.195 ms 38.140.44.154 (38.140.44.154)  43.090 ms
+12  POD-A-CORE255.GW.CMU.NET (128.2.255.154)  40.209 ms CORE0-POD-I-CYH.GW.CMU.NET (128.2.0.249)  43.198 ms POD-A-CORE255.GW.CMU.NET (128.2.255.154)  40.180 ms
+13  WEAN-CORE-CORE0.GW.CMU.NET (128.2.0.130)  44.479 ms  44.393 ms  44.452 ms
+14  CORE0-VRF-WEAN-CORE.GW.CMU.NET (128.2.0.133)  43.278 ms PLANETLAB-3.CMCL.CS.CMU.EDU (128.2.211.115)  40.585 ms  41.103 ms
+========================================================================================
+========================================================================================
+*****************   TraceRoute   Command     Output ************************************
+----------------------------------------------------------------------------------------
+Mon Apr 10 16:04:02 UTC 2017
+----------------------------------------------------------------------------------------
+traceroute to planetlab-3.cmcl.cs.cmu.edu (128.2.211.115), 30 hops max, 60 byte packets
+ 1  utd8-gi0-0-5.utdallas.edu (129.110.125.1)  33.173 ms  33.175 ms  33.163 ms
+ 2  dlls-lvl3-isp-ae1-251.tx-bb.net (192.124.227.1)  1.056 ms  1.068 ms  1.056 ms
+ 3  * * *
+ 4  XO-Level3.edge2.Dallas3.Level3.net (4.68.127.150)  2.244 ms Cogent-level3-200G.Dallas1.Level3.net (4.68.72.34)  1.908 ms  1.962 ms
+ 5  207.88.14.188.ptr.us.xo.net (207.88.14.188)  28.641 ms  28.655 ms be2764.ccr22.dfw01.atlas.cogentco.com (154.54.47.213)  1.738 ms
+ 6  207.88.12.209.ptr.us.xo.net (207.88.12.209)  31.047 ms  28.280 ms  28.285 ms
+ 7  be2831.ccr41.ord01.atlas.cogentco.com (154.54.42.166)  22.552 ms be2832.ccr42.ord01.atlas.cogentco.com (154.54.44.170)  22.316 ms 216.156.16.243.ptr.us.xo.net (216.156.16.243)  58.102 ms
+ 8  ip66-3-25-94.z25-3-66.customer.algx.net (66.3.25.94)  409.731 ms  409.507 ms be2717.ccr21.cle04.atlas.cogentco.com (154.54.6.222)  36.870 ms
+ 9  be2822.rcr21.pit02.atlas.cogentco.com (154.54.83.158)  40.400 ms  39.676 ms CORE255-POD-I-DCNS.GW.CMU.NET (128.2.255.193)  40.076 ms
+10  GATES-CORE-CORE255.GW.CMU.NET (128.2.255.138)  41.683 ms 154.24.50.198 (154.24.50.198)  40.201 ms GATES-CORE-CORE255.GW.CMU.NET (128.2.255.138)  41.298 ms
+11  CORE255-VRF-GATES-CORE.GW.CMU.NET (128.2.255.141)  40.186 ms  40.402 ms  40.246 ms
+12  POD-A-CORE255.GW.CMU.NET (128.2.255.154)  40.235 ms  40.295 ms  40.280 ms
+13  WEAN-CORE-CORE0.GW.CMU.NET (128.2.0.130)  44.997 ms PLANETLAB-3.CMCL.CS.CMU.EDU (128.2.211.115)  41.127 ms WEAN-CORE-CORE0.GW.CMU.NET (128.2.0.130)  45.036 ms
+========================================================================================
+========================================================================================
+*****************   TraceRoute   Command     Output ************************************
+----------------------------------------------------------------------------------------
+Mon Apr 10 17:06:37 UTC 2017
+----------------------------------------------------------------------------------------
+traceroute to planetlab-3.cmcl.cs.cmu.edu (128.2.211.115), 30 hops max, 60 byte packets
+ 1  utd8-gi0-0-5.utdallas.edu (129.110.125.1)  0.206 ms  0.372 ms  0.362 ms
+ 2  dlls-lvl3-isp-ae1-251.tx-bb.net (192.124.227.1)  1.051 ms  1.038 ms  1.023 ms
+ 3  * * *
+ 4  XO-Level3.edge2.Dallas3.Level3.net (4.68.127.150)  1.526 ms Cogent-level3-200G.Dallas1.Level3.net (4.68.72.34)  2.052 ms  2.046 ms
+ 5  be2764.ccr22.dfw01.atlas.cogentco.com (154.54.47.213)  2.012 ms 207.88.14.188.ptr.us.xo.net (207.88.14.188)  27.948 ms be2764.ccr22.dfw01.atlas.cogentco.com (154.54.47.213)  1.988 ms
+ 6  207.88.12.209.ptr.us.xo.net (207.88.12.209)  28.075 ms  36.961 ms  27.964 ms
+ 7  be2832.ccr42.ord01.atlas.cogentco.com (154.54.44.170)  22.584 ms 216.156.16.243.ptr.us.xo.net (216.156.16.243)  29.043 ms be2831.ccr41.ord01.atlas.cogentco.com (154.54.42.166)  22.220 ms
+ 8  be2717.ccr21.cle04.atlas.cogentco.com (154.54.6.222)  36.765 ms ip66-3-25-94.z25-3-66.customer.algx.net (66.3.25.94)  89.988 ms be2718.ccr22.cle04.atlas.cogentco.com (154.54.7.130)  36.623 ms
+ 9  be2821.rcr21.pit02.atlas.cogentco.com (154.54.83.118)  40.428 ms CORE255-POD-I-DCNS.GW.CMU.NET (128.2.255.193)  40.017 ms be2822.rcr21.pit02.atlas.cogentco.com (154.54.83.158)  40.302 ms
+10  GATES-CORE-CORE255.GW.CMU.NET (128.2.255.138)  41.528 ms  41.574 ms  41.494 ms
+11  CORE255-VRF-GATES-CORE.GW.CMU.NET (128.2.255.141)  40.321 ms  40.221 ms  40.331 ms
+12  POD-A-CORE255.GW.CMU.NET (128.2.255.154)  40.192 ms  40.051 ms CORE0-POD-I-CYH.GW.CMU.NET (128.2.0.249)  43.595 ms
+13  PLANETLAB-3.CMCL.CS.CMU.EDU (128.2.211.115)  41.243 ms  44.643 ms  40.672 ms
+========================================================================================
+========================================================================================
+*****************   TraceRoute   Command     Output ************************************
+----------------------------------------------------------------------------------------
+Mon Apr 10 18:09:11 UTC 2017
+----------------------------------------------------------------------------------------
+traceroute to planetlab-3.cmcl.cs.cmu.edu (128.2.211.115), 30 hops max, 60 byte packets
+ 1  utd8-gi0-0-5.utdallas.edu (129.110.125.1)  0.206 ms  0.371 ms  0.359 ms
+ 2  dlls-lvl3-isp-ae1-251.tx-bb.net (192.124.227.1)  1.047 ms  1.085 ms  1.075 ms
+ 3  * * *
+ 4  XO-Level3.edge2.Dallas3.Level3.net (4.68.127.150)  1.377 ms Cogent-level3-200G.Dallas1.Level3.net (4.68.72.34)  1.829 ms  1.819 ms
+ 5  be2764.ccr22.dfw01.atlas.cogentco.com (154.54.47.213)  1.622 ms 207.88.14.188.ptr.us.xo.net (207.88.14.188)  28.196 ms be2764.ccr22.dfw01.atlas.cogentco.com (154.54.47.213)  2.072 ms
+ 6  207.88.12.209.ptr.us.xo.net (207.88.12.209)  27.907 ms  28.398 ms  29.843 ms
+ 7  be2831.ccr41.ord01.atlas.cogentco.com (154.54.42.166)  22.380 ms 216.156.16.243.ptr.us.xo.net (216.156.16.243)  28.062 ms  28.010 ms
+ 8  ip66-3-25-94.z25-3-66.customer.algx.net (66.3.25.94)  558.587 ms be2718.ccr22.cle04.atlas.cogentco.com (154.54.7.130)  36.902 ms ip66-3-25-94.z25-3-66.customer.algx.net (66.3.25.94)  558.537 ms
+ 9  be2822.rcr21.pit02.atlas.cogentco.com (154.54.83.158)  39.700 ms CORE255-POD-I-DCNS.GW.CMU.NET (128.2.255.193)  40.034 ms be2822.rcr21.pit02.atlas.cogentco.com (154.54.83.158)  39.855 ms
+10  GATES-CORE-CORE255.GW.CMU.NET (128.2.255.138)  41.621 ms 154.24.50.198 (154.24.50.198)  40.853 ms 154.24.42.98 (154.24.42.98)  40.932 ms
+11  CORE255-VRF-GATES-CORE.GW.CMU.NET (128.2.255.141)  40.310 ms  40.407 ms  40.247 ms
+12  CORE0-POD-I-CYH.GW.CMU.NET (128.2.0.249)  43.541 ms POD-A-CORE255.GW.CMU.NET (128.2.255.154)  41.207 ms  41.195 ms
+13  PLANETLAB-3.CMCL.CS.CMU.EDU (128.2.211.115)  41.249 ms WEAN-CORE-CORE0.GW.CMU.NET (128.2.0.130)  44.418 ms  44.484 ms
+========================================================================================
+========================================================================================
+*****************   TraceRoute   Command     Output ************************************
+----------------------------------------------------------------------------------------
+Mon Apr 10 19:11:55 UTC 2017
+----------------------------------------------------------------------------------------
+traceroute to planetlab-3.cmcl.cs.cmu.edu (128.2.211.115), 30 hops max, 60 byte packets
+ 1  utd8-gi0-0-5.utdallas.edu (129.110.125.1)  4.314 ms  4.318 ms  4.274 ms
+ 2  dlls-lvl3-isp-ae1-251.tx-bb.net (192.124.227.1)  1.794 ms  1.806 ms  1.795 ms
+ 3  * * *
+ 4  Cogent-level3-200G.Dallas1.Level3.net (4.68.72.34)  1.945 ms  1.940 ms  1.920 ms
+ 5  be2764.ccr22.dfw01.atlas.cogentco.com (154.54.47.213)  2.018 ms  2.090 ms 207.88.14.188.ptr.us.xo.net (207.88.14.188)  28.160 ms
+ 6  be2432.ccr21.mci01.atlas.cogentco.com (154.54.3.134)  11.613 ms be2433.ccr22.mci01.atlas.cogentco.com (154.54.3.214)  11.895 ms 207.88.12.209.ptr.us.xo.net (207.88.12.209)  28.968 ms
+ 7  be2831.ccr41.ord01.atlas.cogentco.com (154.54.42.166)  22.167 ms 216.156.16.243.ptr.us.xo.net (216.156.16.243)  28.319 ms  28.290 ms
+ 8  be2718.ccr22.cle04.atlas.cogentco.com (154.54.7.130)  36.499 ms ip66-3-25-94.z25-3-66.customer.algx.net (66.3.25.94)  42.139 ms  42.063 ms
+ 9  be2821.rcr21.pit02.atlas.cogentco.com (154.54.83.118)  39.989 ms  40.271 ms be2822.rcr21.pit02.atlas.cogentco.com (154.54.83.158)  40.288 ms
+10  GATES-CORE-CORE255.GW.CMU.NET (128.2.255.138)  41.429 ms  41.483 ms 154.24.42.98 (154.24.42.98)  40.954 ms
+11  CORE255-VRF-GATES-CORE.GW.CMU.NET (128.2.255.141)  40.260 ms  40.311 ms 38.140.44.154 (38.140.44.154)  43.242 ms
+12  CORE0-POD-I-CYH.GW.CMU.NET (128.2.0.249)  43.106 ms POD-A-CORE255.GW.CMU.NET (128.2.255.154)  40.137 ms CORE0-POD-I-CYH.GW.CMU.NET (128.2.0.249)  43.522 ms
+13  WEAN-CORE-CORE0.GW.CMU.NET (128.2.0.130)  44.976 ms PLANETLAB-3.CMCL.CS.CMU.EDU (128.2.211.115)  44.647 ms  42.745 ms
+========================================================================================
+========================================================================================
+*****************   TraceRoute   Command     Output ************************************
+----------------------------------------------------------------------------------------
+Mon Apr 10 20:14:34 UTC 2017
+----------------------------------------------------------------------------------------
+traceroute to planetlab-3.cmcl.cs.cmu.edu (128.2.211.115), 30 hops max, 60 byte packets
+ 1  utd8-gi0-0-5.utdallas.edu (129.110.125.1)  0.400 ms  0.410 ms  0.398 ms
+ 2  dlls-lvl3-isp-ae1-251.tx-bb.net (192.124.227.1)  1.458 ms  1.448 ms  1.435 ms
+ 3  * * *
+ 4  Cogent-level3-200G.Dallas1.Level3.net (4.68.72.34)  1.714 ms  1.689 ms XO-Level3.edge2.Dallas3.Level3.net (4.68.127.150)  1.333 ms
+ 5  be2764.ccr22.dfw01.atlas.cogentco.com (154.54.47.213)  1.645 ms be2763.ccr21.dfw01.atlas.cogentco.com (154.54.28.73)  1.934 ms be2764.ccr22.dfw01.atlas.cogentco.com (154.54.47.213)  1.626 ms
+ 6  be2432.ccr21.mci01.atlas.cogentco.com (154.54.3.134)  11.864 ms 207.88.12.209.ptr.us.xo.net (207.88.12.209)  27.926 ms  27.919 ms
+ 7  216.156.16.243.ptr.us.xo.net (216.156.16.243)  28.170 ms  28.001 ms be2832.ccr42.ord01.atlas.cogentco.com (154.54.44.170)  22.139 ms
+ 8  be2718.ccr22.cle04.atlas.cogentco.com (154.54.7.130)  36.700 ms  37.306 ms ip66-3-25-94.z25-3-66.customer.algx.net (66.3.25.94)  39.909 ms
+ 9  be2822.rcr21.pit02.atlas.cogentco.com (154.54.83.158)  41.081 ms be2821.rcr21.pit02.atlas.cogentco.com (154.54.83.118)  40.800 ms  39.862 ms
+10  154.24.42.98 (154.24.42.98)  40.772 ms  40.257 ms GATES-CORE-CORE255.GW.CMU.NET (128.2.255.138)  44.156 ms
+11  38.140.44.154 (38.140.44.154)  69.189 ms CORE255-VRF-GATES-CORE.GW.CMU.NET (128.2.255.141)  50.759 ms  40.201 ms
+12  CORE0-POD-I-CYH.GW.CMU.NET (128.2.0.249)  42.906 ms  43.116 ms POD-A-CORE255.GW.CMU.NET (128.2.255.154)  42.667 ms
+13  WEAN-CORE-CORE0.GW.CMU.NET (128.2.0.130)  44.315 ms  44.368 ms  44.347 ms
+14  PLANETLAB-3.CMCL.CS.CMU.EDU (128.2.211.115)  41.180 ms CORE0-VRF-WEAN-CORE.GW.CMU.NET (128.2.0.133)  42.805 ms PLANETLAB-3.CMCL.CS.CMU.EDU (128.2.211.115)  43.084 ms
+========================================================================================
+========================================================================================
+*****************   TraceRoute   Command     Output ************************************
+----------------------------------------------------------------------------------------
+Mon Apr 10 21:17:24 UTC 2017
+----------------------------------------------------------------------------------------
+traceroute to planetlab-3.cmcl.cs.cmu.edu (128.2.211.115), 30 hops max, 60 byte packets
+ 1  utd8-gi0-0-5.utdallas.edu (129.110.125.1)  0.156 ms  0.371 ms  0.358 ms
+ 2  dlls-lvl3-isp-ae1-251.tx-bb.net (192.124.227.1)  1.062 ms  1.053 ms  1.039 ms
+ 3  * * *
+ 4  XO-Level3.edge2.Dallas3.Level3.net (4.68.127.150)  1.506 ms Cogent-level3-200G.Dallas1.Level3.net (4.68.72.34)  2.009 ms  1.998 ms
+ 5  be2763.ccr21.dfw01.atlas.cogentco.com (154.54.28.73)  1.966 ms 207.88.14.188.ptr.us.xo.net (207.88.14.188)  29.791 ms be2764.ccr22.dfw01.atlas.cogentco.com (154.54.47.213)  1.675 ms
+ 6  207.88.12.209.ptr.us.xo.net (207.88.12.209)  30.723 ms be2432.ccr21.mci01.atlas.cogentco.com (154.54.3.134)  11.622 ms  11.987 ms
+ 7  216.156.16.243.ptr.us.xo.net (216.156.16.243)  28.103 ms  28.161 ms be2832.ccr42.ord01.atlas.cogentco.com (154.54.44.170)  22.118 ms
+ 8  be2718.ccr22.cle04.atlas.cogentco.com (154.54.7.130)  36.586 ms  36.575 ms ip66-3-25-94.z25-3-66.customer.algx.net (66.3.25.94)  818.267 ms
+ 9  CORE255-POD-I-DCNS.GW.CMU.NET (128.2.255.193)  40.153 ms be2822.rcr21.pit02.atlas.cogentco.com (154.54.83.158)  40.495 ms  40.401 ms
+10  GATES-CORE-CORE255.GW.CMU.NET (128.2.255.138)  41.634 ms 154.24.42.98 (154.24.42.98)  40.749 ms  40.345 ms
+11  CORE255-VRF-GATES-CORE.GW.CMU.NET (128.2.255.141)  40.418 ms 38.140.44.154 (38.140.44.154)  43.263 ms CORE255-VRF-GATES-CORE.GW.CMU.NET (128.2.255.141)  40.403 ms
+12  POD-A-CORE255.GW.CMU.NET (128.2.255.154)  40.480 ms CORE0-POD-I-CYH.GW.CMU.NET (128.2.0.249)  43.411 ms  42.900 ms
+13  PLANETLAB-3.CMCL.CS.CMU.EDU (128.2.211.115)  41.415 ms * WEAN-CORE-CORE0.GW.CMU.NET (128.2.0.130)  44.279 ms
+========================================================================================
+========================================================================================
+*****************   TraceRoute   Command     Output ************************************
+----------------------------------------------------------------------------------------
+Mon Apr 10 22:20:18 UTC 2017
+----------------------------------------------------------------------------------------
+traceroute to planetlab-3.cmcl.cs.cmu.edu (128.2.211.115), 30 hops max, 60 byte packets
+ 1  utd8-gi0-0-5.utdallas.edu (129.110.125.1)  0.211 ms  0.196 ms  0.368 ms
+ 2  dlls-lvl3-isp-ae1-251.tx-bb.net (192.124.227.1)  1.061 ms  1.049 ms  1.035 ms
+ 3  * * *
+ 4  Cogent-level3-200G.Dallas1.Level3.net (4.68.72.34)  1.876 ms  1.930 ms XO-Level3.edge2.Dallas3.Level3.net (4.68.127.150)  1.364 ms
+ 5  be2763.ccr21.dfw01.atlas.cogentco.com (154.54.28.73)  2.208 ms 207.88.14.188.ptr.us.xo.net (207.88.14.188)  28.567 ms be2763.ccr21.dfw01.atlas.cogentco.com (154.54.28.73)  1.615 ms
+ 6  207.88.12.209.ptr.us.xo.net (207.88.12.209)  28.424 ms  28.036 ms  28.135 ms
+ 7  216.156.16.243.ptr.us.xo.net (216.156.16.243)  28.040 ms be2831.ccr41.ord01.atlas.cogentco.com (154.54.42.166)  22.805 ms  22.402 ms
+ 8  be2717.ccr21.cle04.atlas.cogentco.com (154.54.6.222)  37.419 ms ip66-3-25-94.z25-3-66.customer.algx.net (66.3.25.94)  40.063 ms  39.829 ms
+ 9  CORE255-POD-I-DCNS.GW.CMU.NET (128.2.255.193)  40.094 ms be2822.rcr21.pit02.atlas.cogentco.com (154.54.83.158)  39.782 ms be2821.rcr21.pit02.atlas.cogentco.com (154.54.83.118)  40.147 ms
+10  154.24.42.98 (154.24.42.98)  40.849 ms  40.920 ms GATES-CORE-CORE255.GW.CMU.NET (128.2.255.138)  41.591 ms
+11  38.140.44.154 (38.140.44.154)  42.569 ms  42.559 ms CORE255-VRF-GATES-CORE.GW.CMU.NET (128.2.255.141)  40.343 ms
+12  CORE0-POD-I-CYH.GW.CMU.NET (128.2.0.249)  43.000 ms POD-A-CORE255.GW.CMU.NET (128.2.255.154)  40.157 ms  40.072 ms
+13  PLANETLAB-3.CMCL.CS.CMU.EDU (128.2.211.115)  40.937 ms  41.007 ms  42.808 ms
+========================================================================================
+========================================================================================
+*****************   TraceRoute   Command     Output ************************************
+----------------------------------------------------------------------------------------
+Mon Apr 10 23:22:52 UTC 2017
+----------------------------------------------------------------------------------------
+traceroute to planetlab-3.cmcl.cs.cmu.edu (128.2.211.115), 30 hops max, 60 byte packets
+ 1  utd8-gi0-0-5.utdallas.edu (129.110.125.1)  2.864 ms  2.866 ms  2.852 ms
+ 2  dlls-lvl3-isp-ae1-251.tx-bb.net (192.124.227.1)  1.063 ms  1.077 ms  1.065 ms
+ 3  * * *
+ 4  Cogent-level3-200G.Dallas1.Level3.net (4.68.72.34)  1.641 ms XO-Level3.edge2.Dallas3.Level3.net (4.68.127.150)  1.284 ms  1.433 ms
+ 5  be2764.ccr22.dfw01.atlas.cogentco.com (154.54.47.213)  1.671 ms  1.786 ms  1.775 ms
+ 6  207.88.12.209.ptr.us.xo.net (207.88.12.209)  28.082 ms be2432.ccr21.mci01.atlas.cogentco.com (154.54.3.134)  11.845 ms 207.88.12.209.ptr.us.xo.net (207.88.12.209)  28.126 ms
+ 7  216.156.16.243.ptr.us.xo.net (216.156.16.243)  28.101 ms  27.982 ms  28.141 ms
+ 8  ip66-3-25-94.z25-3-66.customer.algx.net (66.3.25.94)  39.943 ms  40.063 ms be2718.ccr22.cle04.atlas.cogentco.com (154.54.7.130)  37.030 ms
+ 9  be2821.rcr21.pit02.atlas.cogentco.com (154.54.83.118)  40.416 ms CORE255-POD-I-DCNS.GW.CMU.NET (128.2.255.193)  40.126 ms  40.125 ms
+10  GATES-CORE-CORE255.GW.CMU.NET (128.2.255.138)  41.505 ms 154.24.42.98 (154.24.42.98)  40.325 ms  40.376 ms
+11  CORE255-VRF-GATES-CORE.GW.CMU.NET (128.2.255.141)  40.203 ms  40.331 ms  40.262 ms
+12  CORE0-POD-I-CYH.GW.CMU.NET (128.2.0.249)  43.385 ms  42.938 ms POD-A-CORE255.GW.CMU.NET (128.2.255.154)  40.139 ms
+13  PLANETLAB-3.CMCL.CS.CMU.EDU (128.2.211.115)  41.343 ms  43.111 ms WEAN-CORE-CORE0.GW.CMU.NET (128.2.0.130)  44.348 ms
+========================================================================================
+========================================================================================

@@ -1,0 +1,510 @@
+*****************   TraceRoute   Command     Output ************************************
+----------------------------------------------------------------------------------------
+Tue Apr 25 00:41:42 UTC 2017
+----------------------------------------------------------------------------------------
+traceroute to planetlab1.fct.ualg.pt (193.136.227.163), 30 hops max, 60 byte packets
+ 1  141.212.113.1 (141.212.113.1)  0.917 ms  1.024 ms  1.161 ms
+ 2  10.224.253.24 (10.224.253.24)  0.264 ms  0.261 ms  0.249 ms
+ 3  l3-binarbl-cool-ipsvrf.r-bin-arbl.umnet.umich.edu (192.12.80.136)  0.462 ms  0.576 ms  0.475 ms
+ 4  l3-binarbl-bincath.r-bin-cath.umnet.umich.edu (192.12.80.13)  0.619 ms  0.619 ms  0.611 ms
+ 5  et-7-3-0.1102.rtsw.clev.net.internet2.edu (198.71.45.249)  15.324 ms  15.306 ms  15.293 ms
+ 6  et-3-0-0.4079.sdn-sw.pitt.net.internet2.edu (162.252.70.51)  18.133 ms  18.155 ms et-2-0-0.4079.sdn-sw.ashb.net.internet2.edu (162.252.70.54)  22.829 ms
+ 7  et-3-1-0.4079.rtsw.wash.net.internet2.edu (162.252.70.63)  23.877 ms et-8-3-0.4079.sdn-sw.ashb.net.internet2.edu (162.252.70.52)  23.133 ms et-3-1-0.4079.rtsw.wash.net.internet2.edu (162.252.70.63)  23.532 ms
+ 8  internet2.mx1.lon.uk.geant.net (62.40.124.44)  98.047 ms  98.171 ms et-3-1-0.4079.rtsw.wash.net.internet2.edu (162.252.70.63)  23.704 ms
+ 9  ae5.mx1.lis.pt.geant.net (62.40.98.102)  136.181 ms internet2.mx1.lon.uk.geant.net (62.40.124.44)  98.203 ms  98.163 ms
+10  ae5.mx1.lis.pt.geant.net (62.40.98.102)  136.232 ms ae1.mx2.lis.pt.geant.net (62.40.98.105)  134.068 ms ae5.mx1.lis.pt.geant.net (62.40.98.102)  132.149 ms
+11  ae1.mx2.lis.pt.geant.net (62.40.98.105)  132.216 ms  134.825 ms  134.775 ms
+12  ROUTER13.10GE.CR2.Lisboa.fccn.pt (193.137.0.29)  134.777 ms fccn-gw.mx2.lis.pt.geant.net (62.40.124.98)  134.922 ms ROUTER13.10GE.CR2.Lisboa.fccn.pt (193.137.0.29)  135.017 ms
+13  * * ROUTER13.10GE.CR2.Lisboa.fccn.pt (193.137.0.29)  132.588 ms
+14  planetlab1.fct.ualg.pt (193.136.227.163)  136.809 ms  136.859 ms  138.983 ms
+========================================================================================
+========================================================================================
+*****************   TraceRoute   Command     Output ************************************
+----------------------------------------------------------------------------------------
+Tue Apr 25 01:42:07 UTC 2017
+----------------------------------------------------------------------------------------
+traceroute to planetlab1.fct.ualg.pt (193.136.227.163), 30 hops max, 60 byte packets
+ 1  141.212.113.1 (141.212.113.1)  1.016 ms  1.187 ms  1.287 ms
+ 2  10.224.253.24 (10.224.253.24)  0.258 ms  0.321 ms  0.307 ms
+ 3  l3-binarbl-cool-ipsvrf.r-bin-arbl.umnet.umich.edu (192.12.80.136)  0.552 ms  0.508 ms  0.507 ms
+ 4  l3-binarbl-bincath.r-bin-cath.umnet.umich.edu (192.12.80.13)  0.583 ms  0.579 ms  0.569 ms
+ 5  et-7-3-0.1102.rtsw.clev.net.internet2.edu (198.71.45.249)  15.401 ms  15.411 ms  15.399 ms
+ 6  et-2-0-0.4079.sdn-sw.ashb.net.internet2.edu (162.252.70.54)  22.821 ms et-3-0-0.4079.sdn-sw.pitt.net.internet2.edu (162.252.70.51)  18.102 ms et-2-0-0.4079.sdn-sw.ashb.net.internet2.edu (162.252.70.54)  22.786 ms
+ 7  et-8-3-0.4079.sdn-sw.ashb.net.internet2.edu (162.252.70.52)  23.297 ms  23.139 ms et-3-1-0.4079.rtsw.wash.net.internet2.edu (162.252.70.63)  23.312 ms
+ 8  et-3-1-0.4079.rtsw.wash.net.internet2.edu (162.252.70.63)  23.438 ms internet2.mx1.lon.uk.geant.net (62.40.124.44)  98.014 ms et-3-1-0.4079.rtsw.wash.net.internet2.edu (162.252.70.63)  23.455 ms
+ 9  internet2.mx1.lon.uk.geant.net (62.40.124.44)  98.102 ms ae5.mx1.lis.pt.geant.net (62.40.98.102)  134.036 ms  150.543 ms
+10  ae1.mx2.lis.pt.geant.net (62.40.98.105)  136.127 ms ae5.mx1.lis.pt.geant.net (62.40.98.102)  138.254 ms  134.095 ms
+11  ae1.mx2.lis.pt.geant.net (62.40.98.105)  136.299 ms fccn-gw.mx2.lis.pt.geant.net (62.40.124.98)  132.563 ms  134.636 ms
+12  fccn-gw.mx2.lis.pt.geant.net (62.40.124.98)  132.650 ms  132.707 ms  132.697 ms
+13  * * ROUTER13.10GE.CR1.Lisboa.fccn.pt (193.137.0.13)  134.678 ms
+14  planetlab1.fct.ualg.pt (193.136.227.163)  138.919 ms  139.082 ms  136.844 ms
+========================================================================================
+========================================================================================
+*****************   TraceRoute   Command     Output ************************************
+----------------------------------------------------------------------------------------
+Tue Apr 25 02:42:32 UTC 2017
+----------------------------------------------------------------------------------------
+traceroute to planetlab1.fct.ualg.pt (193.136.227.163), 30 hops max, 60 byte packets
+ 1  141.212.113.1 (141.212.113.1)  0.832 ms  0.978 ms  1.124 ms
+ 2  10.224.253.24 (10.224.253.24)  0.285 ms  0.279 ms  0.266 ms
+ 3  l3-binarbl-cool-ipsvrf.r-bin-arbl.umnet.umich.edu (192.12.80.136)  0.516 ms  0.511 ms  0.488 ms
+ 4  l3-binarbl-bincath.r-bin-cath.umnet.umich.edu (192.12.80.13)  0.637 ms  0.639 ms  0.569 ms
+ 5  et-7-3-0.1102.rtsw.clev.net.internet2.edu (198.71.45.249)  15.281 ms  15.300 ms  15.287 ms
+ 6  et-3-0-0.4079.sdn-sw.pitt.net.internet2.edu (162.252.70.51)  18.122 ms  18.161 ms  18.802 ms
+ 7  et-8-3-0.4079.sdn-sw.ashb.net.internet2.edu (162.252.70.52)  23.170 ms et-3-1-0.4079.rtsw.wash.net.internet2.edu (162.252.70.63)  23.482 ms  23.456 ms
+ 8  internet2-gw.mx1.lon.uk.geant.net (62.40.124.44)  98.005 ms et-3-1-0.4079.rtsw.wash.net.internet2.edu (162.252.70.63)  23.533 ms  23.522 ms
+ 9  ae5.mx1.lis.pt.geant.net (62.40.98.102)  136.311 ms internet2.mx1.lon.uk.geant.net (62.40.124.44)  98.121 ms ae5.mx1.lis.pt.geant.net (62.40.98.102)  136.250 ms
+10  ae1.mx2.lis.pt.geant.net (62.40.98.105)  148.976 ms ae5.mx1.lis.pt.geant.net (62.40.98.102)  132.164 ms  132.141 ms
+11  ae1.mx2.lis.pt.geant.net (62.40.98.105)  139.031 ms  136.642 ms fccn-gw.mx2.lis.pt.geant.net (62.40.124.98)  132.495 ms
+12  ROUTER13.10GE.CR1.Lisboa.fccn.pt (193.137.0.13)  134.707 ms fccn-gw.mx2.lis.pt.geant.net (62.40.124.98)  134.084 ms ROUTER13.10GE.CR1.Lisboa.fccn.pt (193.137.0.13)  134.522 ms
+13  * * *
+14  planetlab1.fct.ualg.pt (193.136.227.163)  136.968 ms  139.248 ms  139.106 ms
+========================================================================================
+========================================================================================
+*****************   TraceRoute   Command     Output ************************************
+----------------------------------------------------------------------------------------
+Tue Apr 25 03:42:57 UTC 2017
+----------------------------------------------------------------------------------------
+traceroute to planetlab1.fct.ualg.pt (193.136.227.163), 30 hops max, 60 byte packets
+ 1  141.212.113.1 (141.212.113.1)  1.449 ms  1.755 ms  2.148 ms
+ 2  10.224.253.24 (10.224.253.24)  0.363 ms  0.439 ms  0.428 ms
+ 3  l3-binarbl-cool-ipsvrf.r-bin-arbl.umnet.umich.edu (192.12.80.136)  0.518 ms  0.477 ms  0.488 ms
+ 4  l3-binarbl-bincath.r-bin-cath.umnet.umich.edu (192.12.80.13)  0.690 ms  0.594 ms  0.580 ms
+ 5  et-7-3-0.1102.rtsw.clev.net.internet2.edu (198.71.45.249)  15.298 ms  15.433 ms  15.421 ms
+ 6  et-3-0-0.4079.sdn-sw.pitt.net.internet2.edu (162.252.70.51)  18.087 ms  18.165 ms  18.212 ms
+ 7  et-3-1-0.4079.rtsw.wash.net.internet2.edu (162.252.70.63)  23.420 ms  23.306 ms et-8-3-0.4079.sdn-sw.ashb.net.internet2.edu (162.252.70.52)  23.191 ms
+ 8  et-3-1-0.4079.rtsw.wash.net.internet2.edu (162.252.70.63)  23.480 ms  23.452 ms internet2-gw.mx1.lon.uk.geant.net (62.40.124.44)  98.125 ms
+ 9  internet2.mx1.lon.uk.geant.net (62.40.124.44)  98.244 ms ae5.mx1.lis.pt.geant.net (62.40.98.102)  136.186 ms  131.984 ms
+10  ae1.mx2.lis.pt.geant.net (62.40.98.105)  134.084 ms ae5.mx1.lis.pt.geant.net (62.40.98.102)  136.314 ms  136.255 ms
+11  fccn-gw.mx2.lis.pt.geant.net (62.40.124.98)  136.723 ms  136.701 ms  136.776 ms
+12  ROUTER13.10GE.CR2.Lisboa.fccn.pt (193.137.0.29)  133.828 ms ROUTER13.10GE.CR1.Lisboa.fccn.pt (193.137.0.13)  134.656 ms  136.647 ms
+13  ROUTER13.10GE.CR1.Lisboa.fccn.pt (193.137.0.13)  136.934 ms ROUTER13.10GE.CR2.Lisboa.fccn.pt (193.137.0.29)  134.885 ms *
+14  planetlab1.fct.ualg.pt (193.136.227.163)  140.952 ms  141.081 ms  140.802 ms
+========================================================================================
+========================================================================================
+*****************   TraceRoute   Command     Output ************************************
+----------------------------------------------------------------------------------------
+Tue Apr 25 04:43:21 UTC 2017
+----------------------------------------------------------------------------------------
+traceroute to planetlab1.fct.ualg.pt (193.136.227.163), 30 hops max, 60 byte packets
+ 1  141.212.113.1 (141.212.113.1)  0.867 ms  0.973 ms  1.123 ms
+ 2  10.224.253.24 (10.224.253.24)  0.337 ms  0.347 ms  0.335 ms
+ 3  l3-binarbl-cool-ipsvrf.r-bin-arbl.umnet.umich.edu (192.12.80.136)  0.672 ms  0.673 ms  0.661 ms
+ 4  l3-binarbl-bincath.r-bin-cath.umnet.umich.edu (192.12.80.13)  0.647 ms  0.635 ms  0.612 ms
+ 5  et-7-3-0.1102.rtsw.clev.net.internet2.edu (198.71.45.249)  15.334 ms  15.335 ms  15.324 ms
+ 6  et-2-0-0.4079.sdn-sw.ashb.net.internet2.edu (162.252.70.54)  23.147 ms  22.947 ms  22.935 ms
+ 7  et-8-3-0.4079.sdn-sw.ashb.net.internet2.edu (162.252.70.52)  23.148 ms et-3-1-0.4079.rtsw.wash.net.internet2.edu (162.252.70.63)  23.378 ms  23.372 ms
+ 8  internet2.mx1.lon.uk.geant.net (62.40.124.44)  98.094 ms et-3-1-0.4079.rtsw.wash.net.internet2.edu (162.252.70.63)  23.459 ms internet2.mx1.lon.uk.geant.net (62.40.124.44)  98.161 ms
+ 9  ae5.mx1.lis.pt.geant.net (62.40.98.102)  134.118 ms internet2.mx1.lon.uk.geant.net (62.40.124.44)  98.133 ms ae5.mx1.lis.pt.geant.net (62.40.98.102)  134.118 ms
+10  ae1.mx2.lis.pt.geant.net (62.40.98.105)  134.065 ms ae5.mx1.lis.pt.geant.net (62.40.98.102)  134.263 ms ae1.mx2.lis.pt.geant.net (62.40.98.105)  131.993 ms
+11  fccn-gw.mx2.lis.pt.geant.net (62.40.124.98)  134.625 ms ae1.mx2.lis.pt.geant.net (62.40.98.105)  134.193 ms  132.053 ms
+12  ROUTER13.10GE.CR1.Lisboa.fccn.pt (193.137.0.13)  134.781 ms fccn-gw.mx2.lis.pt.geant.net (62.40.124.98)  137.034 ms  134.672 ms
+13  * * *
+14  planetlab1.fct.ualg.pt (193.136.227.163)  138.960 ms  137.042 ms  138.766 ms
+========================================================================================
+========================================================================================
+*****************   TraceRoute   Command     Output ************************************
+----------------------------------------------------------------------------------------
+Tue Apr 25 05:43:46 UTC 2017
+----------------------------------------------------------------------------------------
+traceroute to planetlab1.fct.ualg.pt (193.136.227.163), 30 hops max, 60 byte packets
+ 1  141.212.113.1 (141.212.113.1)  0.806 ms  1.122 ms  1.113 ms
+ 2  10.224.253.24 (10.224.253.24)  0.293 ms  0.303 ms  0.290 ms
+ 3  l3-binarbl-cool-ipsvrf.r-bin-arbl.umnet.umich.edu (192.12.80.136)  0.600 ms  0.609 ms  0.586 ms
+ 4  l3-binarbl-bincath.r-bin-cath.umnet.umich.edu (192.12.80.13)  0.579 ms  0.573 ms  0.561 ms
+ 5  et-7-3-0.1102.rtsw.clev.net.internet2.edu (198.71.45.249)  15.357 ms  15.488 ms  15.478 ms
+ 6  et-2-0-0.4079.sdn-sw.ashb.net.internet2.edu (162.252.70.54)  23.033 ms  22.963 ms et-3-0-0.4079.sdn-sw.pitt.net.internet2.edu (162.252.70.51)  18.204 ms
+ 7  et-3-1-0.4079.rtsw.wash.net.internet2.edu (162.252.70.63)  23.483 ms et-8-3-0.4079.sdn-sw.ashb.net.internet2.edu (162.252.70.52)  23.214 ms et-3-1-0.4079.rtsw.wash.net.internet2.edu (162.252.70.63)  23.303 ms
+ 8  et-3-1-0.4079.rtsw.wash.net.internet2.edu (162.252.70.63)  23.573 ms internet2.mx1.lon.uk.geant.net (62.40.124.44)  98.066 ms et-3-1-0.4079.rtsw.wash.net.internet2.edu (162.252.70.63)  23.563 ms
+ 9  ae5.mx1.lis.pt.geant.net (62.40.98.102)  134.142 ms internet2.mx1.lon.uk.geant.net (62.40.124.44)  98.134 ms ae5.mx1.lis.pt.geant.net (62.40.98.102)  134.033 ms
+10  ae1.mx2.lis.pt.geant.net (62.40.98.105)  136.253 ms ae5.mx1.lis.pt.geant.net (62.40.98.102)  134.160 ms  134.297 ms
+11  ae1.mx2.lis.pt.geant.net (62.40.98.105)  138.729 ms fccn-gw.mx2.lis.pt.geant.net (62.40.124.98)  134.488 ms ae1.mx2.lis.pt.geant.net (62.40.98.105)  134.140 ms
+12  fccn-gw.mx2.lis.pt.geant.net (62.40.124.98)  134.649 ms ROUTER13.10GE.CR2.Lisboa.fccn.pt (193.137.0.29)  134.630 ms  134.752 ms
+13  ROUTER13.10GE.CR1.Lisboa.fccn.pt (193.137.0.13)  134.785 ms *  136.190 ms
+14  * * *
+15  planetlab1.fct.ualg.pt (193.136.227.163)  140.961 ms  138.811 ms  140.921 ms
+========================================================================================
+========================================================================================
+*****************   TraceRoute   Command     Output ************************************
+----------------------------------------------------------------------------------------
+Tue Apr 25 06:44:11 UTC 2017
+----------------------------------------------------------------------------------------
+traceroute to planetlab1.fct.ualg.pt (193.136.227.163), 30 hops max, 60 byte packets
+ 1  141.212.113.1 (141.212.113.1)  0.866 ms  1.436 ms  1.602 ms
+ 2  10.224.253.24 (10.224.253.24)  0.352 ms  0.367 ms  0.356 ms
+ 3  l3-binarbl-cool-ipsvrf.r-bin-arbl.umnet.umich.edu (192.12.80.136)  0.529 ms  0.571 ms  0.547 ms
+ 4  l3-binarbl-bincath.r-bin-cath.umnet.umich.edu (192.12.80.13)  0.604 ms  0.594 ms  0.808 ms
+ 5  et-7-3-0.1102.rtsw.clev.net.internet2.edu (198.71.45.249)  15.185 ms  15.432 ms  15.402 ms
+ 6  et-2-0-0.4079.sdn-sw.ashb.net.internet2.edu (162.252.70.54)  22.919 ms  24.026 ms et-3-0-0.4079.sdn-sw.pitt.net.internet2.edu (162.252.70.51)  18.097 ms
+ 7  et-8-3-0.4079.sdn-sw.ashb.net.internet2.edu (162.252.70.52)  23.836 ms  23.715 ms  23.755 ms
+ 8  et-3-1-0.4079.rtsw.wash.net.internet2.edu (162.252.70.63)  23.506 ms  23.539 ms  23.511 ms
+ 9  ae5.mx1.lis.pt.geant.net (62.40.98.102)  134.306 ms  134.139 ms internet2.mx1.lon.uk.geant.net (62.40.124.44)  98.101 ms
+10  ae1.mx2.lis.pt.geant.net (62.40.98.105)  134.149 ms ae5.mx1.lis.pt.geant.net (62.40.98.102)  134.154 ms ae1.mx2.lis.pt.geant.net (62.40.98.105)  134.251 ms
+11  ae1.mx2.lis.pt.geant.net (62.40.98.105)  134.240 ms fccn-gw.mx2.lis.pt.geant.net (62.40.124.98)  136.818 ms ae1.mx2.lis.pt.geant.net (62.40.98.105)  132.135 ms
+12  ROUTER13.10GE.CR2.Lisboa.fccn.pt (193.137.0.29)  138.040 ms fccn-gw.mx2.lis.pt.geant.net (62.40.124.98)  134.977 ms  136.691 ms
+13  ROUTER13.10GE.CR2.Lisboa.fccn.pt (193.137.0.29)  137.946 ms  134.945 ms *
+14  planetlab1.fct.ualg.pt (193.136.227.163)  138.882 ms  137.107 ms  136.785 ms
+========================================================================================
+========================================================================================
+*****************   TraceRoute   Command     Output ************************************
+----------------------------------------------------------------------------------------
+Tue Apr 25 07:44:35 UTC 2017
+----------------------------------------------------------------------------------------
+traceroute to planetlab1.fct.ualg.pt (193.136.227.163), 30 hops max, 60 byte packets
+ 1  141.212.113.1 (141.212.113.1)  0.975 ms  1.035 ms  1.189 ms
+ 2  10.224.253.24 (10.224.253.24)  0.258 ms  0.464 ms  0.454 ms
+ 3  l3-binarbl-cool-ipsvrf.r-bin-arbl.umnet.umich.edu (192.12.80.136)  0.473 ms  0.469 ms  0.498 ms
+ 4  l3-binarbl-bincath.r-bin-cath.umnet.umich.edu (192.12.80.13)  0.652 ms  0.621 ms  0.612 ms
+ 5  et-7-3-0.1102.rtsw.clev.net.internet2.edu (198.71.45.249)  15.790 ms  15.797 ms  15.786 ms
+ 6  et-3-0-0.4079.sdn-sw.pitt.net.internet2.edu (162.252.70.51)  18.116 ms  18.103 ms et-2-0-0.4079.sdn-sw.ashb.net.internet2.edu (162.252.70.54)  22.807 ms
+ 7  et-8-3-0.4079.sdn-sw.ashb.net.internet2.edu (162.252.70.52)  23.178 ms et-3-1-0.4079.rtsw.wash.net.internet2.edu (162.252.70.63)  23.402 ms  23.369 ms
+ 8  internet2-gw.mx1.lon.uk.geant.net (62.40.124.44)  103.778 ms et-3-1-0.4079.rtsw.wash.net.internet2.edu (162.252.70.63)  23.542 ms  23.533 ms
+ 9  ae5.mx1.lis.pt.geant.net (62.40.98.102)  132.043 ms  131.987 ms internet2-gw.mx1.lon.uk.geant.net (62.40.124.44)  103.684 ms
+10  ae1.mx2.lis.pt.geant.net (62.40.98.105)  134.094 ms ae5.mx1.lis.pt.geant.net (62.40.98.102)  136.237 ms ae1.mx2.lis.pt.geant.net (62.40.98.105)  134.161 ms
+11  fccn-gw.mx2.lis.pt.geant.net (62.40.124.98)  134.547 ms  135.975 ms  136.699 ms
+12  ROUTER13.10GE.CR2.Lisboa.fccn.pt (193.137.0.29)  132.619 ms fccn-gw.mx2.lis.pt.geant.net (62.40.124.98)  132.716 ms ROUTER13.10GE.CR2.Lisboa.fccn.pt (193.137.0.29)  132.588 ms
+13  * ROUTER13.10GE.CR1.Lisboa.fccn.pt (193.137.0.13)  134.788 ms *
+14  planetlab1.fct.ualg.pt (193.136.227.163)  139.063 ms  139.094 ms  136.650 ms
+========================================================================================
+========================================================================================
+*****************   TraceRoute   Command     Output ************************************
+----------------------------------------------------------------------------------------
+Tue Apr 25 08:45:00 UTC 2017
+----------------------------------------------------------------------------------------
+traceroute to planetlab1.fct.ualg.pt (193.136.227.163), 30 hops max, 60 byte packets
+ 1  141.212.113.1 (141.212.113.1)  0.869 ms  0.904 ms  1.088 ms
+ 2  10.224.253.24 (10.224.253.24)  0.394 ms  0.392 ms  0.378 ms
+ 3  l3-binarbl-cool-ipsvrf.r-bin-arbl.umnet.umich.edu (192.12.80.136)  0.694 ms  0.700 ms  0.669 ms
+ 4  l3-binarbl-bincath.r-bin-cath.umnet.umich.edu (192.12.80.13)  0.678 ms  0.647 ms  0.640 ms
+ 5  et-7-3-0.1102.rtsw.clev.net.internet2.edu (198.71.45.249)  15.360 ms  15.329 ms  15.333 ms
+ 6  et-2-0-0.4079.sdn-sw.ashb.net.internet2.edu (162.252.70.54)  22.786 ms et-3-0-0.4079.sdn-sw.pitt.net.internet2.edu (162.252.70.51)  18.453 ms et-2-0-0.4079.sdn-sw.ashb.net.internet2.edu (162.252.70.54)  22.753 ms
+ 7  et-3-1-0.4079.rtsw.wash.net.internet2.edu (162.252.70.63)  24.514 ms et-8-3-0.4079.sdn-sw.ashb.net.internet2.edu (162.252.70.52)  23.151 ms et-3-1-0.4079.rtsw.wash.net.internet2.edu (162.252.70.63)  23.918 ms
+ 8  internet2-gw.mx1.lon.uk.geant.net (62.40.124.44)  98.288 ms  98.264 ms  98.163 ms
+ 9  ae5.mx1.lis.pt.geant.net (62.40.98.102)  134.084 ms internet2-gw.mx1.lon.uk.geant.net (62.40.124.44)  98.241 ms  98.204 ms
+10  ae5.mx1.lis.pt.geant.net (62.40.98.102)  134.307 ms ae1.mx2.lis.pt.geant.net (62.40.98.105)  134.377 ms ae5.mx1.lis.pt.geant.net (62.40.98.102)  134.348 ms
+11  ae1.mx2.lis.pt.geant.net (62.40.98.105)  134.301 ms fccn-gw.mx2.lis.pt.geant.net (62.40.124.98)  135.944 ms  136.654 ms
+12  ROUTER13.10GE.CR1.Lisboa.fccn.pt (193.137.0.13)  134.755 ms fccn-gw.mx2.lis.pt.geant.net (62.40.124.98)  134.910 ms  136.735 ms
+13  ROUTER13.10GE.CR1.Lisboa.fccn.pt (193.137.0.13)  132.705 ms ROUTER13.10GE.CR2.Lisboa.fccn.pt (193.137.0.29)  134.704 ms  136.843 ms
+14  planetlab1.fct.ualg.pt (193.136.227.163)  139.143 ms  139.288 ms  141.039 ms
+========================================================================================
+========================================================================================
+*****************   TraceRoute   Command     Output ************************************
+----------------------------------------------------------------------------------------
+Tue Apr 25 09:45:25 UTC 2017
+----------------------------------------------------------------------------------------
+traceroute to planetlab1.fct.ualg.pt (193.136.227.163), 30 hops max, 60 byte packets
+ 1  141.212.113.1 (141.212.113.1)  0.819 ms  0.969 ms  1.112 ms
+ 2  10.224.253.24 (10.224.253.24)  0.460 ms  0.457 ms  0.444 ms
+ 3  l3-binarbl-cool-ipsvrf.r-bin-arbl.umnet.umich.edu (192.12.80.136)  0.512 ms  0.509 ms  0.498 ms
+ 4  l3-binarbl-bincath.r-bin-cath.umnet.umich.edu (192.12.80.13)  0.645 ms  0.608 ms  0.605 ms
+ 5  et-7-3-0.1102.rtsw.clev.net.internet2.edu (198.71.45.249)  15.272 ms  15.284 ms  15.274 ms
+ 6  et-2-0-0.4079.sdn-sw.ashb.net.internet2.edu (162.252.70.54)  22.805 ms et-3-0-0.4079.sdn-sw.pitt.net.internet2.edu (162.252.70.51)  18.211 ms et-2-0-0.4079.sdn-sw.ashb.net.internet2.edu (162.252.70.54)  22.785 ms
+ 7  et-8-3-0.4079.sdn-sw.ashb.net.internet2.edu (162.252.70.52)  23.041 ms  23.148 ms et-3-1-0.4079.rtsw.wash.net.internet2.edu (162.252.70.63)  23.340 ms
+ 8  internet2.mx1.lon.uk.geant.net (62.40.124.44)  98.029 ms et-3-1-0.4079.rtsw.wash.net.internet2.edu (162.252.70.63)  23.511 ms  23.492 ms
+ 9  internet2.mx1.lon.uk.geant.net (62.40.124.44)  98.319 ms  98.316 ms ae5.mx1.lis.pt.geant.net (62.40.98.102)  131.948 ms
+10  ae1.mx2.lis.pt.geant.net (62.40.98.105)  132.029 ms ae5.mx1.lis.pt.geant.net (62.40.98.102)  132.108 ms  136.319 ms
+11  fccn-gw.mx2.lis.pt.geant.net (62.40.124.98)  136.761 ms  134.599 ms ae1.mx2.lis.pt.geant.net (62.40.98.105)  132.069 ms
+12  ROUTER13.10GE.CR2.Lisboa.fccn.pt (193.137.0.29)  132.667 ms fccn-gw.mx2.lis.pt.geant.net (62.40.124.98)  134.788 ms  134.683 ms
+13  * * ROUTER13.10GE.CR1.Lisboa.fccn.pt (193.137.0.13)  132.834 ms
+14  planetlab1.fct.ualg.pt (193.136.227.163)  138.995 ms  139.106 ms  139.105 ms
+========================================================================================
+========================================================================================
+*****************   TraceRoute   Command     Output ************************************
+----------------------------------------------------------------------------------------
+Tue Apr 25 10:45:49 UTC 2017
+----------------------------------------------------------------------------------------
+traceroute to planetlab1.fct.ualg.pt (193.136.227.163), 30 hops max, 60 byte packets
+ 1  141.212.113.1 (141.212.113.1)  0.889 ms  1.032 ms  1.163 ms
+ 2  10.224.253.24 (10.224.253.24)  1.127 ms  1.121 ms  1.116 ms
+ 3  l3-binarbl-cool-ipsvrf.r-bin-arbl.umnet.umich.edu (192.12.80.136)  0.489 ms  0.668 ms  0.657 ms
+ 4  l3-binarbl-bincath.r-bin-cath.umnet.umich.edu (192.12.80.13)  0.645 ms  0.674 ms  0.595 ms
+ 5  et-7-3-0.1102.rtsw.clev.net.internet2.edu (198.71.45.249)  15.243 ms  15.268 ms  15.247 ms
+ 6  et-3-0-0.4079.sdn-sw.pitt.net.internet2.edu (162.252.70.51)  18.095 ms et-2-0-0.4079.sdn-sw.ashb.net.internet2.edu (162.252.70.54)  22.813 ms et-3-0-0.4079.sdn-sw.pitt.net.internet2.edu (162.252.70.51)  18.116 ms
+ 7  et-8-3-0.4079.sdn-sw.ashb.net.internet2.edu (162.252.70.52)  23.177 ms  23.187 ms  23.270 ms
+ 8  et-3-1-0.4079.rtsw.wash.net.internet2.edu (162.252.70.63)  23.534 ms  23.580 ms  23.569 ms
+ 9  internet2.mx1.lon.uk.geant.net (62.40.124.44)  98.170 ms ae5.mx1.lis.pt.geant.net (62.40.98.102)  134.275 ms  134.085 ms
+10  ae1.mx2.lis.pt.geant.net (62.40.98.105)  136.128 ms ae5.mx1.lis.pt.geant.net (62.40.98.102)  134.276 ms ae1.mx2.lis.pt.geant.net (62.40.98.105)  134.129 ms
+11  fccn-gw.mx2.lis.pt.geant.net (62.40.124.98)  136.658 ms ae1.mx2.lis.pt.geant.net (62.40.98.105)  136.236 ms fccn-gw.mx2.lis.pt.geant.net (62.40.124.98)  134.682 ms
+12  fccn-gw.mx2.lis.pt.geant.net (62.40.124.98)  136.787 ms  136.998 ms ROUTER13.10GE.CR2.Lisboa.fccn.pt (193.137.0.29)  134.665 ms
+13  * ROUTER13.10GE.CR2.Lisboa.fccn.pt (193.137.0.29)  134.809 ms *
+14  planetlab1.fct.ualg.pt (193.136.227.163)  138.942 ms  138.711 ms  136.711 ms
+========================================================================================
+========================================================================================
+*****************   TraceRoute   Command     Output ************************************
+----------------------------------------------------------------------------------------
+Tue Apr 25 11:46:15 UTC 2017
+----------------------------------------------------------------------------------------
+traceroute to planetlab1.fct.ualg.pt (193.136.227.163), 30 hops max, 60 byte packets
+ 1  141.212.113.1 (141.212.113.1)  0.984 ms  1.037 ms  1.209 ms
+ 2  10.224.253.24 (10.224.253.24)  0.301 ms  0.296 ms  0.283 ms
+ 3  l3-binarbl-cool-ipsvrf.r-bin-arbl.umnet.umich.edu (192.12.80.136)  0.449 ms  0.823 ms  0.688 ms
+ 4  l3-binarbl-bincath.r-bin-cath.umnet.umich.edu (192.12.80.13)  0.691 ms  0.680 ms  0.666 ms
+ 5  et-7-3-0.1102.rtsw.clev.net.internet2.edu (198.71.45.249)  15.246 ms  15.297 ms  15.284 ms
+ 6  et-3-0-0.4079.sdn-sw.pitt.net.internet2.edu (162.252.70.51)  18.068 ms et-2-0-0.4079.sdn-sw.ashb.net.internet2.edu (162.252.70.54)  22.831 ms  22.843 ms
+ 7  et-3-1-0.4079.rtsw.wash.net.internet2.edu (162.252.70.63)  30.891 ms et-8-3-0.4079.sdn-sw.ashb.net.internet2.edu (162.252.70.52)  23.227 ms  23.231 ms
+ 8  internet2-gw.mx1.lon.uk.geant.net (62.40.124.44)  98.039 ms  98.161 ms et-3-1-0.4079.rtsw.wash.net.internet2.edu (162.252.70.63)  29.411 ms
+ 9  internet2.mx1.lon.uk.geant.net (62.40.124.44)  98.163 ms ae5.mx1.lis.pt.geant.net (62.40.98.102)  133.983 ms internet2.mx1.lon.uk.geant.net (62.40.124.44)  98.218 ms
+10  ae1.mx2.lis.pt.geant.net (62.40.98.105)  131.946 ms ae5.mx1.lis.pt.geant.net (62.40.98.102)  136.227 ms ae1.mx2.lis.pt.geant.net (62.40.98.105)  134.075 ms
+11  ae1.mx2.lis.pt.geant.net (62.40.98.105)  132.095 ms fccn-gw.mx2.lis.pt.geant.net (62.40.124.98)  134.703 ms  134.543 ms
+12  ROUTER13.10GE.CR1.Lisboa.fccn.pt (193.137.0.13)  136.711 ms ROUTER13.10GE.CR2.Lisboa.fccn.pt (193.137.0.29)  132.596 ms ROUTER13.10GE.CR1.Lisboa.fccn.pt (193.137.0.13)  136.696 ms
+13  * * *
+14  planetlab1.fct.ualg.pt (193.136.227.163)  136.774 ms  136.795 ms  136.834 ms
+========================================================================================
+========================================================================================
+*****************   TraceRoute   Command     Output ************************************
+----------------------------------------------------------------------------------------
+Tue Apr 25 12:46:39 UTC 2017
+----------------------------------------------------------------------------------------
+traceroute to planetlab1.fct.ualg.pt (193.136.227.163), 30 hops max, 60 byte packets
+ 1  141.212.113.1 (141.212.113.1)  0.848 ms  0.984 ms  1.139 ms
+ 2  10.224.253.24 (10.224.253.24)  0.469 ms  0.474 ms  0.463 ms
+ 3  l3-binarbl-cool-ipsvrf.r-bin-arbl.umnet.umich.edu (192.12.80.136)  0.505 ms  0.539 ms  0.468 ms
+ 4  l3-binarbl-bincath.r-bin-cath.umnet.umich.edu (192.12.80.13)  0.613 ms  0.621 ms  0.595 ms
+ 5  et-7-3-0.1102.rtsw.clev.net.internet2.edu (198.71.45.249)  36.078 ms  36.146 ms  36.118 ms
+ 6  et-3-0-0.4079.sdn-sw.pitt.net.internet2.edu (162.252.70.51)  18.098 ms  18.101 ms  18.051 ms
+ 7  et-3-1-0.4079.rtsw.wash.net.internet2.edu (162.252.70.63)  23.539 ms  23.397 ms  23.497 ms
+ 8  internet2-gw.mx1.lon.uk.geant.net (62.40.124.44)  98.006 ms et-3-1-0.4079.rtsw.wash.net.internet2.edu (162.252.70.63)  23.421 ms  23.533 ms
+ 9  ae5.mx1.lis.pt.geant.net (62.40.98.102)  131.978 ms  136.144 ms internet2.mx1.lon.uk.geant.net (62.40.124.44)  98.113 ms
+10  ae5.mx1.lis.pt.geant.net (62.40.98.102)  132.080 ms ae1.mx2.lis.pt.geant.net (62.40.98.105)  134.243 ms ae5.mx1.lis.pt.geant.net (62.40.98.102)  132.147 ms
+11  fccn-gw.mx2.lis.pt.geant.net (62.40.124.98)  134.575 ms  134.710 ms ae1.mx2.lis.pt.geant.net (62.40.98.105)  132.133 ms
+12  fccn-gw.mx2.lis.pt.geant.net (62.40.124.98)  134.774 ms ROUTER13.10GE.CR2.Lisboa.fccn.pt (193.137.0.29)  132.636 ms fccn-gw.mx2.lis.pt.geant.net (62.40.124.98)  136.725 ms
+13  * ROUTER13.10GE.CR1.Lisboa.fccn.pt (193.137.0.13)  132.796 ms *
+14  * * *
+15  planetlab1.fct.ualg.pt (193.136.227.163)  142.736 ms  138.885 ms  136.828 ms
+========================================================================================
+========================================================================================
+*****************   TraceRoute   Command     Output ************************************
+----------------------------------------------------------------------------------------
+Tue Apr 25 13:47:04 UTC 2017
+----------------------------------------------------------------------------------------
+traceroute to planetlab1.fct.ualg.pt (193.136.227.163), 30 hops max, 60 byte packets
+ 1  141.212.113.1 (141.212.113.1)  1.167 ms  1.384 ms  1.409 ms
+ 2  10.224.253.24 (10.224.253.24)  0.247 ms  0.242 ms  0.280 ms
+ 3  l3-binarbl-cool-ipsvrf.r-bin-arbl.umnet.umich.edu (192.12.80.136)  0.522 ms  0.586 ms  0.573 ms
+ 4  l3-binarbl-bincath.r-bin-cath.umnet.umich.edu (192.12.80.13)  27.211 ms  27.322 ms  27.310 ms
+ 5  et-7-3-0.1102.rtsw.clev.net.internet2.edu (198.71.45.249)  15.296 ms  15.312 ms  15.289 ms
+ 6  et-3-0-0.4079.sdn-sw.pitt.net.internet2.edu (162.252.70.51)  18.103 ms et-2-0-0.4079.sdn-sw.ashb.net.internet2.edu (162.252.70.54)  22.892 ms  22.831 ms
+ 7  et-8-3-0.4079.sdn-sw.ashb.net.internet2.edu (162.252.70.52)  23.160 ms  23.018 ms et-3-1-0.4079.rtsw.wash.net.internet2.edu (162.252.70.63)  23.970 ms
+ 8  internet2.mx1.lon.uk.geant.net (62.40.124.44)  97.985 ms  98.109 ms et-3-1-0.4079.rtsw.wash.net.internet2.edu (162.252.70.63)  23.471 ms
+ 9  ae5.mx1.lis.pt.geant.net (62.40.98.102)  131.955 ms  136.287 ms internet2.mx1.lon.uk.geant.net (62.40.124.44)  98.170 ms
+10  ae1.mx2.lis.pt.geant.net (62.40.98.105)  134.025 ms  134.189 ms ae5.mx1.lis.pt.geant.net (62.40.98.102)  132.076 ms
+11  ae1.mx2.lis.pt.geant.net (62.40.98.105)  134.374 ms  136.249 ms fccn-gw.mx2.lis.pt.geant.net (62.40.124.98)  134.688 ms
+12  ROUTER13.10GE.CR2.Lisboa.fccn.pt (193.137.0.29)  136.685 ms ROUTER13.10GE.CR1.Lisboa.fccn.pt (193.137.0.13)  132.642 ms  134.618 ms
+13  ROUTER13.10GE.CR2.Lisboa.fccn.pt (193.137.0.29)  134.614 ms ROUTER13.10GE.CR1.Lisboa.fccn.pt (193.137.0.13)  132.604 ms ROUTER13.10GE.CR2.Lisboa.fccn.pt (193.137.0.29)  136.905 ms
+14  planetlab1.fct.ualg.pt (193.136.227.163)  138.949 ms  142.265 ms  138.959 ms
+========================================================================================
+========================================================================================
+*****************   TraceRoute   Command     Output ************************************
+----------------------------------------------------------------------------------------
+Tue Apr 25 14:47:30 UTC 2017
+----------------------------------------------------------------------------------------
+traceroute to planetlab1.fct.ualg.pt (193.136.227.163), 30 hops max, 60 byte packets
+ 1  141.212.113.1 (141.212.113.1)  1.136 ms  1.264 ms  1.392 ms
+ 2  10.224.253.24 (10.224.253.24)  0.280 ms  0.280 ms  0.266 ms
+ 3  l3-binarbl-cool-ipsvrf.r-bin-arbl.umnet.umich.edu (192.12.80.136)  0.501 ms  0.517 ms  0.504 ms
+ 4  l3-binarbl-bincath.r-bin-cath.umnet.umich.edu (192.12.80.13)  0.844 ms  0.833 ms  0.616 ms
+ 5  et-7-3-0.1102.rtsw.clev.net.internet2.edu (198.71.45.249)  15.260 ms  15.343 ms  15.350 ms
+ 6  et-3-0-0.4079.sdn-sw.pitt.net.internet2.edu (162.252.70.51)  18.097 ms et-2-0-0.4079.sdn-sw.ashb.net.internet2.edu (162.252.70.54)  23.116 ms  23.012 ms
+ 7  et-8-3-0.4079.sdn-sw.ashb.net.internet2.edu (162.252.70.52)  33.278 ms et-3-1-0.4079.rtsw.wash.net.internet2.edu (162.252.70.63)  24.136 ms  24.223 ms
+ 8  et-3-1-0.4079.rtsw.wash.net.internet2.edu (162.252.70.63)  24.156 ms internet2-gw.mx1.lon.uk.geant.net (62.40.124.44)  98.212 ms  98.323 ms
+ 9  internet2.mx1.lon.uk.geant.net (62.40.124.44)  98.313 ms  98.301 ms ae5.mx1.lis.pt.geant.net (62.40.98.102)  131.967 ms
+10  ae1.mx2.lis.pt.geant.net (62.40.98.105)  132.080 ms  132.215 ms  132.144 ms
+11  ae1.mx2.lis.pt.geant.net (62.40.98.105)  132.171 ms fccn-gw.mx2.lis.pt.geant.net (62.40.124.98)  132.769 ms  133.826 ms
+12  ROUTER13.10GE.CR2.Lisboa.fccn.pt (193.137.0.29)  134.672 ms fccn-gw.mx2.lis.pt.geant.net (62.40.124.98)  133.372 ms  133.339 ms
+13  ROUTER13.10GE.CR2.Lisboa.fccn.pt (193.137.0.29)  134.634 ms  136.806 ms *
+14  planetlab1.fct.ualg.pt (193.136.227.163)  136.899 ms  136.997 ms  136.825 ms
+========================================================================================
+========================================================================================
+*****************   TraceRoute   Command     Output ************************************
+----------------------------------------------------------------------------------------
+Tue Apr 25 15:47:55 UTC 2017
+----------------------------------------------------------------------------------------
+traceroute to planetlab1.fct.ualg.pt (193.136.227.163), 30 hops max, 60 byte packets
+ 1  141.212.113.1 (141.212.113.1)  1.285 ms  1.419 ms  1.438 ms
+ 2  10.224.253.24 (10.224.253.24)  0.277 ms  0.385 ms  0.373 ms
+ 3  l3-binarbl-cool-ipsvrf.r-bin-arbl.umnet.umich.edu (192.12.80.136)  0.515 ms  0.518 ms  0.506 ms
+ 4  l3-binarbl-bincath.r-bin-cath.umnet.umich.edu (192.12.80.13)  0.591 ms  0.580 ms  0.606 ms
+ 5  et-7-3-0.1102.rtsw.clev.net.internet2.edu (198.71.45.249)  16.046 ms  16.062 ms  16.039 ms
+ 6  et-3-0-0.4079.sdn-sw.pitt.net.internet2.edu (162.252.70.51)  18.105 ms  18.143 ms  18.109 ms
+ 7  et-3-1-0.4079.rtsw.wash.net.internet2.edu (162.252.70.63)  23.480 ms  23.474 ms  23.445 ms
+ 8  internet2.mx1.lon.uk.geant.net (62.40.124.44)  98.077 ms et-3-1-0.4079.rtsw.wash.net.internet2.edu (162.252.70.63)  23.661 ms  23.784 ms
+ 9  internet2.mx1.lon.uk.geant.net (62.40.124.44)  98.096 ms  98.193 ms  98.283 ms
+10  ae5.mx1.lis.pt.geant.net (62.40.98.102)  132.076 ms  132.080 ms ae1.mx2.lis.pt.geant.net (62.40.98.105)  134.051 ms
+11  ae1.mx2.lis.pt.geant.net (62.40.98.105)  132.217 ms  134.201 ms  132.097 ms
+12  fccn-gw.mx2.lis.pt.geant.net (62.40.124.98)  136.664 ms  134.602 ms  134.588 ms
+13  ROUTER13.10GE.CR1.Lisboa.fccn.pt (193.137.0.13)  134.795 ms ROUTER13.10GE.CR2.Lisboa.fccn.pt (193.137.0.29)  136.728 ms  134.528 ms
+14  * * *
+15  planetlab1.fct.ualg.pt (193.136.227.163)  140.948 ms  141.386 ms  139.044 ms
+========================================================================================
+========================================================================================
+*****************   TraceRoute   Command     Output ************************************
+----------------------------------------------------------------------------------------
+Tue Apr 25 16:48:21 UTC 2017
+----------------------------------------------------------------------------------------
+traceroute to planetlab1.fct.ualg.pt (193.136.227.163), 30 hops max, 60 byte packets
+ 1  141.212.113.1 (141.212.113.1)  0.907 ms  1.039 ms  1.193 ms
+ 2  10.224.253.24 (10.224.253.24)  0.248 ms  0.282 ms  0.414 ms
+ 3  l3-binarbl-cool-ipsvrf.r-bin-arbl.umnet.umich.edu (192.12.80.136)  0.502 ms  0.489 ms  0.474 ms
+ 4  l3-binarbl-bincath.r-bin-cath.umnet.umich.edu (192.12.80.13)  0.574 ms  0.607 ms  0.549 ms
+ 5  et-7-3-0.1102.rtsw.clev.net.internet2.edu (198.71.45.249)  15.282 ms  15.286 ms  15.268 ms
+ 6  et-2-0-0.4079.sdn-sw.ashb.net.internet2.edu (162.252.70.54)  22.877 ms  22.947 ms et-3-0-0.4079.sdn-sw.pitt.net.internet2.edu (162.252.70.51)  18.103 ms
+ 7  et-8-3-0.4079.sdn-sw.ashb.net.internet2.edu (162.252.70.52)  31.149 ms et-3-1-0.4079.rtsw.wash.net.internet2.edu (162.252.70.63)  23.391 ms  23.457 ms
+ 8  et-3-1-0.4079.rtsw.wash.net.internet2.edu (162.252.70.63)  23.505 ms  23.540 ms internet2.mx1.lon.uk.geant.net (62.40.124.44)  108.274 ms
+ 9  internet2-gw.mx1.lon.uk.geant.net (62.40.124.44)  108.479 ms  107.963 ms  105.036 ms
+10  ae1.mx2.lis.pt.geant.net (62.40.98.105)  134.194 ms  134.126 ms  134.082 ms
+11  fccn-gw.mx2.lis.pt.geant.net (62.40.124.98)  134.595 ms ae1.mx2.lis.pt.geant.net (62.40.98.105)  131.990 ms fccn-gw.mx2.lis.pt.geant.net (62.40.124.98)  134.521 ms
+12  fccn-gw.mx2.lis.pt.geant.net (62.40.124.98)  134.638 ms  136.725 ms ROUTER13.10GE.CR1.Lisboa.fccn.pt (193.137.0.13)  134.891 ms
+13  ROUTER13.10GE.CR1.Lisboa.fccn.pt (193.137.0.13)  136.192 ms * ROUTER13.10GE.CR2.Lisboa.fccn.pt (193.137.0.29)  134.814 ms
+14  planetlab1.fct.ualg.pt (193.136.227.163)  140.845 ms  139.139 ms  141.233 ms
+========================================================================================
+========================================================================================
+*****************   TraceRoute   Command     Output ************************************
+----------------------------------------------------------------------------------------
+Tue Apr 25 17:48:45 UTC 2017
+----------------------------------------------------------------------------------------
+traceroute to planetlab1.fct.ualg.pt (193.136.227.163), 30 hops max, 60 byte packets
+ 1  141.212.113.1 (141.212.113.1)  1.006 ms  1.145 ms  1.303 ms
+ 2  10.224.253.24 (10.224.253.24)  0.285 ms  0.403 ms  0.393 ms
+ 3  l3-binarbl-cool-ipsvrf.r-bin-arbl.umnet.umich.edu (192.12.80.136)  0.558 ms  0.525 ms  0.518 ms
+ 4  l3-binarbl-bincath.r-bin-cath.umnet.umich.edu (192.12.80.13)  0.673 ms  0.668 ms  0.655 ms
+ 5  et-7-3-0.1102.rtsw.clev.net.internet2.edu (198.71.45.249)  15.510 ms  15.355 ms  15.480 ms
+ 6  et-2-0-0.4079.sdn-sw.ashb.net.internet2.edu (162.252.70.54)  22.838 ms et-3-0-0.4079.sdn-sw.pitt.net.internet2.edu (162.252.70.51)  18.175 ms  18.270 ms
+ 7  et-8-3-0.4079.sdn-sw.ashb.net.internet2.edu (162.252.70.52)  23.305 ms et-3-1-0.4079.rtsw.wash.net.internet2.edu (162.252.70.63)  23.427 ms  23.418 ms
+ 8  internet2.mx1.lon.uk.geant.net (62.40.124.44)  98.178 ms  98.084 ms  98.062 ms
+ 9  internet2-gw.mx1.lon.uk.geant.net (62.40.124.44)  98.114 ms ae5.mx1.lis.pt.geant.net (62.40.98.102)  134.204 ms  136.239 ms
+10  ae1.mx2.lis.pt.geant.net (62.40.98.105)  151.937 ms ae5.mx1.lis.pt.geant.net (62.40.98.102)  134.167 ms ae1.mx2.lis.pt.geant.net (62.40.98.105)  138.743 ms
+11  fccn-gw.mx2.lis.pt.geant.net (62.40.124.98)  132.689 ms ae1.mx2.lis.pt.geant.net (62.40.98.105)  137.020 ms  136.925 ms
+12  fccn-gw.mx2.lis.pt.geant.net (62.40.124.98)  133.754 ms  134.707 ms ROUTER13.10GE.CR1.Lisboa.fccn.pt (193.137.0.13)  134.625 ms
+13  * * ROUTER13.10GE.CR1.Lisboa.fccn.pt (193.137.0.13)  134.722 ms
+14  planetlab1.fct.ualg.pt (193.136.227.163)  138.918 ms  138.923 ms  139.020 ms
+========================================================================================
+========================================================================================
+*****************   TraceRoute   Command     Output ************************************
+----------------------------------------------------------------------------------------
+Tue Apr 25 18:49:10 UTC 2017
+----------------------------------------------------------------------------------------
+traceroute to planetlab1.fct.ualg.pt (193.136.227.163), 30 hops max, 60 byte packets
+ 1  141.212.113.1 (141.212.113.1)  0.839 ms  1.009 ms  1.151 ms
+ 2  10.224.253.24 (10.224.253.24)  0.340 ms  0.538 ms  0.529 ms
+ 3  l3-binarbl-cool-ipsvrf.r-bin-arbl.umnet.umich.edu (192.12.80.136)  0.517 ms  0.495 ms  0.479 ms
+ 4  l3-binarbl-bincath.r-bin-cath.umnet.umich.edu (192.12.80.13)  1.359 ms  1.355 ms  1.342 ms
+ 5  et-7-3-0.1102.rtsw.clev.net.internet2.edu (198.71.45.249)  15.285 ms  15.292 ms  15.280 ms
+ 6  et-2-0-0.4079.sdn-sw.ashb.net.internet2.edu (162.252.70.54)  22.894 ms  22.839 ms et-3-0-0.4079.sdn-sw.pitt.net.internet2.edu (162.252.70.51)  18.126 ms
+ 7  et-3-1-0.4079.rtsw.wash.net.internet2.edu (162.252.70.63)  23.433 ms  23.423 ms et-8-3-0.4079.sdn-sw.ashb.net.internet2.edu (162.252.70.52)  23.364 ms
+ 8  internet2.mx1.lon.uk.geant.net (62.40.124.44)  98.140 ms et-3-1-0.4079.rtsw.wash.net.internet2.edu (162.252.70.63)  23.581 ms internet2.mx1.lon.uk.geant.net (62.40.124.44)  98.031 ms
+ 9  ae5.mx1.lis.pt.geant.net (62.40.98.102)  136.194 ms  136.144 ms internet2.mx1.lon.uk.geant.net (62.40.124.44)  98.147 ms
+10  ae1.mx2.lis.pt.geant.net (62.40.98.105)  136.839 ms ae5.mx1.lis.pt.geant.net (62.40.98.102)  136.312 ms ae1.mx2.lis.pt.geant.net (62.40.98.105)  134.083 ms
+11  ae1.mx2.lis.pt.geant.net (62.40.98.105)  134.256 ms fccn-gw.mx2.lis.pt.geant.net (62.40.124.98)  136.922 ms  138.086 ms
+12  ROUTER13.10GE.CR2.Lisboa.fccn.pt (193.137.0.29)  132.945 ms  134.568 ms ROUTER13.10GE.CR1.Lisboa.fccn.pt (193.137.0.13)  138.052 ms
+13  ROUTER13.10GE.CR1.Lisboa.fccn.pt (193.137.0.13)  134.966 ms  138.546 ms ROUTER13.10GE.CR2.Lisboa.fccn.pt (193.137.0.29)  132.674 ms
+14  planetlab1.fct.ualg.pt (193.136.227.163)  138.938 ms  136.947 ms  136.756 ms
+========================================================================================
+========================================================================================
+*****************   TraceRoute   Command     Output ************************************
+----------------------------------------------------------------------------------------
+Tue Apr 25 19:49:35 UTC 2017
+----------------------------------------------------------------------------------------
+traceroute to planetlab1.fct.ualg.pt (193.136.227.163), 30 hops max, 60 byte packets
+ 1  141.212.113.1 (141.212.113.1)  4.846 ms  4.975 ms  5.101 ms
+ 2  10.224.253.24 (10.224.253.24)  0.288 ms  0.304 ms  0.535 ms
+ 3  l3-binarbl-cool-ipsvrf.r-bin-arbl.umnet.umich.edu (192.12.80.136)  0.534 ms  0.517 ms  0.494 ms
+ 4  l3-binarbl-bincath.r-bin-cath.umnet.umich.edu (192.12.80.13)  0.638 ms  0.606 ms  0.601 ms
+ 5  et-7-3-0.1102.rtsw.clev.net.internet2.edu (198.71.45.249)  15.284 ms  15.366 ms  15.356 ms
+ 6  et-3-0-0.4079.sdn-sw.pitt.net.internet2.edu (162.252.70.51)  18.148 ms et-2-0-0.4079.sdn-sw.ashb.net.internet2.edu (162.252.70.54)  22.851 ms et-3-0-0.4079.sdn-sw.pitt.net.internet2.edu (162.252.70.51)  18.099 ms
+ 7  et-3-1-0.4079.rtsw.wash.net.internet2.edu (162.252.70.63)  23.434 ms et-8-3-0.4079.sdn-sw.ashb.net.internet2.edu (162.252.70.52)  23.232 ms et-3-1-0.4079.rtsw.wash.net.internet2.edu (162.252.70.63)  23.508 ms
+ 8  et-3-1-0.4079.rtsw.wash.net.internet2.edu (162.252.70.63)  23.509 ms internet2-gw.mx1.lon.uk.geant.net (62.40.124.44)  98.011 ms et-3-1-0.4079.rtsw.wash.net.internet2.edu (162.252.70.63)  23.458 ms
+ 9  internet2-gw.mx1.lon.uk.geant.net (62.40.124.44)  98.282 ms  98.194 ms ae5.mx1.lis.pt.geant.net (62.40.98.102)  136.514 ms
+10  ae1.mx2.lis.pt.geant.net (62.40.98.105)  136.144 ms  134.017 ms ae5.mx1.lis.pt.geant.net (62.40.98.102)  136.627 ms
+11  ae1.mx2.lis.pt.geant.net (62.40.98.105)  134.120 ms  136.277 ms fccn-gw.mx2.lis.pt.geant.net (62.40.124.98)  132.594 ms
+12  fccn-gw.mx2.lis.pt.geant.net (62.40.124.98)  132.833 ms  134.827 ms  134.978 ms
+13  ROUTER13.10GE.CR1.Lisboa.fccn.pt (193.137.0.13)  136.932 ms * *
+14  * * *
+15  planetlab1.fct.ualg.pt (193.136.227.163)  141.313 ms  141.159 ms  138.798 ms
+========================================================================================
+========================================================================================
+*****************   TraceRoute   Command     Output ************************************
+----------------------------------------------------------------------------------------
+Tue Apr 25 20:49:59 UTC 2017
+----------------------------------------------------------------------------------------
+traceroute to planetlab1.fct.ualg.pt (193.136.227.163), 30 hops max, 60 byte packets
+ 1  141.212.113.1 (141.212.113.1)  2.334 ms  2.319 ms  2.469 ms
+ 2  10.224.253.24 (10.224.253.24)  0.597 ms  0.428 ms  0.416 ms
+ 3  l3-binarbl-cool-ipsvrf.r-bin-arbl.umnet.umich.edu (192.12.80.136)  0.488 ms  0.533 ms  0.462 ms
+ 4  l3-binarbl-bincath.r-bin-cath.umnet.umich.edu (192.12.80.13)  0.598 ms  0.591 ms  0.577 ms
+ 5  et-7-3-0.1102.rtsw.clev.net.internet2.edu (198.71.45.249)  15.315 ms  15.273 ms  15.286 ms
+ 6  et-2-0-0.4079.sdn-sw.ashb.net.internet2.edu (162.252.70.54)  22.805 ms  22.774 ms et-3-0-0.4079.sdn-sw.pitt.net.internet2.edu (162.252.70.51)  18.100 ms
+ 7  et-8-3-0.4079.sdn-sw.ashb.net.internet2.edu (162.252.70.52)  23.082 ms et-3-1-0.4079.rtsw.wash.net.internet2.edu (162.252.70.63)  23.413 ms  23.366 ms
+ 8  internet2.mx1.lon.uk.geant.net (62.40.124.44)  98.076 ms  98.219 ms et-3-1-0.4079.rtsw.wash.net.internet2.edu (162.252.70.63)  23.540 ms
+ 9  ae5.mx1.lis.pt.geant.net (62.40.98.102)  136.154 ms  136.158 ms internet2.mx1.lon.uk.geant.net (62.40.124.44)  98.134 ms
+10  ae5.mx1.lis.pt.geant.net (62.40.98.102)  134.219 ms  136.247 ms ae1.mx2.lis.pt.geant.net (62.40.98.105)  136.184 ms
+11  ae1.mx2.lis.pt.geant.net (62.40.98.105)  136.185 ms fccn-gw.mx2.lis.pt.geant.net (62.40.124.98)  134.499 ms  134.830 ms
+12  ROUTER13.10GE.CR1.Lisboa.fccn.pt (193.137.0.13)  134.776 ms  136.575 ms  134.809 ms
+13  * ROUTER13.10GE.CR1.Lisboa.fccn.pt (193.137.0.13)  134.995 ms *
+14  planetlab1.fct.ualg.pt (193.136.227.163)  140.870 ms  141.409 ms  140.819 ms
+========================================================================================
+========================================================================================
+*****************   TraceRoute   Command     Output ************************************
+----------------------------------------------------------------------------------------
+Tue Apr 25 21:50:24 UTC 2017
+----------------------------------------------------------------------------------------
+traceroute to planetlab1.fct.ualg.pt (193.136.227.163), 30 hops max, 60 byte packets
+ 1  141.212.113.1 (141.212.113.1)  0.801 ms  0.949 ms  1.122 ms
+ 2  10.224.253.24 (10.224.253.24)  0.606 ms  0.540 ms  0.532 ms
+ 3  l3-binarbl-cool-ipsvrf.r-bin-arbl.umnet.umich.edu (192.12.80.136)  0.510 ms  0.504 ms  0.488 ms
+ 4  l3-binarbl-bincath.r-bin-cath.umnet.umich.edu (192.12.80.13)  0.672 ms  0.671 ms  0.659 ms
+ 5  et-7-3-0.1102.rtsw.clev.net.internet2.edu (198.71.45.249)  15.301 ms  15.252 ms  15.273 ms
+ 6  et-2-0-0.4079.sdn-sw.ashb.net.internet2.edu (162.252.70.54)  22.829 ms et-3-0-0.4079.sdn-sw.pitt.net.internet2.edu (162.252.70.51)  18.109 ms et-2-0-0.4079.sdn-sw.ashb.net.internet2.edu (162.252.70.54)  22.742 ms
+ 7  et-8-3-0.4079.sdn-sw.ashb.net.internet2.edu (162.252.70.52)  23.258 ms  23.213 ms  23.245 ms
+ 8  internet2-gw.mx1.lon.uk.geant.net (62.40.124.44)  98.039 ms et-3-1-0.4079.rtsw.wash.net.internet2.edu (162.252.70.63)  23.704 ms internet2.mx1.lon.uk.geant.net (62.40.124.44)  98.006 ms
+ 9  internet2.mx1.lon.uk.geant.net (62.40.124.44)  98.132 ms ae5.mx1.lis.pt.geant.net (62.40.98.102)  131.961 ms internet2.mx1.lon.uk.geant.net (62.40.124.44)  98.119 ms
+10  ae5.mx1.lis.pt.geant.net (62.40.98.102)  132.065 ms  133.685 ms ae1.mx2.lis.pt.geant.net (62.40.98.105)  134.449 ms
+11  ae1.mx2.lis.pt.geant.net (62.40.98.105)  132.116 ms fccn-gw.mx2.lis.pt.geant.net (62.40.124.98)  134.644 ms ae1.mx2.lis.pt.geant.net (62.40.98.105)  134.245 ms
+12  fccn-gw.mx2.lis.pt.geant.net (62.40.124.98)  134.659 ms  134.719 ms ROUTER13.10GE.CR1.Lisboa.fccn.pt (193.137.0.13)  132.731 ms
+13  * ROUTER13.10GE.CR2.Lisboa.fccn.pt (193.137.0.29)  132.814 ms ROUTER13.10GE.CR1.Lisboa.fccn.pt (193.137.0.13)  132.811 ms
+14  planetlab1.fct.ualg.pt (193.136.227.163)  138.766 ms  140.950 ms  140.818 ms
+========================================================================================
+========================================================================================
+*****************   TraceRoute   Command     Output ************************************
+----------------------------------------------------------------------------------------
+Tue Apr 25 22:50:49 UTC 2017
+----------------------------------------------------------------------------------------
+traceroute to planetlab1.fct.ualg.pt (193.136.227.163), 30 hops max, 60 byte packets
+ 1  141.212.113.1 (141.212.113.1)  1.705 ms  1.935 ms  2.457 ms
+ 2  10.224.253.24 (10.224.253.24)  0.201 ms  0.352 ms  0.224 ms
+ 3  l3-binarbl-cool-ipsvrf.r-bin-arbl.umnet.umich.edu (192.12.80.136)  1.424 ms  1.406 ms  1.383 ms
+ 4  l3-binarbl-bincath.r-bin-cath.umnet.umich.edu (192.12.80.13)  1.281 ms  1.267 ms  1.254 ms
+ 5  et-7-3-0.1102.rtsw.clev.net.internet2.edu (198.71.45.249)  15.264 ms  15.389 ms  15.378 ms
+ 6  et-2-0-0.4079.sdn-sw.ashb.net.internet2.edu (162.252.70.54)  22.850 ms et-3-0-0.4079.sdn-sw.pitt.net.internet2.edu (162.252.70.51)  18.103 ms et-2-0-0.4079.sdn-sw.ashb.net.internet2.edu (162.252.70.54)  22.818 ms
+ 7  et-8-3-0.4079.sdn-sw.ashb.net.internet2.edu (162.252.70.52)  23.443 ms et-3-1-0.4079.rtsw.wash.net.internet2.edu (162.252.70.63)  23.418 ms  23.371 ms
+ 8  et-3-1-0.4079.rtsw.wash.net.internet2.edu (162.252.70.63)  23.531 ms  23.505 ms  23.499 ms
+ 9  ae5.mx1.lis.pt.geant.net (62.40.98.102)  131.941 ms internet2.mx1.lon.uk.geant.net (62.40.124.44)  98.759 ms  98.483 ms
+10  ae5.mx1.lis.pt.geant.net (62.40.98.102)  132.080 ms ae1.mx2.lis.pt.geant.net (62.40.98.105)  132.049 ms  132.255 ms
+11  fccn-gw.mx2.lis.pt.geant.net (62.40.124.98)  132.552 ms ae1.mx2.lis.pt.geant.net (62.40.98.105)  132.132 ms  132.130 ms
+12  fccn-gw.mx2.lis.pt.geant.net (62.40.124.98)  133.668 ms  132.604 ms ROUTER13.10GE.CR2.Lisboa.fccn.pt (193.137.0.29)  132.662 ms
+13  * ROUTER13.10GE.CR1.Lisboa.fccn.pt (193.137.0.13)  134.853 ms *
+14  * * *
+15  planetlab1.fct.ualg.pt (193.136.227.163)  138.897 ms  140.763 ms  138.727 ms
+========================================================================================
+========================================================================================
+*****************   TraceRoute   Command     Output ************************************
+----------------------------------------------------------------------------------------
+Tue Apr 25 23:51:14 UTC 2017
+----------------------------------------------------------------------------------------
+traceroute to planetlab1.fct.ualg.pt (193.136.227.163), 30 hops max, 60 byte packets
+ 1  141.212.113.1 (141.212.113.1)  0.838 ms  0.993 ms  1.116 ms
+ 2  10.224.253.24 (10.224.253.24)  0.366 ms  0.360 ms  0.348 ms
+ 3  l3-binarbl-cool-ipsvrf.r-bin-arbl.umnet.umich.edu (192.12.80.136)  0.544 ms  0.543 ms  0.522 ms
+ 4  l3-binarbl-bincath.r-bin-cath.umnet.umich.edu (192.12.80.13)  0.605 ms  0.611 ms  0.599 ms
+ 5  et-7-3-0.1102.rtsw.clev.net.internet2.edu (198.71.45.249)  15.290 ms  15.300 ms  15.287 ms
+ 6  et-3-0-0.4079.sdn-sw.pitt.net.internet2.edu (162.252.70.51)  18.106 ms  18.091 ms et-2-0-0.4079.sdn-sw.ashb.net.internet2.edu (162.252.70.54)  22.801 ms
+ 7  et-3-1-0.4079.rtsw.wash.net.internet2.edu (162.252.70.63)  23.353 ms  23.318 ms et-8-3-0.4079.sdn-sw.ashb.net.internet2.edu (162.252.70.52)  23.223 ms
+ 8  internet2.mx1.lon.uk.geant.net (62.40.124.44)  101.497 ms et-3-1-0.4079.rtsw.wash.net.internet2.edu (162.252.70.63)  23.446 ms internet2.mx1.lon.uk.geant.net (62.40.124.44)  101.424 ms
+ 9  ae5.mx1.lis.pt.geant.net (62.40.98.102)  136.133 ms  132.000 ms  136.097 ms
+10  ae1.mx2.lis.pt.geant.net (62.40.98.105)  131.966 ms  131.979 ms  131.977 ms
+11  ae1.mx2.lis.pt.geant.net (62.40.98.105)  132.026 ms fccn-gw.mx2.lis.pt.geant.net (62.40.124.98)  134.754 ms ae1.mx2.lis.pt.geant.net (62.40.98.105)  132.083 ms
+12  fccn-gw.mx2.lis.pt.geant.net (62.40.124.98)  133.367 ms  133.006 ms  134.769 ms
+13  * * ROUTER13.10GE.CR2.Lisboa.fccn.pt (193.137.0.29)  132.663 ms
+14  * * *
+15  planetlab1.fct.ualg.pt (193.136.227.163)  137.381 ms  138.899 ms  138.824 ms
+========================================================================================
+========================================================================================

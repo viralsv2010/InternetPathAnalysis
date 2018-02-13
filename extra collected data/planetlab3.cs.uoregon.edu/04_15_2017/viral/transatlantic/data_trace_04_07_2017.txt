@@ -1,0 +1,399 @@
+*****************   TraceRoute   Command     Output ************************************
+----------------------------------------------------------------------------------------
+Fri Apr  7 05:20:36 UTC 2017
+----------------------------------------------------------------------------------------
+traceroute to pl2.tailab.eu (194.79.147.165), 30 hops max, 60 byte packets
+ 1  vl-8.uonet1-gw.uoregon.edu (128.223.8.2)  4.881 ms  5.067 ms  5.130 ms
+ 2  2.bundle-ether10.uonet10-gw.uoregon.edu (128.223.2.10)  2.030 ms  2.135 ms  2.122 ms
+ 3  eugn-car1-gw.nero.net (207.98.68.177)  0.289 ms  0.276 ms  0.260 ms
+ 4  eugn-p2-gw.nero.net (207.98.64.202)  2.611 ms  2.672 ms  2.666 ms
+ 5  eugn-core1-gw.nero.net (207.98.64.195)  0.777 ms  0.809 ms  0.725 ms
+ 6  te-4-4.car1.Sacramento1.Level3.net (4.53.200.1)  10.126 ms  10.233 ms  10.207 ms
+ 7  sjo-b21-link.telia.net (213.248.98.29)  14.146 ms  13.944 ms  14.149 ms
+ 8  nyk-bb3-link.telia.net (213.155.130.128)  83.426 ms ash-bb4-link.telia.net (80.91.245.70)  84.619 ms ash-bb4-link.telia.net (62.115.138.48)  85.184 ms
+ 9  prs-bb2-link.telia.net (80.91.251.246)  161.515 ms prs-bb3-link.telia.net (62.115.124.133)  169.293 ms prs-bb3-link.telia.net (62.115.124.139)  169.570 ms
+10  prs-b8-link.telia.net (62.115.118.109)  162.074 ms prs-b8-link.telia.net (62.115.118.75)  170.383 ms prs-b8-link.telia.net (62.115.118.61)  173.325 ms
+11  nerim-ic-305766-prs-b8.c.telia.net (213.155.129.254)  173.309 ms  169.541 ms prs-b8-link.telia.net (62.115.118.103)  166.519 ms
+12  xe0-0-0-54.nas207-dsl-stdenis.nerim.net (194.79.131.190)  169.249 ms  162.096 ms  162.251 ms
+13  thales-fibre-14-22.fib.nerim.net (213.215.14.22)  170.524 ms  170.570 ms  174.442 ms
+14  thales-fibre-147-165.fib.nerim.net (194.79.147.165)  164.893 ms  171.885 ms  164.930 ms
+========================================================================================
+========================================================================================
+*****************   TraceRoute   Command     Output ************************************
+----------------------------------------------------------------------------------------
+Fri Apr  7 06:21:08 UTC 2017
+----------------------------------------------------------------------------------------
+traceroute to pl2.tailab.eu (194.79.147.165), 30 hops max, 60 byte packets
+ 1  vl-8.uonet1-gw.uoregon.edu (128.223.8.2)  0.701 ms  0.640 ms  0.622 ms
+ 2  2.bundle-ether10.uonet10-gw.uoregon.edu (128.223.2.10)  2.077 ms  2.071 ms  2.057 ms
+ 3  eugn-car1-gw.nero.net (207.98.68.177)  0.286 ms  0.468 ms  0.471 ms
+ 4  eugn-p2-gw.nero.net (207.98.64.202)  2.393 ms  2.718 ms  2.709 ms
+ 5  eugn-core1-gw.nero.net (207.98.64.195)  0.650 ms  0.641 ms  0.674 ms
+ 6  te-4-4.car1.Sacramento1.Level3.net (4.53.200.1)  10.108 ms  10.019 ms  10.093 ms
+ 7  sjo-b21-link.telia.net (213.248.98.29)  13.958 ms  13.786 ms  13.936 ms
+ 8  ash-bb4-link.telia.net (62.115.138.48)  85.173 ms nyk-bb4-link.telia.net (80.91.245.97)  83.773 ms nyk-bb3-link.telia.net (213.248.80.0)  83.347 ms
+ 9  prs-bb2-link.telia.net (62.115.116.71)  160.928 ms prs-bb2-link.telia.net (62.115.124.155)  160.508 ms prs-bb3-link.telia.net (62.115.124.117)  173.031 ms
+10  prs-b8-link.telia.net (62.115.117.105)  173.283 ms prs-b8-link.telia.net (213.155.131.1)  169.449 ms prs-b8-link.telia.net (62.115.118.91)  173.232 ms
+11  nerim-ic-305766-prs-b8.c.telia.net (213.155.129.254)  162.304 ms  169.633 ms  169.464 ms
+12  xe0-0-0-54.nas207-dsl-stdenis.nerim.net (194.79.131.190)  169.246 ms  173.064 ms  162.090 ms
+13  thales-fibre-14-22.fib.nerim.net (213.215.14.22)  161.350 ms  162.303 ms  170.321 ms
+14  thales-fibre-147-165.fib.nerim.net (194.79.147.165)  175.799 ms  163.496 ms  164.439 ms
+========================================================================================
+========================================================================================
+*****************   TraceRoute   Command     Output ************************************
+----------------------------------------------------------------------------------------
+Fri Apr  7 07:21:45 UTC 2017
+----------------------------------------------------------------------------------------
+traceroute to pl2.tailab.eu (194.79.147.165), 30 hops max, 60 byte packets
+ 1  vl-8.uonet1-gw.uoregon.edu (128.223.8.2)  0.690 ms  0.636 ms  0.702 ms
+ 2  2.bundle-ether10.uonet10-gw.uoregon.edu (128.223.2.10)  1.884 ms  1.999 ms  1.985 ms
+ 3  eugn-car1-gw.nero.net (207.98.68.177)  0.297 ms  0.459 ms  0.463 ms
+ 4  eugn-p2-gw.nero.net (207.98.64.202)  2.176 ms  2.349 ms  2.341 ms
+ 5  eugn-core1-gw.nero.net (207.98.64.195)  1.044 ms  1.032 ms  1.017 ms
+ 6  te-4-4.car1.Sacramento1.Level3.net (4.53.200.1)  151.506 ms  151.290 ms  151.309 ms
+ 7  sjo-b21-link.telia.net (213.248.98.29)  14.153 ms  14.936 ms  13.937 ms
+ 8  ash-bb3-link.telia.net (213.155.130.210)  85.323 ms ash-bb3-link.telia.net (80.91.252.47)  85.266 ms ash-bb4-link.telia.net (80.91.245.70)  84.618 ms
+ 9  prs-bb2-link.telia.net (80.91.251.246)  161.545 ms prs-bb2-link.telia.net (80.91.254.215)  161.454 ms prs-bb3-link.telia.net (62.115.121.27)  173.660 ms
+10  prs-b8-link.telia.net (213.155.132.225)  169.539 ms prs-b8-link.telia.net (62.115.118.45)  162.157 ms prs-b8-link.telia.net (62.115.117.107)  169.423 ms
+11  prs-b8-link.telia.net (213.155.131.17)  166.307 ms nerim-ic-305766-prs-b8.c.telia.net (213.155.129.254)  173.326 ms  162.430 ms
+12  xe0-0-0-54.nas207-dsl-stdenis.nerim.net (194.79.131.190)  169.441 ms  162.069 ms  169.584 ms
+13  thales-fibre-14-22.fib.nerim.net (213.215.14.22)  163.297 ms  163.199 ms  171.570 ms
+14  thales-fibre-147-165.fib.nerim.net (194.79.147.165)  171.669 ms  165.270 ms  165.353 ms
+========================================================================================
+========================================================================================
+*****************   TraceRoute   Command     Output ************************************
+----------------------------------------------------------------------------------------
+Fri Apr  7 08:22:13 UTC 2017
+----------------------------------------------------------------------------------------
+traceroute to pl2.tailab.eu (194.79.147.165), 30 hops max, 60 byte packets
+ 1  vl-8.uonet1-gw.uoregon.edu (128.223.8.2)  0.514 ms  0.523 ms  0.587 ms
+ 2  2.bundle-ether10.uonet10-gw.uoregon.edu (128.223.2.10)  1.307 ms  1.297 ms  1.437 ms
+ 3  eugn-car1-gw.nero.net (207.98.68.177)  0.253 ms  0.328 ms  0.333 ms
+ 4  eugn-p2-gw.nero.net (207.98.64.202)  2.827 ms  2.817 ms  2.802 ms
+ 5  eugn-core1-gw.nero.net (207.98.64.195)  1.110 ms  1.093 ms  1.083 ms
+ 6  te-4-4.car1.Sacramento1.Level3.net (4.53.200.1)  9.984 ms  9.981 ms  9.965 ms
+ 7  sjo-b21-link.telia.net (213.248.98.29)  14.214 ms  14.299 ms  14.324 ms
+ 8  ash-bb3-link.telia.net (80.91.253.69)  85.212 ms ash-bb4-link.telia.net (62.115.138.54)  85.278 ms ash-bb4-link.telia.net (80.91.245.70)  84.616 ms
+ 9  prs-bb3-link.telia.net (62.115.121.29)  173.463 ms prs-bb2-link.telia.net (62.115.124.151)  159.955 ms prs-bb3-link.telia.net (62.115.124.111)  173.466 ms
+10  prs-b8-link.telia.net (62.115.118.47)  161.910 ms prs-b8-link.telia.net (62.115.118.105)  162.472 ms prs-b8-link.telia.net (62.115.118.63)  169.472 ms
+11  nerim-ic-305766-prs-b8.c.telia.net (213.155.129.254)  162.385 ms  160.681 ms  160.683 ms
+12  xe0-0-0-54.nas207-dsl-stdenis.nerim.net (194.79.131.190)  162.134 ms  162.087 ms  173.010 ms
+13  thales-fibre-14-22.fib.nerim.net (213.215.14.22)  174.684 ms  174.694 ms  163.612 ms
+14  thales-fibre-147-165.fib.nerim.net (194.79.147.165)  172.010 ms  164.940 ms  165.147 ms
+========================================================================================
+========================================================================================
+*****************   TraceRoute   Command     Output ************************************
+----------------------------------------------------------------------------------------
+Fri Apr  7 09:22:42 UTC 2017
+----------------------------------------------------------------------------------------
+traceroute to pl2.tailab.eu (194.79.147.165), 30 hops max, 60 byte packets
+ 1  vl-8.uonet1-gw.uoregon.edu (128.223.8.2)  1.605 ms  1.824 ms  1.886 ms
+ 2  2.bundle-ether10.uonet10-gw.uoregon.edu (128.223.2.10)  0.962 ms  1.114 ms  1.204 ms
+ 3  eugn-car1-gw.nero.net (207.98.68.177)  0.276 ms  0.558 ms  0.555 ms
+ 4  eugn-p2-gw.nero.net (207.98.64.202)  2.021 ms  2.023 ms  2.030 ms
+ 5  eugn-core1-gw.nero.net (207.98.64.195)  0.771 ms  0.784 ms  0.800 ms
+ 6  te-4-4.car1.Sacramento1.Level3.net (4.53.200.1)  42.576 ms  41.910 ms  41.950 ms
+ 7  sjo-b21-link.telia.net (213.248.98.29)  14.170 ms  13.918 ms  14.041 ms
+ 8  ash-bb4-link.telia.net (213.155.130.212)  84.734 ms nyk-bb3-link.telia.net (62.115.134.72)  83.025 ms ash-bb3-link.telia.net (80.91.248.205)  85.223 ms
+ 9  prs-bb3-link.telia.net (62.115.124.115)  173.981 ms prs-bb3-link.telia.net (62.115.121.33)  169.978 ms prs-bb3-link.telia.net (62.115.121.29)  173.349 ms
+10  prs-b8-link.telia.net (62.115.118.91)  169.236 ms prs-b8-link.telia.net (62.115.117.105)  169.674 ms prs-b8-link.telia.net (62.115.118.65)  173.299 ms
+11  nerim-ic-305766-prs-b8.c.telia.net (213.155.129.254)  173.212 ms  162.509 ms  162.518 ms
+12  xe0-0-0-54.nas207-dsl-stdenis.nerim.net (194.79.131.190)  169.406 ms  160.428 ms  177.867 ms
+13  thales-fibre-14-22.fib.nerim.net (213.215.14.22)  174.606 ms  176.142 ms  191.098 ms
+14  thales-fibre-147-165.fib.nerim.net (194.79.147.165)  177.192 ms  177.517 ms  177.501 ms
+========================================================================================
+========================================================================================
+*****************   TraceRoute   Command     Output ************************************
+----------------------------------------------------------------------------------------
+Fri Apr  7 10:23:09 UTC 2017
+----------------------------------------------------------------------------------------
+traceroute to pl2.tailab.eu (194.79.147.165), 30 hops max, 60 byte packets
+ 1  vl-8.uonet1-gw.uoregon.edu (128.223.8.2)  0.448 ms  0.494 ms  0.735 ms
+ 2  2.bundle-ether10.uonet10-gw.uoregon.edu (128.223.2.10)  3.339 ms  3.459 ms  3.439 ms
+ 3  eugn-car1-gw.nero.net (207.98.68.177)  0.269 ms  0.275 ms  0.266 ms
+ 4  eugn-p2-gw.nero.net (207.98.64.202)  2.274 ms  2.348 ms  2.336 ms
+ 5  eugn-core1-gw.nero.net (207.98.64.195)  0.655 ms  0.662 ms  0.705 ms
+ 6  te-4-4.car1.Sacramento1.Level3.net (4.53.200.1)  9.961 ms  10.010 ms  10.047 ms
+ 7  sjo-b21-link.telia.net (213.248.98.29)  13.981 ms  14.041 ms  13.872 ms
+ 8  ash-bb4-link.telia.net (62.115.138.50)  85.165 ms nyk-bb3-link.telia.net (213.248.80.0)  83.222 ms ash-bb4-link.telia.net (62.115.138.54)  85.397 ms
+ 9  prs-bb3-link.telia.net (62.115.124.113)  173.013 ms prs-bb3-link.telia.net (80.91.251.99)  169.570 ms prs-bb3-link.telia.net (62.115.121.25)  173.033 ms
+10  prs-b8-link.telia.net (62.115.118.49)  162.346 ms prs-b8-link.telia.net (62.115.118.59)  172.940 ms prs-b8-link.telia.net (62.115.118.85)  173.426 ms
+11  nerim-ic-305766-prs-b8.c.telia.net (213.155.129.254)  162.426 ms  160.868 ms  169.566 ms
+12  xe0-0-0-54.nas207-dsl-stdenis.nerim.net (194.79.131.190)  172.854 ms  172.901 ms  162.179 ms
+13  thales-fibre-14-22.fib.nerim.net (213.215.14.22)  174.374 ms  163.376 ms  163.312 ms
+14  thales-fibre-147-165.fib.nerim.net (194.79.147.165)  164.756 ms  162.654 ms  171.662 ms
+========================================================================================
+========================================================================================
+*****************   TraceRoute   Command     Output ************************************
+----------------------------------------------------------------------------------------
+Fri Apr  7 11:23:38 UTC 2017
+----------------------------------------------------------------------------------------
+traceroute to pl2.tailab.eu (194.79.147.165), 30 hops max, 60 byte packets
+ 1  vl-8.uonet1-gw.uoregon.edu (128.223.8.2)  0.406 ms  0.436 ms  0.503 ms
+ 2  2.bundle-ether10.uonet10-gw.uoregon.edu (128.223.2.10)  0.838 ms  0.973 ms  0.963 ms
+ 3  eugn-car1-gw.nero.net (207.98.68.177)  0.265 ms  0.262 ms  0.260 ms
+ 4  eugn-p2-gw.nero.net (207.98.64.202)  1.714 ms  2.738 ms  2.722 ms
+ 5  eugn-core1-gw.nero.net (207.98.64.195)  0.937 ms  0.849 ms  0.868 ms
+ 6  te-4-4.car1.Sacramento1.Level3.net (4.53.200.1)  10.020 ms  10.016 ms  10.047 ms
+ 7  sjo-b21-link.telia.net (213.248.98.29)  13.923 ms  13.937 ms  13.910 ms
+ 8  nyk-bb4-link.telia.net (213.155.133.238)  83.586 ms ash-bb4-link.telia.net (62.115.138.52)  85.285 ms ash-bb3-link.telia.net (213.155.130.210)  85.246 ms
+ 9  prs-bb3-link.telia.net (62.115.121.37)  169.358 ms prs-bb2-link.telia.net (62.115.124.153)  160.397 ms prs-bb2-link.telia.net (62.115.124.159)  161.388 ms
+10  prs-b8-link.telia.net (62.115.117.115)  162.465 ms prs-b8-link.telia.net (62.115.118.87)  169.880 ms prs-b8-link.telia.net (62.115.117.111)  161.869 ms
+11  nerim-ic-305766-prs-b8.c.telia.net (213.155.129.254)  169.606 ms  160.704 ms  160.955 ms
+12  xe0-0-0-54.nas207-dsl-stdenis.nerim.net (194.79.131.190)  160.510 ms  169.636 ms  169.520 ms
+13  thales-fibre-14-22.fib.nerim.net (213.215.14.22)  170.372 ms  170.446 ms  170.414 ms
+14  thales-fibre-147-165.fib.nerim.net (194.79.147.165)  164.768 ms  171.689 ms  164.698 ms
+========================================================================================
+========================================================================================
+*****************   TraceRoute   Command     Output ************************************
+----------------------------------------------------------------------------------------
+Fri Apr  7 12:24:01 UTC 2017
+----------------------------------------------------------------------------------------
+traceroute to pl2.tailab.eu (194.79.147.165), 30 hops max, 60 byte packets
+ 1  vl-8.uonet1-gw.uoregon.edu (128.223.8.2)  1.007 ms  1.068 ms  1.117 ms
+ 2  2.bundle-ether10.uonet10-gw.uoregon.edu (128.223.2.10)  0.760 ms  1.910 ms  1.897 ms
+ 3  eugn-car1-gw.nero.net (207.98.68.177)  0.250 ms  0.264 ms  0.259 ms
+ 4  eugn-p2-gw.nero.net (207.98.64.202)  2.278 ms  2.270 ms  2.256 ms
+ 5  eugn-core1-gw.nero.net (207.98.64.195)  0.704 ms  0.700 ms  0.709 ms
+ 6  te-4-4.car1.Sacramento1.Level3.net (4.53.200.1)  160.450 ms  160.609 ms  160.609 ms
+ 7  sjo-b21-link.telia.net (213.248.98.29)  13.964 ms  14.015 ms  13.907 ms
+ 8  ash-bb3-link.telia.net (80.91.253.69)  85.236 ms ash-bb3-link.telia.net (62.115.138.14)  84.694 ms nyk-bb4-link.telia.net (213.155.135.130)  83.702 ms
+ 9  prs-bb3-link.telia.net (62.115.124.135)  169.804 ms prs-bb3-link.telia.net (80.91.251.99)  169.383 ms prs-bb2-link.telia.net (62.115.116.89)  161.483 ms
+10  prs-b8-link.telia.net (62.115.118.107)  160.152 ms prs-b8-link.telia.net (62.115.118.57)  173.481 ms prs-b8-link.telia.net (62.115.118.39)  162.173 ms
+11  nerim-ic-305766-prs-b8.c.telia.net (213.155.129.254)  162.310 ms  161.326 ms  173.229 ms
+12  xe0-0-0-54.nas207-dsl-stdenis.nerim.net (194.79.131.190)  172.779 ms  172.948 ms  160.298 ms
+13  thales-fibre-14-22.fib.nerim.net (213.215.14.22)  163.612 ms  170.499 ms  174.834 ms
+14  thales-fibre-147-165.fib.nerim.net (194.79.147.165)  171.950 ms  171.910 ms  171.906 ms
+========================================================================================
+========================================================================================
+*****************   TraceRoute   Command     Output ************************************
+----------------------------------------------------------------------------------------
+Fri Apr  7 13:24:23 UTC 2017
+----------------------------------------------------------------------------------------
+traceroute to pl2.tailab.eu (194.79.147.165), 30 hops max, 60 byte packets
+ 1  vl-8.uonet1-gw.uoregon.edu (128.223.8.2)  0.710 ms  0.704 ms  0.689 ms
+ 2  2.bundle-ether10.uonet10-gw.uoregon.edu (128.223.2.10)  1.957 ms  1.960 ms  1.946 ms
+ 3  eugn-car1-gw.nero.net (207.98.68.177)  0.302 ms  0.553 ms  0.549 ms
+ 4  eugn-p2-gw.nero.net (207.98.64.202)  2.804 ms  2.800 ms  2.785 ms
+ 5  eugn-core1-gw.nero.net (207.98.64.195)  0.817 ms  0.866 ms  0.987 ms
+ 6  te-4-4.car1.Sacramento1.Level3.net (4.53.200.1)  9.966 ms  10.054 ms  9.934 ms
+ 7  sjo-b21-link.telia.net (213.248.98.29)  15.354 ms  13.923 ms  15.327 ms
+ 8  nyk-bb3-link.telia.net (80.91.252.152)  83.390 ms ash-bb4-link.telia.net (62.115.138.54)  89.055 ms nyk-bb4-link.telia.net (80.91.245.97)  83.660 ms
+ 9  prs-bb3-link.telia.net (62.115.121.35)  169.509 ms prs-bb3-link.telia.net (213.155.135.4)  173.159 ms prs-bb2-link.telia.net (80.91.252.48)  172.943 ms
+10  prs-b8-link.telia.net (62.115.118.77)  172.521 ms prs-b8-link.telia.net (62.115.118.93)  160.991 ms prs-b8-link.telia.net (213.155.131.19)  161.905 ms
+11  nerim-ic-305766-prs-b8.c.telia.net (213.155.129.254)  173.367 ms  173.422 ms  173.270 ms
+12  xe0-0-0-54.nas207-dsl-stdenis.nerim.net (194.79.131.190)  162.060 ms  172.958 ms  169.416 ms
+13  thales-fibre-14-22.fib.nerim.net (213.215.14.22)  170.060 ms  174.142 ms  170.189 ms
+14  thales-fibre-147-165.fib.nerim.net (194.79.147.165)  175.516 ms  172.574 ms  172.479 ms
+========================================================================================
+========================================================================================
+*****************   TraceRoute   Command     Output ************************************
+----------------------------------------------------------------------------------------
+Fri Apr  7 14:24:51 UTC 2017
+----------------------------------------------------------------------------------------
+traceroute to pl2.tailab.eu (194.79.147.165), 30 hops max, 60 byte packets
+ 1  vl-8.uonet1-gw.uoregon.edu (128.223.8.2)  0.605 ms  0.583 ms  0.637 ms
+ 2  2.bundle-ether10.uonet10-gw.uoregon.edu (128.223.2.10)  2.127 ms  2.188 ms  2.177 ms
+ 3  eugn-car1-gw.nero.net (207.98.68.177)  0.288 ms  0.285 ms  0.270 ms
+ 4  eugn-p2-gw.nero.net (207.98.64.202)  2.668 ms  2.654 ms  2.747 ms
+ 5  eugn-core1-gw.nero.net (207.98.64.195)  0.769 ms  0.785 ms  0.809 ms
+ 6  te-4-4.car1.Sacramento1.Level3.net (4.53.200.1)  10.028 ms  10.013 ms  10.061 ms
+ 7  sjo-b21-link.telia.net (213.248.98.29)  14.058 ms  15.619 ms  15.617 ms
+ 8  ash-bb4-link.telia.net (62.115.138.48)  85.199 ms * ash-bb3-link.telia.net (62.115.138.16)  85.236 ms
+ 9  prs-bb3-link.telia.net (62.115.121.27)  173.365 ms prs-bb2-link.telia.net (62.115.135.117)  162.101 ms prs-bb3-link.telia.net (80.91.251.97)  173.198 ms
+10  prs-b8-link.telia.net (213.155.136.207)  172.706 ms prs-b8-link.telia.net (62.115.118.47)  161.870 ms prs-b8-link.telia.net (62.115.118.41)  162.054 ms
+11  nerim-ic-305766-prs-b8.c.telia.net (213.155.129.254)  160.799 ms  160.771 ms  169.458 ms
+12  xe0-0-0-54.nas207-dsl-stdenis.nerim.net (194.79.131.190)  169.609 ms  160.435 ms  169.581 ms
+13  thales-fibre-14-22.fib.nerim.net (213.215.14.22)  171.209 ms  170.064 ms  162.062 ms
+14  thales-fibre-147-165.fib.nerim.net (194.79.147.165)  172.614 ms  164.379 ms  172.433 ms
+========================================================================================
+========================================================================================
+*****************   TraceRoute   Command     Output ************************************
+----------------------------------------------------------------------------------------
+Fri Apr  7 15:25:19 UTC 2017
+----------------------------------------------------------------------------------------
+traceroute to pl2.tailab.eu (194.79.147.165), 30 hops max, 60 byte packets
+ 1  vl-8.uonet1-gw.uoregon.edu (128.223.8.2)  1.002 ms  1.066 ms  1.183 ms
+ 2  2.bundle-ether10.uonet10-gw.uoregon.edu (128.223.2.10)  2.018 ms  2.008 ms  1.991 ms
+ 3  eugn-car1-gw.nero.net (207.98.68.177)  0.270 ms  0.264 ms  0.259 ms
+ 4  eugn-p2-gw.nero.net (207.98.64.202)  2.021 ms  2.005 ms  2.003 ms
+ 5  eugn-core1-gw.nero.net (207.98.64.195)  0.827 ms  0.826 ms  0.892 ms
+ 6  te-4-4.car1.Sacramento1.Level3.net (4.53.200.1)  10.058 ms  10.013 ms  10.299 ms
+ 7  sjo-b21-link.telia.net (213.248.98.29)  15.841 ms  14.196 ms  13.965 ms
+ 8  nyk-bb3-link.telia.net (213.155.133.236)  82.922 ms ash-bb4-link.telia.net (62.115.138.50)  85.337 ms ash-bb4-link.telia.net (213.155.135.158)  85.360 ms
+ 9  prs-bb3-link.telia.net (62.115.124.113)  172.951 ms prs-bb2-link.telia.net (62.115.124.161)  165.719 ms prs-bb2-link.telia.net (62.115.135.117)  210.114 ms
+10  prs-b8-link.telia.net (62.115.138.139)  162.720 ms prs-b8-link.telia.net (62.115.118.79)  169.411 ms prs-b8-link.telia.net (62.115.118.75)  170.013 ms
+11  nerim-ic-305766-prs-b8.c.telia.net (213.155.129.254)  160.877 ms  160.823 ms  173.292 ms
+12  xe0-0-0-54.nas207-dsl-stdenis.nerim.net (194.79.131.190)  172.967 ms  169.237 ms  172.740 ms
+13  xe0-0-0-54.nas207-dsl-stdenis.nerim.net (194.79.131.190)  166.449 ms thales-fibre-14-22.fib.nerim.net (213.215.14.22)  171.299 ms  170.239 ms
+14  thales-fibre-147-165.fib.nerim.net (194.79.147.165)  172.778 ms  164.589 ms  171.675 ms
+========================================================================================
+========================================================================================
+*****************   TraceRoute   Command     Output ************************************
+----------------------------------------------------------------------------------------
+Fri Apr  7 16:25:43 UTC 2017
+----------------------------------------------------------------------------------------
+traceroute to pl2.tailab.eu (194.79.147.165), 30 hops max, 60 byte packets
+ 1  vl-8.uonet1-gw.uoregon.edu (128.223.8.2)  0.506 ms  0.565 ms  0.789 ms
+ 2  2.bundle-ether10.uonet10-gw.uoregon.edu (128.223.2.10)  0.666 ms  2.092 ms  2.084 ms
+ 3  eugn-car1-gw.nero.net (207.98.68.177)  0.261 ms  0.268 ms  0.260 ms
+ 4  eugn-p2-gw.nero.net (207.98.64.202)  2.074 ms  2.063 ms  2.047 ms
+ 5  eugn-core1-gw.nero.net (207.98.64.195)  0.913 ms  0.905 ms  0.792 ms
+ 6  te-4-4.car1.Sacramento1.Level3.net (4.53.200.1)  10.096 ms  10.286 ms  10.279 ms
+ 7  sjo-b21-link.telia.net (213.248.98.29)  13.920 ms  13.966 ms  14.892 ms
+ 8  ash-bb3-link.telia.net (62.115.138.46)  85.340 ms ash-bb4-link.telia.net (213.155.135.156)  85.361 ms ash-bb4-link.telia.net (80.91.248.189)  84.813 ms
+ 9  prs-bb2-link.telia.net (80.91.251.101)  159.960 ms prs-bb3-link.telia.net (62.115.121.37)  169.068 ms prs-bb2-link.telia.net (80.91.251.101)  159.969 ms
+10  prs-b8-link.telia.net (213.155.131.3)  169.575 ms prs-b8-link.telia.net (62.115.118.93)  162.454 ms prs-b8-link.telia.net (62.115.118.87)  169.799 ms
+11  nerim-ic-305766-prs-b8.c.telia.net (213.155.129.254)  162.260 ms  162.534 ms  162.532 ms
+12  xe0-0-0-54.nas207-dsl-stdenis.nerim.net (194.79.131.190)  172.930 ms  173.328 ms  160.275 ms
+13  xe0-0-0-54.nas207-dsl-stdenis.nerim.net (194.79.131.190)  166.238 ms thales-fibre-14-22.fib.nerim.net (213.215.14.22)  161.417 ms  161.504 ms
+14  thales-fibre-147-165.fib.nerim.net (194.79.147.165)  165.049 ms  165.024 ms  164.765 ms
+========================================================================================
+========================================================================================
+*****************   TraceRoute   Command     Output ************************************
+----------------------------------------------------------------------------------------
+Fri Apr  7 17:26:13 UTC 2017
+----------------------------------------------------------------------------------------
+traceroute to pl2.tailab.eu (194.79.147.165), 30 hops max, 60 byte packets
+ 1  vl-8.uonet1-gw.uoregon.edu (128.223.8.2)  2.137 ms  2.503 ms  2.492 ms
+ 2  2.bundle-ether10.uonet10-gw.uoregon.edu (128.223.2.10)  3.129 ms  3.127 ms  3.113 ms
+ 3  eugn-car1-gw.nero.net (207.98.68.177)  0.285 ms  0.509 ms  0.508 ms
+ 4  eugn-p2-gw.nero.net (207.98.64.202)  2.152 ms  2.142 ms  2.127 ms
+ 5  eugn-core1-gw.nero.net (207.98.64.195)  0.962 ms  1.047 ms  1.066 ms
+ 6  te-4-4.car1.Sacramento1.Level3.net (4.53.200.1)  10.097 ms  10.015 ms  10.045 ms
+ 7  sjo-b21-link.telia.net (213.248.98.29)  15.083 ms  13.894 ms  15.252 ms
+ 8  ash-bb3-link.telia.net (62.115.138.12)  84.722 ms * nyk-bb3-link.telia.net (62.115.136.174)  83.315 ms
+ 9  prs-bb3-link.telia.net (62.115.121.35)  169.335 ms prs-bb3-link.telia.net (62.115.121.33)  169.916 ms prs-bb3-link.telia.net (80.91.251.242)  170.027 ms
+10  prs-b8-link.telia.net (62.115.117.107)  169.514 ms prs-b8-link.telia.net (62.115.118.61)  169.699 ms prs-b8-link.telia.net (62.115.118.85)  169.835 ms
+11  nerim-ic-305766-prs-b8.c.telia.net (213.155.129.254)  162.379 ms  169.643 ms  162.421 ms
+12  xe0-0-0-54.nas207-dsl-stdenis.nerim.net (194.79.131.190)  169.335 ms  172.982 ms  169.495 ms
+13  thales-fibre-14-22.fib.nerim.net (213.215.14.22)  162.065 ms  174.129 ms  174.070 ms
+14  thales-fibre-147-165.fib.nerim.net (194.79.147.165)  164.547 ms  164.555 ms  163.507 ms
+========================================================================================
+========================================================================================
+*****************   TraceRoute   Command     Output ************************************
+----------------------------------------------------------------------------------------
+Fri Apr  7 18:26:40 UTC 2017
+----------------------------------------------------------------------------------------
+traceroute to pl2.tailab.eu (194.79.147.165), 30 hops max, 60 byte packets
+ 1  vl-8.uonet1-gw.uoregon.edu (128.223.8.2)  16.031 ms  16.270 ms  16.257 ms
+ 2  2.bundle-ether10.uonet10-gw.uoregon.edu (128.223.2.10)  2.550 ms  2.573 ms  2.559 ms
+ 3  eugn-car1-gw.nero.net (207.98.68.177)  0.297 ms  0.396 ms  0.386 ms
+ 4  eugn-p2-gw.nero.net (207.98.64.202)  3.093 ms  3.208 ms  3.193 ms
+ 5  eugn-core1-gw.nero.net (207.98.64.195)  0.743 ms  0.743 ms  0.730 ms
+ 6  te-4-4.car1.Sacramento1.Level3.net (4.53.200.1)  97.332 ms  97.198 ms  97.190 ms
+ 7  sjo-b21-link.telia.net (213.248.98.29)  13.954 ms  13.841 ms  14.135 ms
+ 8  ash-bb4-link.telia.net (80.91.248.189)  87.210 ms ash-bb3-link.telia.net (62.115.138.46)  102.919 ms nyk-bb3-link.telia.net (213.155.135.128)  83.645 ms
+ 9  prs-bb2-link.telia.net (80.91.251.246)  191.930 ms prs-bb3-link.telia.net (80.91.251.97)  173.307 ms prs-bb2-link.telia.net (80.91.251.103)  162.047 ms
+10  prs-b8-link.telia.net (62.115.118.91)  169.118 ms prs-b8-link.telia.net (213.155.131.1)  173.072 ms prs-b8-link.telia.net (62.115.118.67)  172.949 ms
+11  nerim-ic-305766-prs-b8.c.telia.net (213.155.129.254)  162.953 ms  169.555 ms prs-b8-link.telia.net (62.115.118.49)  166.958 ms
+12  xe0-0-0-54.nas207-dsl-stdenis.nerim.net (194.79.131.190)  162.049 ms nerim-ic-305766-prs-b8.c.telia.net (213.155.129.254)  166.639 ms xe0-0-0-54.nas207-dsl-stdenis.nerim.net (194.79.131.190)  172.922 ms
+13  thales-fibre-14-22.fib.nerim.net (213.215.14.22)  174.228 ms  170.177 ms  171.173 ms
+14  thales-fibre-147-165.fib.nerim.net (194.79.147.165)  164.773 ms  164.587 ms  162.475 ms
+========================================================================================
+========================================================================================
+*****************   TraceRoute   Command     Output ************************************
+----------------------------------------------------------------------------------------
+Fri Apr  7 19:27:08 UTC 2017
+----------------------------------------------------------------------------------------
+traceroute to pl2.tailab.eu (194.79.147.165), 30 hops max, 60 byte packets
+ 1  vl-8.uonet1-gw.uoregon.edu (128.223.8.2)  1.315 ms  1.435 ms  1.506 ms
+ 2  2.bundle-ether10.uonet10-gw.uoregon.edu (128.223.2.10)  1.858 ms  1.843 ms  1.828 ms
+ 3  eugn-car1-gw.nero.net (207.98.68.177)  0.249 ms  0.266 ms  0.260 ms
+ 4  eugn-p2-gw.nero.net (207.98.64.202)  2.354 ms  2.342 ms  2.328 ms
+ 5  eugn-core1-gw.nero.net (207.98.64.195)  0.678 ms  0.900 ms  0.820 ms
+ 6  te-4-4.car1.Sacramento1.Level3.net (4.53.200.1)  10.164 ms  10.208 ms  10.234 ms
+ 7  sjo-b21-link.telia.net (213.248.98.29)  14.011 ms  13.966 ms  13.973 ms
+ 8  nyk-bb4-link.telia.net (80.91.254.176)  83.862 ms nyk-bb3-link.telia.net (62.115.134.72)  83.152 ms ash-bb3-link.telia.net (62.115.138.16)  85.197 ms
+ 9  prs-bb2-link.telia.net (62.115.124.157)  163.155 ms prs-bb3-link.telia.net (80.91.251.99)  169.328 ms prs-bb2-link.telia.net (80.91.253.125)  160.363 ms
+10  prs-b8-link.telia.net (213.155.131.11)  160.653 ms prs-b8-link.telia.net (62.115.118.97)  162.550 ms prs-b8-link.telia.net (62.115.117.113)  160.781 ms
+11  nerim-ic-305766-prs-b8.c.telia.net (213.155.129.254)  162.379 ms  173.249 ms  160.746 ms
+12  xe0-0-0-54.nas207-dsl-stdenis.nerim.net (194.79.131.190)  173.031 ms  162.443 ms  162.388 ms
+13  thales-fibre-14-22.fib.nerim.net (213.215.14.22)  163.373 ms  174.416 ms  170.273 ms
+14  thales-fibre-147-165.fib.nerim.net (194.79.147.165)  175.829 ms thales-fibre-14-22.fib.nerim.net (213.215.14.22)  168.265 ms thales-fibre-147-165.fib.nerim.net (194.79.147.165)  175.889 ms
+========================================================================================
+========================================================================================
+*****************   TraceRoute   Command     Output ************************************
+----------------------------------------------------------------------------------------
+Fri Apr  7 20:27:33 UTC 2017
+----------------------------------------------------------------------------------------
+traceroute to pl2.tailab.eu (194.79.147.165), 30 hops max, 60 byte packets
+ 1  vl-8.uonet1-gw.uoregon.edu (128.223.8.2)  0.560 ms  0.531 ms  0.529 ms
+ 2  2.bundle-ether10.uonet10-gw.uoregon.edu (128.223.2.10)  0.787 ms  2.155 ms  2.145 ms
+ 3  eugn-car1-gw.nero.net (207.98.68.177)  0.315 ms  0.384 ms  0.368 ms
+ 4  eugn-p2-gw.nero.net (207.98.64.202)  1.794 ms  1.790 ms  1.775 ms
+ 5  eugn-core1-gw.nero.net (207.98.64.195)  0.714 ms  0.770 ms  0.758 ms
+ 6  te-4-4.car1.Sacramento1.Level3.net (4.53.200.1)  12.182 ms  14.125 ms  14.084 ms
+ 7  sjo-b21-link.telia.net (213.248.98.29)  13.962 ms  14.031 ms  14.069 ms
+ 8  * nyk-bb3-link.telia.net (62.115.137.96)  83.508 ms nyk-bb3-link.telia.net (62.115.134.72)  82.898 ms
+ 9  prs-bb3-link.telia.net (62.115.124.137)  169.660 ms prs-bb3-link.telia.net (62.115.121.33)  169.739 ms prs-bb3-link.telia.net (213.155.135.4)  173.044 ms
+10  prs-b8-link.telia.net (62.115.118.97)  162.181 ms prs-b8-link.telia.net (62.115.118.59)  169.385 ms prs-b8-link.telia.net (62.115.117.113)  162.772 ms
+11  nerim-ic-305766-prs-b8.c.telia.net (213.155.129.254)  169.524 ms  162.348 ms  169.453 ms
+12  xe0-0-0-54.nas207-dsl-stdenis.nerim.net (194.79.131.190)  160.424 ms  169.424 ms  172.766 ms
+13  thales-fibre-14-22.fib.nerim.net (213.215.14.22)  174.370 ms  174.541 ms  174.202 ms
+14  thales-fibre-147-165.fib.nerim.net (194.79.147.165)  162.959 ms  175.958 ms  163.366 ms
+========================================================================================
+========================================================================================
+*****************   TraceRoute   Command     Output ************************************
+----------------------------------------------------------------------------------------
+Fri Apr  7 21:28:01 UTC 2017
+----------------------------------------------------------------------------------------
+traceroute to pl2.tailab.eu (194.79.147.165), 30 hops max, 60 byte packets
+ 1  vl-8.uonet1-gw.uoregon.edu (128.223.8.2)  8.858 ms  8.960 ms  8.987 ms
+ 2  2.bundle-ether10.uonet10-gw.uoregon.edu (128.223.2.10)  1.729 ms  1.889 ms  1.937 ms
+ 3  eugn-car1-gw.nero.net (207.98.68.177)  0.300 ms  0.310 ms  0.300 ms
+ 4  eugn-p2-gw.nero.net (207.98.64.202)  2.353 ms  2.464 ms  2.462 ms
+ 5  eugn-core1-gw.nero.net (207.98.64.195)  0.859 ms  0.974 ms  0.961 ms
+ 6  te-4-4.car1.Sacramento1.Level3.net (4.53.200.1)  10.032 ms  10.038 ms  10.055 ms
+ 7  sjo-b21-link.telia.net (213.248.98.29)  13.919 ms  14.002 ms  14.203 ms
+ 8  nyk-bb3-link.telia.net (62.115.136.174)  83.540 ms ash-bb4-link.telia.net (62.115.138.54)  85.562 ms ash-bb3-link.telia.net (80.91.253.69)  86.549 ms
+ 9  prs-bb3-link.telia.net (80.91.252.37)  170.300 ms prs-bb3-link.telia.net (62.115.124.139)  169.532 ms prs-bb3-link.telia.net (62.115.124.115)  173.534 ms
+10  prs-b8-link.telia.net (213.155.131.17)  160.272 ms prs-b8-link.telia.net (62.115.117.107)  169.214 ms  168.993 ms
+11  nerim-ic-305766-prs-b8.c.telia.net (213.155.129.254)  173.315 ms  173.248 ms  164.445 ms
+12  xe0-0-0-54.nas207-dsl-stdenis.nerim.net (194.79.131.190)  162.040 ms  162.059 ms  169.206 ms
+13  thales-fibre-14-22.fib.nerim.net (213.215.14.22)  162.979 ms  163.114 ms  163.084 ms
+14  thales-fibre-147-165.fib.nerim.net (194.79.147.165)  164.434 ms  175.551 ms thales-fibre-14-22.fib.nerim.net (213.215.14.22)  167.829 ms
+========================================================================================
+========================================================================================
+*****************   TraceRoute   Command     Output ************************************
+----------------------------------------------------------------------------------------
+Fri Apr  7 22:28:24 UTC 2017
+----------------------------------------------------------------------------------------
+traceroute to pl2.tailab.eu (194.79.147.165), 30 hops max, 60 byte packets
+ 1  vl-8.uonet1-gw.uoregon.edu (128.223.8.2)  0.406 ms  0.454 ms  0.511 ms
+ 2  2.bundle-ether10.uonet10-gw.uoregon.edu (128.223.2.10)  1.912 ms  2.020 ms  2.006 ms
+ 3  eugn-car1-gw.nero.net (207.98.68.177)  0.295 ms  0.285 ms  0.281 ms
+ 4  eugn-p2-gw.nero.net (207.98.64.202)  2.702 ms  2.698 ms  2.683 ms
+ 5  eugn-core1-gw.nero.net (207.98.64.195)  0.864 ms  0.818 ms  0.869 ms
+ 6  te-4-4.car1.Sacramento1.Level3.net (4.53.200.1)  10.134 ms  10.029 ms  10.023 ms
+ 7  sjo-b21-link.telia.net (213.248.98.29)  14.001 ms  13.951 ms  14.015 ms
+ 8  ash-bb3-link.telia.net (62.115.138.46)  85.291 ms  85.285 ms ash-bb4-link.telia.net (213.155.130.212)  84.728 ms
+ 9  prs-bb3-link.telia.net (80.91.251.99)  169.362 ms prs-bb3-link.telia.net (62.115.121.33)  169.785 ms prs-bb2-link.telia.net (62.115.124.163)  162.010 ms
+10  prs-b8-link.telia.net (62.115.118.71)  169.958 ms prs-b8-link.telia.net (62.115.118.53)  162.475 ms prs-b8-link.telia.net (213.155.131.9)  172.837 ms
+11  nerim-ic-305766-prs-b8.c.telia.net (213.155.129.254)  169.618 ms  173.015 ms  173.216 ms
+12  xe0-0-0-54.nas207-dsl-stdenis.nerim.net (194.79.131.190)  172.858 ms  162.034 ms  169.509 ms
+13  thales-fibre-14-22.fib.nerim.net (213.215.14.22)  163.091 ms  174.052 ms  162.069 ms
+14  thales-fibre-147-165.fib.nerim.net (194.79.147.165)  172.726 ms  164.521 ms  164.528 ms
+========================================================================================
+========================================================================================
+*****************   TraceRoute   Command     Output ************************************
+----------------------------------------------------------------------------------------
+Fri Apr  7 23:28:55 UTC 2017
+----------------------------------------------------------------------------------------
+traceroute to pl2.tailab.eu (194.79.147.165), 30 hops max, 60 byte packets
+ 1  vl-8.uonet1-gw.uoregon.edu (128.223.8.2)  0.579 ms  0.560 ms  0.569 ms
+ 2  2.bundle-ether10.uonet10-gw.uoregon.edu (128.223.2.10)  2.011 ms  2.330 ms  2.354 ms
+ 3  eugn-car1-gw.nero.net (207.98.68.177)  0.268 ms  0.274 ms  0.393 ms
+ 4  eugn-p2-gw.nero.net (207.98.64.202)  2.039 ms  2.041 ms  2.841 ms
+ 5  eugn-core1-gw.nero.net (207.98.64.195)  0.908 ms  0.924 ms  0.939 ms
+ 6  te-4-4.car1.Sacramento1.Level3.net (4.53.200.1)  10.083 ms  10.176 ms  10.168 ms
+ 7  sjo-b21-link.telia.net (213.248.98.29)  13.970 ms  14.025 ms  14.082 ms
+ 8  nyk-bb4-link.telia.net (213.155.130.130)  83.896 ms nyk-bb4-link.telia.net (213.155.133.238)  83.597 ms ash-bb4-link.telia.net (62.115.138.52)  85.364 ms
+ 9  prs-bb2-link.telia.net (80.91.251.101)  159.904 ms prs-bb3-link.telia.net (62.115.124.115)  173.656 ms prs-bb2-link.telia.net (62.115.124.153)  177.547 ms
+10  prs-b8-link.telia.net (62.115.118.109)  160.478 ms prs-b8-link.telia.net (62.115.118.91)  172.840 ms prs-b8-link.telia.net (213.155.131.1)  169.441 ms
+11  nerim-ic-305766-prs-b8.c.telia.net (213.155.129.254)  173.345 ms  173.419 ms  169.523 ms
+12  xe0-0-0-54.nas207-dsl-stdenis.nerim.net (194.79.131.190)  160.507 ms  172.686 ms  172.841 ms
+13  thales-fibre-14-22.fib.nerim.net (213.215.14.22)  181.936 ms  185.908 ms xe0-0-0-54.nas207-dsl-stdenis.nerim.net (194.79.131.190)  166.589 ms
+14  thales-fibre-147-165.fib.nerim.net (194.79.147.165)  164.675 ms  163.501 ms  164.617 ms
+========================================================================================
+========================================================================================

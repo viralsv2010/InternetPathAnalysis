@@ -1,0 +1,590 @@
+*****************   TraceRoute   Command     Output ************************************
+----------------------------------------------------------------------------------------
+Sat Apr  8 00:33:27 UTC 2017
+----------------------------------------------------------------------------------------
+traceroute to dannan.disy.inf.uni-konstanz.de (134.34.246.4), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  lwsn-b143-c6504e-01-po11-tcom.cs.purdue.edu (128.10.127.251)  27.414 ms  27.078 ms  26.450 ms
+ 3  freh-g2-c9006-01-be10.tcom.purdue.edu (192.5.40.10)  26.416 ms  22.515 ms  15.542 ms
+ 4  tel-210-c9006-01-te0-0-0-3.tcom.purdue.edu (192.5.40.65)  14.430 ms  14.801 ms  14.303 ms
+ 5  indiana-gigapop-ctc-internet2-150.tcom.purdue.edu (192.5.40.86)  15.434 ms  26.421 ms  26.655 ms
+ 6  et-2-3-0.2063.rtsw.chic.net.internet2.edu (149.165.254.186)  22.520 ms  26.654 ms  27.135 ms
+ 7  et-8-1-0.4070.rtsw.wash.net.internet2.edu (198.71.45.57)  40.808 ms  48.756 ms  48.146 ms
+ 8  internet2.mx1.lon.uk.geant.net (62.40.124.44)  124.842 ms  117.002 ms  111.595 ms
+ 9  ae0.mx1.ams.nl.geant.net (62.40.98.81)  119.392 ms  119.085 ms  119.085 ms
+10  ae1.mx1.ham.de.geant.net (62.40.98.61)  135.175 ms  135.295 ms  136.269 ms
+11  dfn-gw.mx1.ham.de.geant.net (62.40.112.146)  135.805 ms  135.624 ms  135.813 ms
+12  cr-erl2-be7.x-win.dfn.de (188.1.146.209)  144.629 ms  144.544 ms  144.872 ms
+13  cr-gar1-hundredgige0-5-0-0.x-win.dfn.de (188.1.144.250)  148.940 ms  148.888 ms  148.632 ms
+14  kr-stu35-2.x-win.dfn.de (188.1.233.230)  146.830 ms  137.406 ms  136.208 ms
+15  Stuttgart-AL30-1-10GE-0-2-0-0.belwue.net (129.143.57.1)  136.189 ms Stuttgart-AL30-1-10GE-0-0-0-0.belwue.net (129.143.59.33)  136.469 ms  136.338 ms
+16  Tuebingen-Wae-1-10GE-0-2-0-2.belwue.net (129.143.57.102)  148.190 ms  137.714 ms Konstanz-Bib-1-10GE-0-1-0-0.belwue.net (129.143.57.186)  140.423 ms
+17  Konstanz-RZ-1-10GE-0-1-0-0.belwue.net (129.143.59.74)  138.458 ms dannan.disy.inf.uni-konstanz.de (134.34.246.4)  146.507 ms Konstanz-RZ-1-10GE-0-1-0-0.belwue.net (129.143.59.74)  146.632 ms
+========================================================================================
+========================================================================================
+*****************   TraceRoute   Command     Output ************************************
+----------------------------------------------------------------------------------------
+Sat Apr  8 01:33:52 UTC 2017
+----------------------------------------------------------------------------------------
+traceroute to dannan.disy.inf.uni-konstanz.de (134.34.246.4), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  lwsn-b143-c6504e-01-po11-tcom.cs.purdue.edu (128.10.127.251)  26.510 ms  26.690 ms  26.969 ms
+ 3  freh-g2-c9006-01-be10.tcom.purdue.edu (192.5.40.10)  26.395 ms  26.503 ms  28.144 ms
+ 4  tel-210-c9006-01-te0-0-0-3.tcom.purdue.edu (192.5.40.65)  19.352 ms  15.399 ms  27.893 ms
+ 5  indiana-gigapop-ctc-internet2-150.tcom.purdue.edu (192.5.40.86)  26.742 ms  27.367 ms  26.948 ms
+ 6  et-2-3-0.2063.rtsw.chic.net.internet2.edu (149.165.254.186)  27.064 ms  27.215 ms  22.870 ms
+ 7  et-8-1-0.4070.rtsw.wash.net.internet2.edu (198.71.45.57)  38.008 ms  36.806 ms  36.972 ms
+ 8  internet2-gw.mx1.lon.uk.geant.net (62.40.124.44)  118.559 ms  111.430 ms  125.023 ms
+ 9  ae0.mx1.ams.nl.geant.net (62.40.98.81)  119.249 ms  119.000 ms  122.481 ms
+10  ae1.mx1.ham.de.geant.net (62.40.98.61)  130.957 ms  132.008 ms  142.696 ms
+11  dfn-gw.mx1.ham.de.geant.net (62.40.112.146)  141.091 ms  135.834 ms  135.903 ms
+12  cr-erl2-be7.x-win.dfn.de (188.1.146.209)  145.710 ms  146.692 ms  144.963 ms
+13  cr-gar1-hundredgige0-5-0-0.x-win.dfn.de (188.1.144.250)  148.806 ms  158.231 ms  149.134 ms
+14  kr-stu35-2.x-win.dfn.de (188.1.233.230)  145.963 ms  145.238 ms  147.344 ms
+15  Stuttgart-AL30-1-10GE-0-0-0-0.belwue.net (129.143.59.33)  147.114 ms Stuttgart-AL30-1-10GE-0-2-0-0.belwue.net (129.143.57.1)  143.936 ms Stuttgart-AL30-1-10GE-0-0-0-0.belwue.net (129.143.59.33)  146.286 ms
+16  Tuebingen-Wae-1-10GE-0-2-0-3.belwue.net (129.143.60.21)  141.284 ms  145.756 ms Konstanz-Bib-1-10GE-0-1-0-0.belwue.net (129.143.57.186)  138.810 ms
+17  Konstanz-RZ-1-10GE-0-1-0-0.belwue.net (129.143.59.74)  138.757 ms  141.320 ms  138.812 ms
+18  dannan.disy.inf.uni-konstanz.de (134.34.246.4)  138.426 ms  138.424 ms  138.787 ms
+========================================================================================
+========================================================================================
+*****************   TraceRoute   Command     Output ************************************
+----------------------------------------------------------------------------------------
+Sat Apr  8 02:34:18 UTC 2017
+----------------------------------------------------------------------------------------
+traceroute to dannan.disy.inf.uni-konstanz.de (134.34.246.4), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  lwsn-b143-c6504e-01-po11-tcom.cs.purdue.edu (128.10.127.251)  23.001 ms  19.935 ms  13.724 ms
+ 3  freh-g2-c9006-01-be10.tcom.purdue.edu (192.5.40.10)  40.477 ms  14.284 ms  16.391 ms
+ 4  tel-210-c9006-01-te0-0-0-3.tcom.purdue.edu (192.5.40.65)  17.221 ms  14.968 ms  14.424 ms
+ 5  indiana-gigapop-ctc-internet2-150.tcom.purdue.edu (192.5.40.86)  17.913 ms  19.809 ms  15.687 ms
+ 6  et-2-3-0.2063.rtsw.chic.net.internet2.edu (149.165.254.186)  22.225 ms  21.930 ms  34.028 ms
+ 7  et-8-1-0.4070.rtsw.wash.net.internet2.edu (198.71.45.57)  39.412 ms  39.098 ms  47.586 ms
+ 8  internet2.mx1.lon.uk.geant.net (62.40.124.44)  129.887 ms  113.602 ms  124.641 ms
+ 9  ae0.mx1.ams.nl.geant.net (62.40.98.81)  128.488 ms  127.475 ms  125.574 ms
+10  ae1.mx1.ham.de.geant.net (62.40.98.61)  154.522 ms  139.882 ms  143.232 ms
+11  dfn-gw.mx1.ham.de.geant.net (62.40.112.146)  147.170 ms  138.367 ms  145.933 ms
+12  cr-erl2-be7.x-win.dfn.de (188.1.146.209)  144.597 ms  144.890 ms  144.937 ms
+13  cr-gar1-hundredgige0-5-0-0.x-win.dfn.de (188.1.144.250)  152.452 ms  159.290 ms  150.931 ms
+14  kr-stu35-2.x-win.dfn.de (188.1.233.230)  141.827 ms  136.633 ms  138.837 ms
+15  Tuebingen-Mor-1-10GE-0-0-0-0.belwue.net (129.143.57.90)  150.545 ms Stuttgart-AL30-1-10GE-0-0-0-0.belwue.net (129.143.59.33)  139.592 ms  138.919 ms
+16  Tuebingen-Wae-1-10GE-0-2-0-3.belwue.net (129.143.60.21)  156.558 ms Tuebingen-Wae-1-10GE-0-2-0-1.belwue.net (129.143.57.86)  147.714 ms  155.736 ms
+17  Konstanz-RZ-1-10GE-0-1-0-0.belwue.net (129.143.59.74)  145.741 ms  144.576 ms dannan.disy.inf.uni-konstanz.de (134.34.246.4)  172.506 ms
+========================================================================================
+========================================================================================
+*****************   TraceRoute   Command     Output ************************************
+----------------------------------------------------------------------------------------
+Sat Apr  8 03:34:43 UTC 2017
+----------------------------------------------------------------------------------------
+traceroute to dannan.disy.inf.uni-konstanz.de (134.34.246.4), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  lwsn-b143-c6504e-01-po11-tcom.cs.purdue.edu (128.10.127.251)  26.642 ms  29.440 ms  16.708 ms
+ 3  freh-g2-c9006-01-be10.tcom.purdue.edu (192.5.40.10)  26.733 ms  14.575 ms  14.736 ms
+ 4  tel-210-c9006-01-te0-0-0-3.tcom.purdue.edu (192.5.40.65)  14.443 ms  14.413 ms  26.643 ms
+ 5  indiana-gigapop-ctc-internet2-150.tcom.purdue.edu (192.5.40.86)  29.507 ms  32.423 ms  29.256 ms
+ 6  et-2-3-0.2063.rtsw.chic.net.internet2.edu (149.165.254.186)  23.082 ms  21.262 ms  32.514 ms
+ 7  et-8-1-0.4070.rtsw.wash.net.internet2.edu (198.71.45.57)  42.927 ms  46.353 ms  49.924 ms
+ 8  internet2.mx1.lon.uk.geant.net (62.40.124.44)  116.381 ms  113.131 ms  113.949 ms
+ 9  ae0.mx1.ams.nl.geant.net (62.40.98.81)  121.042 ms  125.280 ms  124.890 ms
+10  ae1.mx1.ham.de.geant.net (62.40.98.61)  128.281 ms  128.373 ms  132.182 ms
+11  cr-tub1.x-win.dfn.de (62.40.112.146)  145.341 ms  138.412 ms  136.332 ms
+12  cr-erl2-be7.x-win.dfn.de (188.1.146.209)  152.928 ms  149.720 ms  154.544 ms
+13  cr-gar1-hundredgige0-5-0-0.x-win.dfn.de (188.1.144.250)  153.119 ms  151.382 ms  151.447 ms
+14  kr-stu35-2.x-win.dfn.de (188.1.233.230)  145.970 ms  139.222 ms  140.241 ms
+15  Stuttgart-AL30-1-10GE-0-2-0-0.belwue.net (129.143.57.1)  149.745 ms Stuttgart-AL30-1-10GE-0-0-0-0.belwue.net (129.143.59.33)  139.152 ms Tuebingen-Mor-1-10GE-0-0-0-0.belwue.net (129.143.57.90)  139.381 ms
+16  Tuebingen-Wae-1-10GE-0-2-0-3.belwue.net (129.143.60.21)  139.798 ms  139.604 ms Konstanz-Bib-1-10GE-0-1-0-0.belwue.net (129.143.57.186)  141.651 ms
+17  dannan.disy.inf.uni-konstanz.de (134.34.246.4)  140.840 ms Konstanz-RZ-1-10GE-0-1-0-0.belwue.net (129.143.59.74)  147.495 ms  142.975 ms
+========================================================================================
+========================================================================================
+*****************   TraceRoute   Command     Output ************************************
+----------------------------------------------------------------------------------------
+Sat Apr  8 04:35:09 UTC 2017
+----------------------------------------------------------------------------------------
+traceroute to dannan.disy.inf.uni-konstanz.de (134.34.246.4), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  lwsn-b143-c6504e-01-po11-tcom.cs.purdue.edu (128.10.127.251)  13.725 ms  13.705 ms  14.040 ms
+ 3  freh-g2-c9006-01-be10.tcom.purdue.edu (192.5.40.10)  22.975 ms  14.815 ms  14.635 ms
+ 4  tel-210-c9006-01-te0-0-0-3.tcom.purdue.edu (192.5.40.65)  15.552 ms  14.937 ms  14.043 ms
+ 5  indiana-gigapop-ctc-internet2-150.tcom.purdue.edu (192.5.40.86)  18.234 ms  15.629 ms  15.580 ms
+ 6  et-2-3-0.2063.rtsw.chic.net.internet2.edu (149.165.254.186)  19.959 ms  28.833 ms  31.878 ms
+ 7  et-8-1-0.4070.rtsw.wash.net.internet2.edu (198.71.45.57)  40.072 ms  36.992 ms  36.968 ms
+ 8  internet2.mx1.lon.uk.geant.net (62.40.124.44)  124.605 ms  123.888 ms  113.008 ms
+ 9  ae0.mx1.ams.nl.geant.net (62.40.98.81)  126.086 ms  119.010 ms  118.966 ms
+10  ae1.mx1.ham.de.geant.net (62.40.98.61)  138.324 ms  137.369 ms  140.002 ms
+11  dfn-gw.mx1.ham.de.geant.net (62.40.112.146)  135.734 ms  136.062 ms  135.712 ms
+12  cr-erl2-be7.x-win.dfn.de (188.1.146.209)  152.524 ms  158.366 ms  154.739 ms
+13  cr-gar1-hundredgige0-5-0-0.x-win.dfn.de (188.1.144.250)  155.173 ms  154.121 ms  150.603 ms
+14  kr-stu35-2.x-win.dfn.de (188.1.233.230)  136.264 ms  137.912 ms  144.258 ms
+15  Stuttgart-AL30-1-10GE-0-2-0-0.belwue.net (129.143.57.1)  136.383 ms  144.823 ms Tuebingen-Mor-1-10GE-0-0-0-0.belwue.net (129.143.57.90)  145.296 ms
+16  Tuebingen-Wae-1-10GE-0-2-0-1.belwue.net (129.143.57.86)  151.775 ms Konstanz-Bib-1-10GE-0-1-0-0.belwue.net (129.143.57.186)  141.341 ms Tuebingen-Wae-1-10GE-0-2-0-3.belwue.net (129.143.60.21)  140.770 ms
+17  Konstanz-RZ-1-10GE-0-1-0-0.belwue.net (129.143.59.74)  138.819 ms  138.295 ms  138.610 ms
+18  dannan.disy.inf.uni-konstanz.de (134.34.246.4)  154.547 ms  138.628 ms  138.376 ms
+========================================================================================
+========================================================================================
+*****************   TraceRoute   Command     Output ************************************
+----------------------------------------------------------------------------------------
+Sat Apr  8 05:35:35 UTC 2017
+----------------------------------------------------------------------------------------
+traceroute to dannan.disy.inf.uni-konstanz.de (134.34.246.4), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  lwsn-b143-c6504e-01-po11-tcom.cs.purdue.edu (128.10.127.251)  18.587 ms  14.056 ms  14.259 ms
+ 3  freh-g2-c9006-01-be10.tcom.purdue.edu (192.5.40.10)  45.090 ms  14.858 ms  15.102 ms
+ 4  tel-210-c9006-01-te0-0-0-3.tcom.purdue.edu (192.5.40.65)  30.773 ms  17.436 ms  26.840 ms
+ 5  indiana-gigapop-ctc-internet2-150.tcom.purdue.edu (192.5.40.86)  26.630 ms  26.832 ms  22.727 ms
+ 6  et-2-3-0.2063.rtsw.chic.net.internet2.edu (149.165.254.186)  20.136 ms  20.181 ms  27.317 ms
+ 7  et-8-1-0.4070.rtsw.wash.net.internet2.edu (198.71.45.57)  37.188 ms  40.639 ms  37.170 ms
+ 8  internet2.mx1.lon.uk.geant.net (62.40.124.44)  111.867 ms  112.209 ms  111.707 ms
+ 9  ae0.mx1.ams.nl.geant.net (62.40.98.81)  134.127 ms  130.272 ms  130.243 ms
+10  ae1.mx1.ham.de.geant.net (62.40.98.61)  129.496 ms  129.616 ms  125.417 ms
+11  dfn-gw.mx1.ham.de.geant.net (62.40.112.146)  147.065 ms  147.563 ms  135.877 ms
+12  cr-erl2-be7.x-win.dfn.de (188.1.146.209)  153.995 ms  156.682 ms  158.186 ms
+13  cr-gar1-hundredgige0-5-0-0.x-win.dfn.de (188.1.144.250)  154.188 ms  148.851 ms  148.979 ms
+14  kr-stu35-2.x-win.dfn.de (188.1.233.230)  141.480 ms  140.766 ms  139.266 ms
+15  Stuttgart-AL30-1-10GE-0-2-0-0.belwue.net (129.143.57.1)  139.546 ms Tuebingen-Mor-1-10GE-0-0-0-0.belwue.net (129.143.57.90)  145.631 ms  139.793 ms
+16  Tuebingen-Wae-1-10GE-0-2-0-1.belwue.net (129.143.57.86)  143.155 ms Tuebingen-Wae-1-10GE-0-2-0-3.belwue.net (129.143.60.21)  145.537 ms Konstanz-Bib-1-10GE-0-1-0-0.belwue.net (129.143.57.186)  145.485 ms
+17  Konstanz-RZ-1-10GE-0-1-0-0.belwue.net (129.143.59.74)  145.682 ms dannan.disy.inf.uni-konstanz.de (134.34.246.4)  145.791 ms Konstanz-RZ-1-10GE-0-1-0-0.belwue.net (129.143.59.74)  146.653 ms
+========================================================================================
+========================================================================================
+*****************   TraceRoute   Command     Output ************************************
+----------------------------------------------------------------------------------------
+Sat Apr  8 06:36:02 UTC 2017
+----------------------------------------------------------------------------------------
+traceroute to dannan.disy.inf.uni-konstanz.de (134.34.246.4), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  lwsn-b143-c6504e-01-po11-tcom.cs.purdue.edu (128.10.127.251)  26.599 ms  26.758 ms  26.756 ms
+ 3  freh-g2-c9006-01-be10.tcom.purdue.edu (192.5.40.10)  26.558 ms  27.045 ms  26.943 ms
+ 4  tel-210-c9006-01-te0-0-0-3.tcom.purdue.edu (192.5.40.65)  22.522 ms  26.449 ms  26.418 ms
+ 5  indiana-gigapop-ctc-internet2-150.tcom.purdue.edu (192.5.40.86)  27.175 ms  26.748 ms  26.782 ms
+ 6  et-2-3-0.2063.rtsw.chic.net.internet2.edu (149.165.254.186)  26.632 ms  27.937 ms  37.437 ms
+ 7  et-8-1-0.4070.rtsw.wash.net.internet2.edu (198.71.45.57)  36.999 ms  37.053 ms  37.177 ms
+ 8  internet2-gw.mx1.lon.uk.geant.net (62.40.124.44)  121.146 ms  122.347 ms  125.626 ms
+ 9  ae0.mx1.ams.nl.geant.net (62.40.98.81)  120.950 ms  119.503 ms  124.228 ms
+10  ae1.mx1.ham.de.geant.net (62.40.98.61)  126.202 ms  132.326 ms  135.858 ms
+11  cr-tub1.x-win.dfn.de (62.40.112.146)  148.883 ms  135.928 ms  135.952 ms
+12  cr-erl2-be7.x-win.dfn.de (188.1.146.209)  156.700 ms  150.553 ms  157.052 ms
+13  cr-gar1-hundredgige0-5-0-0.x-win.dfn.de (188.1.144.250)  157.249 ms  153.250 ms  148.856 ms
+14  kr-stu35-2.x-win.dfn.de (188.1.233.230)  136.318 ms  136.500 ms  136.379 ms
+15  Stuttgart-AL30-1-10GE-0-2-0-0.belwue.net (129.143.57.1)  136.406 ms  136.344 ms Stuttgart-AL30-1-10GE-0-0-0-0.belwue.net (129.143.59.33)  136.565 ms
+16  Tuebingen-Wae-1-10GE-0-2-0-3.belwue.net (129.143.60.21)  137.382 ms Tuebingen-Wae-1-10GE-0-2-0-1.belwue.net (129.143.57.86)  136.687 ms  136.757 ms
+17  Konstanz-RZ-1-10GE-0-1-0-0.belwue.net (129.143.59.74)  138.490 ms  138.508 ms  138.234 ms
+18  dannan.disy.inf.uni-konstanz.de (134.34.246.4)  151.534 ms  138.435 ms  146.747 ms
+========================================================================================
+========================================================================================
+*****************   TraceRoute   Command     Output ************************************
+----------------------------------------------------------------------------------------
+Sat Apr  8 07:36:27 UTC 2017
+----------------------------------------------------------------------------------------
+traceroute to dannan.disy.inf.uni-konstanz.de (134.34.246.4), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  lwsn-b143-c6504e-01-po11-tcom.cs.purdue.edu (128.10.127.251)  16.953 ms  13.938 ms  14.382 ms
+ 3  freh-g2-c9006-01-be10.tcom.purdue.edu (192.5.40.10)  27.673 ms  22.590 ms  14.831 ms
+ 4  tel-210-c9006-01-te0-0-0-3.tcom.purdue.edu (192.5.40.65)  14.366 ms  15.358 ms  26.650 ms
+ 5  indiana-gigapop-ctc-internet2-150.tcom.purdue.edu (192.5.40.86)  24.070 ms  27.305 ms  22.588 ms
+ 6  et-2-3-0.2063.rtsw.chic.net.internet2.edu (149.165.254.186)  28.345 ms  28.071 ms  27.142 ms
+ 7  et-8-1-0.4070.rtsw.wash.net.internet2.edu (198.71.45.57)  42.213 ms  41.963 ms  37.212 ms
+ 8  internet2-gw.mx1.lon.uk.geant.net (62.40.124.44)  116.873 ms  111.734 ms  116.581 ms
+ 9  ae0.mx1.ams.nl.geant.net (62.40.98.81)  118.988 ms  119.051 ms  119.183 ms
+10  ae1.mx1.ham.de.geant.net (62.40.98.61)  136.294 ms  137.079 ms  132.959 ms
+11  dfn-gw.mx1.ham.de.geant.net (62.40.112.146)  139.414 ms  139.109 ms  140.988 ms
+12  cr-erl2-be7.x-win.dfn.de (188.1.146.209)  144.632 ms  145.154 ms  144.670 ms
+13  cr-gar1-hundredgige0-5-0-0.x-win.dfn.de (188.1.144.250)  149.393 ms  149.065 ms  151.191 ms
+14  kr-stu35-2.x-win.dfn.de (188.1.233.230)  149.496 ms  147.769 ms  147.554 ms
+15  Tuebingen-Mor-1-10GE-0-0-0-0.belwue.net (129.143.57.90)  148.216 ms  150.067 ms Stuttgart-AL30-1-10GE-0-0-0-0.belwue.net (129.143.59.33)  136.494 ms
+16  Tuebingen-Wae-1-10GE-0-2-0-1.belwue.net (129.143.57.86)  136.906 ms  136.729 ms Tuebingen-Wae-1-10GE-0-2-0-3.belwue.net (129.143.60.21)  137.125 ms
+17  Konstanz-RZ-1-10GE-0-1-0-0.belwue.net (129.143.59.74)  138.454 ms  138.472 ms  138.599 ms
+18  dannan.disy.inf.uni-konstanz.de (134.34.246.4)  138.574 ms  149.739 ms  151.248 ms
+========================================================================================
+========================================================================================
+*****************   TraceRoute   Command     Output ************************************
+----------------------------------------------------------------------------------------
+Sat Apr  8 08:36:53 UTC 2017
+----------------------------------------------------------------------------------------
+traceroute to dannan.disy.inf.uni-konstanz.de (134.34.246.4), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  lwsn-b143-c6504e-01-po11-tcom.cs.purdue.edu (128.10.127.251)  14.277 ms  13.998 ms  13.858 ms
+ 3  freh-g2-c9006-01-be10.tcom.purdue.edu (192.5.40.10)  14.699 ms  14.429 ms  26.481 ms
+ 4  tel-210-c9006-01-te0-0-0-3.tcom.purdue.edu (192.5.40.65)  29.496 ms  18.527 ms  14.597 ms
+ 5  indiana-gigapop-ctc-internet2-150.tcom.purdue.edu (192.5.40.86)  15.740 ms  15.778 ms  15.348 ms
+ 6  et-2-3-0.2063.rtsw.chic.net.internet2.edu (149.165.254.186)  19.840 ms  20.275 ms  26.674 ms
+ 7  et-8-1-0.4070.rtsw.wash.net.internet2.edu (198.71.45.57)  36.904 ms  36.918 ms  36.849 ms
+ 8  internet2.mx1.lon.uk.geant.net (62.40.124.44)  115.835 ms  112.173 ms  111.679 ms
+ 9  ae0.mx1.ams.nl.geant.net (62.40.98.81)  125.278 ms  138.339 ms  129.754 ms
+10  ae1.mx1.ham.de.geant.net (62.40.98.61)  130.657 ms  132.149 ms  125.558 ms
+11  cr-tub1.x-win.dfn.de (62.40.112.146)  148.510 ms  135.684 ms  135.496 ms
+12  cr-erl2-be7.x-win.dfn.de (188.1.146.209)  151.712 ms  152.474 ms  152.779 ms
+13  cr-gar1-hundredgige0-5-0-0.x-win.dfn.de (188.1.144.250)  160.490 ms  160.111 ms  149.393 ms
+14  kr-stu35-2.x-win.dfn.de (188.1.233.230)  147.589 ms  146.895 ms  146.968 ms
+15  Stuttgart-AL30-1-10GE-0-2-0-0.belwue.net (129.143.57.1)  147.390 ms Stuttgart-AL30-1-10GE-0-0-0-0.belwue.net (129.143.59.33)  136.513 ms  139.376 ms
+16  Tuebingen-Wae-1-10GE-0-2-0-1.belwue.net (129.143.57.86)  143.257 ms Tuebingen-Wae-1-10GE-0-2-0-3.belwue.net (129.143.60.21)  143.853 ms  144.814 ms
+17  Konstanz-RZ-1-10GE-0-1-0-0.belwue.net (129.143.59.74)  145.589 ms  146.509 ms  150.242 ms
+18  dannan.disy.inf.uni-konstanz.de (134.34.246.4)  153.604 ms  142.339 ms  142.900 ms
+========================================================================================
+========================================================================================
+*****************   TraceRoute   Command     Output ************************************
+----------------------------------------------------------------------------------------
+Sat Apr  8 09:37:18 UTC 2017
+----------------------------------------------------------------------------------------
+traceroute to dannan.disy.inf.uni-konstanz.de (134.34.246.4), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  lwsn-b143-c6504e-01-po11-tcom.cs.purdue.edu (128.10.127.251)  14.178 ms  17.056 ms  14.134 ms
+ 3  freh-g2-c9006-01-be10.tcom.purdue.edu (192.5.40.10)  26.735 ms  14.808 ms  15.835 ms
+ 4  tel-210-c9006-01-te0-0-0-3.tcom.purdue.edu (192.5.40.65)  14.703 ms  14.469 ms  25.601 ms
+ 5  indiana-gigapop-ctc-internet2-150.tcom.purdue.edu (192.5.40.86)  17.960 ms  15.413 ms  15.728 ms
+ 6  et-2-3-0.2063.rtsw.chic.net.internet2.edu (149.165.254.186)  28.328 ms  28.064 ms  26.912 ms
+ 7  et-8-1-0.4070.rtsw.wash.net.internet2.edu (198.71.45.57)  36.923 ms  37.802 ms  38.674 ms
+ 8  internet2.mx1.lon.uk.geant.net (62.40.124.44)  117.998 ms  111.658 ms  111.909 ms
+ 9  ae0.mx1.ams.nl.geant.net (62.40.98.81)  119.093 ms  126.016 ms  126.032 ms
+10  ae1.mx1.ham.de.geant.net (62.40.98.61)  137.523 ms  133.807 ms  132.344 ms
+11  dfn-gw.mx1.ham.de.geant.net (62.40.112.146)  148.229 ms  148.950 ms  147.931 ms
+12  cr-erl2-be7.x-win.dfn.de (188.1.146.209)  148.406 ms  148.333 ms  151.561 ms
+13  cr-gar1-hundredgige0-5-0-0.x-win.dfn.de (188.1.144.250)  160.388 ms  157.242 ms  155.970 ms
+14  kr-stu35-2.x-win.dfn.de (188.1.233.230)  141.671 ms  143.015 ms  144.036 ms
+15  Stuttgart-AL30-1-10GE-0-2-0-0.belwue.net (129.143.57.1)  138.922 ms  145.988 ms Stuttgart-AL30-1-10GE-0-0-0-0.belwue.net (129.143.59.33)  140.097 ms
+16  Tuebingen-Wae-1-10GE-0-2-0-3.belwue.net (129.143.60.21)  139.937 ms Konstanz-Bib-1-10GE-0-1-0-0.belwue.net (129.143.57.186)  139.840 ms  142.525 ms
+17  Konstanz-RZ-1-10GE-0-1-0-0.belwue.net (129.143.59.74)  142.674 ms  141.344 ms  143.246 ms
+18  dannan.disy.inf.uni-konstanz.de (134.34.246.4)  142.052 ms  145.506 ms  144.835 ms
+========================================================================================
+========================================================================================
+*****************   TraceRoute   Command     Output ************************************
+----------------------------------------------------------------------------------------
+Sat Apr  8 10:37:44 UTC 2017
+----------------------------------------------------------------------------------------
+traceroute to dannan.disy.inf.uni-konstanz.de (134.34.246.4), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  lwsn-b143-c6504e-01-po11-tcom.cs.purdue.edu (128.10.127.251)  14.184 ms  14.186 ms  13.863 ms
+ 3  freh-g2-c9006-01-be10.tcom.purdue.edu (192.5.40.10)  14.525 ms  26.430 ms  26.490 ms
+ 4  tel-210-c9006-01-te0-0-0-3.tcom.purdue.edu (192.5.40.65)  14.700 ms  27.603 ms  26.416 ms
+ 5  indiana-gigapop-ctc-internet2-150.tcom.purdue.edu (192.5.40.86)  27.061 ms  28.324 ms  22.521 ms
+ 6  et-2-3-0.2063.rtsw.chic.net.internet2.edu (149.165.254.186)  27.071 ms  26.614 ms  26.422 ms
+ 7  et-8-1-0.4070.rtsw.wash.net.internet2.edu (198.71.45.57)  36.852 ms  36.897 ms  36.829 ms
+ 8  internet2.mx1.lon.uk.geant.net (62.40.124.44)  115.608 ms  115.619 ms  111.559 ms
+ 9  ae0.mx1.ams.nl.geant.net (62.40.98.81)  119.163 ms  118.941 ms  119.110 ms
+10  ae1.mx1.ham.de.geant.net (62.40.98.61)  129.255 ms  129.424 ms  129.737 ms
+11  dfn-gw.mx1.ham.de.geant.net (62.40.112.146)  136.062 ms  135.835 ms  135.855 ms
+12  cr-erl2-be7.x-win.dfn.de (188.1.146.209)  156.546 ms  156.781 ms  144.490 ms
+13  cr-gar1-hundredgige0-5-0-0.x-win.dfn.de (188.1.144.250)  160.371 ms  155.764 ms  151.153 ms
+14  kr-stu35-2.x-win.dfn.de (188.1.233.230)  142.318 ms  143.915 ms  144.354 ms
+15  Stuttgart-AL30-1-10GE-0-2-0-0.belwue.net (129.143.57.1)  145.908 ms  146.519 ms  147.709 ms
+16  Tuebingen-Wae-1-10GE-0-2-0-3.belwue.net (129.143.60.21)  146.010 ms  144.256 ms Konstanz-Bib-1-10GE-0-1-0-0.belwue.net (129.143.57.186)  141.239 ms
+17  Konstanz-RZ-1-10GE-0-1-0-0.belwue.net (129.143.59.74)  138.674 ms  138.414 ms dannan.disy.inf.uni-konstanz.de (134.34.246.4)  142.299 ms
+========================================================================================
+========================================================================================
+*****************   TraceRoute   Command     Output ************************************
+----------------------------------------------------------------------------------------
+Sat Apr  8 11:38:09 UTC 2017
+----------------------------------------------------------------------------------------
+traceroute to dannan.disy.inf.uni-konstanz.de (134.34.246.4), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  lwsn-b143-c6504e-01-po11-tcom.cs.purdue.edu (128.10.127.251)  14.242 ms  13.960 ms  26.563 ms
+ 3  freh-g2-c9006-01-be10.tcom.purdue.edu (192.5.40.10)  26.516 ms  26.401 ms  26.655 ms
+ 4  tel-210-c9006-01-te0-0-0-3.tcom.purdue.edu (192.5.40.65)  29.415 ms  29.478 ms  14.346 ms
+ 5  indiana-gigapop-ctc-internet2-150.tcom.purdue.edu (192.5.40.86)  15.536 ms  15.618 ms  15.548 ms
+ 6  et-2-3-0.2063.rtsw.chic.net.internet2.edu (149.165.254.186)  19.788 ms  19.978 ms  24.625 ms
+ 7  et-8-1-0.4070.rtsw.wash.net.internet2.edu (198.71.45.57)  39.057 ms  44.494 ms  40.664 ms
+ 8  internet2.mx1.lon.uk.geant.net (62.40.124.44)  111.613 ms  118.766 ms  118.953 ms
+ 9  ae0.mx1.ams.nl.geant.net (62.40.98.81)  132.248 ms  131.892 ms  132.613 ms
+10  ae1.mx1.ham.de.geant.net (62.40.98.61)  128.942 ms  134.454 ms  136.773 ms
+11  dfn-gw.mx1.ham.de.geant.net (62.40.112.146)  138.692 ms  136.113 ms  135.986 ms
+12  cr-erl2-be7.x-win.dfn.de (188.1.146.209)  146.064 ms  156.242 ms  151.808 ms
+13  cr-gar1-hundredgige0-5-0-0.x-win.dfn.de (188.1.144.250)  158.864 ms  156.513 ms  149.114 ms
+14  kr-stu35-2.x-win.dfn.de (188.1.233.230)  148.428 ms  147.142 ms  142.661 ms
+15  Tuebingen-Mor-1-10GE-0-0-0-0.belwue.net (129.143.57.90)  136.751 ms  136.896 ms  137.300 ms
+16  Tuebingen-Wae-1-10GE-0-2-0-2.belwue.net (129.143.57.102)  144.126 ms Tuebingen-Wae-1-10GE-0-2-0-1.belwue.net (129.143.57.86)  144.040 ms Tuebingen-Wae-1-10GE-0-2-0-3.belwue.net (129.143.60.21)  144.281 ms
+17  Konstanz-RZ-1-10GE-0-1-0-0.belwue.net (129.143.59.74)  144.028 ms  139.844 ms  144.126 ms
+18  dannan.disy.inf.uni-konstanz.de (134.34.246.4)  143.838 ms  138.321 ms  138.642 ms
+========================================================================================
+========================================================================================
+*****************   TraceRoute   Command     Output ************************************
+----------------------------------------------------------------------------------------
+Sat Apr  8 12:38:35 UTC 2017
+----------------------------------------------------------------------------------------
+traceroute to dannan.disy.inf.uni-konstanz.de (134.34.246.4), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  lwsn-b143-c6504e-01-po11-tcom.cs.purdue.edu (128.10.127.251)  17.389 ms  14.535 ms  23.729 ms
+ 3  freh-g2-c9006-01-be10.tcom.purdue.edu (192.5.40.10)  14.520 ms  18.030 ms  14.177 ms
+ 4  tel-210-c9006-01-te0-0-0-3.tcom.purdue.edu (192.5.40.65)  21.512 ms  14.730 ms  28.053 ms
+ 5  indiana-gigapop-ctc-internet2-150.tcom.purdue.edu (192.5.40.86)  27.404 ms  23.860 ms  17.600 ms
+ 6  et-2-3-0.2063.rtsw.chic.net.internet2.edu (149.165.254.186)  31.593 ms  29.334 ms  27.990 ms
+ 7  et-8-1-0.4070.rtsw.wash.net.internet2.edu (198.71.45.57)  37.138 ms  40.259 ms  37.537 ms
+ 8  internet2.mx1.lon.uk.geant.net (62.40.124.44)  117.819 ms  113.663 ms  112.289 ms
+ 9  ae0.mx1.ams.nl.geant.net (62.40.98.81)  119.088 ms  118.903 ms  118.999 ms
+10  ae1.mx1.ham.de.geant.net (62.40.98.61)  128.685 ms  128.748 ms  130.019 ms
+11  dfn-gw.mx1.ham.de.geant.net (62.40.112.146)  142.305 ms  141.244 ms  143.800 ms
+12  cr-erl2-be7.x-win.dfn.de (188.1.146.209)  145.455 ms  144.715 ms  144.840 ms
+13  cr-gar1-hundredgige0-5-0-0.x-win.dfn.de (188.1.144.250)  160.681 ms  150.322 ms  150.076 ms
+14  kr-stu35-2.x-win.dfn.de (188.1.233.230)  136.160 ms  138.306 ms  136.788 ms
+15  Stuttgart-AL30-1-10GE-0-2-0-0.belwue.net (129.143.57.1)  136.372 ms  143.622 ms Tuebingen-Mor-1-10GE-0-0-0-0.belwue.net (129.143.57.90)  143.962 ms
+16  Tuebingen-Wae-1-10GE-0-2-0-3.belwue.net (129.143.60.21)  139.401 ms Tuebingen-Wae-1-10GE-0-2-0-1.belwue.net (129.143.57.86)  141.774 ms Konstanz-Bib-1-10GE-0-1-0-0.belwue.net (129.143.57.186)  138.861 ms
+17  Konstanz-RZ-1-10GE-0-1-0-0.belwue.net (129.143.59.74)  138.554 ms dannan.disy.inf.uni-konstanz.de (134.34.246.4)  138.542 ms Konstanz-RZ-1-10GE-0-1-0-0.belwue.net (129.143.59.74)  138.658 ms
+========================================================================================
+========================================================================================
+*****************   TraceRoute   Command     Output ************************************
+----------------------------------------------------------------------------------------
+Sat Apr  8 13:39:00 UTC 2017
+----------------------------------------------------------------------------------------
+traceroute to dannan.disy.inf.uni-konstanz.de (134.34.246.4), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  lwsn-b143-c6504e-01-po11-tcom.cs.purdue.edu (128.10.127.251)  26.875 ms  26.525 ms  26.621 ms
+ 3  freh-g2-c9006-01-be10.tcom.purdue.edu (192.5.40.10)  14.669 ms  22.627 ms  27.599 ms
+ 4  tel-210-c9006-01-te0-0-0-3.tcom.purdue.edu (192.5.40.65)  26.634 ms  15.706 ms  14.340 ms
+ 5  indiana-gigapop-ctc-internet2-150.tcom.purdue.edu (192.5.40.86)  15.600 ms  22.254 ms  15.580 ms
+ 6  et-2-3-0.2063.rtsw.chic.net.internet2.edu (149.165.254.186)  30.636 ms  27.248 ms  26.665 ms
+ 7  et-8-1-0.4070.rtsw.wash.net.internet2.edu (198.71.45.57)  40.018 ms  40.008 ms  37.048 ms
+ 8  internet2-gw.mx1.lon.uk.geant.net (62.40.124.44)  111.880 ms  111.558 ms  111.605 ms
+ 9  ae0.mx1.ams.nl.geant.net (62.40.98.81)  119.512 ms  119.692 ms  118.986 ms
+10  ae1.mx1.ham.de.geant.net (62.40.98.61)  127.833 ms  125.679 ms  125.340 ms
+11  cr-tub1.x-win.dfn.de (62.40.112.146)  142.958 ms  142.572 ms  142.674 ms
+12  cr-erl2-be7.x-win.dfn.de (188.1.146.209)  144.778 ms  144.775 ms  152.451 ms
+13  cr-gar1-hundredgige0-5-0-0.x-win.dfn.de (188.1.144.250)  148.812 ms  148.849 ms  148.873 ms
+14  kr-stu35-2.x-win.dfn.de (188.1.233.230)  144.420 ms  144.528 ms  145.757 ms
+15  Stuttgart-AL30-1-10GE-0-2-0-0.belwue.net (129.143.57.1)  145.915 ms Tuebingen-Mor-1-10GE-0-0-0-0.belwue.net (129.143.57.90)  142.172 ms Stuttgart-AL30-1-10GE-0-2-0-0.belwue.net (129.143.57.1)  147.281 ms
+16  Tuebingen-Wae-1-10GE-0-2-0-3.belwue.net (129.143.60.21)  146.973 ms Tuebingen-Wae-1-10GE-0-2-0-1.belwue.net (129.143.57.86)  147.673 ms Konstanz-Bib-1-10GE-0-1-0-0.belwue.net (129.143.57.186)  147.682 ms
+17  Konstanz-RZ-1-10GE-0-1-0-0.belwue.net (129.143.59.74)  146.129 ms  145.946 ms  146.540 ms
+18  dannan.disy.inf.uni-konstanz.de (134.34.246.4)  147.448 ms  138.384 ms  138.376 ms
+========================================================================================
+========================================================================================
+*****************   TraceRoute   Command     Output ************************************
+----------------------------------------------------------------------------------------
+Sat Apr  8 14:39:26 UTC 2017
+----------------------------------------------------------------------------------------
+traceroute to dannan.disy.inf.uni-konstanz.de (134.34.246.4), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  lwsn-b143-c6504e-01-po11-tcom.cs.purdue.edu (128.10.127.251)  14.149 ms  14.229 ms  13.843 ms
+ 3  freh-g2-c9006-01-be10.tcom.purdue.edu (192.5.40.10)  14.498 ms  26.522 ms  27.547 ms
+ 4  tel-210-c9006-01-te0-0-0-3.tcom.purdue.edu (192.5.40.65)  20.755 ms  16.181 ms  15.243 ms
+ 5  indiana-gigapop-ctc-internet2-150.tcom.purdue.edu (192.5.40.86)  28.163 ms  26.971 ms  26.541 ms
+ 6  et-2-3-0.2063.rtsw.chic.net.internet2.edu (149.165.254.186)  26.613 ms  26.527 ms  29.029 ms
+ 7  et-8-1-0.4070.rtsw.wash.net.internet2.edu (198.71.45.57)  46.220 ms  43.147 ms  41.463 ms
+ 8  internet2-gw.mx1.lon.uk.geant.net (62.40.124.44)  114.720 ms  116.499 ms  118.255 ms
+ 9  ae0.mx1.ams.nl.geant.net (62.40.98.81)  119.302 ms  118.901 ms  132.129 ms
+10  ae1.mx1.ham.de.geant.net (62.40.98.61)  133.578 ms  127.635 ms  131.687 ms
+11  cr-tub1.x-win.dfn.de (62.40.112.146)  135.842 ms  135.839 ms  135.852 ms
+12  cr-erl2-be7.x-win.dfn.de (188.1.146.209)  145.002 ms  153.112 ms  146.917 ms
+13  cr-gar1-hundredgige0-5-0-0.x-win.dfn.de (188.1.144.250)  149.060 ms  148.916 ms  148.915 ms
+14  kr-stu35-2.x-win.dfn.de (188.1.233.230)  140.191 ms  142.018 ms  144.739 ms
+15  Stuttgart-AL30-1-10GE-0-0-0-0.belwue.net (129.143.59.33)  138.371 ms Tuebingen-Mor-1-10GE-0-0-0-0.belwue.net (129.143.57.90)  140.872 ms Stuttgart-AL30-1-10GE-0-0-0-0.belwue.net (129.143.59.33)  138.740 ms
+16  Tuebingen-Wae-1-10GE-0-2-0-3.belwue.net (129.143.60.21)  141.090 ms  139.350 ms  139.082 ms
+17  Konstanz-RZ-1-10GE-0-1-0-0.belwue.net (129.143.59.74)  151.082 ms  148.905 ms dannan.disy.inf.uni-konstanz.de (134.34.246.4)  141.271 ms
+========================================================================================
+========================================================================================
+*****************   TraceRoute   Command     Output ************************************
+----------------------------------------------------------------------------------------
+Sat Apr  8 15:39:51 UTC 2017
+----------------------------------------------------------------------------------------
+traceroute to dannan.disy.inf.uni-konstanz.de (134.34.246.4), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  lwsn-b143-c6504e-01-po11-tcom.cs.purdue.edu (128.10.127.251)  14.446 ms  24.612 ms  13.912 ms
+ 3  freh-g2-c9006-01-be10.tcom.purdue.edu (192.5.40.10)  44.029 ms  17.324 ms  17.718 ms
+ 4  tel-210-c9006-01-te0-0-0-3.tcom.purdue.edu (192.5.40.65)  27.831 ms  27.296 ms  26.385 ms
+ 5  indiana-gigapop-ctc-internet2-150.tcom.purdue.edu (192.5.40.86)  26.331 ms  26.771 ms  27.025 ms
+ 6  et-2-3-0.2063.rtsw.chic.net.internet2.edu (149.165.254.186)  28.252 ms  42.656 ms  45.175 ms
+ 7  et-8-1-0.4070.rtsw.wash.net.internet2.edu (198.71.45.57)  40.168 ms  48.742 ms  58.055 ms
+ 8  internet2.mx1.lon.uk.geant.net (62.40.124.44)  114.447 ms  130.099 ms  124.610 ms
+ 9  ae0.mx1.ams.nl.geant.net (62.40.98.81)  121.626 ms  137.636 ms  132.592 ms
+10  ae1.mx1.ham.de.geant.net (62.40.98.61)  128.240 ms  130.154 ms  125.716 ms
+11  dfn-gw.mx1.ham.de.geant.net (62.40.112.146)  174.526 ms  136.952 ms  137.759 ms
+12  cr-erl2-be7.x-win.dfn.de (188.1.146.209)  149.137 ms  148.941 ms  161.665 ms
+13  cr-gar1-hundredgige0-5-0-0.x-win.dfn.de (188.1.144.250)  159.741 ms  156.734 ms  155.022 ms
+14  kr-stu35-2.x-win.dfn.de (188.1.233.230)  145.723 ms  136.312 ms  138.859 ms
+15  Stuttgart-AL30-1-10GE-0-0-0-0.belwue.net (129.143.59.33)  156.165 ms  143.970 ms Stuttgart-AL30-1-10GE-0-2-0-0.belwue.net (129.143.57.1)  143.785 ms
+16  Tuebingen-Wae-1-10GE-0-2-0-1.belwue.net (129.143.57.86)  143.071 ms Tuebingen-Wae-1-10GE-0-2-0-3.belwue.net (129.143.60.21)  137.236 ms Tuebingen-Wae-1-10GE-0-2-0-2.belwue.net (129.143.57.102)  136.550 ms
+17  Konstanz-RZ-1-10GE-0-1-0-0.belwue.net (129.143.59.74)  138.434 ms  138.349 ms  138.518 ms
+18  dannan.disy.inf.uni-konstanz.de (134.34.246.4)  146.555 ms  144.494 ms  144.210 ms
+========================================================================================
+========================================================================================
+*****************   TraceRoute   Command     Output ************************************
+----------------------------------------------------------------------------------------
+Sat Apr  8 16:40:17 UTC 2017
+----------------------------------------------------------------------------------------
+traceroute to dannan.disy.inf.uni-konstanz.de (134.34.246.4), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  lwsn-b143-c6504e-01-po11-tcom.cs.purdue.edu (128.10.127.251)  20.925 ms  14.611 ms  17.595 ms
+ 3  freh-g2-c9006-01-be10.tcom.purdue.edu (192.5.40.10)  18.339 ms  27.189 ms  26.620 ms
+ 4  tel-210-c9006-01-te0-0-0-3.tcom.purdue.edu (192.5.40.65)  14.440 ms  33.645 ms  27.543 ms
+ 5  indiana-gigapop-ctc-internet2-150.tcom.purdue.edu (192.5.40.86)  23.224 ms  58.848 ms  18.453 ms
+ 6  et-2-3-0.2063.rtsw.chic.net.internet2.edu (149.165.254.186)  20.071 ms  28.324 ms  20.209 ms
+ 7  et-8-1-0.4070.rtsw.wash.net.internet2.edu (198.71.45.57)  37.772 ms  37.386 ms  44.953 ms
+ 8  internet2-gw.mx1.lon.uk.geant.net (62.40.124.44)  123.970 ms  116.142 ms  113.942 ms
+ 9  ae0.mx1.ams.nl.geant.net (62.40.98.81)  123.045 ms  119.147 ms  126.315 ms
+10  ae1.mx1.ham.de.geant.net (62.40.98.61)  128.749 ms  126.187 ms  125.862 ms
+11  dfn-gw.mx1.ham.de.geant.net (62.40.112.146)  143.509 ms  149.204 ms  144.282 ms
+12  cr-erl2-be7.x-win.dfn.de (188.1.146.209)  144.739 ms  145.735 ms  147.871 ms
+13  cr-gar1-hundredgige0-5-0-0.x-win.dfn.de (188.1.144.250)  152.773 ms  162.227 ms  153.576 ms
+14  kr-stu35-2.x-win.dfn.de (188.1.233.230)  136.424 ms  136.818 ms  145.426 ms
+15  Tuebingen-Mor-1-10GE-0-0-0-0.belwue.net (129.143.57.90)  139.739 ms Stuttgart-AL30-1-10GE-0-2-0-0.belwue.net (129.143.57.1)  144.241 ms Stuttgart-AL30-1-10GE-0-0-0-0.belwue.net (129.143.59.33)  138.364 ms
+16  Tuebingen-Wae-1-10GE-0-2-0-3.belwue.net (129.143.60.21)  145.823 ms Tuebingen-Wae-1-10GE-0-2-0-1.belwue.net (129.143.57.86)  136.845 ms Tuebingen-Wae-1-10GE-0-2-0-2.belwue.net (129.143.57.102)  146.479 ms
+17  Konstanz-RZ-1-10GE-0-1-0-0.belwue.net (129.143.59.74)  141.093 ms  144.118 ms  138.364 ms
+18  dannan.disy.inf.uni-konstanz.de (134.34.246.4)  138.513 ms  144.633 ms  138.303 ms
+========================================================================================
+========================================================================================
+*****************   TraceRoute   Command     Output ************************************
+----------------------------------------------------------------------------------------
+Sat Apr  8 17:40:43 UTC 2017
+----------------------------------------------------------------------------------------
+traceroute to dannan.disy.inf.uni-konstanz.de (134.34.246.4), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  lwsn-b143-c6504e-01-po11-tcom.cs.purdue.edu (128.10.127.251)  27.978 ms  14.200 ms  16.386 ms
+ 3  freh-g2-c9006-01-be10.tcom.purdue.edu (192.5.40.10)  23.097 ms  16.020 ms  14.497 ms
+ 4  tel-210-c9006-01-te0-0-0-3.tcom.purdue.edu (192.5.40.65)  14.324 ms  14.624 ms  14.297 ms
+ 5  indiana-gigapop-ctc-internet2-150.tcom.purdue.edu (192.5.40.86)  19.217 ms  16.511 ms  16.188 ms
+ 6  et-2-3-0.2063.rtsw.chic.net.internet2.edu (149.165.254.186)  19.896 ms  20.117 ms  19.847 ms
+ 7  et-8-1-0.4070.rtsw.wash.net.internet2.edu (198.71.45.57)  39.856 ms  42.617 ms  56.187 ms
+ 8  internet2.mx1.lon.uk.geant.net (62.40.124.44)  114.108 ms  125.093 ms  111.663 ms
+ 9  ae0.mx1.ams.nl.geant.net (62.40.98.81)  119.085 ms  118.908 ms  119.201 ms
+10  ae1.mx1.ham.de.geant.net (62.40.98.61)  125.497 ms  142.694 ms  125.666 ms
+11  dfn-gw.mx1.ham.de.geant.net (62.40.112.146)  145.296 ms  145.128 ms  144.535 ms
+12  cr-erl2-be7.x-win.dfn.de (188.1.146.209)  144.538 ms  150.833 ms  147.795 ms
+13  cr-gar1-hundredgige0-5-0-0.x-win.dfn.de (188.1.144.250)  149.038 ms  151.153 ms  151.146 ms
+14  kr-stu35-2.x-win.dfn.de (188.1.233.230)  148.207 ms  146.812 ms  145.528 ms
+15  Tuebingen-Mor-1-10GE-0-0-0-0.belwue.net (129.143.57.90)  145.897 ms Stuttgart-AL30-1-10GE-0-0-0-0.belwue.net (129.143.59.33)  141.829 ms  150.239 ms
+16  Tuebingen-Wae-1-10GE-0-2-0-1.belwue.net (129.143.57.86)  144.921 ms Tuebingen-Wae-1-10GE-0-2-0-2.belwue.net (129.143.57.102)  143.080 ms Tuebingen-Wae-1-10GE-0-2-0-1.belwue.net (129.143.57.86)  142.193 ms
+17  Konstanz-RZ-1-10GE-0-1-0-0.belwue.net (129.143.59.74)  142.299 ms  143.018 ms dannan.disy.inf.uni-konstanz.de (134.34.246.4)  144.089 ms
+========================================================================================
+========================================================================================
+*****************   TraceRoute   Command     Output ************************************
+----------------------------------------------------------------------------------------
+Sat Apr  8 18:41:09 UTC 2017
+----------------------------------------------------------------------------------------
+traceroute to dannan.disy.inf.uni-konstanz.de (134.34.246.4), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  lwsn-b143-c6504e-01-po11-tcom.cs.purdue.edu (128.10.127.251)  14.013 ms  13.859 ms  14.120 ms
+ 3  freh-g2-c9006-01-be10.tcom.purdue.edu (192.5.40.10)  14.955 ms  27.237 ms  14.449 ms
+ 4  tel-210-c9006-01-te0-0-0-3.tcom.purdue.edu (192.5.40.65)  26.757 ms  26.470 ms  26.633 ms
+ 5  indiana-gigapop-ctc-internet2-150.tcom.purdue.edu (192.5.40.86)  26.992 ms  22.767 ms  26.535 ms
+ 6  et-2-3-0.2063.rtsw.chic.net.internet2.edu (149.165.254.186)  28.586 ms  27.035 ms  27.198 ms
+ 7  et-8-1-0.4070.rtsw.wash.net.internet2.edu (198.71.45.57)  36.913 ms  37.098 ms  36.950 ms
+ 8  internet2.mx1.lon.uk.geant.net (62.40.124.44)  115.488 ms  111.646 ms  111.544 ms
+ 9  ae0.mx1.ams.nl.geant.net (62.40.98.81)  119.139 ms  119.009 ms  119.015 ms
+10  ae1.mx1.ham.de.geant.net (62.40.98.61)  129.807 ms  125.468 ms  125.441 ms
+11  cr-tub1.x-win.dfn.de (62.40.112.146)  135.945 ms  136.076 ms  147.398 ms
+12  cr-erl2-be7.x-win.dfn.de (188.1.146.209)  155.262 ms  146.902 ms  151.801 ms
+13  cr-gar1-hundredgige0-5-0-0.x-win.dfn.de (188.1.144.250)  151.456 ms  149.628 ms  148.954 ms
+14  kr-stu35-2.x-win.dfn.de (188.1.233.230)  147.937 ms  146.363 ms  142.503 ms
+15  Stuttgart-AL30-1-10GE-0-0-0-0.belwue.net (129.143.59.33)  146.452 ms Stuttgart-AL30-1-10GE-0-2-0-0.belwue.net (129.143.57.1)  144.969 ms  143.415 ms
+16  Konstanz-Bib-1-10GE-0-1-0-0.belwue.net (129.143.57.186)  143.605 ms Tuebingen-Wae-1-10GE-0-2-0-1.belwue.net (129.143.57.86)  151.860 ms Tuebingen-Wae-1-10GE-0-2-0-2.belwue.net (129.143.57.102)  138.642 ms
+17  Konstanz-RZ-1-10GE-0-1-0-0.belwue.net (129.143.59.74)  138.333 ms  138.438 ms  138.353 ms
+18  dannan.disy.inf.uni-konstanz.de (134.34.246.4)  138.360 ms  138.389 ms  138.493 ms
+========================================================================================
+========================================================================================
+*****************   TraceRoute   Command     Output ************************************
+----------------------------------------------------------------------------------------
+Sat Apr  8 19:41:35 UTC 2017
+----------------------------------------------------------------------------------------
+traceroute to dannan.disy.inf.uni-konstanz.de (134.34.246.4), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  lwsn-b143-c6504e-01-po11-tcom.cs.purdue.edu (128.10.127.251)  14.000 ms  26.683 ms  26.915 ms
+ 3  freh-g2-c9006-01-be10.tcom.purdue.edu (192.5.40.10)  26.737 ms  27.466 ms  22.635 ms
+ 4  tel-210-c9006-01-te0-0-0-3.tcom.purdue.edu (192.5.40.65)  14.724 ms  15.917 ms  14.595 ms
+ 5  indiana-gigapop-ctc-internet2-150.tcom.purdue.edu (192.5.40.86)  15.691 ms  26.991 ms  27.340 ms
+ 6  et-2-3-0.2063.rtsw.chic.net.internet2.edu (149.165.254.186)  40.091 ms  33.584 ms  19.823 ms
+ 7  et-8-1-0.4070.rtsw.wash.net.internet2.edu (198.71.45.57)  40.138 ms  40.411 ms  37.017 ms
+ 8  internet2.mx1.lon.uk.geant.net (62.40.124.44)  111.423 ms  111.732 ms  111.833 ms
+ 9  ae0.mx1.ams.nl.geant.net (62.40.98.81)  119.458 ms  120.417 ms  120.583 ms
+10  ae1.mx1.ham.de.geant.net (62.40.98.61)  134.833 ms  137.469 ms  125.688 ms
+11  dfn-gw.mx1.ham.de.geant.net (62.40.112.146)  135.825 ms  135.807 ms  136.160 ms
+12  cr-erl2-be7.x-win.dfn.de (188.1.146.209)  144.670 ms  158.248 ms  147.449 ms
+13  cr-gar1-hundredgige0-5-0-0.x-win.dfn.de (188.1.144.250)  148.780 ms  149.033 ms  153.285 ms
+14  kr-stu35-2.x-win.dfn.de (188.1.233.230)  143.097 ms  144.268 ms  143.738 ms
+15  Stuttgart-AL30-1-10GE-0-0-0-0.belwue.net (129.143.59.33)  144.912 ms Tuebingen-Mor-1-10GE-0-0-0-0.belwue.net (129.143.57.90)  143.975 ms  144.580 ms
+16  Tuebingen-Wae-1-10GE-0-2-0-2.belwue.net (129.143.57.102)  137.132 ms Tuebingen-Wae-1-10GE-0-2-0-1.belwue.net (129.143.57.86)  136.956 ms Tuebingen-Wae-1-10GE-0-2-0-3.belwue.net (129.143.60.21)  138.826 ms
+17  Konstanz-RZ-1-10GE-0-1-0-0.belwue.net (129.143.59.74)  147.016 ms  138.551 ms  138.474 ms
+18  dannan.disy.inf.uni-konstanz.de (134.34.246.4)  138.908 ms  138.414 ms  138.354 ms
+========================================================================================
+========================================================================================
+*****************   TraceRoute   Command     Output ************************************
+----------------------------------------------------------------------------------------
+Sat Apr  8 20:42:00 UTC 2017
+----------------------------------------------------------------------------------------
+traceroute to dannan.disy.inf.uni-konstanz.de (134.34.246.4), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  lwsn-b143-c6504e-01-po11-tcom.cs.purdue.edu (128.10.127.251)  26.526 ms  26.561 ms  26.476 ms
+ 3  freh-g2-c9006-01-be10.tcom.purdue.edu (192.5.40.10)  26.657 ms  27.637 ms  22.519 ms
+ 4  tel-210-c9006-01-te0-0-0-3.tcom.purdue.edu (192.5.40.65)  26.564 ms  14.525 ms  26.650 ms
+ 5  indiana-gigapop-ctc-internet2-150.tcom.purdue.edu (192.5.40.86)  26.645 ms  26.704 ms  26.532 ms
+ 6  et-2-3-0.2063.rtsw.chic.net.internet2.edu (149.165.254.186)  26.690 ms  22.497 ms  26.570 ms
+ 7  et-8-1-0.4070.rtsw.wash.net.internet2.edu (198.71.45.57)  38.479 ms  37.379 ms  36.926 ms
+ 8  internet2-gw.mx1.lon.uk.geant.net (62.40.124.44)  111.494 ms  111.440 ms  111.485 ms
+ 9  ae0.mx1.ams.nl.geant.net (62.40.98.81)  130.442 ms  130.346 ms  130.305 ms
+10  ae1.mx1.ham.de.geant.net (62.40.98.61)  130.424 ms  139.236 ms  125.975 ms
+11  dfn-gw.mx1.ham.de.geant.net (62.40.112.146)  135.783 ms  135.736 ms  149.103 ms
+12  cr-erl2-be7.x-win.dfn.de (188.1.146.209)  144.455 ms  145.062 ms  144.922 ms
+13  cr-gar1-hundredgige0-5-0-0.x-win.dfn.de (188.1.144.250)  157.195 ms  156.628 ms  152.619 ms
+14  kr-stu35-2.x-win.dfn.de (188.1.233.230)  139.304 ms  136.511 ms  137.567 ms
+15  Tuebingen-Mor-1-10GE-0-0-0-0.belwue.net (129.143.57.90)  137.293 ms  136.743 ms Stuttgart-AL30-1-10GE-0-0-0-0.belwue.net (129.143.59.33)  136.530 ms
+16  Tuebingen-Wae-1-10GE-0-2-0-2.belwue.net (129.143.57.102)  137.259 ms Konstanz-Bib-1-10GE-0-1-0-0.belwue.net (129.143.57.186)  145.472 ms Tuebingen-Wae-1-10GE-0-2-0-1.belwue.net (129.143.57.86)  149.778 ms
+17  dannan.disy.inf.uni-konstanz.de (134.34.246.4)  138.368 ms Konstanz-RZ-1-10GE-0-1-0-0.belwue.net (129.143.59.74)  147.064 ms  151.522 ms
+========================================================================================
+========================================================================================
+*****************   TraceRoute   Command     Output ************************************
+----------------------------------------------------------------------------------------
+Sat Apr  8 21:42:26 UTC 2017
+----------------------------------------------------------------------------------------
+traceroute to dannan.disy.inf.uni-konstanz.de (134.34.246.4), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  lwsn-b143-c6504e-01-po11-tcom.cs.purdue.edu (128.10.127.251)  14.063 ms  14.030 ms  14.016 ms
+ 3  freh-g2-c9006-01-be10.tcom.purdue.edu (192.5.40.10)  26.541 ms  22.600 ms  26.423 ms
+ 4  tel-210-c9006-01-te0-0-0-3.tcom.purdue.edu (192.5.40.65)  26.878 ms  26.632 ms  27.296 ms
+ 5  indiana-gigapop-ctc-internet2-150.tcom.purdue.edu (192.5.40.86)  26.424 ms  28.964 ms  27.697 ms
+ 6  et-2-3-0.2063.rtsw.chic.net.internet2.edu (149.165.254.186)  22.624 ms  28.047 ms  27.342 ms
+ 7  et-8-1-0.4070.rtsw.wash.net.internet2.edu (198.71.45.57)  37.113 ms  40.993 ms  41.923 ms
+ 8  internet2-gw.mx1.lon.uk.geant.net (62.40.124.44)  118.387 ms  117.120 ms  121.142 ms
+ 9  ae0.mx1.ams.nl.geant.net (62.40.98.81)  130.577 ms  130.331 ms  130.412 ms
+10  ae1.mx1.ham.de.geant.net (62.40.98.61)  130.509 ms  130.537 ms  130.521 ms
+11  cr-tub1.x-win.dfn.de (62.40.112.146)  135.786 ms  140.478 ms  139.512 ms
+12  cr-erl2-be7.x-win.dfn.de (188.1.146.209)  149.586 ms  149.516 ms  149.106 ms
+13  cr-gar1-hundredgige0-5-0-0.x-win.dfn.de (188.1.144.250)  149.183 ms  150.657 ms  149.007 ms
+14  kr-stu35-2.x-win.dfn.de (188.1.233.230)  138.741 ms  137.066 ms  137.835 ms
+15  Tuebingen-Mor-1-10GE-0-0-0-0.belwue.net (129.143.57.90)  137.067 ms Stuttgart-AL30-1-10GE-0-0-0-0.belwue.net (129.143.59.33)  136.667 ms Tuebingen-Mor-1-10GE-0-0-0-0.belwue.net (129.143.57.90)  136.901 ms
+16  Tuebingen-Wae-1-10GE-0-2-0-1.belwue.net (129.143.57.86)  137.255 ms Konstanz-Bib-1-10GE-0-1-0-0.belwue.net (129.143.57.186)  138.895 ms Tuebingen-Wae-1-10GE-0-2-0-2.belwue.net (129.143.57.102)  136.923 ms
+17  Konstanz-RZ-1-10GE-0-1-0-0.belwue.net (129.143.59.74)  138.672 ms  138.396 ms  138.452 ms
+18  dannan.disy.inf.uni-konstanz.de (134.34.246.4)  138.581 ms  147.604 ms  146.679 ms
+========================================================================================
+========================================================================================
+*****************   TraceRoute   Command     Output ************************************
+----------------------------------------------------------------------------------------
+Sat Apr  8 22:42:51 UTC 2017
+----------------------------------------------------------------------------------------
+traceroute to dannan.disy.inf.uni-konstanz.de (134.34.246.4), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  lwsn-b143-c6504e-01-po11-tcom.cs.purdue.edu (128.10.127.251)  14.123 ms  22.585 ms  13.969 ms
+ 3  freh-g2-c9006-01-be10.tcom.purdue.edu (192.5.40.10)  29.237 ms  26.579 ms  27.890 ms
+ 4  tel-210-c9006-01-te0-0-0-3.tcom.purdue.edu (192.5.40.65)  26.503 ms  14.445 ms  22.606 ms
+ 5  indiana-gigapop-ctc-internet2-150.tcom.purdue.edu (192.5.40.86)  27.444 ms  28.317 ms  26.786 ms
+ 6  et-2-3-0.2063.rtsw.chic.net.internet2.edu (149.165.254.186)  26.827 ms  27.564 ms  27.817 ms
+ 7  et-8-1-0.4070.rtsw.wash.net.internet2.edu (198.71.45.57)  41.684 ms  42.617 ms  42.582 ms
+ 8  et-7-1-0.4070.rtsw.newy32aoa.net.internet2.edu (198.71.45.0)  54.528 ms  56.073 ms  42.660 ms
+ 9  internet2.mx1.ams.nl.geant.net (62.40.124.46)  133.033 ms  135.199 ms  133.470 ms
+10  ae1.mx1.ham.de.geant.net (62.40.98.61)  139.207 ms  142.886 ms  154.445 ms
+11  cr-tub1.x-win.dfn.de (62.40.112.146)  149.751 ms  149.776 ms  149.925 ms
+12  cr-erl2-be7.x-win.dfn.de (188.1.146.209)  171.704 ms  158.952 ms  158.562 ms
+13  cr-gar1-hundredgige0-5-0-0.x-win.dfn.de (188.1.144.250)  165.491 ms  162.610 ms  165.333 ms
+14  kr-stu35-2.x-win.dfn.de (188.1.233.230)  143.651 ms  143.241 ms  143.236 ms
+15  Stuttgart-AL30-1-10GE-0-0-0-0.belwue.net (129.143.59.33)  143.557 ms Stuttgart-AL30-1-10GE-0-2-0-0.belwue.net (129.143.57.1)  153.846 ms Tuebingen-Mor-1-10GE-0-0-0-0.belwue.net (129.143.57.90)  146.838 ms
+16  Tuebingen-Wae-1-10GE-0-2-0-1.belwue.net (129.143.57.86)  143.642 ms Tuebingen-Wae-1-10GE-0-2-0-3.belwue.net (129.143.60.21)  144.026 ms Konstanz-Bib-1-10GE-0-1-0-0.belwue.net (129.143.57.186)  145.779 ms
+17  Konstanz-RZ-1-10GE-0-1-0-0.belwue.net (129.143.59.74)  152.525 ms  151.281 ms  145.213 ms
+18  dannan.disy.inf.uni-konstanz.de (134.34.246.4)  160.180 ms  147.792 ms  148.107 ms
+========================================================================================
+========================================================================================
+*****************   TraceRoute   Command     Output ************************************
+----------------------------------------------------------------------------------------
+Sat Apr  8 23:43:18 UTC 2017
+----------------------------------------------------------------------------------------
+traceroute to dannan.disy.inf.uni-konstanz.de (134.34.246.4), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  lwsn-b143-c6504e-01-po11-tcom.cs.purdue.edu (128.10.127.251)  27.470 ms  26.505 ms  26.568 ms
+ 3  freh-g2-c9006-01-be10.tcom.purdue.edu (192.5.40.10)  14.769 ms  14.191 ms  14.328 ms
+ 4  tel-210-c9006-01-te0-0-0-3.tcom.purdue.edu (192.5.40.65)  26.564 ms  27.423 ms  26.422 ms
+ 5  indiana-gigapop-ctc-internet2-150.tcom.purdue.edu (192.5.40.86)  26.490 ms  26.572 ms  24.464 ms
+ 6  et-2-3-0.2063.rtsw.chic.net.internet2.edu (149.165.254.186)  24.926 ms  22.994 ms  23.668 ms
+ 7  et-8-1-0.4070.rtsw.wash.net.internet2.edu (198.71.45.57)  45.129 ms  43.821 ms  42.973 ms
+ 8  et-7-1-0.4070.rtsw.newy32aoa.net.internet2.edu (198.71.45.0)  44.740 ms  53.186 ms  53.143 ms
+ 9  internet2.mx1.ams.nl.geant.net (62.40.124.46)  141.155 ms  141.129 ms  141.454 ms
+10  ae1.mx1.ham.de.geant.net (62.40.98.61)  142.825 ms  142.223 ms  144.300 ms
+11  dfn-gw.mx1.ham.de.geant.net (62.40.112.146)  155.408 ms  154.235 ms  150.214 ms
+12  cr-erl2-be7.x-win.dfn.de (188.1.146.209)  161.516 ms  161.492 ms  173.302 ms
+13  cr-gar1-hundredgige0-5-0-0.x-win.dfn.de (188.1.144.250)  167.624 ms  166.517 ms  170.791 ms
+14  kr-stu35-2.x-win.dfn.de (188.1.233.230)  155.222 ms  155.375 ms  155.726 ms
+15  Stuttgart-AL30-1-10GE-0-2-0-0.belwue.net (129.143.57.1)  155.536 ms Tuebingen-Mor-1-10GE-0-0-0-0.belwue.net (129.143.57.90)  155.614 ms  150.929 ms
+16  Tuebingen-Wae-1-10GE-0-2-0-1.belwue.net (129.143.57.86)  145.214 ms Tuebingen-Wae-1-10GE-0-2-0-3.belwue.net (129.143.60.21)  159.986 ms  155.277 ms
+17  Konstanz-RZ-1-10GE-0-1-0-0.belwue.net (129.143.59.74)  155.396 ms  155.399 ms dannan.disy.inf.uni-konstanz.de (134.34.246.4)  154.764 ms
+========================================================================================
+========================================================================================

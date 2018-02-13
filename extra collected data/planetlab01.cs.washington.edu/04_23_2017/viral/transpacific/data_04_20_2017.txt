@@ -1,0 +1,685 @@
+*****************       Ping    Command     Output ************************************
+----------------------------------------------------------------------------------------
+Thu Apr 20 00:42:47 UTC 2017
+----------------------------------------------------------------------------------------
+PING planetlab1.USTC.edu.cn (202.141.161.43) 56(84) bytes of data.
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=1 ttl=47 time=296 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=2 ttl=47 time=297 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=3 ttl=47 time=296 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=4 ttl=47 time=296 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=5 ttl=47 time=297 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=6 ttl=47 time=296 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=7 ttl=47 time=296 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=8 ttl=47 time=296 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=9 ttl=47 time=296 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=10 ttl=47 time=296 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=11 ttl=47 time=296 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=12 ttl=47 time=296 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=13 ttl=47 time=296 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=14 ttl=47 time=297 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=15 ttl=47 time=296 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=16 ttl=47 time=296 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=17 ttl=47 time=271 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=18 ttl=47 time=254 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=19 ttl=47 time=294 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=20 ttl=47 time=296 ms
+
+--- planetlab1.USTC.edu.cn ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19019ms
+rtt min/avg/max/mdev = 254.605/293.115/297.322/10.389 ms
+========================================================================================
+========================================================================================
+*****************       Ping    Command     Output ************************************
+----------------------------------------------------------------------------------------
+Thu Apr 20 01:43:19 UTC 2017
+----------------------------------------------------------------------------------------
+PING planetlab1.ustc.edu.cn (202.141.161.43) 56(84) bytes of data.
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=1 ttl=47 time=298 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=2 ttl=47 time=304 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=3 ttl=47 time=313 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=4 ttl=47 time=316 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=5 ttl=47 time=302 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=6 ttl=47 time=301 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=7 ttl=47 time=297 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=8 ttl=47 time=303 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=9 ttl=47 time=296 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=11 ttl=47 time=296 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=12 ttl=47 time=297 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=13 ttl=47 time=301 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=14 ttl=47 time=298 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=16 ttl=47 time=305 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=17 ttl=47 time=313 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=18 ttl=47 time=299 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=19 ttl=47 time=298 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=20 ttl=47 time=298 ms
+
+--- planetlab1.ustc.edu.cn ping statistics ---
+20 packets transmitted, 18 received, 10% packet loss, time 19001ms
+rtt min/avg/max/mdev = 296.367/302.353/316.094/5.935 ms
+========================================================================================
+========================================================================================
+*****************       Ping    Command     Output ************************************
+----------------------------------------------------------------------------------------
+Thu Apr 20 02:43:48 UTC 2017
+----------------------------------------------------------------------------------------
+PING planetlab1.ustc.edu.cn (202.141.161.43) 56(84) bytes of data.
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=1 ttl=47 time=298 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=2 ttl=47 time=195 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=3 ttl=47 time=253 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=4 ttl=47 time=294 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=5 ttl=47 time=296 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=6 ttl=47 time=297 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=7 ttl=47 time=296 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=8 ttl=47 time=296 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=9 ttl=47 time=296 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=10 ttl=47 time=297 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=11 ttl=47 time=299 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=12 ttl=47 time=297 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=13 ttl=47 time=298 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=14 ttl=47 time=296 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=15 ttl=47 time=303 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=16 ttl=47 time=296 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=17 ttl=47 time=301 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=18 ttl=47 time=302 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=19 ttl=47 time=298 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=20 ttl=47 time=297 ms
+
+--- planetlab1.ustc.edu.cn ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19001ms
+rtt min/avg/max/mdev = 195.231/290.762/303.465/24.070 ms
+========================================================================================
+========================================================================================
+*****************       Ping    Command     Output ************************************
+----------------------------------------------------------------------------------------
+Thu Apr 20 03:44:25 UTC 2017
+----------------------------------------------------------------------------------------
+PING planetlab1.ustc.edu.cn (202.141.161.43) 56(84) bytes of data.
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=1 ttl=47 time=314 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=2 ttl=47 time=296 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=3 ttl=47 time=296 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=4 ttl=47 time=296 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=5 ttl=47 time=298 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=6 ttl=47 time=296 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=8 ttl=47 time=296 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=9 ttl=47 time=299 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=10 ttl=47 time=296 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=11 ttl=47 time=196 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=12 ttl=47 time=252 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=13 ttl=47 time=291 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=14 ttl=47 time=294 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=15 ttl=47 time=296 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=16 ttl=47 time=298 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=17 ttl=47 time=302 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=18 ttl=47 time=296 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=19 ttl=47 time=296 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=20 ttl=47 time=297 ms
+
+--- planetlab1.ustc.edu.cn ping statistics ---
+20 packets transmitted, 19 received, 5% packet loss, time 19330ms
+rtt min/avg/max/mdev = 196.724/290.164/314.603/24.672 ms
+========================================================================================
+========================================================================================
+*****************       Ping    Command     Output ************************************
+----------------------------------------------------------------------------------------
+Thu Apr 20 04:45:10 UTC 2017
+----------------------------------------------------------------------------------------
+PING planetlab1.ustc.edu.cn (202.141.161.43) 56(84) bytes of data.
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=1 ttl=47 time=298 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=2 ttl=47 time=298 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=3 ttl=47 time=228 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=4 ttl=47 time=232 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=5 ttl=47 time=295 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=6 ttl=47 time=290 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=7 ttl=47 time=285 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=8 ttl=47 time=282 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=10 ttl=47 time=299 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=11 ttl=47 time=308 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=13 ttl=47 time=291 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=14 ttl=47 time=287 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=15 ttl=47 time=285 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=16 ttl=47 time=284 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=17 ttl=47 time=288 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=18 ttl=47 time=284 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=20 ttl=47 time=291 ms
+
+--- planetlab1.ustc.edu.cn ping statistics ---
+20 packets transmitted, 17 received, 15% packet loss, time 19005ms
+rtt min/avg/max/mdev = 228.245/284.320/308.571/20.797 ms
+========================================================================================
+========================================================================================
+*****************       Ping    Command     Output ************************************
+----------------------------------------------------------------------------------------
+Thu Apr 20 05:45:43 UTC 2017
+----------------------------------------------------------------------------------------
+PING planetlab1.ustc.edu.cn (202.141.161.43) 56(84) bytes of data.
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=1 ttl=47 time=335 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=2 ttl=47 time=336 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=4 ttl=47 time=333 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=5 ttl=47 time=334 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=6 ttl=47 time=330 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=7 ttl=47 time=233 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=8 ttl=47 time=294 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=9 ttl=47 time=347 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=10 ttl=47 time=327 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=11 ttl=47 time=327 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=12 ttl=47 time=324 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=13 ttl=47 time=330 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=14 ttl=47 time=328 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=15 ttl=47 time=329 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=17 ttl=47 time=327 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=19 ttl=47 time=336 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=20 ttl=47 time=327 ms
+
+--- planetlab1.ustc.edu.cn ping statistics ---
+20 packets transmitted, 17 received, 15% packet loss, time 18999ms
+rtt min/avg/max/mdev = 233.890/323.898/347.957/24.772 ms
+========================================================================================
+========================================================================================
+*****************       Ping    Command     Output ************************************
+----------------------------------------------------------------------------------------
+Thu Apr 20 06:46:24 UTC 2017
+----------------------------------------------------------------------------------------
+PING planetlab1.ustc.edu.cn (202.141.161.43) 56(84) bytes of data.
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=1 ttl=47 time=340 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=2 ttl=47 time=347 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=3 ttl=47 time=272 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=4 ttl=47 time=339 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=5 ttl=47 time=352 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=7 ttl=47 time=334 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=8 ttl=47 time=323 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=9 ttl=47 time=297 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=10 ttl=47 time=305 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=11 ttl=47 time=308 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=12 ttl=47 time=313 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=14 ttl=47 time=323 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=15 ttl=47 time=321 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=16 ttl=47 time=309 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=17 ttl=47 time=333 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=18 ttl=47 time=329 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=19 ttl=47 time=324 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=20 ttl=47 time=328 ms
+
+--- planetlab1.ustc.edu.cn ping statistics ---
+20 packets transmitted, 18 received, 10% packet loss, time 18999ms
+rtt min/avg/max/mdev = 272.685/322.579/352.901/18.771 ms
+========================================================================================
+========================================================================================
+*****************       Ping    Command     Output ************************************
+----------------------------------------------------------------------------------------
+Thu Apr 20 07:47:01 UTC 2017
+----------------------------------------------------------------------------------------
+PING planetlab1.ustc.edu.cn (202.141.161.43) 56(84) bytes of data.
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=1 ttl=47 time=478 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=2 ttl=47 time=408 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=3 ttl=47 time=271 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=4 ttl=47 time=345 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=5 ttl=47 time=345 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=6 ttl=47 time=340 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=7 ttl=47 time=326 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=8 ttl=47 time=323 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=10 ttl=47 time=326 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=11 ttl=47 time=322 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=12 ttl=47 time=326 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=13 ttl=47 time=327 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=14 ttl=47 time=338 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=15 ttl=47 time=334 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=16 ttl=47 time=334 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=17 ttl=47 time=339 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=18 ttl=47 time=340 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=19 ttl=47 time=343 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=20 ttl=47 time=341 ms
+
+--- planetlab1.ustc.edu.cn ping statistics ---
+20 packets transmitted, 19 received, 5% packet loss, time 19006ms
+rtt min/avg/max/mdev = 271.851/343.079/478.471/39.576 ms
+========================================================================================
+========================================================================================
+*****************       Ping    Command     Output ************************************
+----------------------------------------------------------------------------------------
+Thu Apr 20 08:47:34 UTC 2017
+----------------------------------------------------------------------------------------
+PING planetlab1.USTC.edu.cn (202.141.161.43) 56(84) bytes of data.
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=1 ttl=47 time=298 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=2 ttl=47 time=296 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=3 ttl=47 time=297 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=4 ttl=47 time=323 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=5 ttl=47 time=328 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=6 ttl=47 time=272 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=7 ttl=47 time=309 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=8 ttl=47 time=261 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=9 ttl=47 time=296 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=10 ttl=47 time=298 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=11 ttl=47 time=297 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=12 ttl=47 time=300 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=13 ttl=47 time=304 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=14 ttl=47 time=312 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=15 ttl=47 time=307 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=16 ttl=47 time=309 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=17 ttl=47 time=300 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=18 ttl=47 time=298 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=19 ttl=47 time=298 ms
+
+--- planetlab1.USTC.edu.cn ping statistics ---
+20 packets transmitted, 19 received, 5% packet loss, time 19000ms
+rtt min/avg/max/mdev = 261.986/300.659/328.882/14.638 ms
+========================================================================================
+========================================================================================
+*****************       Ping    Command     Output ************************************
+----------------------------------------------------------------------------------------
+Thu Apr 20 09:48:06 UTC 2017
+----------------------------------------------------------------------------------------
+PING planetlab1.ustc.edu.cn (202.141.161.43) 56(84) bytes of data.
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=1 ttl=47 time=316 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=2 ttl=47 time=323 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=3 ttl=47 time=303 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=4 ttl=47 time=310 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=5 ttl=47 time=308 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=6 ttl=47 time=321 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=7 ttl=47 time=297 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=8 ttl=47 time=297 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=9 ttl=47 time=298 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=10 ttl=47 time=297 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=11 ttl=47 time=195 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=12 ttl=47 time=296 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=13 ttl=47 time=283 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=14 ttl=47 time=299 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=15 ttl=47 time=297 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=16 ttl=47 time=310 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=17 ttl=47 time=308 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=18 ttl=47 time=310 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=19 ttl=47 time=321 ms
+
+--- planetlab1.ustc.edu.cn ping statistics ---
+20 packets transmitted, 19 received, 5% packet loss, time 19019ms
+rtt min/avg/max/mdev = 195.490/299.949/323.477/26.652 ms
+========================================================================================
+========================================================================================
+*****************       Ping    Command     Output ************************************
+----------------------------------------------------------------------------------------
+Thu Apr 20 10:48:38 UTC 2017
+----------------------------------------------------------------------------------------
+PING planetlab1.ustc.edu.cn (202.141.161.43) 56(84) bytes of data.
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=1 ttl=47 time=297 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=2 ttl=47 time=296 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=3 ttl=47 time=297 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=4 ttl=47 time=296 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=5 ttl=47 time=305 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=6 ttl=47 time=303 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=7 ttl=47 time=314 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=8 ttl=47 time=315 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=9 ttl=47 time=324 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=11 ttl=47 time=296 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=12 ttl=47 time=296 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=13 ttl=47 time=297 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=14 ttl=47 time=296 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=15 ttl=47 time=296 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=16 ttl=47 time=296 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=17 ttl=47 time=296 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=18 ttl=47 time=296 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=19 ttl=47 time=195 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=20 ttl=47 time=296 ms
+
+--- planetlab1.ustc.edu.cn ping statistics ---
+20 packets transmitted, 19 received, 5% packet loss, time 19016ms
+rtt min/avg/max/mdev = 195.702/295.524/324.222/24.847 ms
+========================================================================================
+========================================================================================
+*****************       Ping    Command     Output ************************************
+----------------------------------------------------------------------------------------
+Thu Apr 20 11:49:09 UTC 2017
+----------------------------------------------------------------------------------------
+PING planetlab1.ustc.edu.cn (202.141.161.43) 56(84) bytes of data.
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=1 ttl=47 time=263 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=2 ttl=47 time=214 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=3 ttl=47 time=308 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=4 ttl=47 time=331 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=6 ttl=47 time=309 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=7 ttl=47 time=325 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=8 ttl=47 time=331 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=9 ttl=47 time=330 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=11 ttl=47 time=311 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=12 ttl=47 time=301 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=13 ttl=47 time=297 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=14 ttl=47 time=297 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=15 ttl=47 time=297 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=16 ttl=47 time=300 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=17 ttl=47 time=297 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=18 ttl=47 time=297 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=19 ttl=47 time=300 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=20 ttl=47 time=306 ms
+
+--- planetlab1.ustc.edu.cn ping statistics ---
+20 packets transmitted, 18 received, 10% packet loss, time 19020ms
+rtt min/avg/max/mdev = 214.602/301.316/331.895/26.396 ms
+========================================================================================
+========================================================================================
+*****************       Ping    Command     Output ************************************
+----------------------------------------------------------------------------------------
+Thu Apr 20 12:50:09 UTC 2017
+----------------------------------------------------------------------------------------
+PING planetlab1.ustc.edu.cn (202.141.161.43) 56(84) bytes of data.
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=1 ttl=47 time=311 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=2 ttl=47 time=319 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=3 ttl=47 time=296 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=4 ttl=47 time=302 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=5 ttl=47 time=299 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=6 ttl=47 time=299 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=8 ttl=47 time=321 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=11 ttl=47 time=305 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=12 ttl=47 time=316 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=13 ttl=47 time=317 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=14 ttl=47 time=316 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=15 ttl=47 time=296 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=16 ttl=47 time=296 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=17 ttl=47 time=297 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=18 ttl=47 time=302 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=19 ttl=47 time=308 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=20 ttl=47 time=321 ms
+
+--- planetlab1.ustc.edu.cn ping statistics ---
+20 packets transmitted, 17 received, 15% packet loss, time 19194ms
+rtt min/avg/max/mdev = 296.307/307.632/321.806/9.273 ms
+========================================================================================
+========================================================================================
+*****************       Ping    Command     Output ************************************
+----------------------------------------------------------------------------------------
+Thu Apr 20 13:50:46 UTC 2017
+----------------------------------------------------------------------------------------
+PING planetlab1.ustc.edu.cn (202.141.161.43) 56(84) bytes of data.
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=1 ttl=47 time=299 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=2 ttl=47 time=306 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=3 ttl=47 time=299 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=4 ttl=47 time=297 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=5 ttl=47 time=296 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=6 ttl=47 time=296 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=9 ttl=47 time=296 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=10 ttl=47 time=296 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=11 ttl=47 time=296 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=12 ttl=47 time=297 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=13 ttl=47 time=297 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=14 ttl=47 time=296 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=16 ttl=47 time=296 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=17 ttl=47 time=296 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=18 ttl=47 time=301 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=19 ttl=47 time=296 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=20 ttl=47 time=296 ms
+
+--- planetlab1.ustc.edu.cn ping statistics ---
+20 packets transmitted, 17 received, 15% packet loss, time 19017ms
+rtt min/avg/max/mdev = 296.179/297.859/306.733/2.697 ms
+========================================================================================
+========================================================================================
+*****************       Ping    Command     Output ************************************
+----------------------------------------------------------------------------------------
+Thu Apr 20 14:51:25 UTC 2017
+----------------------------------------------------------------------------------------
+PING planetlab1.ustc.edu.cn (202.141.161.43) 56(84) bytes of data.
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=1 ttl=47 time=337 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=2 ttl=47 time=329 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=3 ttl=47 time=335 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=4 ttl=47 time=331 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=5 ttl=47 time=332 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=7 ttl=47 time=338 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=8 ttl=47 time=335 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=9 ttl=47 time=321 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=10 ttl=47 time=317 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=11 ttl=47 time=316 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=12 ttl=47 time=300 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=13 ttl=47 time=322 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=14 ttl=47 time=329 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=15 ttl=47 time=323 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=17 ttl=47 time=325 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=18 ttl=47 time=340 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=19 ttl=47 time=329 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=20 ttl=47 time=322 ms
+
+--- planetlab1.ustc.edu.cn ping statistics ---
+20 packets transmitted, 18 received, 10% packet loss, time 19001ms
+rtt min/avg/max/mdev = 300.312/327.176/340.207/9.494 ms
+========================================================================================
+========================================================================================
+*****************       Ping    Command     Output ************************************
+----------------------------------------------------------------------------------------
+Thu Apr 20 15:52:00 UTC 2017
+----------------------------------------------------------------------------------------
+PING planetlab1.ustc.edu.cn (202.141.161.43) 56(84) bytes of data.
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=1 ttl=47 time=296 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=2 ttl=47 time=297 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=3 ttl=47 time=297 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=4 ttl=47 time=297 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=5 ttl=47 time=297 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=6 ttl=47 time=297 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=7 ttl=47 time=297 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=8 ttl=47 time=296 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=9 ttl=47 time=296 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=10 ttl=47 time=296 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=11 ttl=47 time=298 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=12 ttl=47 time=296 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=14 ttl=47 time=297 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=16 ttl=47 time=296 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=18 ttl=47 time=297 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=19 ttl=47 time=296 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=20 ttl=47 time=296 ms
+
+--- planetlab1.ustc.edu.cn ping statistics ---
+20 packets transmitted, 17 received, 15% packet loss, time 19003ms
+rtt min/avg/max/mdev = 296.157/296.995/298.477/0.629 ms
+========================================================================================
+========================================================================================
+*****************       Ping    Command     Output ************************************
+----------------------------------------------------------------------------------------
+Thu Apr 20 16:53:02 UTC 2017
+----------------------------------------------------------------------------------------
+PING planetlab1.ustc.edu.cn (202.141.161.43) 56(84) bytes of data.
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=1 ttl=47 time=296 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=2 ttl=47 time=303 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=3 ttl=47 time=296 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=4 ttl=47 time=296 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=5 ttl=47 time=296 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=7 ttl=47 time=296 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=8 ttl=47 time=296 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=9 ttl=47 time=203 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=10 ttl=47 time=296 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=11 ttl=47 time=296 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=12 ttl=47 time=296 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=13 ttl=47 time=299 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=14 ttl=47 time=296 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=15 ttl=47 time=296 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=16 ttl=47 time=296 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=17 ttl=47 time=296 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=19 ttl=47 time=296 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=20 ttl=47 time=296 ms
+
+--- planetlab1.ustc.edu.cn ping statistics ---
+20 packets transmitted, 18 received, 10% packet loss, time 19000ms
+rtt min/avg/max/mdev = 203.946/291.869/303.638/21.409 ms
+========================================================================================
+========================================================================================
+*****************       Ping    Command     Output ************************************
+----------------------------------------------------------------------------------------
+Thu Apr 20 17:53:37 UTC 2017
+----------------------------------------------------------------------------------------
+PING planetlab1.ustc.edu.cn (202.141.161.43) 56(84) bytes of data.
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=1 ttl=47 time=296 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=2 ttl=47 time=296 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=3 ttl=47 time=296 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=4 ttl=47 time=296 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=5 ttl=47 time=296 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=6 ttl=47 time=302 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=7 ttl=47 time=296 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=8 ttl=47 time=296 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=9 ttl=47 time=296 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=10 ttl=47 time=296 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=11 ttl=47 time=296 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=12 ttl=47 time=296 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=14 ttl=47 time=296 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=15 ttl=47 time=298 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=16 ttl=47 time=296 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=17 ttl=47 time=296 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=18 ttl=47 time=296 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=20 ttl=47 time=296 ms
+
+--- planetlab1.ustc.edu.cn ping statistics ---
+20 packets transmitted, 18 received, 10% packet loss, time 18999ms
+rtt min/avg/max/mdev = 296.138/296.786/302.943/1.614 ms
+========================================================================================
+========================================================================================
+*****************       Ping    Command     Output ************************************
+----------------------------------------------------------------------------------------
+Thu Apr 20 18:54:22 UTC 2017
+----------------------------------------------------------------------------------------
+PING planetlab1.ustc.edu.cn (202.141.161.43) 56(84) bytes of data.
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=1 ttl=47 time=296 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=2 ttl=47 time=297 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=3 ttl=47 time=296 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=4 ttl=47 time=296 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=6 ttl=47 time=296 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=7 ttl=47 time=296 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=8 ttl=47 time=296 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=9 ttl=47 time=296 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=10 ttl=47 time=296 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=11 ttl=47 time=296 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=12 ttl=47 time=296 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=13 ttl=47 time=296 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=14 ttl=47 time=296 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=15 ttl=47 time=296 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=16 ttl=47 time=296 ms
+
+--- planetlab1.ustc.edu.cn ping statistics ---
+20 packets transmitted, 15 received, 25% packet loss, time 19258ms
+rtt min/avg/max/mdev = 296.119/296.409/297.062/0.601 ms
+========================================================================================
+========================================================================================
+*****************       Ping    Command     Output ************************************
+----------------------------------------------------------------------------------------
+Thu Apr 20 19:55:09 UTC 2017
+----------------------------------------------------------------------------------------
+PING planetlab1.ustc.edu.cn (202.141.161.43) 56(84) bytes of data.
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=2 ttl=47 time=383 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=3 ttl=47 time=383 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=4 ttl=47 time=390 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=5 ttl=47 time=380 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=6 ttl=47 time=316 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=7 ttl=47 time=351 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=8 ttl=47 time=378 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=9 ttl=47 time=374 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=10 ttl=47 time=374 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=11 ttl=47 time=377 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=15 ttl=47 time=378 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=16 ttl=47 time=383 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=18 ttl=47 time=347 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=19 ttl=47 time=382 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=20 ttl=47 time=384 ms
+
+--- planetlab1.ustc.edu.cn ping statistics ---
+20 packets transmitted, 15 received, 25% packet loss, time 19015ms
+rtt min/avg/max/mdev = 316.066/372.526/390.760/18.937 ms
+========================================================================================
+========================================================================================
+*****************       Ping    Command     Output ************************************
+----------------------------------------------------------------------------------------
+Thu Apr 20 20:55:40 UTC 2017
+----------------------------------------------------------------------------------------
+PING planetlab1.ustc.edu.cn (202.141.161.43) 56(84) bytes of data.
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=1 ttl=47 time=296 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=3 ttl=47 time=296 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=4 ttl=47 time=296 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=5 ttl=47 time=296 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=6 ttl=47 time=296 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=7 ttl=47 time=296 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=9 ttl=47 time=296 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=10 ttl=47 time=296 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=11 ttl=47 time=296 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=12 ttl=47 time=296 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=13 ttl=47 time=296 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=14 ttl=47 time=296 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=15 ttl=47 time=296 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=16 ttl=47 time=296 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=17 ttl=47 time=296 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=18 ttl=47 time=296 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=19 ttl=47 time=296 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=20 ttl=47 time=301 ms
+
+--- planetlab1.ustc.edu.cn ping statistics ---
+20 packets transmitted, 18 received, 10% packet loss, time 19017ms
+rtt min/avg/max/mdev = 296.078/296.581/301.856/1.289 ms
+========================================================================================
+========================================================================================
+*****************       Ping    Command     Output ************************************
+----------------------------------------------------------------------------------------
+Thu Apr 20 21:56:11 UTC 2017
+----------------------------------------------------------------------------------------
+PING planetlab1.ustc.edu.cn (202.141.161.43) 56(84) bytes of data.
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=1 ttl=47 time=296 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=3 ttl=47 time=296 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=4 ttl=47 time=296 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=5 ttl=47 time=296 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=7 ttl=47 time=296 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=8 ttl=47 time=296 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=10 ttl=47 time=296 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=13 ttl=47 time=296 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=14 ttl=47 time=296 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=15 ttl=47 time=296 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=16 ttl=47 time=296 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=17 ttl=47 time=296 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=18 ttl=47 time=296 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=19 ttl=47 time=296 ms
+
+--- planetlab1.ustc.edu.cn ping statistics ---
+20 packets transmitted, 14 received, 30% packet loss, time 19380ms
+rtt min/avg/max/mdev = 296.084/296.185/296.376/0.716 ms
+========================================================================================
+========================================================================================
+*****************       Ping    Command     Output ************************************
+----------------------------------------------------------------------------------------
+Thu Apr 20 22:56:51 UTC 2017
+----------------------------------------------------------------------------------------
+PING planetlab1.ustc.edu.cn (202.141.161.43) 56(84) bytes of data.
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=2 ttl=47 time=297 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=4 ttl=47 time=296 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=5 ttl=47 time=296 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=6 ttl=47 time=296 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=7 ttl=47 time=296 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=8 ttl=47 time=296 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=9 ttl=47 time=296 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=10 ttl=47 time=296 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=11 ttl=47 time=296 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=12 ttl=47 time=296 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=13 ttl=47 time=296 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=14 ttl=47 time=296 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=16 ttl=47 time=296 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=17 ttl=47 time=296 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=18 ttl=47 time=296 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=20 ttl=47 time=296 ms
+
+--- planetlab1.ustc.edu.cn ping statistics ---
+20 packets transmitted, 16 received, 20% packet loss, time 19015ms
+rtt min/avg/max/mdev = 296.094/296.275/297.530/0.511 ms
+========================================================================================
+========================================================================================
+*****************       Ping    Command     Output ************************************
+----------------------------------------------------------------------------------------
+Thu Apr 20 23:57:42 UTC 2017
+----------------------------------------------------------------------------------------
+PING planetlab1.ustc.edu.cn (202.141.161.43) 56(84) bytes of data.
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=1 ttl=47 time=297 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=2 ttl=47 time=296 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=4 ttl=47 time=296 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=5 ttl=47 time=296 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=6 ttl=47 time=296 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=9 ttl=47 time=296 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=10 ttl=47 time=296 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=11 ttl=47 time=237 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=12 ttl=47 time=295 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=13 ttl=47 time=296 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=14 ttl=47 time=296 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=15 ttl=47 time=296 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=16 ttl=47 time=296 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=17 ttl=47 time=296 ms
+64 bytes from planetlab1.ustc.edu.cn (202.141.161.43): icmp_seq=20 ttl=47 time=296 ms
+
+--- planetlab1.ustc.edu.cn ping statistics ---
+20 packets transmitted, 15 received, 25% packet loss, time 19015ms
+rtt min/avg/max/mdev = 237.456/292.338/297.111/14.671 ms
+========================================================================================
+========================================================================================

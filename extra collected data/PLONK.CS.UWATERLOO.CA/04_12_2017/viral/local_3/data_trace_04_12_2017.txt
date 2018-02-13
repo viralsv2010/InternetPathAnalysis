@@ -1,0 +1,42 @@
+*****************   TraceRoute   Command     Output ************************************
+----------------------------------------------------------------------------------------
+Wed Apr 12 20:13:02 UTC 2017
+----------------------------------------------------------------------------------------
+traceroute to PLANETLAB1.CS.PURDUE.edu (128.10.18.52), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  te2-7-dist-rt-phy.ns.uwaterloo.ca (172.16.3.5)  0.558 ms  0.795 ms  0.843 ms
+ 3  * xe1-0-0-u11-dist-sa-mc-trust.ns.uwaterloo.ca (172.31.0.149)  0.499 ms *
+ 4  te2-12-dist-rt-mc-global.ns.uwaterloo.ca (172.31.0.161)  1.172 ms  1.206 ms  1.195 ms
+ 5  te2-16-cn-rt-mc.ns.uwaterloo.ca (172.16.31.117)  0.869 ms  0.861 ms  0.848 ms
+ 6  gi0-0-1-ext-rt-rac.ns.uwaterloo.ca (172.16.31.109)  1.568 ms  1.459 ms  1.695 ms
+ 7  216.191.167.37 (216.191.167.37)  2.663 ms  2.666 ms  2.505 ms
+ 8  equinix-exchange.chi-2.wiscnet.NET (206.223.119.7)  13.230 ms  13.175 ms  13.175 ms
+ 9  ae-1.2247.rtr.ictc.indiana.gigapop.net (149.165.183.89)  17.392 ms  17.415 ms  17.660 ms
+10  tel-210-c9006-01-te0-0-0-0-151.tcom.purdue.edu (192.5.40.81)  20.717 ms  20.697 ms  21.946 ms
+11  tel-netedge-po10.tcom.purdue.edu (192.5.40.9)  209.815 ms  209.845 ms  199.136 ms
+12  switch-lwsn2133-z1r11.cs.purdue.edu (128.10.127.250)  20.161 ms  20.186 ms  20.180 ms
+13  switch-lwsn2133-z1r11.cs.purdue.edu (128.10.127.250)  20.162 ms  20.437 ms  20.202 ms
+14  planetlab1.cs.purdue.edu (128.10.18.52)  33.683 ms  44.452 ms  50.157 ms
+========================================================================================
+========================================================================================
+*****************   TraceRoute   Command     Output ************************************
+----------------------------------------------------------------------------------------
+Wed Apr 12 21:13:26 UTC 2017
+----------------------------------------------------------------------------------------
+traceroute to PLANETLAB1.CS.PURDUE.edu (128.10.18.52), 30 hops max, 60 byte packets
+ 1  dc3558-cs2-csnet.uwaterloo.ca (129.97.74.1)  5.390 ms  5.402 ms  5.388 ms
+ 2  te2-7-dist-rt-phy.ns.uwaterloo.ca (172.16.3.5)  1.339 ms  1.330 ms  1.318 ms
+ 3  xe1-0-0-u11-dist-sa-mc-trust.ns.uwaterloo.ca (172.31.0.149)  0.534 ms *  0.504 ms
+ 4  te2-12-dist-rt-mc-global.ns.uwaterloo.ca (172.31.0.161)  1.495 ms  1.458 ms  1.454 ms
+ 5  te2-16-cn-rt-mc.ns.uwaterloo.ca (172.16.31.117)  0.946 ms  0.906 ms  0.917 ms
+ 6  gi0-0-1-ext-rt-rac.ns.uwaterloo.ca (172.16.31.109)  1.381 ms  1.223 ms  1.227 ms
+ 7  216.191.167.37 (216.191.167.37)  2.693 ms  2.712 ms  2.701 ms
+ 8  equinix-exchange.chi-2.wiscnet.NET (206.223.119.7)  12.960 ms  13.181 ms  13.175 ms
+ 9  ae-1.2247.rtr.ictc.indiana.gigapop.net (149.165.183.89)  17.465 ms  17.480 ms  17.460 ms
+10  tel-210-c9006-01-te0-0-0-0-151.tcom.purdue.edu (192.5.40.81)  20.401 ms  20.687 ms  20.670 ms
+11  tel-netedgepe-po10.tcom.purdue.edu (192.5.40.9)  19.685 ms  19.944 ms  19.888 ms
+12  switch-lwsn2133-z1r11.cs.purdue.edu (128.10.127.250)  20.160 ms  20.211 ms  20.159 ms
+13  switch-lwsn2133-z1r11.cs.purdue.edu (128.10.127.250)  20.166 ms  20.215 ms  20.190 ms
+14  planetlab1.cs.purdue.edu (128.10.18.52)  46.919 ms  59.883 ms  33.418 ms
+========================================================================================
+========================================================================================

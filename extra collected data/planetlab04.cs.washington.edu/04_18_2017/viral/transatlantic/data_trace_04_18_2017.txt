@@ -1,0 +1,720 @@
+*****************   TraceRoute   Command     Output ************************************
+----------------------------------------------------------------------------------------
+Tue Apr 18 00:33:04 UTC 2017
+----------------------------------------------------------------------------------------
+traceroute to planetlab2.tmit.bme.hu (152.66.245.162), 30 hops max, 60 byte packets
+ 1  acar-atg-02-vlan77.cac.washington.edu (128.208.4.102)  0.278 ms  0.261 ms  0.248 ms
+ 2  lo0--1.uwcr-ads-1.infra.washington.edu (198.48.65.1)  0.509 ms  0.533 ms  0.512 ms
+ 3  10.132.1.66 (10.132.1.66)  0.536 ms  0.552 ms  0.543 ms
+ 4  ae0--4002.icar-sttl1-1.infra.pnw-gigapop.net (209.124.181.132)  0.859 ms  0.907 ms  0.896 ms
+ 5  64.57.28.54 (64.57.28.54)  0.892 ms  0.883 ms  0.847 ms
+ 6  et-4-3-0.1220.rtsw.seat.net.internet2.edu (64.57.28.53)  1.324 ms  1.068 ms  1.022 ms
+ 7  et-4-0-0.4079.sdn-sw.miss2.net.internet2.edu (162.252.70.0)  11.608 ms  11.528 ms  11.578 ms
+ 8  et-4-0-0.4079.sdn-sw.minn.net.internet2.edu (162.252.70.58)  35.764 ms  35.819 ms  35.863 ms
+ 9  et-7-0-0.4079.sdn-sw.eqch.net.internet2.edu (162.252.70.106)  42.986 ms  42.999 ms  42.980 ms
+10  et-4-1-0.4079.rtsw.clev.net.internet2.edu (162.252.70.112)  51.544 ms  51.629 ms  51.433 ms
+11  et-2-0-0.4079.sdn-sw.ashb.net.internet2.edu (162.252.70.54)  59.170 ms  59.249 ms  59.206 ms
+12  et-3-1-0.4079.rtsw.wash.net.internet2.edu (162.252.70.63)  59.442 ms  59.440 ms  59.527 ms
+13  internet2-gw.mx1.lon.uk.geant.net (62.40.124.44)  134.115 ms  134.229 ms  134.288 ms
+14  ae0.mx1.ams.nl.geant.net (62.40.98.81)  141.597 ms  141.670 ms  141.660 ms
+15  ae0.mx1.fra.de.geant.net (62.40.98.128)  148.090 ms  148.253 ms  148.371 ms
+16  ae6.mx1.bud.hu.geant.net (62.40.98.46)  161.327 ms  161.282 ms  161.336 ms
+17  hungarnet-gw.mx1.bud.hu.geant.net (62.40.124.102)  161.860 ms  162.120 ms  161.885 ms
+18  tg0-1-0-0.rtr.bme.hbone.hu (195.111.100.42)  162.401 ms  162.330 ms  162.029 ms
+19  xge2-1.taz.net.bme.hu (152.66.0.125)  161.890 ms  161.618 ms  161.590 ms
+20  xge4-1.styx.net.bme.hu (152.66.0.79)  161.902 ms  161.789 ms  161.687 ms
+21  xge7-1.ixion.net.bme.hu (152.66.0.73)  161.737 ms  161.651 ms  161.702 ms
+22  tmitgw.tmit.bme.hu (152.66.245.249)  161.616 ms  161.603 ms  161.546 ms
+23  planetlab2.tmit.bme.hu (152.66.245.162)  161.885 ms  161.836 ms  162.084 ms
+========================================================================================
+========================================================================================
+*****************   TraceRoute   Command     Output ************************************
+----------------------------------------------------------------------------------------
+Tue Apr 18 01:33:24 UTC 2017
+----------------------------------------------------------------------------------------
+traceroute to planetlab2.tmit.bme.hu (152.66.245.162), 30 hops max, 60 byte packets
+ 1  acar-atg-02-vlan77.cac.washington.edu (128.208.4.102)  0.277 ms  0.307 ms  0.295 ms
+ 2  lo0--1.uwcr-ads-1.infra.washington.edu (198.48.65.1)  0.606 ms  0.610 ms  0.631 ms
+ 3  10.132.1.66 (10.132.1.66)  0.560 ms  0.406 ms  0.531 ms
+ 4  ae0--4002.icar-sttl1-1.infra.pnw-gigapop.net (209.124.181.132)  0.950 ms  0.940 ms  0.891 ms
+ 5  64.57.28.54 (64.57.28.54)  0.909 ms  0.900 ms  0.821 ms
+ 6  et-4-3-0.1220.rtsw.seat.net.internet2.edu (64.57.28.53)  1.557 ms  1.997 ms  1.959 ms
+ 7  et-4-0-0.4079.sdn-sw.miss2.net.internet2.edu (162.252.70.0)  11.449 ms  11.439 ms  11.349 ms
+ 8  et-4-0-0.4079.sdn-sw.minn.net.internet2.edu (162.252.70.58)  34.808 ms  34.886 ms  34.941 ms
+ 9  et-7-0-0.4079.sdn-sw.eqch.net.internet2.edu (162.252.70.106)  42.510 ms  42.661 ms  42.602 ms
+10  et-4-1-0.4079.rtsw.clev.net.internet2.edu (162.252.70.112)  51.581 ms  51.657 ms  51.649 ms
+11  et-2-0-0.4079.sdn-sw.ashb.net.internet2.edu (162.252.70.54)  59.141 ms  59.185 ms  59.100 ms
+12  et-3-1-0.4079.rtsw.wash.net.internet2.edu (162.252.70.63)  59.414 ms  59.469 ms  59.502 ms
+13  internet2.mx1.lon.uk.geant.net (62.40.124.44)  134.219 ms  134.114 ms  134.149 ms
+14  ae0.mx1.ams.nl.geant.net (62.40.98.81)  141.492 ms  141.539 ms  141.868 ms
+15  ae0.mx1.fra.de.geant.net (62.40.98.128)  148.164 ms  148.198 ms  148.237 ms
+16  ae6.mx1.bud.hu.geant.net (62.40.98.46)  161.192 ms  161.235 ms  161.228 ms
+17  hungarnet-gw.mx1.bud.hu.geant.net (62.40.124.102)  161.861 ms  161.919 ms  162.000 ms
+18  tg0-1-0-0.rtr.bme.hbone.hu (195.111.100.42)  162.437 ms  161.988 ms  161.917 ms
+19  xge2-1.taz.net.bme.hu (152.66.0.125)  161.714 ms  161.552 ms  161.549 ms
+20  xge4-1.styx.net.bme.hu (152.66.0.79)  161.947 ms  161.667 ms  169.179 ms
+21  xge7-1.ixion.net.bme.hu (152.66.0.73)  161.697 ms  161.579 ms  161.630 ms
+22  tmitgw.tmit.bme.hu (152.66.245.249)  161.588 ms  161.643 ms  161.602 ms
+23  planetlab2.tmit.bme.hu (152.66.245.162)  161.969 ms  161.818 ms  161.971 ms
+========================================================================================
+========================================================================================
+*****************   TraceRoute   Command     Output ************************************
+----------------------------------------------------------------------------------------
+Tue Apr 18 02:33:44 UTC 2017
+----------------------------------------------------------------------------------------
+traceroute to planetlab2.tmit.bme.hu (152.66.245.162), 30 hops max, 60 byte packets
+ 1  acar-atg-02-vlan77.cac.washington.edu (128.208.4.102)  1.546 ms  1.545 ms  1.534 ms
+ 2  lo0--1.uwcr-ads-1.infra.washington.edu (198.48.65.1)  0.587 ms  0.594 ms  0.623 ms
+ 3  10.132.1.66 (10.132.1.66)  0.545 ms  0.543 ms  0.532 ms
+ 4  ae0--4002.icar-sttl1-1.infra.pnw-gigapop.net (209.124.181.132)  0.761 ms  0.868 ms  0.879 ms
+ 5  64.57.28.54 (64.57.28.54)  0.829 ms  0.816 ms  0.835 ms
+ 6  et-4-3-0.1220.rtsw.seat.net.internet2.edu (64.57.28.53)  0.964 ms  0.925 ms  0.978 ms
+ 7  et-4-0-0.4079.sdn-sw.miss2.net.internet2.edu (162.252.70.0)  11.384 ms  11.436 ms  11.490 ms
+ 8  et-4-0-0.4079.sdn-sw.minn.net.internet2.edu (162.252.70.58)  34.755 ms  34.740 ms  34.658 ms
+ 9  et-7-0-0.4079.sdn-sw.eqch.net.internet2.edu (162.252.70.106)  42.591 ms  42.590 ms  42.539 ms
+10  et-4-1-0.4079.rtsw.clev.net.internet2.edu (162.252.70.112)  53.379 ms  53.231 ms  53.240 ms
+11  et-2-0-0.4079.sdn-sw.ashb.net.internet2.edu (162.252.70.54)  59.043 ms  59.089 ms  59.068 ms
+12  et-3-1-0.4079.rtsw.wash.net.internet2.edu (162.252.70.63)  59.434 ms  60.139 ms  60.202 ms
+13  internet2-gw.mx1.lon.uk.geant.net (62.40.124.44)  134.045 ms  134.242 ms  134.306 ms
+14  ae0.mx1.ams.nl.geant.net (62.40.98.81)  141.488 ms  144.452 ms  144.304 ms
+15  ae0.mx1.fra.de.geant.net (62.40.98.128)  148.228 ms  148.204 ms  148.217 ms
+16  ae6.mx1.bud.hu.geant.net (62.40.98.46)  161.259 ms  161.279 ms  161.146 ms
+17  hungarnet-gw.mx1.bud.hu.geant.net (62.40.124.102)  161.720 ms  161.815 ms  161.714 ms
+18  tg0-1-0-0.rtr.bme.hbone.hu (195.111.100.42)  162.052 ms  162.050 ms  162.336 ms
+19  xge2-1.taz.net.bme.hu (152.66.0.125)  162.186 ms  162.576 ms  161.581 ms
+20  xge4-1.styx.net.bme.hu (152.66.0.79)  161.803 ms  161.683 ms  161.688 ms
+21  xge7-1.ixion.net.bme.hu (152.66.0.73)  161.639 ms  161.550 ms  161.521 ms
+22  tmitgw.tmit.bme.hu (152.66.245.249)  161.596 ms  161.688 ms  161.744 ms
+23  planetlab2.tmit.bme.hu (152.66.245.162)  161.933 ms  161.858 ms  161.890 ms
+========================================================================================
+========================================================================================
+*****************   TraceRoute   Command     Output ************************************
+----------------------------------------------------------------------------------------
+Tue Apr 18 03:34:04 UTC 2017
+----------------------------------------------------------------------------------------
+traceroute to planetlab2.tmit.bme.hu (152.66.245.162), 30 hops max, 60 byte packets
+ 1  acar-atg-02-vlan77.cac.washington.edu (128.208.4.102)  0.340 ms  0.363 ms  0.353 ms
+ 2  lo0--1.uwcr-ads-1.infra.washington.edu (198.48.65.1)  0.524 ms  0.540 ms  0.571 ms
+ 3  10.132.1.66 (10.132.1.66)  0.480 ms  0.622 ms  1.019 ms
+ 4  ae0--4002.icar-sttl1-1.infra.pnw-gigapop.net (209.124.181.132)  0.889 ms  0.895 ms  0.903 ms
+ 5  64.57.28.54 (64.57.28.54)  1.013 ms  1.058 ms  0.984 ms
+ 6  et-4-3-0.1220.rtsw.seat.net.internet2.edu (64.57.28.53)  0.938 ms  0.959 ms  1.104 ms
+ 7  et-4-0-0.4079.sdn-sw.miss2.net.internet2.edu (162.252.70.0)  11.349 ms  11.493 ms  11.387 ms
+ 8  et-4-0-0.4079.sdn-sw.minn.net.internet2.edu (162.252.70.58)  34.840 ms  34.919 ms  34.909 ms
+ 9  et-7-0-0.4079.sdn-sw.eqch.net.internet2.edu (162.252.70.106)  42.607 ms  42.648 ms  42.722 ms
+10  et-4-1-0.4079.rtsw.clev.net.internet2.edu (162.252.70.112)  51.538 ms  51.630 ms  51.641 ms
+11  et-2-0-0.4079.sdn-sw.ashb.net.internet2.edu (162.252.70.54)  60.249 ms  60.334 ms  60.238 ms
+12  et-3-1-0.4079.rtsw.wash.net.internet2.edu (162.252.70.63)  59.396 ms  59.797 ms  59.399 ms
+13  internet2.mx1.lon.uk.geant.net (62.40.124.44)  134.049 ms  134.166 ms  134.241 ms
+14  ae0.mx1.ams.nl.geant.net (62.40.98.81)  141.594 ms  141.715 ms  141.806 ms
+15  ae0.mx1.fra.de.geant.net (62.40.98.128)  148.277 ms  148.228 ms  148.193 ms
+16  ae6.mx1.bud.hu.geant.net (62.40.98.46)  161.203 ms  161.243 ms  161.235 ms
+17  hungarnet-gw.mx1.bud.hu.geant.net (62.40.124.102)  161.682 ms  162.419 ms  161.803 ms
+18  tg0-1-0-0.rtr.bme.hbone.hu (195.111.100.42)  162.278 ms  162.259 ms  162.154 ms
+19  xge2-1.taz.net.bme.hu (152.66.0.125)  161.693 ms  161.796 ms  161.542 ms
+20  xge4-1.styx.net.bme.hu (152.66.0.79)  321.747 ms  314.642 ms  306.495 ms
+21  xge7-1.ixion.net.bme.hu (152.66.0.73)  161.636 ms  161.637 ms  161.634 ms
+22  tmitgw.tmit.bme.hu (152.66.245.249)  161.777 ms  161.583 ms  161.765 ms
+23  planetlab2.tmit.bme.hu (152.66.245.162)  161.950 ms  161.906 ms  161.915 ms
+========================================================================================
+========================================================================================
+*****************   TraceRoute   Command     Output ************************************
+----------------------------------------------------------------------------------------
+Tue Apr 18 04:34:25 UTC 2017
+----------------------------------------------------------------------------------------
+traceroute to planetlab2.tmit.bme.hu (152.66.245.162), 30 hops max, 60 byte packets
+ 1  acar-atg-02-vlan77.cac.washington.edu (128.208.4.102)  0.592 ms  0.588 ms  0.576 ms
+ 2  lo0--1.uwcr-ads-1.infra.washington.edu (198.48.65.1)  0.542 ms  0.553 ms  0.566 ms
+ 3  10.132.1.66 (10.132.1.66)  0.571 ms  0.615 ms  0.586 ms
+ 4  ae0--4002.icar-sttl1-1.infra.pnw-gigapop.net (209.124.181.132)  0.835 ms  0.880 ms  0.868 ms
+ 5  64.57.28.54 (64.57.28.54)  1.469 ms  0.881 ms  0.875 ms
+ 6  et-4-3-0.1220.rtsw.seat.net.internet2.edu (64.57.28.53)  7.156 ms  5.644 ms  5.633 ms
+ 7  et-4-0-0.4079.sdn-sw.miss2.net.internet2.edu (162.252.70.0)  11.515 ms  11.438 ms  11.417 ms
+ 8  et-4-0-0.4079.sdn-sw.minn.net.internet2.edu (162.252.70.58)  34.748 ms  34.950 ms  34.757 ms
+ 9  et-7-0-0.4079.sdn-sw.eqch.net.internet2.edu (162.252.70.106)  42.609 ms  42.625 ms  42.705 ms
+10  et-4-1-0.4079.rtsw.clev.net.internet2.edu (162.252.70.112)  51.544 ms  51.594 ms  51.585 ms
+11  et-2-0-0.4079.sdn-sw.ashb.net.internet2.edu (162.252.70.54)  59.110 ms  62.352 ms  59.074 ms
+12  et-3-1-0.4079.rtsw.wash.net.internet2.edu (162.252.70.63)  59.505 ms  59.617 ms  59.360 ms
+13  internet2.mx1.lon.uk.geant.net (62.40.124.44)  134.048 ms  134.018 ms  134.007 ms
+14  ae0.mx1.ams.nl.geant.net (62.40.98.81)  141.487 ms  141.535 ms  141.613 ms
+15  ae0.mx1.fra.de.geant.net (62.40.98.128)  148.215 ms  151.194 ms  151.255 ms
+16  ae6.mx1.bud.hu.geant.net (62.40.98.46)  168.367 ms  163.529 ms  161.201 ms
+17  hungarnet-gw.mx1.bud.hu.geant.net (62.40.124.102)  161.617 ms  161.655 ms  161.642 ms
+18  tg0-1-0-0.rtr.bme.hbone.hu (195.111.100.42)  162.258 ms  162.116 ms  161.983 ms
+19  xge2-1.taz.net.bme.hu (152.66.0.125)  161.690 ms  161.628 ms  161.519 ms
+20  xge4-1.styx.net.bme.hu (152.66.0.79)  161.829 ms  161.646 ms  161.668 ms
+21  xge7-1.ixion.net.bme.hu (152.66.0.73)  161.750 ms  161.685 ms  161.689 ms
+22  tmitgw.tmit.bme.hu (152.66.245.249)  161.656 ms  161.570 ms  161.551 ms
+23  planetlab2.tmit.bme.hu (152.66.245.162)  161.850 ms  161.874 ms  161.912 ms
+========================================================================================
+========================================================================================
+*****************   TraceRoute   Command     Output ************************************
+----------------------------------------------------------------------------------------
+Tue Apr 18 05:34:45 UTC 2017
+----------------------------------------------------------------------------------------
+traceroute to planetlab2.tmit.bme.hu (152.66.245.162), 30 hops max, 60 byte packets
+ 1  acar-atg-02-vlan77.cac.washington.edu (128.208.4.102)  0.429 ms  0.423 ms  0.410 ms
+ 2  lo0--1.uwcr-ads-1.infra.washington.edu (198.48.65.1)  0.542 ms  0.573 ms  0.620 ms
+ 3  10.132.1.66 (10.132.1.66)  0.411 ms  0.509 ms  0.502 ms
+ 4  ae0--4002.icar-sttl1-1.infra.pnw-gigapop.net (209.124.181.132)  0.956 ms  0.870 ms  0.781 ms
+ 5  64.57.28.54 (64.57.28.54)  0.975 ms  0.901 ms  0.900 ms
+ 6  et-4-3-0.1220.rtsw.seat.net.internet2.edu (64.57.28.53)  0.943 ms  1.019 ms  0.928 ms
+ 7  et-4-0-0.4079.sdn-sw.miss2.net.internet2.edu (162.252.70.0)  11.396 ms  11.466 ms  11.455 ms
+ 8  et-4-0-0.4079.sdn-sw.minn.net.internet2.edu (162.252.70.58)  34.791 ms  34.806 ms  34.860 ms
+ 9  et-7-0-0.4079.sdn-sw.eqch.net.internet2.edu (162.252.70.106)  42.532 ms  43.024 ms  43.033 ms
+10  et-4-1-0.4079.rtsw.clev.net.internet2.edu (162.252.70.112)  51.602 ms  51.644 ms  51.799 ms
+11  et-2-0-0.4079.sdn-sw.ashb.net.internet2.edu (162.252.70.54)  59.136 ms  59.179 ms  59.400 ms
+12  et-3-1-0.4079.rtsw.wash.net.internet2.edu (162.252.70.63)  59.427 ms  59.564 ms  59.443 ms
+13  internet2.mx1.lon.uk.geant.net (62.40.124.44)  134.062 ms  134.039 ms  134.114 ms
+14  ae0.mx1.ams.nl.geant.net (62.40.98.81)  141.515 ms  141.437 ms  141.513 ms
+15  ae0.mx1.fra.de.geant.net (62.40.98.128)  156.927 ms  148.193 ms  158.926 ms
+16  ae6.mx1.bud.hu.geant.net (62.40.98.46)  161.196 ms  161.297 ms  161.355 ms
+17  hungarnet-gw.mx1.bud.hu.geant.net (62.40.124.102)  161.870 ms  161.922 ms  161.700 ms
+18  tg0-1-0-0.rtr.bme.hbone.hu (195.111.100.42)  162.133 ms  162.172 ms  162.169 ms
+19  xge2-1.taz.net.bme.hu (152.66.0.125)  161.740 ms  161.554 ms  161.569 ms
+20  xge4-1.styx.net.bme.hu (152.66.0.79)  161.894 ms  161.696 ms  161.726 ms
+21  xge7-1.ixion.net.bme.hu (152.66.0.73)  161.796 ms  161.720 ms  162.015 ms
+22  tmitgw.tmit.bme.hu (152.66.245.249)  161.607 ms  161.618 ms  161.628 ms
+23  planetlab2.tmit.bme.hu (152.66.245.162)  161.795 ms  161.874 ms  161.917 ms
+========================================================================================
+========================================================================================
+*****************   TraceRoute   Command     Output ************************************
+----------------------------------------------------------------------------------------
+Tue Apr 18 06:35:05 UTC 2017
+----------------------------------------------------------------------------------------
+traceroute to planetlab2.tmit.bme.hu (152.66.245.162), 30 hops max, 60 byte packets
+ 1  acar-atg-02-vlan77.cac.washington.edu (128.208.4.102)  0.223 ms  0.286 ms  0.276 ms
+ 2  lo0--1.uwcr-ads-1.infra.washington.edu (198.48.65.1)  0.612 ms  0.611 ms  0.624 ms
+ 3  10.132.1.66 (10.132.1.66)  0.497 ms  1.201 ms  0.432 ms
+ 4  ae0--4002.icar-sttl1-1.infra.pnw-gigapop.net (209.124.181.132)  0.893 ms  0.846 ms  0.912 ms
+ 5  64.57.28.54 (64.57.28.54)  0.884 ms  0.883 ms  0.873 ms
+ 6  et-4-3-0.1220.rtsw.seat.net.internet2.edu (64.57.28.53)  0.905 ms  0.924 ms  0.924 ms
+ 7  et-4-0-0.4079.sdn-sw.miss2.net.internet2.edu (162.252.70.0)  11.376 ms  11.416 ms  11.451 ms
+ 8  et-4-0-0.4079.sdn-sw.minn.net.internet2.edu (162.252.70.58)  34.990 ms  35.236 ms  35.027 ms
+ 9  et-7-0-0.4079.sdn-sw.eqch.net.internet2.edu (162.252.70.106)  42.620 ms  42.669 ms  42.672 ms
+10  et-4-1-0.4079.rtsw.clev.net.internet2.edu (162.252.70.112)  51.650 ms  51.544 ms  51.627 ms
+11  et-2-0-0.4079.sdn-sw.ashb.net.internet2.edu (162.252.70.54)  60.258 ms  60.276 ms  60.256 ms
+12  et-3-1-0.4079.rtsw.wash.net.internet2.edu (162.252.70.63)  59.441 ms  59.434 ms  59.415 ms
+13  internet2.mx1.lon.uk.geant.net (62.40.124.44)  134.091 ms  134.132 ms  134.201 ms
+14  ae0.mx1.ams.nl.geant.net (62.40.98.81)  141.490 ms  141.473 ms  141.538 ms
+15  ae0.mx1.fra.de.geant.net (62.40.98.128)  148.196 ms  148.516 ms  148.582 ms
+16  ae6.mx1.bud.hu.geant.net (62.40.98.46)  161.264 ms  161.322 ms  161.217 ms
+17  hungarnet-gw.mx1.bud.hu.geant.net (62.40.124.102)  167.493 ms  161.846 ms  161.573 ms
+18  tg0-1-0-0.rtr.bme.hbone.hu (195.111.100.42)  162.274 ms  162.253 ms  162.400 ms
+19  xge2-1.taz.net.bme.hu (152.66.0.125)  162.377 ms  162.701 ms  162.583 ms
+20  xge4-1.styx.net.bme.hu (152.66.0.79)  161.855 ms  161.907 ms  162.033 ms
+21  xge7-1.ixion.net.bme.hu (152.66.0.73)  161.750 ms  161.795 ms  161.855 ms
+22  tmitgw.tmit.bme.hu (152.66.245.249)  161.685 ms  161.585 ms  161.671 ms
+23  planetlab2.tmit.bme.hu (152.66.245.162)  161.895 ms  161.895 ms  161.864 ms
+========================================================================================
+========================================================================================
+*****************   TraceRoute   Command     Output ************************************
+----------------------------------------------------------------------------------------
+Tue Apr 18 07:35:28 UTC 2017
+----------------------------------------------------------------------------------------
+traceroute to planetlab2.tmit.bme.hu (152.66.245.162), 30 hops max, 60 byte packets
+ 1  acar-atg-02-vlan77.cac.washington.edu (128.208.4.102)  0.275 ms  0.262 ms  0.249 ms
+ 2  lo0--1.uwcr-ads-1.infra.washington.edu (198.48.65.1)  1.309 ms  1.347 ms  1.406 ms
+ 3  10.132.1.66 (10.132.1.66)  0.509 ms  0.670 ms  0.721 ms
+ 4  ae0--4002.icar-sttl1-1.infra.pnw-gigapop.net (209.124.181.132)  0.775 ms  0.860 ms  0.756 ms
+ 5  64.57.28.54 (64.57.28.54)  0.936 ms  0.878 ms  0.911 ms
+ 6  et-4-3-0.1220.rtsw.seat.net.internet2.edu (64.57.28.53)  9.157 ms  8.283 ms  8.270 ms
+ 7  et-4-0-0.4079.sdn-sw.miss2.net.internet2.edu (162.252.70.0)  11.415 ms  11.484 ms  11.343 ms
+ 8  et-4-0-0.4079.sdn-sw.minn.net.internet2.edu (162.252.70.58)  34.767 ms  34.794 ms  34.736 ms
+ 9  et-7-0-0.4079.sdn-sw.eqch.net.internet2.edu (162.252.70.106)  42.602 ms  42.650 ms  42.654 ms
+10  et-4-1-0.4079.rtsw.clev.net.internet2.edu (162.252.70.112)  51.498 ms  51.583 ms  51.542 ms
+11  et-2-0-0.4079.sdn-sw.ashb.net.internet2.edu (162.252.70.54)  59.069 ms  59.646 ms  59.667 ms
+12  et-3-1-0.4079.rtsw.wash.net.internet2.edu (162.252.70.63)  59.418 ms  59.485 ms  59.550 ms
+13  internet2-gw.mx1.lon.uk.geant.net (62.40.124.44)  134.029 ms  134.027 ms  134.057 ms
+14  ae0.mx1.ams.nl.geant.net (62.40.98.81)  141.546 ms  141.587 ms  141.652 ms
+15  ae0.mx1.fra.de.geant.net (62.40.98.128)  148.203 ms  152.151 ms  152.158 ms
+16  ae6.mx1.bud.hu.geant.net (62.40.98.46)  168.865 ms  161.313 ms  161.165 ms
+17  hungarnet-gw.mx1.bud.hu.geant.net (62.40.124.102)  161.537 ms  161.654 ms  165.819 ms
+18  tg0-1-0-0.rtr.bme.hbone.hu (195.111.100.42)  162.433 ms  162.403 ms  161.976 ms
+19  xge2-1.taz.net.bme.hu (152.66.0.125)  161.761 ms  161.712 ms  166.039 ms
+20  xge4-1.styx.net.bme.hu (152.66.0.79)  161.880 ms  161.710 ms  161.917 ms
+21  xge7-1.ixion.net.bme.hu (152.66.0.73)  161.820 ms  161.673 ms  161.650 ms
+22  tmitgw.tmit.bme.hu (152.66.245.249)  161.628 ms  161.596 ms  161.621 ms
+23  planetlab2.tmit.bme.hu (152.66.245.162)  161.959 ms  161.885 ms  161.873 ms
+========================================================================================
+========================================================================================
+*****************   TraceRoute   Command     Output ************************************
+----------------------------------------------------------------------------------------
+Tue Apr 18 08:35:48 UTC 2017
+----------------------------------------------------------------------------------------
+traceroute to planetlab2.tmit.bme.hu (152.66.245.162), 30 hops max, 60 byte packets
+ 1  acar-atg-02-vlan77.cac.washington.edu (128.208.4.102)  5.002 ms  5.028 ms  5.015 ms
+ 2  lo0--1.uwcr-ads-1.infra.washington.edu (198.48.65.1)  0.533 ms  0.595 ms  0.593 ms
+ 3  10.132.1.66 (10.132.1.66)  0.551 ms  0.547 ms  0.533 ms
+ 4  ae0--4002.icar-sttl1-1.infra.pnw-gigapop.net (209.124.181.132)  0.929 ms  0.895 ms  0.906 ms
+ 5  64.57.28.54 (64.57.28.54)  0.855 ms  0.933 ms  0.907 ms
+ 6  et-4-3-0.1220.rtsw.seat.net.internet2.edu (64.57.28.53)  0.997 ms  0.969 ms  0.957 ms
+ 7  et-4-0-0.4079.sdn-sw.miss2.net.internet2.edu (162.252.70.0)  11.423 ms  11.465 ms  11.454 ms
+ 8  et-4-0-0.4079.sdn-sw.minn.net.internet2.edu (162.252.70.58)  34.807 ms  34.779 ms  34.815 ms
+ 9  et-7-0-0.4079.sdn-sw.eqch.net.internet2.edu (162.252.70.106)  42.565 ms  42.573 ms  42.618 ms
+10  et-4-1-0.4079.rtsw.clev.net.internet2.edu (162.252.70.112)  51.472 ms  51.576 ms  51.514 ms
+11  et-2-0-0.4079.sdn-sw.ashb.net.internet2.edu (162.252.70.54)  59.165 ms  59.105 ms  59.175 ms
+12  et-3-1-0.4079.rtsw.wash.net.internet2.edu (162.252.70.63)  59.361 ms  59.531 ms  59.454 ms
+13  internet2-gw.mx1.lon.uk.geant.net (62.40.124.44)  134.681 ms  134.602 ms  134.654 ms
+14  ae0.mx1.ams.nl.geant.net (62.40.98.81)  142.015 ms  141.505 ms  141.992 ms
+15  ae0.mx1.fra.de.geant.net (62.40.98.128)  148.210 ms  148.326 ms  148.318 ms
+16  ae6.mx1.bud.hu.geant.net (62.40.98.46)  161.341 ms  161.250 ms  162.251 ms
+17  hungarnet-gw.mx1.bud.hu.geant.net (62.40.124.102)  161.629 ms  161.673 ms  161.668 ms
+18  tg0-1-0-0.rtr.bme.hbone.hu (195.111.100.42)  163.097 ms  162.249 ms  162.252 ms
+19  xge2-1.taz.net.bme.hu (152.66.0.125)  162.127 ms  161.608 ms  161.585 ms
+20  xge4-1.styx.net.bme.hu (152.66.0.79)  161.718 ms  161.701 ms  161.571 ms
+21  xge7-1.ixion.net.bme.hu (152.66.0.73)  161.611 ms  161.747 ms  161.841 ms
+22  tmitgw.tmit.bme.hu (152.66.245.249)  162.401 ms  161.670 ms  161.654 ms
+23  planetlab2.tmit.bme.hu (152.66.245.162)  161.926 ms  161.821 ms  161.913 ms
+========================================================================================
+========================================================================================
+*****************   TraceRoute   Command     Output ************************************
+----------------------------------------------------------------------------------------
+Tue Apr 18 09:36:08 UTC 2017
+----------------------------------------------------------------------------------------
+traceroute to planetlab2.tmit.bme.hu (152.66.245.162), 30 hops max, 60 byte packets
+ 1  acar-atg-02-vlan77.cac.washington.edu (128.208.4.102)  0.272 ms  0.257 ms  0.246 ms
+ 2  lo0--1.uwcr-ads-1.infra.washington.edu (198.48.65.1)  0.539 ms  0.618 ms  0.609 ms
+ 3  10.132.1.66 (10.132.1.66)  0.506 ms  0.546 ms  0.538 ms
+ 4  ae0--4002.icar-sttl1-1.infra.pnw-gigapop.net (209.124.181.132)  0.906 ms  0.969 ms  0.968 ms
+ 5  64.57.28.54 (64.57.28.54)  0.939 ms  0.942 ms  0.932 ms
+ 6  et-4-3-0.1220.rtsw.seat.net.internet2.edu (64.57.28.53)  14.020 ms  13.006 ms  12.993 ms
+ 7  et-4-0-0.4079.sdn-sw.miss2.net.internet2.edu (162.252.70.0)  11.370 ms  11.382 ms  11.282 ms
+ 8  et-4-0-0.4079.sdn-sw.minn.net.internet2.edu (162.252.70.58)  34.783 ms  35.084 ms  34.813 ms
+ 9  et-7-0-0.4079.sdn-sw.eqch.net.internet2.edu (162.252.70.106)  42.548 ms  42.617 ms  42.660 ms
+10  et-4-1-0.4079.rtsw.clev.net.internet2.edu (162.252.70.112)  51.837 ms  51.905 ms  51.896 ms
+11  et-2-0-0.4079.sdn-sw.ashb.net.internet2.edu (162.252.70.54)  59.123 ms  59.169 ms  59.043 ms
+12  et-3-1-0.4079.rtsw.wash.net.internet2.edu (162.252.70.63)  62.424 ms  62.426 ms  62.381 ms
+13  internet2.mx1.lon.uk.geant.net (62.40.124.44)  134.106 ms  134.113 ms  134.003 ms
+14  ae0.mx1.ams.nl.geant.net (62.40.98.81)  141.443 ms  141.529 ms  141.464 ms
+15  ae0.mx1.fra.de.geant.net (62.40.98.128)  148.194 ms  148.118 ms  148.184 ms
+16  ae6.mx1.bud.hu.geant.net (62.40.98.46)  161.248 ms  161.207 ms  161.233 ms
+17  hungarnet-gw.mx1.bud.hu.geant.net (62.40.124.102)  161.832 ms  161.774 ms  161.814 ms
+18  tg0-1-0-0.rtr.bme.hbone.hu (195.111.100.42)  161.998 ms  162.191 ms  162.172 ms
+19  xge2-1.taz.net.bme.hu (152.66.0.125)  165.470 ms  162.146 ms  163.726 ms
+20  xge4-1.styx.net.bme.hu (152.66.0.79)  161.915 ms  161.694 ms  161.656 ms
+21  xge7-1.ixion.net.bme.hu (152.66.0.73)  162.115 ms  161.659 ms  161.653 ms
+22  tmitgw.tmit.bme.hu (152.66.245.249)  161.613 ms  161.463 ms  161.784 ms
+23  planetlab2.tmit.bme.hu (152.66.245.162)  161.869 ms  161.890 ms  161.915 ms
+========================================================================================
+========================================================================================
+*****************   TraceRoute   Command     Output ************************************
+----------------------------------------------------------------------------------------
+Tue Apr 18 10:36:28 UTC 2017
+----------------------------------------------------------------------------------------
+traceroute to planetlab2.tmit.bme.hu (152.66.245.162), 30 hops max, 60 byte packets
+ 1  acar-atg-02-vlan77.cac.washington.edu (128.208.4.102)  0.276 ms  0.261 ms  0.250 ms
+ 2  lo0--1.uwcr-ads-1.infra.washington.edu (198.48.65.1)  0.562 ms  0.603 ms  0.617 ms
+ 3  10.132.1.66 (10.132.1.66)  0.525 ms  0.532 ms  0.523 ms
+ 4  ae0--4002.icar-sttl1-1.infra.pnw-gigapop.net (209.124.181.132)  0.884 ms  0.893 ms  0.868 ms
+ 5  64.57.28.54 (64.57.28.54)  0.864 ms  0.855 ms  0.918 ms
+ 6  et-4-3-0.1220.rtsw.seat.net.internet2.edu (64.57.28.53)  0.837 ms  1.001 ms  0.922 ms
+ 7  et-4-0-0.4079.sdn-sw.miss2.net.internet2.edu (162.252.70.0)  11.356 ms  11.383 ms  11.423 ms
+ 8  et-4-0-0.4079.sdn-sw.minn.net.internet2.edu (162.252.70.58)  34.796 ms  34.873 ms  35.103 ms
+ 9  et-7-0-0.4079.sdn-sw.eqch.net.internet2.edu (162.252.70.106)  42.591 ms  42.632 ms  42.643 ms
+10  et-4-1-0.4079.rtsw.clev.net.internet2.edu (162.252.70.112)  51.532 ms  51.576 ms  51.614 ms
+11  et-2-0-0.4079.sdn-sw.ashb.net.internet2.edu (162.252.70.54)  59.195 ms  59.238 ms  59.239 ms
+12  et-3-1-0.4079.rtsw.wash.net.internet2.edu (162.252.70.63)  59.503 ms  59.399 ms  59.417 ms
+13  internet2-gw.mx1.lon.uk.geant.net (62.40.124.44)  134.120 ms  134.135 ms  134.000 ms
+14  ae0.mx1.ams.nl.geant.net (62.40.98.81)  141.473 ms  141.557 ms  141.474 ms
+15  ae0.mx1.fra.de.geant.net (62.40.98.128)  148.221 ms  148.390 ms  148.439 ms
+16  ae6.mx1.bud.hu.geant.net (62.40.98.46)  161.228 ms  161.278 ms  161.193 ms
+17  hungarnet-gw.mx1.bud.hu.geant.net (62.40.124.102)  161.761 ms  161.849 ms  162.989 ms
+18  tg0-1-0-0.rtr.bme.hbone.hu (195.111.100.42)  162.406 ms  162.189 ms  162.008 ms
+19  xge2-1.taz.net.bme.hu (152.66.0.125)  163.078 ms  162.011 ms  162.165 ms
+20  xge4-1.styx.net.bme.hu (152.66.0.79)  161.817 ms  161.750 ms  161.765 ms
+21  xge7-1.ixion.net.bme.hu (152.66.0.73)  161.680 ms  161.660 ms  161.602 ms
+22  tmitgw.tmit.bme.hu (152.66.245.249)  161.664 ms  161.561 ms  161.570 ms
+23  planetlab2.tmit.bme.hu (152.66.245.162)  161.887 ms  161.859 ms  161.906 ms
+========================================================================================
+========================================================================================
+*****************   TraceRoute   Command     Output ************************************
+----------------------------------------------------------------------------------------
+Tue Apr 18 11:36:49 UTC 2017
+----------------------------------------------------------------------------------------
+traceroute to planetlab2.tmit.bme.hu (152.66.245.162), 30 hops max, 60 byte packets
+ 1  acar-atg-02-vlan77.cac.washington.edu (128.208.4.102)  0.636 ms  0.616 ms  0.602 ms
+ 2  lo0--1.uwcr-ads-1.infra.washington.edu (198.48.65.1)  0.526 ms  0.572 ms  0.600 ms
+ 3  10.132.1.66 (10.132.1.66)  0.541 ms  0.554 ms  0.552 ms
+ 4  ae0--4002.icar-sttl1-1.infra.pnw-gigapop.net (209.124.181.132)  0.748 ms  0.898 ms  0.804 ms
+ 5  64.57.28.54 (64.57.28.54)  0.924 ms  0.923 ms  0.897 ms
+ 6  et-4-3-0.1220.rtsw.seat.net.internet2.edu (64.57.28.53)  0.894 ms  0.913 ms  0.901 ms
+ 7  et-4-0-0.4079.sdn-sw.miss2.net.internet2.edu (162.252.70.0)  11.402 ms  11.442 ms  11.435 ms
+ 8  et-4-0-0.4079.sdn-sw.minn.net.internet2.edu (162.252.70.58)  34.730 ms  34.746 ms  34.820 ms
+ 9  et-7-0-0.4079.sdn-sw.eqch.net.internet2.edu (162.252.70.106)  42.539 ms  42.661 ms  42.578 ms
+10  et-4-1-0.4079.rtsw.clev.net.internet2.edu (162.252.70.112)  51.882 ms  51.983 ms  52.024 ms
+11  et-2-0-0.4079.sdn-sw.ashb.net.internet2.edu (162.252.70.54)  59.217 ms  59.088 ms  59.100 ms
+12  et-3-1-0.4079.rtsw.wash.net.internet2.edu (162.252.70.63)  59.402 ms  59.493 ms  59.485 ms
+13  internet2-gw.mx1.lon.uk.geant.net (62.40.124.44)  133.982 ms  134.087 ms  134.118 ms
+14  ae0.mx1.ams.nl.geant.net (62.40.98.81)  141.476 ms  141.475 ms  141.423 ms
+15  ae0.mx1.fra.de.geant.net (62.40.98.128)  148.387 ms  148.335 ms  148.192 ms
+16  ae6.mx1.bud.hu.geant.net (62.40.98.46)  161.180 ms  161.259 ms  161.171 ms
+17  hungarnet-gw.mx1.bud.hu.geant.net (62.40.124.102)  161.626 ms  161.491 ms  161.578 ms
+18  tg0-1-0-0.rtr.bme.hbone.hu (195.111.100.42)  162.400 ms  172.209 ms  162.392 ms
+19  xge2-1.taz.net.bme.hu (152.66.0.125)  165.202 ms  161.709 ms  161.721 ms
+20  xge4-1.styx.net.bme.hu (152.66.0.79)  161.817 ms  161.654 ms  161.609 ms
+21  xge7-1.ixion.net.bme.hu (152.66.0.73)  167.283 ms  161.662 ms  161.697 ms
+22  tmitgw.tmit.bme.hu (152.66.245.249)  161.585 ms  161.596 ms  161.447 ms
+23  planetlab2.tmit.bme.hu (152.66.245.162)  161.958 ms  161.941 ms  161.957 ms
+========================================================================================
+========================================================================================
+*****************   TraceRoute   Command     Output ************************************
+----------------------------------------------------------------------------------------
+Tue Apr 18 12:37:08 UTC 2017
+----------------------------------------------------------------------------------------
+traceroute to planetlab2.tmit.bme.hu (152.66.245.162), 30 hops max, 60 byte packets
+ 1  acar-atg-02-vlan77.cac.washington.edu (128.208.4.102)  0.283 ms  0.268 ms  0.255 ms
+ 2  lo0--1.uwcr-ads-1.infra.washington.edu (198.48.65.1)  0.541 ms  0.601 ms  0.602 ms
+ 3  10.132.1.66 (10.132.1.66)  0.555 ms  0.551 ms  0.626 ms
+ 4  ae0--4002.icar-sttl1-1.infra.pnw-gigapop.net (209.124.181.132)  0.731 ms  0.867 ms  0.809 ms
+ 5  64.57.28.54 (64.57.28.54)  1.057 ms  1.018 ms  1.012 ms
+ 6  et-4-3-0.1220.rtsw.seat.net.internet2.edu (64.57.28.53)  0.907 ms  1.027 ms  0.964 ms
+ 7  et-4-0-0.4079.sdn-sw.miss2.net.internet2.edu (162.252.70.0)  11.368 ms  11.399 ms  11.491 ms
+ 8  et-4-0-0.4079.sdn-sw.minn.net.internet2.edu (162.252.70.58)  34.798 ms  34.691 ms  34.673 ms
+ 9  et-7-0-0.4079.sdn-sw.eqch.net.internet2.edu (162.252.70.106)  42.640 ms  42.687 ms  42.538 ms
+10  et-4-1-0.4079.rtsw.clev.net.internet2.edu (162.252.70.112)  51.652 ms  51.566 ms  51.650 ms
+11  et-2-0-0.4079.sdn-sw.ashb.net.internet2.edu (162.252.70.54)  62.972 ms  63.029 ms  62.941 ms
+12  et-3-1-0.4079.rtsw.wash.net.internet2.edu (162.252.70.63)  59.423 ms  59.378 ms  59.342 ms
+13  internet2-gw.mx1.lon.uk.geant.net (62.40.124.44)  134.334 ms  134.048 ms  134.118 ms
+14  ae0.mx1.ams.nl.geant.net (62.40.98.81)  141.511 ms  141.606 ms  141.436 ms
+15  ae0.mx1.fra.de.geant.net (62.40.98.128)  148.181 ms  148.276 ms  148.383 ms
+16  ae6.mx1.bud.hu.geant.net (62.40.98.46)  162.171 ms  162.190 ms  161.594 ms
+17  hungarnet-gw.mx1.bud.hu.geant.net (62.40.124.102)  163.180 ms  161.663 ms  161.771 ms
+18  tg0-1-0-0.rtr.bme.hbone.hu (195.111.100.42)  162.302 ms  162.355 ms  162.239 ms
+19  xge2-1.taz.net.bme.hu (152.66.0.125)  162.140 ms  161.764 ms  178.438 ms
+20  xge4-1.styx.net.bme.hu (152.66.0.79)  161.773 ms  161.736 ms  161.629 ms
+21  xge7-1.ixion.net.bme.hu (152.66.0.73)  161.651 ms  161.610 ms  161.606 ms
+22  tmitgw.tmit.bme.hu (152.66.245.249)  161.604 ms  161.534 ms  161.661 ms
+23  planetlab2.tmit.bme.hu (152.66.245.162)  161.892 ms  162.029 ms  161.973 ms
+========================================================================================
+========================================================================================
+*****************   TraceRoute   Command     Output ************************************
+----------------------------------------------------------------------------------------
+Tue Apr 18 13:37:29 UTC 2017
+----------------------------------------------------------------------------------------
+traceroute to planetlab2.tmit.bme.hu (152.66.245.162), 30 hops max, 60 byte packets
+ 1  acar-atg-02-vlan77.cac.washington.edu (128.208.4.102)  0.297 ms  0.280 ms  0.267 ms
+ 2  lo0--1.uwcr-ads-1.infra.washington.edu (198.48.65.1)  0.593 ms  0.590 ms  0.586 ms
+ 3  10.132.1.66 (10.132.1.66)  0.537 ms  0.557 ms  0.544 ms
+ 4  ae0--4002.icar-sttl1-1.infra.pnw-gigapop.net (209.124.181.132)  0.744 ms  0.833 ms  0.777 ms
+ 5  64.57.28.54 (64.57.28.54)  0.969 ms  0.849 ms  0.908 ms
+ 6  et-4-3-0.1220.rtsw.seat.net.internet2.edu (64.57.28.53)  0.902 ms  0.895 ms  1.032 ms
+ 7  et-4-0-0.4079.sdn-sw.miss2.net.internet2.edu (162.252.70.0)  11.410 ms  11.472 ms  11.528 ms
+ 8  et-4-0-0.4079.sdn-sw.minn.net.internet2.edu (162.252.70.58)  34.783 ms  34.835 ms  34.826 ms
+ 9  et-7-0-0.4079.sdn-sw.eqch.net.internet2.edu (162.252.70.106)  42.644 ms  42.666 ms  42.519 ms
+10  et-4-1-0.4079.rtsw.clev.net.internet2.edu (162.252.70.112)  51.706 ms  51.561 ms  51.630 ms
+11  et-2-0-0.4079.sdn-sw.ashb.net.internet2.edu (162.252.70.54)  59.143 ms  59.192 ms  59.181 ms
+12  et-3-1-0.4079.rtsw.wash.net.internet2.edu (162.252.70.63)  59.896 ms  59.395 ms  59.444 ms
+13  internet2-gw.mx1.lon.uk.geant.net (62.40.124.44)  134.109 ms  133.937 ms  134.035 ms
+14  ae0.mx1.ams.nl.geant.net (62.40.98.81)  141.560 ms  141.492 ms  141.364 ms
+15  ae0.mx1.fra.de.geant.net (62.40.98.128)  148.236 ms  148.131 ms  148.248 ms
+16  ae6.mx1.bud.hu.geant.net (62.40.98.46)  161.185 ms  161.295 ms  161.287 ms
+17  hungarnet-gw.mx1.bud.hu.geant.net (62.40.124.102)  161.774 ms  161.657 ms  162.883 ms
+18  tg0-1-0-0.rtr.bme.hbone.hu (195.111.100.42)  162.332 ms  162.645 ms  162.123 ms
+19  xge2-1.taz.net.bme.hu (152.66.0.125)  164.628 ms  161.819 ms  161.913 ms
+20  xge4-1.styx.net.bme.hu (152.66.0.79)  161.922 ms  161.653 ms  161.782 ms
+21  xge7-1.ixion.net.bme.hu (152.66.0.73)  161.815 ms  161.578 ms  161.637 ms
+22  tmitgw.tmit.bme.hu (152.66.245.249)  161.702 ms  161.534 ms  161.527 ms
+23  planetlab2.tmit.bme.hu (152.66.245.162)  161.997 ms  161.859 ms  161.920 ms
+========================================================================================
+========================================================================================
+*****************   TraceRoute   Command     Output ************************************
+----------------------------------------------------------------------------------------
+Tue Apr 18 14:37:48 UTC 2017
+----------------------------------------------------------------------------------------
+traceroute to planetlab2.tmit.bme.hu (152.66.245.162), 30 hops max, 60 byte packets
+ 1  acar-atg-02-vlan77.cac.washington.edu (128.208.4.102)  0.262 ms  0.247 ms  0.234 ms
+ 2  lo0--1.uwcr-ads-1.infra.washington.edu (198.48.65.1)  1.696 ms  1.721 ms  1.750 ms
+ 3  10.132.1.66 (10.132.1.66)  0.547 ms  0.517 ms  0.517 ms
+ 4  ae0--4002.icar-sttl1-1.infra.pnw-gigapop.net (209.124.181.132)  0.763 ms  0.872 ms  0.980 ms
+ 5  64.57.28.54 (64.57.28.54)  0.882 ms  2.788 ms  0.855 ms
+ 6  et-4-3-0.1220.rtsw.seat.net.internet2.edu (64.57.28.53)  0.880 ms  0.987 ms  0.981 ms
+ 7  et-4-0-0.4079.sdn-sw.miss2.net.internet2.edu (162.252.70.0)  11.468 ms  11.513 ms  11.482 ms
+ 8  et-4-0-0.4079.sdn-sw.minn.net.internet2.edu (162.252.70.58)  34.695 ms  34.719 ms  34.781 ms
+ 9  et-7-0-0.4079.sdn-sw.eqch.net.internet2.edu (162.252.70.106)  42.611 ms  42.655 ms  42.645 ms
+10  et-4-1-0.4079.rtsw.clev.net.internet2.edu (162.252.70.112)  52.563 ms  52.608 ms  53.683 ms
+11  et-2-0-0.4079.sdn-sw.ashb.net.internet2.edu (162.252.70.54)  59.028 ms  59.091 ms  59.154 ms
+12  et-3-1-0.4079.rtsw.wash.net.internet2.edu (162.252.70.63)  59.399 ms  59.471 ms  59.533 ms
+13  internet2-gw.mx1.lon.uk.geant.net (62.40.124.44)  134.244 ms  144.074 ms  142.724 ms
+14  ae0.mx1.ams.nl.geant.net (62.40.98.81)  141.544 ms  141.563 ms  141.603 ms
+15  ae0.mx1.fra.de.geant.net (62.40.98.128)  148.229 ms  148.172 ms  148.214 ms
+16  ae6.mx1.bud.hu.geant.net (62.40.98.46)  161.181 ms  161.227 ms  161.252 ms
+17  hungarnet-gw.mx1.bud.hu.geant.net (62.40.124.102)  163.187 ms  161.595 ms  161.486 ms
+18  tg0-1-0-0.rtr.bme.hbone.hu (195.111.100.42)  162.147 ms  162.157 ms  161.876 ms
+19  xge2-1.taz.net.bme.hu (152.66.0.125)  168.475 ms  167.705 ms  162.018 ms
+20  xge4-1.styx.net.bme.hu (152.66.0.79)  161.762 ms  161.677 ms  161.752 ms
+21  xge7-1.ixion.net.bme.hu (152.66.0.73)  161.687 ms  161.685 ms  161.564 ms
+22  tmitgw.tmit.bme.hu (152.66.245.249)  161.583 ms  161.602 ms  161.564 ms
+23  planetlab2.tmit.bme.hu (152.66.245.162)  161.939 ms  161.879 ms  161.879 ms
+========================================================================================
+========================================================================================
+*****************   TraceRoute   Command     Output ************************************
+----------------------------------------------------------------------------------------
+Tue Apr 18 15:38:09 UTC 2017
+----------------------------------------------------------------------------------------
+traceroute to planetlab2.tmit.bme.hu (152.66.245.162), 30 hops max, 60 byte packets
+ 1  acar-atg-02-vlan77.cac.washington.edu (128.208.4.102)  3.220 ms  3.201 ms  3.193 ms
+ 2  lo0--1.uwcr-ads-1.infra.washington.edu (198.48.65.1)  0.919 ms  0.924 ms  0.872 ms
+ 3  10.132.1.66 (10.132.1.66)  0.533 ms  0.559 ms  0.549 ms
+ 4  ae0--4002.icar-sttl1-1.infra.pnw-gigapop.net (209.124.181.132)  0.842 ms  0.850 ms  0.870 ms
+ 5  64.57.28.54 (64.57.28.54)  0.957 ms  0.978 ms  1.015 ms
+ 6  et-4-3-0.1220.rtsw.seat.net.internet2.edu (64.57.28.53)  0.912 ms  0.969 ms  0.944 ms
+ 7  et-4-0-0.4079.sdn-sw.miss2.net.internet2.edu (162.252.70.0)  11.373 ms  11.490 ms  11.480 ms
+ 8  et-4-0-0.4079.sdn-sw.minn.net.internet2.edu (162.252.70.58)  34.811 ms  34.887 ms  34.856 ms
+ 9  et-7-0-0.4079.sdn-sw.eqch.net.internet2.edu (162.252.70.106)  42.602 ms  42.665 ms  42.572 ms
+10  et-4-1-0.4079.rtsw.clev.net.internet2.edu (162.252.70.112)  51.614 ms  51.505 ms  51.562 ms
+11  et-2-0-0.4079.sdn-sw.ashb.net.internet2.edu (162.252.70.54)  58.984 ms  59.087 ms  59.148 ms
+12  et-3-1-0.4079.rtsw.wash.net.internet2.edu (162.252.70.63)  59.405 ms  59.388 ms  59.506 ms
+13  internet2.mx1.lon.uk.geant.net (62.40.124.44)  134.557 ms  134.150 ms  134.207 ms
+14  ae0.mx1.ams.nl.geant.net (62.40.98.81)  141.568 ms  141.497 ms  141.529 ms
+15  ae0.mx1.fra.de.geant.net (62.40.98.128)  148.202 ms  148.350 ms  148.240 ms
+16  ae6.mx1.bud.hu.geant.net (62.40.98.46)  161.291 ms  161.275 ms  161.547 ms
+17  hungarnet-gw.mx1.bud.hu.geant.net (62.40.124.102)  161.753 ms  163.135 ms  161.712 ms
+18  tg0-1-0-0.rtr.bme.hbone.hu (195.111.100.42)  162.376 ms  162.337 ms  162.211 ms
+19  xge2-1.taz.net.bme.hu (152.66.0.125)  161.704 ms  161.682 ms  161.585 ms
+20  xge4-1.styx.net.bme.hu (152.66.0.79)  161.976 ms  161.789 ms  161.931 ms
+21  xge7-1.ixion.net.bme.hu (152.66.0.73)  161.697 ms  161.639 ms  161.725 ms
+22  tmitgw.tmit.bme.hu (152.66.245.249)  162.446 ms  161.703 ms  161.682 ms
+23  planetlab2.tmit.bme.hu (152.66.245.162)  161.988 ms  161.941 ms  161.969 ms
+========================================================================================
+========================================================================================
+*****************   TraceRoute   Command     Output ************************************
+----------------------------------------------------------------------------------------
+Tue Apr 18 16:38:30 UTC 2017
+----------------------------------------------------------------------------------------
+traceroute to planetlab2.tmit.bme.hu (152.66.245.162), 30 hops max, 60 byte packets
+ 1  acar-atg-02-vlan77.cac.washington.edu (128.208.4.102)  0.366 ms  0.404 ms  0.182 ms
+ 2  lo0--1.uwcr-ads-1.infra.washington.edu (198.48.65.1)  0.521 ms  0.595 ms  0.584 ms
+ 3  10.132.1.66 (10.132.1.66)  0.610 ms  0.602 ms  0.590 ms
+ 4  ae0--4002.icar-sttl1-1.infra.pnw-gigapop.net (209.124.181.132)  0.854 ms  0.897 ms  0.887 ms
+ 5  64.57.28.54 (64.57.28.54)  0.944 ms  0.990 ms  0.932 ms
+ 6  et-4-3-0.1220.rtsw.seat.net.internet2.edu (64.57.28.53)  1.123 ms  1.025 ms  0.914 ms
+ 7  et-4-0-0.4079.sdn-sw.miss2.net.internet2.edu (162.252.70.0)  11.424 ms  11.454 ms  11.513 ms
+ 8  et-4-0-0.4079.sdn-sw.minn.net.internet2.edu (162.252.70.58)  34.666 ms  34.769 ms  34.782 ms
+ 9  et-7-0-0.4079.sdn-sw.eqch.net.internet2.edu (162.252.70.106)  42.616 ms  42.686 ms  42.686 ms
+10  et-4-1-0.4079.rtsw.clev.net.internet2.edu (162.252.70.112)  51.706 ms  51.621 ms  51.679 ms
+11  et-2-0-0.4079.sdn-sw.ashb.net.internet2.edu (162.252.70.54)  59.262 ms  59.043 ms  59.221 ms
+12  et-3-1-0.4079.rtsw.wash.net.internet2.edu (162.252.70.63)  59.503 ms  59.455 ms  59.740 ms
+13  internet2.mx1.lon.uk.geant.net (62.40.124.44)  134.134 ms  135.371 ms  135.252 ms
+14  ae0.mx1.ams.nl.geant.net (62.40.98.81)  141.873 ms  141.874 ms  141.936 ms
+15  ae0.mx1.fra.de.geant.net (62.40.98.128)  148.345 ms  148.251 ms  148.322 ms
+16  ae6.mx1.bud.hu.geant.net (62.40.98.46)  161.321 ms  161.381 ms  161.272 ms
+17  hungarnet-gw.mx1.bud.hu.geant.net (62.40.124.102)  162.859 ms  162.330 ms  162.867 ms
+18  tg0-1-0-0.rtr.bme.hbone.hu (195.111.100.42)  162.360 ms  165.295 ms  162.015 ms
+19  xge2-1.taz.net.bme.hu (152.66.0.125)  161.695 ms  161.829 ms  161.978 ms
+20  xge4-1.styx.net.bme.hu (152.66.0.79)  161.886 ms  162.095 ms  161.701 ms
+21  xge7-1.ixion.net.bme.hu (152.66.0.73)  161.924 ms  162.679 ms  161.742 ms
+22  tmitgw.tmit.bme.hu (152.66.245.249)  161.627 ms  161.495 ms  161.635 ms
+23  planetlab2.tmit.bme.hu (152.66.245.162)  161.859 ms  162.032 ms  161.943 ms
+========================================================================================
+========================================================================================
+*****************   TraceRoute   Command     Output ************************************
+----------------------------------------------------------------------------------------
+Tue Apr 18 17:38:49 UTC 2017
+----------------------------------------------------------------------------------------
+traceroute to planetlab2.tmit.bme.hu (152.66.245.162), 30 hops max, 60 byte packets
+ 1  acar-atg-02-vlan77.cac.washington.edu (128.208.4.102)  0.305 ms  0.288 ms  0.275 ms
+ 2  lo0--1.uwcr-ads-1.infra.washington.edu (198.48.65.1)  0.487 ms  0.527 ms  0.554 ms
+ 3  10.132.1.66 (10.132.1.66)  0.481 ms  0.526 ms  0.850 ms
+ 4  ae0--4002.icar-sttl1-1.infra.pnw-gigapop.net (209.124.181.132)  0.936 ms  0.825 ms  0.908 ms
+ 5  64.57.28.54 (64.57.28.54)  1.011 ms  0.854 ms  0.892 ms
+ 6  et-4-3-0.1220.rtsw.seat.net.internet2.edu (64.57.28.53)  0.909 ms  0.937 ms  0.936 ms
+ 7  et-4-0-0.4079.sdn-sw.miss2.net.internet2.edu (162.252.70.0)  11.496 ms  11.518 ms  11.508 ms
+ 8  et-4-0-0.4079.sdn-sw.minn.net.internet2.edu (162.252.70.58)  34.843 ms  34.888 ms  36.988 ms
+ 9  et-7-0-0.4079.sdn-sw.eqch.net.internet2.edu (162.252.70.106)  42.783 ms  42.830 ms  42.820 ms
+10  et-4-1-0.4079.rtsw.clev.net.internet2.edu (162.252.70.112)  53.804 ms  53.818 ms  53.791 ms
+11  et-2-0-0.4079.sdn-sw.ashb.net.internet2.edu (162.252.70.54)  59.188 ms  59.231 ms  59.240 ms
+12  et-3-1-0.4079.rtsw.wash.net.internet2.edu (162.252.70.63)  59.427 ms  59.465 ms  59.493 ms
+13  internet2-gw.mx1.lon.uk.geant.net (62.40.124.44)  134.072 ms  134.130 ms  134.194 ms
+14  ae0.mx1.ams.nl.geant.net (62.40.98.81)  141.598 ms  144.961 ms  144.835 ms
+15  ae0.mx1.fra.de.geant.net (62.40.98.128)  148.273 ms  148.284 ms  148.235 ms
+16  ae6.mx1.bud.hu.geant.net (62.40.98.46)  161.401 ms  161.313 ms  161.367 ms
+17  hungarnet-gw.mx1.bud.hu.geant.net (62.40.124.102)  161.808 ms  161.708 ms  161.967 ms
+18  tg0-1-0-0.rtr.bme.hbone.hu (195.111.100.42)  163.183 ms  162.602 ms  162.264 ms
+19  xge2-1.taz.net.bme.hu (152.66.0.125)  161.711 ms  161.778 ms  161.750 ms
+20  xge4-1.styx.net.bme.hu (152.66.0.79)  162.051 ms  161.705 ms  161.808 ms
+21  xge7-1.ixion.net.bme.hu (152.66.0.73)  161.949 ms  161.694 ms  161.656 ms
+22  tmitgw.tmit.bme.hu (152.66.245.249)  161.796 ms  161.564 ms  161.662 ms
+23  planetlab2.tmit.bme.hu (152.66.245.162)  161.983 ms  161.908 ms  161.889 ms
+========================================================================================
+========================================================================================
+*****************   TraceRoute   Command     Output ************************************
+----------------------------------------------------------------------------------------
+Tue Apr 18 18:39:09 UTC 2017
+----------------------------------------------------------------------------------------
+traceroute to planetlab2.tmit.bme.hu (152.66.245.162), 30 hops max, 60 byte packets
+ 1  acar-atg-02-vlan77.cac.washington.edu (128.208.4.102)  0.265 ms  0.248 ms  0.235 ms
+ 2  lo0--1.uwcr-ads-1.infra.washington.edu (198.48.65.1)  0.447 ms  0.472 ms  0.520 ms
+ 3  10.132.1.66 (10.132.1.66)  0.642 ms  0.610 ms  0.608 ms
+ 4  ae0--4002.icar-sttl1-1.infra.pnw-gigapop.net (209.124.181.132)  1.047 ms  1.038 ms  1.031 ms
+ 5  64.57.28.54 (64.57.28.54)  1.082 ms  1.097 ms  1.102 ms
+ 6  et-4-3-0.1220.rtsw.seat.net.internet2.edu (64.57.28.53)  0.987 ms  1.127 ms  1.117 ms
+ 7  et-4-0-0.4079.sdn-sw.miss2.net.internet2.edu (162.252.70.0)  11.473 ms  11.535 ms  11.390 ms
+ 8  et-4-0-0.4079.sdn-sw.minn.net.internet2.edu (162.252.70.58)  34.802 ms  34.907 ms  34.898 ms
+ 9  et-7-0-0.4079.sdn-sw.eqch.net.internet2.edu (162.252.70.106)  45.252 ms  45.125 ms  45.171 ms
+10  et-4-1-0.4079.rtsw.clev.net.internet2.edu (162.252.70.112)  51.640 ms  51.693 ms  51.684 ms
+11  et-2-0-0.4079.sdn-sw.ashb.net.internet2.edu (162.252.70.54)  60.198 ms  60.241 ms  60.166 ms
+12  et-3-1-0.4079.rtsw.wash.net.internet2.edu (162.252.70.63)  59.486 ms  60.191 ms  59.409 ms
+13  internet2-gw.mx1.lon.uk.geant.net (62.40.124.44)  134.090 ms  148.202 ms  148.235 ms
+14  ae0.mx1.ams.nl.geant.net (62.40.98.81)  141.598 ms  142.122 ms  142.186 ms
+15  ae0.mx1.fra.de.geant.net (62.40.98.128)  148.118 ms  148.290 ms  148.400 ms
+16  ae6.mx1.bud.hu.geant.net (62.40.98.46)  161.811 ms  161.577 ms  161.645 ms
+17  hungarnet-gw.mx1.bud.hu.geant.net (62.40.124.102)  163.074 ms  162.514 ms  161.516 ms
+18  tg0-1-0-0.rtr.bme.hbone.hu (195.111.100.42)  162.226 ms  162.343 ms  162.330 ms
+19  xge2-1.taz.net.bme.hu (152.66.0.125)  162.034 ms  161.902 ms  162.005 ms
+20  xge4-1.styx.net.bme.hu (152.66.0.79)  162.065 ms  161.672 ms  161.676 ms
+21  xge7-1.ixion.net.bme.hu (152.66.0.73)  162.438 ms  162.876 ms  164.546 ms
+22  tmitgw.tmit.bme.hu (152.66.245.249)  164.736 ms  164.911 ms  164.814 ms
+23  planetlab2.tmit.bme.hu (152.66.245.162)  165.518 ms  165.155 ms  161.907 ms
+========================================================================================
+========================================================================================
+*****************   TraceRoute   Command     Output ************************************
+----------------------------------------------------------------------------------------
+Tue Apr 18 19:39:30 UTC 2017
+----------------------------------------------------------------------------------------
+traceroute to planetlab2.tmit.bme.hu (152.66.245.162), 30 hops max, 60 byte packets
+ 1  acar-atg-02-vlan77.cac.washington.edu (128.208.4.102)  0.256 ms  0.250 ms  0.239 ms
+ 2  lo0--1.uwcr-ads-1.infra.washington.edu (198.48.65.1)  0.948 ms  0.946 ms  0.951 ms
+ 3  10.132.1.66 (10.132.1.66)  4.669 ms  4.245 ms  4.251 ms
+ 4  ae0--4002.icar-sttl1-1.infra.pnw-gigapop.net (209.124.181.132)  0.893 ms  0.746 ms  0.789 ms
+ 5  64.57.28.54 (64.57.28.54)  0.824 ms  0.947 ms  0.828 ms
+ 6  et-4-3-0.1220.rtsw.seat.net.internet2.edu (64.57.28.53)  1.038 ms  0.932 ms  0.989 ms
+ 7  et-4-0-0.4079.sdn-sw.miss2.net.internet2.edu (162.252.70.0)  11.817 ms  11.538 ms  11.586 ms
+ 8  et-4-0-0.4079.sdn-sw.minn.net.internet2.edu (162.252.70.58)  35.129 ms  35.182 ms  35.194 ms
+ 9  et-7-0-0.4079.sdn-sw.eqch.net.internet2.edu (162.252.70.106)  42.968 ms  43.066 ms  43.095 ms
+10  et-4-1-0.4079.rtsw.clev.net.internet2.edu (162.252.70.112)  52.327 ms  52.220 ms  52.277 ms
+11  et-2-0-0.4079.sdn-sw.ashb.net.internet2.edu (162.252.70.54)  59.188 ms  59.410 ms  59.449 ms
+12  et-3-1-0.4079.rtsw.wash.net.internet2.edu (162.252.70.63)  59.748 ms  59.459 ms  59.613 ms
+13  internet2-gw.mx1.lon.uk.geant.net (62.40.124.44)  134.406 ms  134.809 ms  134.699 ms
+14  ae0.mx1.ams.nl.geant.net (62.40.98.81)  145.359 ms  141.705 ms  141.580 ms
+15  ae0.mx1.fra.de.geant.net (62.40.98.128)  148.447 ms  149.721 ms  149.467 ms
+16  ae6.mx1.bud.hu.geant.net (62.40.98.46)  161.229 ms  161.798 ms  162.178 ms
+17  hungarnet-gw.mx1.bud.hu.geant.net (62.40.124.102)  165.074 ms  163.834 ms  163.137 ms
+18  tg0-1-0-0.rtr.bme.hbone.hu (195.111.100.42)  165.596 ms  162.788 ms  162.095 ms
+19  xge2-1.taz.net.bme.hu (152.66.0.125)  161.703 ms  161.970 ms  162.088 ms
+20  xge4-1.styx.net.bme.hu (152.66.0.79)  161.880 ms  162.262 ms  161.842 ms
+21  xge7-1.ixion.net.bme.hu (152.66.0.73)  162.065 ms  161.695 ms  161.675 ms
+22  tmitgw.tmit.bme.hu (152.66.245.249)  161.558 ms  161.682 ms  161.602 ms
+23  planetlab2.tmit.bme.hu (152.66.245.162)  164.561 ms  164.822 ms  165.033 ms
+========================================================================================
+========================================================================================
+*****************   TraceRoute   Command     Output ************************************
+----------------------------------------------------------------------------------------
+Tue Apr 18 20:39:50 UTC 2017
+----------------------------------------------------------------------------------------
+traceroute to planetlab2.tmit.bme.hu (152.66.245.162), 30 hops max, 60 byte packets
+ 1  acar-atg-02-vlan77.cac.washington.edu (128.208.4.102)  0.256 ms  0.244 ms  0.232 ms
+ 2  lo0--1.uwcr-ads-1.infra.washington.edu (198.48.65.1)  0.546 ms  0.582 ms  0.618 ms
+ 3  10.132.1.66 (10.132.1.66)  0.535 ms  0.533 ms  0.424 ms
+ 4  ae0--4002.icar-sttl1-1.infra.pnw-gigapop.net (209.124.181.132)  0.856 ms  0.868 ms  0.883 ms
+ 5  64.57.28.54 (64.57.28.54)  0.935 ms  0.978 ms  0.941 ms
+ 6  et-4-3-0.1220.rtsw.seat.net.internet2.edu (64.57.28.53)  1.029 ms  1.306 ms  0.930 ms
+ 7  et-4-0-0.4079.sdn-sw.miss2.net.internet2.edu (162.252.70.0)  11.376 ms  11.480 ms  11.473 ms
+ 8  et-4-0-0.4079.sdn-sw.minn.net.internet2.edu (162.252.70.58)  34.845 ms  34.913 ms  34.872 ms
+ 9  et-7-0-0.4079.sdn-sw.eqch.net.internet2.edu (162.252.70.106)  42.780 ms  42.764 ms  42.643 ms
+10  et-4-1-0.4079.rtsw.clev.net.internet2.edu (162.252.70.112)  51.921 ms  51.989 ms  51.981 ms
+11  et-2-0-0.4079.sdn-sw.ashb.net.internet2.edu (162.252.70.54)  59.186 ms  59.238 ms  59.208 ms
+12  et-3-1-0.4079.rtsw.wash.net.internet2.edu (162.252.70.63)  59.509 ms  59.473 ms  59.476 ms
+13  internet2.mx1.lon.uk.geant.net (62.40.124.44)  134.130 ms  135.156 ms  135.223 ms
+14  ae0.mx1.ams.nl.geant.net (62.40.98.81)  141.517 ms  141.650 ms  141.479 ms
+15  ae0.mx1.fra.de.geant.net (62.40.98.128)  148.219 ms  148.222 ms  148.284 ms
+16  ae6.mx1.bud.hu.geant.net (62.40.98.46)  161.200 ms  161.276 ms  161.493 ms
+17  hungarnet-gw.mx1.bud.hu.geant.net (62.40.124.102)  162.036 ms  163.664 ms  162.356 ms
+18  tg0-1-0-0.rtr.bme.hbone.hu (195.111.100.42)  162.241 ms  162.312 ms  162.252 ms
+19  xge2-1.taz.net.bme.hu (152.66.0.125)  163.119 ms  161.683 ms  162.117 ms
+20  xge4-1.styx.net.bme.hu (152.66.0.79)  161.736 ms  161.728 ms  162.081 ms
+21  xge7-1.ixion.net.bme.hu (152.66.0.73)  161.716 ms  161.704 ms  161.758 ms
+22  tmitgw.tmit.bme.hu (152.66.245.249)  161.672 ms  161.602 ms  161.759 ms
+23  planetlab2.tmit.bme.hu (152.66.245.162)  162.082 ms  161.975 ms  161.963 ms
+========================================================================================
+========================================================================================
+*****************   TraceRoute   Command     Output ************************************
+----------------------------------------------------------------------------------------
+Tue Apr 18 21:40:09 UTC 2017
+----------------------------------------------------------------------------------------
+traceroute to planetlab2.tmit.bme.hu (152.66.245.162), 30 hops max, 60 byte packets
+ 1  acar-atg-02-vlan77.cac.washington.edu (128.208.4.102)  0.295 ms  0.325 ms  0.285 ms
+ 2  lo0--1.uwcr-ads-1.infra.washington.edu (198.48.65.1)  1.808 ms  1.799 ms  1.887 ms
+ 3  10.132.1.66 (10.132.1.66)  4.214 ms  1.008 ms  1.003 ms
+ 4  ae0--4002.icar-sttl1-1.infra.pnw-gigapop.net (209.124.181.132)  0.979 ms  0.895 ms  0.927 ms
+ 5  64.57.28.54 (64.57.28.54)  0.956 ms  1.103 ms  1.101 ms
+ 6  et-4-3-0.1220.rtsw.seat.net.internet2.edu (64.57.28.53)  1.073 ms  1.046 ms  1.123 ms
+ 7  et-4-0-0.4079.sdn-sw.miss2.net.internet2.edu (162.252.70.0)  11.492 ms  11.579 ms  11.569 ms
+ 8  et-4-0-0.4079.sdn-sw.minn.net.internet2.edu (162.252.70.58)  44.106 ms  34.934 ms  34.841 ms
+ 9  et-7-0-0.4079.sdn-sw.eqch.net.internet2.edu (162.252.70.106)  42.830 ms  42.841 ms  43.093 ms
+10  et-4-1-0.4079.rtsw.clev.net.internet2.edu (162.252.70.112)  51.633 ms  51.506 ms  51.586 ms
+11  et-2-0-0.4079.sdn-sw.ashb.net.internet2.edu (162.252.70.54)  59.246 ms  59.235 ms  59.161 ms
+12  et-3-1-0.4079.rtsw.wash.net.internet2.edu (162.252.70.63)  59.544 ms  59.633 ms  59.547 ms
+13  internet2.mx1.lon.uk.geant.net (62.40.124.44)  134.109 ms  134.223 ms  134.217 ms
+14  ae0.mx1.ams.nl.geant.net (62.40.98.81)  141.572 ms  141.557 ms  141.657 ms
+15  ae0.mx1.fra.de.geant.net (62.40.98.128)  148.189 ms  148.612 ms  148.588 ms
+16  ae6.mx1.bud.hu.geant.net (62.40.98.46)  161.245 ms  161.335 ms  161.369 ms
+17  hungarnet-gw.mx1.bud.hu.geant.net (62.40.124.102)  161.872 ms  161.766 ms  163.061 ms
+18  tg0-1-0-0.rtr.bme.hbone.hu (195.111.100.42)  162.078 ms  162.089 ms  162.223 ms
+19  xge2-1.taz.net.bme.hu (152.66.0.125)  167.854 ms  161.806 ms  161.862 ms
+20  xge4-1.styx.net.bme.hu (152.66.0.79)  161.894 ms  161.696 ms  162.291 ms
+21  xge7-1.ixion.net.bme.hu (152.66.0.73)  161.618 ms  161.605 ms  161.553 ms
+22  tmitgw.tmit.bme.hu (152.66.245.249)  161.853 ms  161.838 ms  161.664 ms
+23  planetlab2.tmit.bme.hu (152.66.245.162)  162.001 ms  161.910 ms  161.981 ms
+========================================================================================
+========================================================================================
+*****************   TraceRoute   Command     Output ************************************
+----------------------------------------------------------------------------------------
+Tue Apr 18 22:40:30 UTC 2017
+----------------------------------------------------------------------------------------
+traceroute to planetlab2.tmit.bme.hu (152.66.245.162), 30 hops max, 60 byte packets
+ 1  acar-atg-02-vlan77.cac.washington.edu (128.208.4.102)  0.571 ms  0.560 ms  0.622 ms
+ 2  lo0--1.uwcr-ads-1.infra.washington.edu (198.48.65.1)  0.998 ms  1.017 ms  1.014 ms
+ 3  10.132.1.66 (10.132.1.66)  0.630 ms  0.630 ms  0.603 ms
+ 4  ae0--4002.icar-sttl1-1.infra.pnw-gigapop.net (209.124.181.132)  0.785 ms  0.799 ms  0.810 ms
+ 5  64.57.28.54 (64.57.28.54)  1.210 ms  1.250 ms  1.241 ms
+ 6  et-4-3-0.1220.rtsw.seat.net.internet2.edu (64.57.28.53)  0.949 ms  0.938 ms  0.928 ms
+ 7  et-4-0-0.4079.sdn-sw.miss2.net.internet2.edu (162.252.70.0)  14.865 ms  13.393 ms  13.386 ms
+ 8  et-4-0-0.4079.sdn-sw.minn.net.internet2.edu (162.252.70.58)  34.787 ms  34.839 ms  34.929 ms
+ 9  et-7-0-0.4079.sdn-sw.eqch.net.internet2.edu (162.252.70.106)  42.641 ms  42.714 ms  42.704 ms
+10  et-4-1-0.4079.rtsw.clev.net.internet2.edu (162.252.70.112)  51.653 ms  51.680 ms  51.488 ms
+11  et-2-0-0.4079.sdn-sw.ashb.net.internet2.edu (162.252.70.54)  59.269 ms  59.325 ms  59.335 ms
+12  et-3-1-0.4079.rtsw.wash.net.internet2.edu (162.252.70.63)  59.427 ms  59.410 ms  59.443 ms
+13  internet2-gw.mx1.lon.uk.geant.net (62.40.124.44)  134.246 ms  134.001 ms  137.095 ms
+14  ae0.mx1.ams.nl.geant.net (62.40.98.81)  141.609 ms  141.542 ms  141.453 ms
+15  ae0.mx1.fra.de.geant.net (62.40.98.128)  148.217 ms  148.416 ms  148.327 ms
+16  ae6.mx1.bud.hu.geant.net (62.40.98.46)  161.344 ms  161.368 ms  161.409 ms
+17  hungarnet-gw.mx1.bud.hu.geant.net (62.40.124.102)  161.729 ms  161.623 ms  161.916 ms
+18  tg0-1-0-0.rtr.bme.hbone.hu (195.111.100.42)  162.391 ms  162.094 ms  161.922 ms
+19  xge2-1.taz.net.bme.hu (152.66.0.125)  161.818 ms  161.749 ms  163.301 ms
+20  xge4-1.styx.net.bme.hu (152.66.0.79)  161.811 ms  161.616 ms  161.655 ms
+21  xge7-1.ixion.net.bme.hu (152.66.0.73)  161.736 ms  162.293 ms  161.705 ms
+22  tmitgw.tmit.bme.hu (152.66.245.249)  161.591 ms  161.505 ms  161.599 ms
+23  planetlab2.tmit.bme.hu (152.66.245.162)  163.012 ms  162.065 ms  161.997 ms
+========================================================================================
+========================================================================================
+*****************   TraceRoute   Command     Output ************************************
+----------------------------------------------------------------------------------------
+Tue Apr 18 23:40:50 UTC 2017
+----------------------------------------------------------------------------------------
+traceroute to planetlab2.tmit.bme.hu (152.66.245.162), 30 hops max, 60 byte packets
+ 1  acar-atg-02-vlan77.cac.washington.edu (128.208.4.102)  0.260 ms  0.236 ms  0.224 ms
+ 2  lo0--1.uwcr-ads-1.infra.washington.edu (198.48.65.1)  0.556 ms  0.550 ms  0.597 ms
+ 3  10.132.1.66 (10.132.1.66)  0.490 ms  0.519 ms  0.380 ms
+ 4  ae0--4002.icar-sttl1-1.infra.pnw-gigapop.net (209.124.181.132)  0.825 ms  0.844 ms  0.903 ms
+ 5  64.57.28.54 (64.57.28.54)  0.894 ms  0.884 ms  0.873 ms
+ 6  et-4-3-0.1220.rtsw.seat.net.internet2.edu (64.57.28.53)  0.984 ms  0.947 ms  0.911 ms
+ 7  et-4-0-0.4079.sdn-sw.miss2.net.internet2.edu (162.252.70.0)  11.477 ms  11.484 ms  11.324 ms
+ 8  et-4-0-0.4079.sdn-sw.minn.net.internet2.edu (162.252.70.58)  34.669 ms  34.843 ms  34.870 ms
+ 9  et-7-0-0.4079.sdn-sw.eqch.net.internet2.edu (162.252.70.106)  42.593 ms  42.673 ms  42.846 ms
+10  et-4-1-0.4079.rtsw.clev.net.internet2.edu (162.252.70.112)  58.905 ms  58.951 ms  58.941 ms
+11  et-2-0-0.4079.sdn-sw.ashb.net.internet2.edu (162.252.70.54)  59.115 ms  59.123 ms  59.100 ms
+12  et-3-1-0.4079.rtsw.wash.net.internet2.edu (162.252.70.63)  59.422 ms  59.491 ms  59.421 ms
+13  internet2.mx1.lon.uk.geant.net (62.40.124.44)  134.014 ms  134.077 ms  134.103 ms
+14  ae0.mx1.ams.nl.geant.net (62.40.98.81)  141.410 ms  141.559 ms  141.479 ms
+15  ae0.mx1.fra.de.geant.net (62.40.98.128)  148.144 ms  148.154 ms  148.310 ms
+16  ae6.mx1.bud.hu.geant.net (62.40.98.46)  161.206 ms  161.253 ms  161.286 ms
+17  hungarnet-gw.mx1.bud.hu.geant.net (62.40.124.102)  161.942 ms  161.802 ms  161.803 ms
+18  tg0-1-0-0.rtr.bme.hbone.hu (195.111.100.42)  162.208 ms  162.233 ms  162.232 ms
+19  xge2-1.taz.net.bme.hu (152.66.0.125)  163.134 ms  161.966 ms  161.861 ms
+20  xge4-1.styx.net.bme.hu (152.66.0.79)  161.969 ms  161.656 ms  161.633 ms
+21  xge7-1.ixion.net.bme.hu (152.66.0.73)  161.641 ms  161.614 ms  162.032 ms
+22  tmitgw.tmit.bme.hu (152.66.245.249)  161.663 ms  161.584 ms  161.537 ms
+23  planetlab2.tmit.bme.hu (152.66.245.162)  161.907 ms  161.880 ms  161.969 ms
+========================================================================================
+========================================================================================

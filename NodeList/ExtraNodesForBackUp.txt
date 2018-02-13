@@ -1,0 +1,72 @@
+********************************************************************************************************
+TransAtlantic Group 
+********************************************************************************************************
+********************************************************************************************************
+
+
+
+planetlab04.cs.washington.edu 	10973		-----  planetlab2.tmit.bme.hu 				bind: Cannot assign requested address				
+
+planetlab-2.cmcl.cs.cmu.edu	27678		-----  planetlab2.fct.ualg.pt 			10859	transatlantic_2	
+
+planetlab3.cs.uoregon.edu 		24229		-----  pl2.tailab.eu 													
+
+PLANETLAB1.CS.PURDUE.edu 		16281		-----  dannan.disy.inf.uni-konstanz.de 	bind: Cannot assign requested address			
+
+PLANETLAB2.UTDALLAS.EDU			14509		-----  onelab4.info.ucl.ac.be 			11908	bind: Cannot assign requested address	
+
+PLANETLAB1.CS.UCLA.EDU			20168		-----  planetlab1.fct.ualg.pt 			11771	transatlantic_2	
+
+********************************************************************************************************
+
+
+
+
+
+********************************************************************************************************
+TransPacific Group 
+********************************************************************************************************
+********************************************************************************************************
+
+
+planetlab-2.cmcl.cs.cmu.edu		27719 /3113		-----  PL1.ENG.MONASH.EDU.AU		8275	transpacific_2	 
+
+planetlab01.cs.washington.edu 	25212		-----  planetlab1.ustc.edu.cn 		24355	transpacific_2	
+
+PLONK.CS.UWATERLOO.CA   		24009 / 28109-----  planetlab-2.sysu.edu.cn		6098	transpacific_2		
+
+********************************************************************************************************
+
+
+
+
+
+
+********************************************************************************************************
+Local Group 
+********************************************************************************************************
+********************************************************************************************************
+
+
+
+planetlab04.cs.washington.edu   12391		-----  PLONK.CS.UWATERLOO.CA  				27161
+
+planetlab-2.cmcl.cs.cmu.edu		1540 / 9039		-----  planetlab01.cs.washington.edu 		16278	
+
+********************************************************************************************************
+
+
+
+
+
+
+
+
+
+
+
+
+
+Command to remove any CR from the windows file to Linux file.
+
+tr -d '\015' < yourscript.sh > newscript.sh

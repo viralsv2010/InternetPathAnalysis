@@ -1,0 +1,122 @@
+*****************   TraceRoute   Command     Output ************************************
+----------------------------------------------------------------------------------------
+Wed Apr 12 19:23:24 UTC 2017
+----------------------------------------------------------------------------------------
+traceroute to planetlab-2.cmcl.cs.cmu.edu (128.2.211.114), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  GT9.GE.LISBOA.fccn.pt (193.137.1.1)  5.353 ms  5.239 ms  5.066 ms
+ 3  ROUTER1.10GE.CR1.Lisboa.fccn.pt (193.137.0.1)  5.178 ms  5.267 ms  5.110 ms
+ 4  fccn-ias-geant-gw.mx2.lis.pt.geant.net (83.97.88.209)  4.837 ms  4.802 ms  4.804 ms
+ 5  ae0.mx1.mad.es.geant.net (62.40.98.107)  48.882 ms  46.672 ms  46.529 ms
+ 6  ae7.mx1.gen.ch.geant.net (62.40.98.67)  38.367 ms  38.257 ms  40.460 ms
+ 7  google.mx1.fra.de.geant.net (62.40.125.201)  48.833 ms  46.721 ms  46.607 ms
+ 8  te0-0-0-0.agr21.fra03.atlas.cogentco.com (149.6.42.73)  49.012 ms  48.995 ms  46.672 ms
+ 9  be3128.ccr42.fra03.atlas.cogentco.com (130.117.51.113)  49.107 ms be3119.ccr41.fra03.atlas.cogentco.com (130.117.51.37)  47.027 ms be3128.ccr42.fra03.atlas.cogentco.com (130.117.51.113)  49.023 ms
+10  be2814.ccr42.ams03.atlas.cogentco.com (130.117.0.141)  55.882 ms be2813.ccr41.ams03.atlas.cogentco.com (130.117.0.121)  53.306 ms be2814.ccr42.ams03.atlas.cogentco.com (130.117.0.141)  53.655 ms
+11  be2182.ccr21.lpl01.atlas.cogentco.com (154.54.77.246)  65.494 ms be2183.ccr22.lpl01.atlas.cogentco.com (154.54.58.69)  65.545 ms  65.643 ms
+12  be3043.ccr22.ymq01.atlas.cogentco.com (154.54.44.166)  134.775 ms be3042.ccr21.ymq01.atlas.cogentco.com (154.54.44.162)  134.676 ms be3043.ccr22.ymq01.atlas.cogentco.com (154.54.44.166)  132.335 ms
+13  be2093.ccr22.yyz02.atlas.cogentco.com (154.54.44.105)  143.593 ms  142.285 ms  142.367 ms
+14  be2993.ccr21.cle04.atlas.cogentco.com (154.54.31.225)  149.215 ms be2994.ccr22.cle04.atlas.cogentco.com (154.54.31.233)  149.281 ms  149.393 ms
+15  be2822.rcr21.pit02.atlas.cogentco.com (154.54.83.158)  152.602 ms be2821.rcr21.pit02.atlas.cogentco.com (154.54.83.118)  152.537 ms be2822.rcr21.pit02.atlas.cogentco.com (154.54.83.158)  150.381 ms
+16  154.24.50.198 (154.24.50.198)  150.591 ms  150.597 ms  152.636 ms
+17  38.140.44.154 (38.140.44.154)  307.074 ms  297.143 ms  296.682 ms
+18  CORE0-POD-I-CYH.GW.CMU.NET (128.2.0.249)  150.926 ms  150.836 ms  148.419 ms
+19  WEAN-CORE-CORE0.GW.CMU.NET (128.2.0.130)  152.172 ms  149.898 ms  152.081 ms
+20  CORE0-VRF-WEAN-CORE.GW.CMU.NET (128.2.0.133)  148.425 ms CORE255-VRF-WEAN-CORE.GW.CMU.NET (128.2.255.133)  148.462 ms  148.637 ms
+21  POD-A-CORE0.GW.CMU.NET (128.2.0.154)  167.103 ms POD-A-CORE255.GW.CMU.NET (128.2.255.154)  151.167 ms POD-A-CORE0.GW.CMU.NET (128.2.0.154)  150.823 ms
+22  PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114)  148.721 ms  150.974 ms  148.708 ms
+========================================================================================
+========================================================================================
+*****************   TraceRoute   Command     Output ************************************
+----------------------------------------------------------------------------------------
+Wed Apr 12 20:23:50 UTC 2017
+----------------------------------------------------------------------------------------
+traceroute to planetlab-2.cmcl.cs.cmu.edu (128.2.211.114), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  GT9.GE.LISBOA.fccn.pt (193.137.1.1)  6.426 ms  6.277 ms  6.361 ms
+ 3  ROUTER1.10GE.CR2.Lisboa.fccn.pt (193.137.0.17)  5.224 ms ROUTER1.10GE.CR1.Lisboa.fccn.pt (193.137.0.1)  5.137 ms ROUTER1.10GE.CR2.Lisboa.fccn.pt (193.137.0.17)  5.188 ms
+ 4  fccn-ias-geant-gw.mx2.lis.pt.geant.net (83.97.88.209)  4.831 ms  4.790 ms  4.787 ms
+ 5  ae0.mx1.mad.es.geant.net (62.40.98.107)  48.850 ms  48.904 ms  48.759 ms
+ 6  ae7.mx1.gen.ch.geant.net (62.40.98.67)  38.243 ms  38.408 ms  38.206 ms
+ 7  google.mx1.fra.de.geant.net (62.40.125.201)  48.821 ms  49.653 ms  48.865 ms
+ 8  te0-0-0-0.agr21.fra03.atlas.cogentco.com (149.6.42.73)  49.400 ms  49.308 ms  50.616 ms
+ 9  be3128.ccr42.fra03.atlas.cogentco.com (130.117.51.113)  46.998 ms  46.718 ms be3119.ccr41.fra03.atlas.cogentco.com (130.117.51.37)  49.079 ms
+10  be2814.ccr42.ams03.atlas.cogentco.com (130.117.0.141)  53.867 ms be2813.ccr41.ams03.atlas.cogentco.com (130.117.0.121)  55.860 ms  55.817 ms
+11  be2183.ccr22.lpl01.atlas.cogentco.com (154.54.58.69)  63.154 ms be2182.ccr21.lpl01.atlas.cogentco.com (154.54.77.246)  63.387 ms be2183.ccr22.lpl01.atlas.cogentco.com (154.54.58.69)  63.268 ms
+12  be3042.ccr21.ymq01.atlas.cogentco.com (154.54.44.162)  132.404 ms  132.460 ms be3043.ccr22.ymq01.atlas.cogentco.com (154.54.44.166)  136.068 ms
+13  be2090.ccr21.yyz02.atlas.cogentco.com (154.54.30.205)  142.281 ms  142.299 ms be2093.ccr22.yyz02.atlas.cogentco.com (154.54.44.105)  142.533 ms
+14  be2993.ccr21.cle04.atlas.cogentco.com (154.54.31.225)  149.305 ms be2994.ccr22.cle04.atlas.cogentco.com (154.54.31.233)  146.935 ms be2993.ccr21.cle04.atlas.cogentco.com (154.54.31.225)  149.574 ms
+15  be2822.rcr21.pit02.atlas.cogentco.com (154.54.83.158)  152.453 ms  152.425 ms be2821.rcr21.pit02.atlas.cogentco.com (154.54.83.118)  150.150 ms
+16  154.24.50.198 (154.24.50.198)  150.559 ms 154.24.42.98 (154.24.42.98)  153.012 ms  152.628 ms
+17  38.140.44.154 (38.140.44.154)  184.559 ms  178.025 ms  176.920 ms
+18  CORE0-POD-I-CYH.GW.CMU.NET (128.2.0.249)  150.800 ms  150.820 ms  150.759 ms
+19  WEAN-CORE-CORE0.GW.CMU.NET (128.2.0.130)  152.354 ms  152.090 ms  152.137 ms
+20  CORE255-VRF-WEAN-CORE.GW.CMU.NET (128.2.255.133)  150.754 ms CORE0-VRF-WEAN-CORE.GW.CMU.NET (128.2.0.133)  152.736 ms CORE255-VRF-WEAN-CORE.GW.CMU.NET (128.2.255.133)  151.056 ms
+21  POD-A-CORE255.GW.CMU.NET (128.2.255.154)  150.893 ms  151.342 ms  151.081 ms
+22  PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114)  153.122 ms  152.942 ms  153.359 ms
+========================================================================================
+========================================================================================
+*****************   TraceRoute   Command     Output ************************************
+----------------------------------------------------------------------------------------
+Wed Apr 12 21:24:16 UTC 2017
+----------------------------------------------------------------------------------------
+traceroute to planetlab-2.cmcl.cs.cmu.edu (128.2.211.114), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  GT9.GE.LISBOA.fccn.pt (193.137.1.1)  5.373 ms  5.218 ms  5.293 ms
+ 3  ROUTER1.10GE.CR2.Lisboa.fccn.pt (193.137.0.17)  6.522 ms  6.302 ms ROUTER1.10GE.CR1.Lisboa.fccn.pt (193.137.0.1)  5.251 ms
+ 4  fccn-ias-geant-gw.mx2.lis.pt.geant.net (83.97.88.209)  4.883 ms  5.568 ms  4.822 ms
+ 5  ae0.mx1.mad.es.geant.net (62.40.98.107)  46.607 ms  48.819 ms  48.835 ms
+ 6  ae7.mx1.gen.ch.geant.net (62.40.98.67)  36.001 ms  38.300 ms  38.156 ms
+ 7  google.mx1.fra.de.geant.net (62.40.125.201)  46.572 ms  46.601 ms  44.276 ms
+ 8  te0-0-0-0.agr21.fra03.atlas.cogentco.com (149.6.42.73)  44.575 ms  44.649 ms  46.735 ms
+ 9  be3128.ccr42.fra03.atlas.cogentco.com (130.117.51.113)  46.987 ms  46.770 ms  47.094 ms
+10  be2814.ccr42.ams03.atlas.cogentco.com (130.117.0.141)  55.773 ms  53.244 ms  53.648 ms
+11  be2182.ccr21.lpl01.atlas.cogentco.com (154.54.77.246)  65.613 ms  63.351 ms  65.561 ms
+12  be3043.ccr22.ymq01.atlas.cogentco.com (154.54.44.166)  130.194 ms  130.118 ms be3042.ccr21.ymq01.atlas.cogentco.com (154.54.44.162)  136.142 ms
+13  be2093.ccr22.yyz02.atlas.cogentco.com (154.54.44.105)  139.961 ms  139.876 ms be2090.ccr21.yyz02.atlas.cogentco.com (154.54.30.205)  140.166 ms
+14  be2994.ccr22.cle04.atlas.cogentco.com (154.54.31.233)  148.899 ms be2993.ccr21.cle04.atlas.cogentco.com (154.54.31.225)  144.503 ms  146.792 ms
+15  be2822.rcr21.pit02.atlas.cogentco.com (154.54.83.158)  152.519 ms be2821.rcr21.pit02.atlas.cogentco.com (154.54.83.118)  152.515 ms be2822.rcr21.pit02.atlas.cogentco.com (154.54.83.158)  152.486 ms
+16  154.24.50.198 (154.24.50.198)  152.955 ms 154.24.42.98 (154.24.42.98)  148.633 ms  148.030 ms
+17  38.140.44.154 (38.140.44.154)  152.601 ms  194.731 ms  194.403 ms
+18  CORE0-POD-I-CYH.GW.CMU.NET (128.2.0.249)  150.737 ms  150.550 ms  150.400 ms
+19  WEAN-CORE-CORE0.GW.CMU.NET (128.2.0.130)  152.049 ms  151.855 ms  154.242 ms
+20  CORE0-VRF-WEAN-CORE.GW.CMU.NET (128.2.0.133)  150.576 ms  150.544 ms CORE255-VRF-WEAN-CORE.GW.CMU.NET (128.2.255.133)  150.883 ms
+21  POD-A-CORE0.GW.CMU.NET (128.2.0.154)  148.766 ms  148.841 ms  148.766 ms
+22  PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114)  150.835 ms  150.686 ms  154.380 ms
+========================================================================================
+========================================================================================
+*****************   TraceRoute   Command     Output ************************************
+----------------------------------------------------------------------------------------
+Wed Apr 12 22:24:41 UTC 2017
+----------------------------------------------------------------------------------------
+traceroute to planetlab-2.cmcl.cs.cmu.edu (128.2.211.114), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  GT9.GE.LISBOA.fccn.pt (193.137.1.1)  5.360 ms  5.284 ms  5.162 ms
+ 3  ROUTER1.10GE.CR1.Lisboa.fccn.pt (193.137.0.1)  5.326 ms  5.347 ms ROUTER1.10GE.CR2.Lisboa.fccn.pt (193.137.0.17)  5.212 ms
+ 4  fccn-ias-geant-gw.mx2.lis.pt.geant.net (83.97.88.209)  44.649 ms  44.417 ms  4.936 ms
+ 5  ae0.mx1.mad.es.geant.net (62.40.98.107)  44.389 ms  44.352 ms  44.258 ms
+ 6  ae7.mx1.gen.ch.geant.net (62.40.98.67)  36.157 ms  36.136 ms  35.989 ms
+ 7  google.mx1.fra.de.geant.net (62.40.125.201)  46.729 ms  46.622 ms  46.647 ms
+ 8  te0-0-0-0.agr21.fra03.atlas.cogentco.com (149.6.42.73)  47.195 ms  47.265 ms  49.318 ms
+ 9  be3128.ccr42.fra03.atlas.cogentco.com (130.117.51.113)  46.987 ms be3119.ccr41.fra03.atlas.cogentco.com (130.117.51.37)  47.199 ms  46.977 ms
+10  be2814.ccr42.ams03.atlas.cogentco.com (130.117.0.141)  51.475 ms be2813.ccr41.ams03.atlas.cogentco.com (130.117.0.121)  53.730 ms be2814.ccr42.ams03.atlas.cogentco.com (130.117.0.141)  51.317 ms
+11  be2183.ccr22.lpl01.atlas.cogentco.com (154.54.58.69)  61.242 ms  61.980 ms  61.135 ms
+12  be3043.ccr22.ymq01.atlas.cogentco.com (154.54.44.166)  132.384 ms  132.509 ms  132.581 ms
+13  be2090.ccr21.yyz02.atlas.cogentco.com (154.54.30.205)  140.722 ms be2093.ccr22.yyz02.atlas.cogentco.com (154.54.44.105)  140.108 ms  141.616 ms
+14  be2994.ccr22.cle04.atlas.cogentco.com (154.54.31.233)  144.660 ms be2993.ccr21.cle04.atlas.cogentco.com (154.54.31.225)  147.020 ms  144.649 ms
+15  be2822.rcr21.pit02.atlas.cogentco.com (154.54.83.158)  152.540 ms  150.697 ms  150.283 ms
+16  154.24.42.98 (154.24.42.98)  150.760 ms 154.24.50.198 (154.24.50.198)  148.575 ms  148.293 ms
+17  38.140.44.154 (38.140.44.154)  149.448 ms  150.116 ms  149.975 ms
+18  CORE0-POD-I-CYH.GW.CMU.NET (128.2.0.249)  148.688 ms  148.617 ms  148.644 ms
+19  WEAN-CORE-CORE0.GW.CMU.NET (128.2.0.130)  150.110 ms  149.927 ms  149.995 ms
+20  CORE255-VRF-WEAN-CORE.GW.CMU.NET (128.2.255.133)  150.770 ms CORE0-VRF-WEAN-CORE.GW.CMU.NET (128.2.0.133)  150.672 ms  150.922 ms
+21  POD-A-CORE255.GW.CMU.NET (128.2.255.154)  181.275 ms POD-A-CORE0.GW.CMU.NET (128.2.0.154)  182.195 ms POD-A-CORE255.GW.CMU.NET (128.2.255.154)  149.518 ms
+22  PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114)  150.789 ms  153.021 ms  151.087 ms
+========================================================================================
+========================================================================================
+*****************   TraceRoute   Command     Output ************************************
+----------------------------------------------------------------------------------------
+Wed Apr 12 23:40:01 UTC 2017
+----------------------------------------------------------------------------------------
+========================================================================================
+========================================================================================

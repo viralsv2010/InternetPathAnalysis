@@ -1,0 +1,744 @@
+*****************       Ping    Command     Output ************************************
+----------------------------------------------------------------------------------------
+Mon Apr 24 00:43:00 UTC 2017
+----------------------------------------------------------------------------------------
+PING planetlab-2.cmcl.cs.cmu.edu (128.2.211.114) 56(84) bytes of data.
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=1 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=2 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=3 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=4 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=5 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=6 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=7 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=8 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=9 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=10 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=11 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=12 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=13 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=14 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=15 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=16 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=17 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=18 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=19 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=20 ttl=41 time=230 ms
+
+--- planetlab-2.cmcl.cs.cmu.edu ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19023ms
+rtt min/avg/max/mdev = 230.470/230.631/230.902/0.616 ms
+========================================================================================
+========================================================================================
+*****************       Ping    Command     Output ************************************
+----------------------------------------------------------------------------------------
+Mon Apr 24 01:43:28 UTC 2017
+----------------------------------------------------------------------------------------
+PING planetlab-2.cmcl.cs.cmu.edu (128.2.211.114) 56(84) bytes of data.
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=1 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=2 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=3 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=4 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=5 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=6 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=7 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=8 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=9 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=10 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=11 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=12 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=13 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=14 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=15 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=16 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=17 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=18 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=19 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=20 ttl=41 time=230 ms
+
+--- planetlab-2.cmcl.cs.cmu.edu ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19023ms
+rtt min/avg/max/mdev = 230.520/230.592/230.737/0.345 ms
+========================================================================================
+========================================================================================
+*****************       Ping    Command     Output ************************************
+----------------------------------------------------------------------------------------
+Mon Apr 24 02:43:55 UTC 2017
+----------------------------------------------------------------------------------------
+PING planetlab-2.cmcl.cs.cmu.edu (128.2.211.114) 56(84) bytes of data.
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=1 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=2 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=3 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=4 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=5 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=6 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=7 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=8 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=9 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=10 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=11 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=12 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=13 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=14 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=15 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=16 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=17 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=18 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=19 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=20 ttl=41 time=230 ms
+
+--- planetlab-2.cmcl.cs.cmu.edu ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19009ms
+rtt min/avg/max/mdev = 230.469/230.568/230.672/0.483 ms
+========================================================================================
+========================================================================================
+*****************       Ping    Command     Output ************************************
+----------------------------------------------------------------------------------------
+Mon Apr 24 03:44:21 UTC 2017
+----------------------------------------------------------------------------------------
+PING planetlab-2.cmcl.cs.cmu.edu (128.2.211.114) 56(84) bytes of data.
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=1 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=2 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=3 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=4 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=5 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=6 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=7 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=8 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=9 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=10 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=11 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=12 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=13 ttl=41 time=242 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=14 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=15 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=16 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=17 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=18 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=19 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=20 ttl=41 time=230 ms
+
+--- planetlab-2.cmcl.cs.cmu.edu ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19025ms
+rtt min/avg/max/mdev = 230.382/231.216/242.930/2.740 ms
+========================================================================================
+========================================================================================
+*****************       Ping    Command     Output ************************************
+----------------------------------------------------------------------------------------
+Mon Apr 24 04:44:47 UTC 2017
+----------------------------------------------------------------------------------------
+PING planetlab-2.cmcl.cs.cmu.edu (128.2.211.114) 56(84) bytes of data.
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=1 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=2 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=3 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=4 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=5 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=6 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=7 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=8 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=9 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=10 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=11 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=12 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=13 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=14 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=15 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=16 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=17 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=18 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=19 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=20 ttl=41 time=230 ms
+
+--- planetlab-2.cmcl.cs.cmu.edu ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19030ms
+rtt min/avg/max/mdev = 230.477/230.591/230.718/0.434 ms
+========================================================================================
+========================================================================================
+*****************       Ping    Command     Output ************************************
+----------------------------------------------------------------------------------------
+Mon Apr 24 05:45:14 UTC 2017
+----------------------------------------------------------------------------------------
+PING planetlab-2.cmcl.cs.cmu.edu (128.2.211.114) 56(84) bytes of data.
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=1 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=2 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=3 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=4 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=5 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=6 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=7 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=8 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=9 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=10 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=11 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=12 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=13 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=14 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=15 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=16 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=17 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=18 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=19 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=20 ttl=41 time=230 ms
+
+--- planetlab-2.cmcl.cs.cmu.edu ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19012ms
+rtt min/avg/max/mdev = 230.422/230.536/230.618/0.664 ms
+========================================================================================
+========================================================================================
+*****************       Ping    Command     Output ************************************
+----------------------------------------------------------------------------------------
+Mon Apr 24 06:45:41 UTC 2017
+----------------------------------------------------------------------------------------
+PING planetlab-2.cmcl.cs.cmu.edu (128.2.211.114) 56(84) bytes of data.
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=1 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=2 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=3 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=4 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=5 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=6 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=7 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=8 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=9 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=10 ttl=41 time=232 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=11 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=12 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=13 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=14 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=15 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=16 ttl=41 time=232 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=17 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=18 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=19 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=20 ttl=41 time=230 ms
+
+--- planetlab-2.cmcl.cs.cmu.edu ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19027ms
+rtt min/avg/max/mdev = 230.359/230.710/232.529/0.593 ms
+========================================================================================
+========================================================================================
+*****************       Ping    Command     Output ************************************
+----------------------------------------------------------------------------------------
+Mon Apr 24 07:46:08 UTC 2017
+----------------------------------------------------------------------------------------
+PING planetlab-2.cmcl.cs.cmu.edu (128.2.211.114) 56(84) bytes of data.
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=1 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=2 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=3 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=4 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=5 ttl=41 time=234 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=6 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=7 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=8 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=9 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=10 ttl=41 time=233 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=11 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=12 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=13 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=14 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=15 ttl=41 time=245 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=16 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=17 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=18 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=19 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=20 ttl=41 time=234 ms
+
+--- planetlab-2.cmcl.cs.cmu.edu ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19004ms
+rtt min/avg/max/mdev = 230.306/231.768/245.077/3.312 ms
+========================================================================================
+========================================================================================
+*****************       Ping    Command     Output ************************************
+----------------------------------------------------------------------------------------
+Mon Apr 24 08:46:35 UTC 2017
+----------------------------------------------------------------------------------------
+PING planetlab-2.cmcl.cs.cmu.edu (128.2.211.114) 56(84) bytes of data.
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=1 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=2 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=3 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=4 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=5 ttl=41 time=234 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=6 ttl=41 time=232 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=7 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=8 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=9 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=10 ttl=41 time=233 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=11 ttl=41 time=234 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=12 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=13 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=14 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=15 ttl=41 time=232 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=16 ttl=41 time=233 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=17 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=18 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=19 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=20 ttl=41 time=234 ms
+
+--- planetlab-2.cmcl.cs.cmu.edu ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19024ms
+rtt min/avg/max/mdev = 230.507/231.661/234.511/1.588 ms
+========================================================================================
+========================================================================================
+*****************       Ping    Command     Output ************************************
+----------------------------------------------------------------------------------------
+Mon Apr 24 09:47:02 UTC 2017
+----------------------------------------------------------------------------------------
+PING planetlab-2.cmcl.cs.cmu.edu (128.2.211.114) 56(84) bytes of data.
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=1 ttl=41 time=232 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=2 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=3 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=4 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=5 ttl=41 time=233 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=6 ttl=41 time=233 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=7 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=8 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=9 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=10 ttl=41 time=233 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=11 ttl=41 time=233 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=12 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=13 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=14 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=15 ttl=41 time=234 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=16 ttl=41 time=234 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=17 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=18 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=19 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=20 ttl=41 time=230 ms
+
+--- planetlab-2.cmcl.cs.cmu.edu ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19025ms
+rtt min/avg/max/mdev = 230.401/231.577/234.605/1.601 ms
+========================================================================================
+========================================================================================
+*****************       Ping    Command     Output ************************************
+----------------------------------------------------------------------------------------
+Mon Apr 24 10:47:30 UTC 2017
+----------------------------------------------------------------------------------------
+PING planetlab-2.cmcl.cs.cmu.edu (128.2.211.114) 56(84) bytes of data.
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=1 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=2 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=3 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=4 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=5 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=6 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=7 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=8 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=9 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=10 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=11 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=12 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=13 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=14 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=15 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=16 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=17 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=18 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=19 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=20 ttl=41 time=230 ms
+
+--- planetlab-2.cmcl.cs.cmu.edu ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19708ms
+rtt min/avg/max/mdev = 230.395/230.567/230.713/0.573 ms
+========================================================================================
+========================================================================================
+*****************       Ping    Command     Output ************************************
+----------------------------------------------------------------------------------------
+Mon Apr 24 11:47:58 UTC 2017
+----------------------------------------------------------------------------------------
+PING planetlab-2.cmcl.cs.cmu.edu (128.2.211.114) 56(84) bytes of data.
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=1 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=2 ttl=41 time=232 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=3 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=4 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=5 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=6 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=7 ttl=41 time=233 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=8 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=9 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=10 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=11 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=12 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=13 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=14 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=15 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=16 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=17 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=18 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=19 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=20 ttl=41 time=230 ms
+
+--- planetlab-2.cmcl.cs.cmu.edu ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19029ms
+rtt min/avg/max/mdev = 230.322/230.778/233.170/0.714 ms
+========================================================================================
+========================================================================================
+*****************       Ping    Command     Output ************************************
+----------------------------------------------------------------------------------------
+Mon Apr 24 12:48:24 UTC 2017
+----------------------------------------------------------------------------------------
+PING planetlab-2.cmcl.cs.cmu.edu (128.2.211.114) 56(84) bytes of data.
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=1 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=2 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=3 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=4 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=5 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=6 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=7 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=8 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=9 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=10 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=11 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=12 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=13 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=14 ttl=41 time=231 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=15 ttl=41 time=233 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=16 ttl=41 time=234 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=17 ttl=41 time=231 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=18 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=19 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=20 ttl=41 time=230 ms
+
+--- planetlab-2.cmcl.cs.cmu.edu ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19005ms
+rtt min/avg/max/mdev = 230.363/231.008/234.810/1.250 ms
+========================================================================================
+========================================================================================
+*****************       Ping    Command     Output ************************************
+----------------------------------------------------------------------------------------
+Mon Apr 24 13:48:52 UTC 2017
+----------------------------------------------------------------------------------------
+PING planetlab-2.cmcl.cs.cmu.edu (128.2.211.114) 56(84) bytes of data.
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=1 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=2 ttl=41 time=233 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=3 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=4 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=5 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=6 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=7 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=8 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=9 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=10 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=11 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=12 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=13 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=14 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=15 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=16 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=17 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=18 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=19 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=20 ttl=41 time=230 ms
+
+--- planetlab-2.cmcl.cs.cmu.edu ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19015ms
+rtt min/avg/max/mdev = 230.518/230.740/233.118/0.821 ms
+========================================================================================
+========================================================================================
+*****************       Ping    Command     Output ************************************
+----------------------------------------------------------------------------------------
+Mon Apr 24 14:49:19 UTC 2017
+----------------------------------------------------------------------------------------
+PING planetlab-2.cmcl.cs.cmu.edu (128.2.211.114) 56(84) bytes of data.
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=1 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=2 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=3 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=4 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=5 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=6 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=7 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=8 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=9 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=10 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=11 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=12 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=13 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=14 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=15 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=16 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=17 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=18 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=19 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=20 ttl=41 time=230 ms
+
+--- planetlab-2.cmcl.cs.cmu.edu ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19022ms
+rtt min/avg/max/mdev = 230.381/230.602/230.718/0.534 ms
+========================================================================================
+========================================================================================
+*****************       Ping    Command     Output ************************************
+----------------------------------------------------------------------------------------
+Mon Apr 24 15:49:46 UTC 2017
+----------------------------------------------------------------------------------------
+PING planetlab-2.cmcl.cs.cmu.edu (128.2.211.114) 56(84) bytes of data.
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=1 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=2 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=3 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=4 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=5 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=6 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=7 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=8 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=9 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=10 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=11 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=12 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=13 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=14 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=15 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=16 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=17 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=18 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=19 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=20 ttl=41 time=230 ms
+
+--- planetlab-2.cmcl.cs.cmu.edu ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19005ms
+rtt min/avg/max/mdev = 230.507/230.604/230.822/0.411 ms
+========================================================================================
+========================================================================================
+*****************       Ping    Command     Output ************************************
+----------------------------------------------------------------------------------------
+Mon Apr 24 16:50:12 UTC 2017
+----------------------------------------------------------------------------------------
+PING planetlab-2.cmcl.cs.cmu.edu (128.2.211.114) 56(84) bytes of data.
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=1 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=2 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=3 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=4 ttl=41 time=232 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=5 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=6 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=7 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=8 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=9 ttl=41 time=233 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=10 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=11 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=12 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=13 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=14 ttl=41 time=234 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=15 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=16 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=17 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=18 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=19 ttl=41 time=234 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=20 ttl=41 time=230 ms
+
+--- planetlab-2.cmcl.cs.cmu.edu ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19008ms
+rtt min/avg/max/mdev = 230.426/231.221/234.987/1.538 ms
+========================================================================================
+========================================================================================
+*****************       Ping    Command     Output ************************************
+----------------------------------------------------------------------------------------
+Mon Apr 24 17:50:40 UTC 2017
+----------------------------------------------------------------------------------------
+PING planetlab-2.cmcl.cs.cmu.edu (128.2.211.114) 56(84) bytes of data.
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=1 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=2 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=3 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=4 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=5 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=6 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=7 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=8 ttl=41 time=234 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=9 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=10 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=11 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=12 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=13 ttl=41 time=233 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=14 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=15 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=16 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=17 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=18 ttl=41 time=234 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=19 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=20 ttl=41 time=230 ms
+
+--- planetlab-2.cmcl.cs.cmu.edu ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19024ms
+rtt min/avg/max/mdev = 230.355/231.087/234.913/1.412 ms
+========================================================================================
+========================================================================================
+*****************       Ping    Command     Output ************************************
+----------------------------------------------------------------------------------------
+Mon Apr 24 18:51:07 UTC 2017
+----------------------------------------------------------------------------------------
+PING planetlab-2.cmcl.cs.cmu.edu (128.2.211.114) 56(84) bytes of data.
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=1 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=2 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=3 ttl=41 time=232 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=4 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=5 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=6 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=7 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=8 ttl=41 time=233 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=9 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=10 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=11 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=12 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=13 ttl=41 time=239 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=14 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=15 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=16 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=17 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=18 ttl=41 time=237 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=19 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=20 ttl=41 time=233 ms
+
+--- planetlab-2.cmcl.cs.cmu.edu ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19415ms
+rtt min/avg/max/mdev = 230.516/231.715/239.376/2.467 ms
+========================================================================================
+========================================================================================
+*****************       Ping    Command     Output ************************************
+----------------------------------------------------------------------------------------
+Mon Apr 24 19:51:35 UTC 2017
+----------------------------------------------------------------------------------------
+PING planetlab-2.cmcl.cs.cmu.edu (128.2.211.114) 56(84) bytes of data.
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=1 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=2 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=3 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=4 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=5 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=6 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=7 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=8 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=9 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=10 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=11 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=12 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=13 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=14 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=15 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=16 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=17 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=18 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=19 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=20 ttl=41 time=230 ms
+
+--- planetlab-2.cmcl.cs.cmu.edu ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19029ms
+rtt min/avg/max/mdev = 230.429/230.600/230.799/0.233 ms
+========================================================================================
+========================================================================================
+*****************       Ping    Command     Output ************************************
+----------------------------------------------------------------------------------------
+Mon Apr 24 20:52:02 UTC 2017
+----------------------------------------------------------------------------------------
+PING planetlab-2.cmcl.cs.cmu.edu (128.2.211.114) 56(84) bytes of data.
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=1 ttl=41 time=234 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=2 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=3 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=4 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=5 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=6 ttl=41 time=234 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=7 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=8 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=9 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=10 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=11 ttl=41 time=234 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=12 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=13 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=14 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=15 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=16 ttl=41 time=233 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=17 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=18 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=19 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=20 ttl=41 time=230 ms
+
+--- planetlab-2.cmcl.cs.cmu.edu ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19009ms
+rtt min/avg/max/mdev = 230.438/231.281/234.734/1.518 ms
+========================================================================================
+========================================================================================
+*****************       Ping    Command     Output ************************************
+----------------------------------------------------------------------------------------
+Mon Apr 24 21:52:29 UTC 2017
+----------------------------------------------------------------------------------------
+PING planetlab-2.cmcl.cs.cmu.edu (128.2.211.114) 56(84) bytes of data.
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=1 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=2 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=3 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=4 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=5 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=6 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=7 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=8 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=9 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=10 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=11 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=12 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=13 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=14 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=15 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=16 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=17 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=18 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=19 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=20 ttl=41 time=230 ms
+
+--- planetlab-2.cmcl.cs.cmu.edu ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19030ms
+rtt min/avg/max/mdev = 230.466/230.566/230.724/0.434 ms
+========================================================================================
+========================================================================================
+*****************       Ping    Command     Output ************************************
+----------------------------------------------------------------------------------------
+Mon Apr 24 22:52:55 UTC 2017
+----------------------------------------------------------------------------------------
+PING planetlab-2.cmcl.cs.cmu.edu (128.2.211.114) 56(84) bytes of data.
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=1 ttl=41 time=234 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=2 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=3 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=4 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=5 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=6 ttl=41 time=234 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=7 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=8 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=9 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=10 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=11 ttl=41 time=234 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=12 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=13 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=14 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=15 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=16 ttl=41 time=234 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=17 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=18 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=19 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=20 ttl=41 time=230 ms
+
+--- planetlab-2.cmcl.cs.cmu.edu ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19004ms
+rtt min/avg/max/mdev = 230.505/231.371/234.985/1.751 ms
+========================================================================================
+========================================================================================
+*****************       Ping    Command     Output ************************************
+----------------------------------------------------------------------------------------
+Mon Apr 24 23:53:22 UTC 2017
+----------------------------------------------------------------------------------------
+PING planetlab-2.cmcl.cs.cmu.edu (128.2.211.114) 56(84) bytes of data.
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=1 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=2 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=3 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=4 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=5 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=6 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=7 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=8 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=9 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=10 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=11 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=12 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=13 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=14 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=15 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=16 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=17 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=18 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=19 ttl=41 time=230 ms
+64 bytes from PLANETLAB-2.CMCL.CS.CMU.EDU (128.2.211.114): icmp_seq=20 ttl=41 time=230 ms
+
+--- planetlab-2.cmcl.cs.cmu.edu ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19005ms
+rtt min/avg/max/mdev = 230.510/230.579/230.725/0.459 ms
+========================================================================================
+========================================================================================

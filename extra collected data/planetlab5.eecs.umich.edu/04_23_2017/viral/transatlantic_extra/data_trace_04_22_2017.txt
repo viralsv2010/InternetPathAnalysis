@@ -1,0 +1,603 @@
+*****************   TraceRoute   Command     Output ************************************
+----------------------------------------------------------------------------------------
+Sat Apr 22 00:47:15 UTC 2017
+----------------------------------------------------------------------------------------
+traceroute to pl2.prakinf.tu-ilmenau.de (141.24.249.131), 30 hops max, 60 byte packets
+ 1  141.212.113.1 (141.212.113.1)  0.946 ms  1.088 ms  1.228 ms
+ 2  10.224.253.24 (10.224.253.24)  0.255 ms  0.304 ms  0.298 ms
+ 3  l3-binarbl-cool-ipsvrf.r-bin-arbl.umnet.umich.edu (192.12.80.136)  0.622 ms  0.499 ms  0.594 ms
+ 4  l3-binarbl-bincath.r-bin-cath.umnet.umich.edu (192.12.80.13)  0.581 ms  0.569 ms  0.714 ms
+ 5  et-7-3-0.1102.rtsw.clev.net.internet2.edu (198.71.45.249)  26.390 ms  26.354 ms  26.356 ms
+ 6  et-2-0-0.4079.sdn-sw.ashb.net.internet2.edu (162.252.70.54)  22.815 ms et-3-0-0.4079.sdn-sw.pitt.net.internet2.edu (162.252.70.51)  18.160 ms  18.148 ms
+ 7  et-3-1-0.4079.rtsw.wash.net.internet2.edu (162.252.70.63)  23.360 ms et-8-3-0.4079.sdn-sw.ashb.net.internet2.edu (162.252.70.52)  23.187 ms  23.174 ms
+ 8  et-3-1-0.4079.rtsw.wash.net.internet2.edu (162.252.70.63)  23.513 ms  23.511 ms internet2-gw.mx1.lon.uk.geant.net (62.40.124.44)  99.975 ms
+ 9  ae0.mx1.ams.nl.geant.net (62.40.98.81)  105.640 ms internet2-gw.mx1.lon.uk.geant.net (62.40.124.44)  99.367 ms  98.125 ms
+10  ae1.mx1.ham.de.geant.net (62.40.98.61)  112.116 ms  112.104 ms  112.027 ms
+11  ae1.mx1.ham.de.geant.net (62.40.98.61)  112.102 ms cr-tub1.x-win.dfn.de (62.40.112.146)  122.385 ms ae1.mx1.ham.de.geant.net (62.40.98.61)  112.085 ms
+12  cr-lap1-hundredgige0-2-0-0.x-win.dfn.de (188.1.144.25)  127.863 ms dfn-gw.mx1.ham.de.geant.net (62.40.112.146)  122.412 ms cr-lap1-hundredgige0-2-0-0.x-win.dfn.de (188.1.144.25)  128.256 ms
+13  cr-lap1-hundredgige0-2-0-0.x-win.dfn.de (188.1.144.25)  128.014 ms xr-lap1-pc1.x-win.dfn.de (188.1.144.114)  128.013 ms  128.176 ms
+14  xr-lap1-pc1.x-win.dfn.de (188.1.144.114)  128.050 ms xr-jen1-pc3.x-win.dfn.de (188.1.144.234)  129.692 ms xr-lap1-pc1.x-win.dfn.de (188.1.144.114)  128.043 ms
+15  xr-ilm1-pc2.x-win.dfn.de (188.1.145.42)  131.208 ms  130.433 ms xr-jen1-pc3.x-win.dfn.de (188.1.144.234)  129.754 ms
+16  kr-ilm45.x-win.dfn.de (188.1.238.2)  130.416 ms xr-ilm1-pc2.x-win.dfn.de (188.1.145.42)  130.513 ms kr-ilm45.x-win.dfn.de (188.1.238.2)  130.211 ms
+17  kr-ilm45.x-win.dfn.de (188.1.238.2)  130.356 ms 141.24.249.141 (141.24.249.141)  130.442 ms  130.469 ms
+18  pl2.prakinf.tu-ilmenau.de (141.24.249.131)  130.470 ms  130.386 ms 141.24.249.141 (141.24.249.141)  130.636 ms
+========================================================================================
+========================================================================================
+*****************   TraceRoute   Command     Output ************************************
+----------------------------------------------------------------------------------------
+Sat Apr 22 01:47:35 UTC 2017
+----------------------------------------------------------------------------------------
+traceroute to pl2.prakinf.tu-ilmenau.de (141.24.249.131), 30 hops max, 60 byte packets
+ 1  141.212.113.1 (141.212.113.1)  0.897 ms  1.603 ms  1.693 ms
+ 2  10.224.253.24 (10.224.253.24)  0.477 ms  0.564 ms  0.554 ms
+ 3  l3-binarbl-cool-ipsvrf.r-bin-arbl.umnet.umich.edu (192.12.80.136)  0.517 ms  0.519 ms  0.459 ms
+ 4  l3-binarbl-bincath.r-bin-cath.umnet.umich.edu (192.12.80.13)  0.630 ms  0.598 ms  0.587 ms
+ 5  et-7-3-0.1102.rtsw.clev.net.internet2.edu (198.71.45.249)  16.002 ms  15.968 ms  15.975 ms
+ 6  et-3-0-0.4079.sdn-sw.pitt.net.internet2.edu (162.252.70.51)  18.094 ms et-2-0-0.4079.sdn-sw.ashb.net.internet2.edu (162.252.70.54)  22.841 ms et-3-0-0.4079.sdn-sw.pitt.net.internet2.edu (162.252.70.51)  18.064 ms
+ 7  et-3-1-0.4079.rtsw.wash.net.internet2.edu (162.252.70.63)  23.344 ms et-8-3-0.4079.sdn-sw.ashb.net.internet2.edu (162.252.70.52)  23.242 ms et-3-1-0.4079.rtsw.wash.net.internet2.edu (162.252.70.63)  23.380 ms
+ 8  et-3-1-0.4079.rtsw.wash.net.internet2.edu (162.252.70.63)  23.448 ms internet2-gw.mx1.lon.uk.geant.net (62.40.124.44)  98.096 ms et-3-1-0.4079.rtsw.wash.net.internet2.edu (162.252.70.63)  23.439 ms
+ 9  ae0.mx1.ams.nl.geant.net (62.40.98.81)  105.884 ms internet2-gw.mx1.lon.uk.geant.net (62.40.124.44)  98.120 ms  98.149 ms
+10  ae1.mx1.ham.de.geant.net (62.40.98.61)  111.889 ms  112.128 ms  111.952 ms
+11  cr-tub1.x-win.dfn.de (62.40.112.146)  122.317 ms  122.295 ms ae1.mx1.ham.de.geant.net (62.40.98.61)  112.337 ms
+12  dfn-gw.mx1.ham.de.geant.net (62.40.112.146)  122.213 ms  122.283 ms cr-lap1-hundredgige0-2-0-0.x-win.dfn.de (188.1.144.25)  127.788 ms
+13  cr-lap1-hundredgige0-2-0-0.x-win.dfn.de (188.1.144.25)  128.237 ms xr-lap1-pc1.x-win.dfn.de (188.1.144.114)  130.474 ms  130.582 ms
+14  xr-jen1-pc3.x-win.dfn.de (188.1.144.234)  129.539 ms xr-lap1-pc1.x-win.dfn.de (188.1.144.114)  128.097 ms  127.976 ms
+15  xr-ilm1-pc2.x-win.dfn.de (188.1.145.42)  130.498 ms  130.397 ms xr-jen1-pc3.x-win.dfn.de (188.1.144.234)  129.463 ms
+16  kr-ilm45.x-win.dfn.de (188.1.238.2)  130.208 ms xr-ilm1-pc2.x-win.dfn.de (188.1.145.42)  130.457 ms kr-ilm45.x-win.dfn.de (188.1.238.2)  130.212 ms
+17  141.24.249.141 (141.24.249.141)  130.407 ms kr-ilm45.x-win.dfn.de (188.1.238.2)  130.336 ms 141.24.249.141 (141.24.249.141)  130.345 ms
+18  141.24.249.141 (141.24.249.141)  130.535 ms  130.427 ms pl2.prakinf.tu-ilmenau.de (141.24.249.131)  130.356 ms
+========================================================================================
+========================================================================================
+*****************   TraceRoute   Command     Output ************************************
+----------------------------------------------------------------------------------------
+Sat Apr 22 02:47:54 UTC 2017
+----------------------------------------------------------------------------------------
+traceroute to pl2.prakinf.tu-ilmenau.de (141.24.249.131), 30 hops max, 60 byte packets
+ 1  141.212.113.1 (141.212.113.1)  0.901 ms  1.023 ms  1.233 ms
+ 2  10.224.253.24 (10.224.253.24)  2.725 ms  2.731 ms  2.722 ms
+ 3  l3-binarbl-cool-ipsvrf.r-bin-arbl.umnet.umich.edu (192.12.80.136)  0.520 ms  0.590 ms  0.580 ms
+ 4  l3-binarbl-bincath.r-bin-cath.umnet.umich.edu (192.12.80.13)  0.566 ms  0.666 ms  0.606 ms
+ 5  et-7-3-0.1102.rtsw.clev.net.internet2.edu (198.71.45.249)  15.281 ms  15.369 ms  15.358 ms
+ 6  et-2-0-0.4079.sdn-sw.ashb.net.internet2.edu (162.252.70.54)  22.826 ms et-3-0-0.4079.sdn-sw.pitt.net.internet2.edu (162.252.70.51)  18.133 ms  18.148 ms
+ 7  et-8-3-0.4079.sdn-sw.ashb.net.internet2.edu (162.252.70.52)  23.207 ms  23.202 ms et-3-1-0.4079.rtsw.wash.net.internet2.edu (162.252.70.63)  23.343 ms
+ 8  internet2-gw.mx1.lon.uk.geant.net (62.40.124.44)  97.984 ms et-3-1-0.4079.rtsw.wash.net.internet2.edu (162.252.70.63)  23.447 ms internet2-gw.mx1.lon.uk.geant.net (62.40.124.44)  99.679 ms
+ 9  internet2.mx1.lon.uk.geant.net (62.40.124.44)  98.151 ms  98.391 ms  98.378 ms
+10  ae1.mx1.ham.de.geant.net (62.40.98.61)  112.005 ms ae0.mx1.ams.nl.geant.net (62.40.98.81)  105.595 ms ae1.mx1.ham.de.geant.net (62.40.98.61)  111.968 ms
+11  cr-tub1.x-win.dfn.de (62.40.112.146)  122.430 ms  122.474 ms  122.350 ms
+12  cr-tub1.x-win.dfn.de (62.40.112.146)  122.645 ms cr-lap1-hundredgige0-2-0-0.x-win.dfn.de (188.1.144.25)  128.212 ms  128.017 ms
+13  cr-lap1-hundredgige0-2-0-0.x-win.dfn.de (188.1.144.25)  128.338 ms  128.208 ms  127.945 ms
+14  xr-lap1-pc1.x-win.dfn.de (188.1.144.114)  128.005 ms xr-jen1-pc3.x-win.dfn.de (188.1.144.234)  129.344 ms xr-lap1-pc1.x-win.dfn.de (188.1.144.114)  127.966 ms
+15  xr-ilm1-pc2.x-win.dfn.de (188.1.145.42)  130.587 ms xr-jen1-pc3.x-win.dfn.de (188.1.144.234)  129.511 ms xr-ilm1-pc2.x-win.dfn.de (188.1.145.42)  130.634 ms
+16  xr-ilm1-pc2.x-win.dfn.de (188.1.145.42)  130.538 ms  130.642 ms kr-ilm45.x-win.dfn.de (188.1.238.2)  130.316 ms
+17  kr-ilm45.x-win.dfn.de (188.1.238.2)  130.324 ms 141.24.249.141 (141.24.249.141)  130.490 ms kr-ilm45.x-win.dfn.de (188.1.238.2)  130.415 ms
+18  pl2.prakinf.tu-ilmenau.de (141.24.249.131)  130.483 ms  130.363 ms  130.453 ms
+========================================================================================
+========================================================================================
+*****************   TraceRoute   Command     Output ************************************
+----------------------------------------------------------------------------------------
+Sat Apr 22 03:48:14 UTC 2017
+----------------------------------------------------------------------------------------
+traceroute to pl2.prakinf.tu-ilmenau.de (141.24.249.131), 30 hops max, 60 byte packets
+ 1  141.212.113.1 (141.212.113.1)  1.258 ms  1.355 ms  1.504 ms
+ 2  10.224.253.24 (10.224.253.24)  0.311 ms  0.313 ms  0.298 ms
+ 3  l3-binarbl-cool-ipsvrf.r-bin-arbl.umnet.umich.edu (192.12.80.136)  0.492 ms  0.491 ms  0.555 ms
+ 4  l3-binarbl-bincath.r-bin-cath.umnet.umich.edu (192.12.80.13)  0.637 ms  0.946 ms  0.921 ms
+ 5  et-7-3-0.1102.rtsw.clev.net.internet2.edu (198.71.45.249)  15.319 ms  15.273 ms  15.290 ms
+ 6  et-2-0-0.4079.sdn-sw.ashb.net.internet2.edu (162.252.70.54)  22.833 ms et-3-0-0.4079.sdn-sw.pitt.net.internet2.edu (162.252.70.51)  18.105 ms et-2-0-0.4079.sdn-sw.ashb.net.internet2.edu (162.252.70.54)  22.857 ms
+ 7  et-8-3-0.4079.sdn-sw.ashb.net.internet2.edu (162.252.70.52)  23.145 ms  23.093 ms et-3-1-0.4079.rtsw.wash.net.internet2.edu (162.252.70.63)  23.376 ms
+ 8  et-3-1-0.4079.rtsw.wash.net.internet2.edu (162.252.70.63)  23.467 ms internet2-gw.mx1.lon.uk.geant.net (62.40.124.44)  98.139 ms et-3-1-0.4079.rtsw.wash.net.internet2.edu (162.252.70.63)  23.530 ms
+ 9  internet2-gw.mx1.lon.uk.geant.net (62.40.124.44)  98.254 ms ae0.mx1.ams.nl.geant.net (62.40.98.81)  105.457 ms internet2.mx1.lon.uk.geant.net (62.40.124.44)  98.429 ms
+10  ae1.mx1.ham.de.geant.net (62.40.98.61)  134.938 ms ae0.mx1.ams.nl.geant.net (62.40.98.81)  116.458 ms  105.621 ms
+11  ae1.mx1.ham.de.geant.net (62.40.98.61)  132.252 ms  130.579 ms  123.364 ms
+12  dfn-gw.mx1.ham.de.geant.net (62.40.112.146)  122.463 ms  122.285 ms  122.228 ms
+13  cr-lap1-hundredgige0-2-0-0.x-win.dfn.de (188.1.144.25)  128.064 ms  128.182 ms  128.140 ms
+14  xr-jen1-pc3.x-win.dfn.de (188.1.144.234)  129.840 ms  130.008 ms xr-lap1-pc1.x-win.dfn.de (188.1.144.114)  128.139 ms
+15  xr-jen1-pc3.x-win.dfn.de (188.1.144.234)  129.459 ms xr-ilm1-pc2.x-win.dfn.de (188.1.145.42)  130.560 ms xr-jen1-pc3.x-win.dfn.de (188.1.144.234)  129.362 ms
+16  xr-ilm1-pc2.x-win.dfn.de (188.1.145.42)  130.592 ms kr-ilm45.x-win.dfn.de (188.1.238.2)  158.161 ms xr-ilm1-pc2.x-win.dfn.de (188.1.145.42)  130.456 ms
+17  141.24.249.141 (141.24.249.141)  130.391 ms  130.410 ms kr-ilm45.x-win.dfn.de (188.1.238.2)  148.667 ms
+18  pl2.prakinf.tu-ilmenau.de (141.24.249.131)  130.426 ms  130.487 ms 141.24.249.141 (141.24.249.141)  130.485 ms
+========================================================================================
+========================================================================================
+*****************   TraceRoute   Command     Output ************************************
+----------------------------------------------------------------------------------------
+Sat Apr 22 04:48:33 UTC 2017
+----------------------------------------------------------------------------------------
+traceroute to pl2.prakinf.tu-ilmenau.de (141.24.249.131), 30 hops max, 60 byte packets
+ 1  141.212.113.1 (141.212.113.1)  1.129 ms  1.208 ms  1.350 ms
+ 2  10.224.253.24 (10.224.253.24)  0.260 ms  0.342 ms  0.331 ms
+ 3  l3-binarbl-cool-ipsvrf.r-bin-arbl.umnet.umich.edu (192.12.80.136)  0.540 ms  0.510 ms  0.503 ms
+ 4  l3-binarbl-bincath.r-bin-cath.umnet.umich.edu (192.12.80.13)  0.675 ms  0.668 ms  0.642 ms
+ 5  et-7-3-0.1102.rtsw.clev.net.internet2.edu (198.71.45.249)  15.377 ms  15.255 ms  15.346 ms
+ 6  et-3-0-0.4079.sdn-sw.pitt.net.internet2.edu (162.252.70.51)  18.142 ms et-2-0-0.4079.sdn-sw.ashb.net.internet2.edu (162.252.70.54)  22.819 ms et-3-0-0.4079.sdn-sw.pitt.net.internet2.edu (162.252.70.51)  18.066 ms
+ 7  et-8-3-0.4079.sdn-sw.ashb.net.internet2.edu (162.252.70.52)  23.471 ms  23.368 ms  23.385 ms
+ 8  et-3-1-0.4079.rtsw.wash.net.internet2.edu (162.252.70.63)  23.435 ms internet2-gw.mx1.lon.uk.geant.net (62.40.124.44)  98.101 ms  98.119 ms
+ 9  internet2-gw.mx1.lon.uk.geant.net (62.40.124.44)  98.211 ms ae0.mx1.ams.nl.geant.net (62.40.98.81)  105.445 ms internet2.mx1.lon.uk.geant.net (62.40.124.44)  98.118 ms
+10  ae1.mx1.ham.de.geant.net (62.40.98.61)  111.911 ms  111.973 ms ae0.mx1.ams.nl.geant.net (62.40.98.81)  105.584 ms
+11  ae1.mx1.ham.de.geant.net (62.40.98.61)  112.171 ms cr-tub1.x-win.dfn.de (62.40.112.146)  122.003 ms  121.992 ms
+12  cr-lap1-hundredgige0-2-0-0.x-win.dfn.de (188.1.144.25)  127.961 ms  127.998 ms cr-tub1.x-win.dfn.de (62.40.112.146)  122.333 ms
+13  cr-lap1-hundredgige0-2-0-0.x-win.dfn.de (188.1.144.25)  128.307 ms xr-lap1-pc1.x-win.dfn.de (188.1.144.114)  128.032 ms  128.018 ms
+14  xr-lap1-pc1.x-win.dfn.de (188.1.144.114)  128.110 ms  130.095 ms xr-jen1-pc3.x-win.dfn.de (188.1.144.234)  129.750 ms
+15  xr-jen1-pc3.x-win.dfn.de (188.1.144.234)  129.476 ms xr-ilm1-pc2.x-win.dfn.de (188.1.145.42)  130.460 ms xr-jen1-pc3.x-win.dfn.de (188.1.144.234)  130.058 ms
+16  kr-ilm45.x-win.dfn.de (188.1.238.2)  130.363 ms xr-ilm1-pc2.x-win.dfn.de (188.1.145.42)  130.441 ms kr-ilm45.x-win.dfn.de (188.1.238.2)  130.542 ms
+17  kr-ilm45.x-win.dfn.de (188.1.238.2)  130.538 ms 141.24.249.141 (141.24.249.141)  130.460 ms kr-ilm45.x-win.dfn.de (188.1.238.2)  130.437 ms
+18  pl2.prakinf.tu-ilmenau.de (141.24.249.131)  130.388 ms 141.24.249.141 (141.24.249.141)  130.494 ms  130.440 ms
+========================================================================================
+========================================================================================
+*****************   TraceRoute   Command     Output ************************************
+----------------------------------------------------------------------------------------
+Sat Apr 22 05:48:53 UTC 2017
+----------------------------------------------------------------------------------------
+traceroute to pl2.prakinf.tu-ilmenau.de (141.24.249.131), 30 hops max, 60 byte packets
+ 1  141.212.113.1 (141.212.113.1)  0.880 ms  1.030 ms  1.179 ms
+ 2  10.224.253.24 (10.224.253.24)  0.519 ms  0.539 ms  0.501 ms
+ 3  l3-binarbl-cool-ipsvrf.r-bin-arbl.umnet.umich.edu (192.12.80.136)  0.488 ms  0.478 ms  0.465 ms
+ 4  l3-binarbl-bincath.r-bin-cath.umnet.umich.edu (192.12.80.13)  0.607 ms  0.563 ms  0.610 ms
+ 5  et-7-3-0.1102.rtsw.clev.net.internet2.edu (198.71.45.249)  15.267 ms  15.274 ms  15.262 ms
+ 6  et-2-0-0.4079.sdn-sw.ashb.net.internet2.edu (162.252.70.54)  22.840 ms et-3-0-0.4079.sdn-sw.pitt.net.internet2.edu (162.252.70.51)  18.087 ms et-2-0-0.4079.sdn-sw.ashb.net.internet2.edu (162.252.70.54)  22.790 ms
+ 7  et-3-1-0.4079.rtsw.wash.net.internet2.edu (162.252.70.63)  23.326 ms et-8-3-0.4079.sdn-sw.ashb.net.internet2.edu (162.252.70.52)  24.416 ms  24.420 ms
+ 8  internet2.mx1.lon.uk.geant.net (62.40.124.44)  98.037 ms et-3-1-0.4079.rtsw.wash.net.internet2.edu (162.252.70.63)  23.449 ms internet2.mx1.lon.uk.geant.net (62.40.124.44)  98.053 ms
+ 9  internet2.mx1.lon.uk.geant.net (62.40.124.44)  98.389 ms ae0.mx1.ams.nl.geant.net (62.40.98.81)  105.656 ms  105.438 ms
+10  ae1.mx1.ham.de.geant.net (62.40.98.61)  112.106 ms  112.012 ms  112.003 ms
+11  ae1.mx1.ham.de.geant.net (62.40.98.61)  111.990 ms  112.022 ms dfn-gw.mx1.ham.de.geant.net (62.40.112.146)  122.075 ms
+12  cr-lap1-hundredgige0-2-0-0.x-win.dfn.de (188.1.144.25)  127.806 ms cr-tub1.x-win.dfn.de (62.40.112.146)  122.277 ms  122.653 ms
+13  xr-lap1-pc1.x-win.dfn.de (188.1.144.114)  128.243 ms cr-lap1-hundredgige0-2-0-0.x-win.dfn.de (188.1.144.25)  128.027 ms xr-lap1-pc1.x-win.dfn.de (188.1.144.114)  128.057 ms
+14  xr-lap1-pc1.x-win.dfn.de (188.1.144.114)  128.145 ms  127.951 ms  127.983 ms
+15  xr-jen1-pc3.x-win.dfn.de (188.1.144.234)  129.507 ms xr-ilm1-pc2.x-win.dfn.de (188.1.145.42)  130.419 ms  130.310 ms
+16  kr-ilm45.x-win.dfn.de (188.1.238.2)  130.217 ms  130.263 ms xr-ilm1-pc2.x-win.dfn.de (188.1.145.42)  130.454 ms
+17  kr-ilm45.x-win.dfn.de (188.1.238.2)  130.320 ms 141.24.249.141 (141.24.249.141)  130.441 ms kr-ilm45.x-win.dfn.de (188.1.238.2)  130.452 ms
+18  141.24.249.141 (141.24.249.141)  130.565 ms  130.533 ms pl2.prakinf.tu-ilmenau.de (141.24.249.131)  130.350 ms
+========================================================================================
+========================================================================================
+*****************   TraceRoute   Command     Output ************************************
+----------------------------------------------------------------------------------------
+Sat Apr 22 06:49:12 UTC 2017
+----------------------------------------------------------------------------------------
+traceroute to pl2.prakinf.tu-ilmenau.de (141.24.249.131), 30 hops max, 60 byte packets
+ 1  141.212.113.1 (141.212.113.1)  1.126 ms  1.244 ms  1.379 ms
+ 2  10.224.253.24 (10.224.253.24)  0.790 ms  0.783 ms  0.771 ms
+ 3  l3-binarbl-cool-ipsvrf.r-bin-arbl.umnet.umich.edu (192.12.80.136)  0.485 ms  0.584 ms  0.579 ms
+ 4  l3-binarbl-bincath.r-bin-cath.umnet.umich.edu (192.12.80.13)  0.931 ms  0.928 ms  0.907 ms
+ 5  et-7-3-0.1102.rtsw.clev.net.internet2.edu (198.71.45.249)  15.318 ms  15.293 ms  15.241 ms
+ 6  et-2-0-0.4079.sdn-sw.ashb.net.internet2.edu (162.252.70.54)  22.820 ms  22.791 ms et-3-0-0.4079.sdn-sw.pitt.net.internet2.edu (162.252.70.51)  18.089 ms
+ 7  et-3-1-0.4079.rtsw.wash.net.internet2.edu (162.252.70.63)  23.336 ms et-8-3-0.4079.sdn-sw.ashb.net.internet2.edu (162.252.70.52)  23.188 ms  23.187 ms
+ 8  internet2.mx1.lon.uk.geant.net (62.40.124.44)  98.036 ms  98.182 ms  98.125 ms
+ 9  ae0.mx1.ams.nl.geant.net (62.40.98.81)  105.453 ms  105.516 ms internet2-gw.mx1.lon.uk.geant.net (62.40.124.44)  98.157 ms
+10  ae1.mx1.ham.de.geant.net (62.40.98.61)  111.913 ms  111.989 ms ae0.mx1.ams.nl.geant.net (62.40.98.81)  105.661 ms
+11  ae1.mx1.ham.de.geant.net (62.40.98.61)  112.081 ms cr-tub1.x-win.dfn.de (62.40.112.146)  122.084 ms  122.316 ms
+12  cr-tub1.x-win.dfn.de (62.40.112.146)  122.544 ms cr-lap1-hundredgige0-2-0-0.x-win.dfn.de (188.1.144.25)  128.041 ms cr-tub1.x-win.dfn.de (62.40.112.146)  122.455 ms
+13  cr-lap1-hundredgige0-2-0-0.x-win.dfn.de (188.1.144.25)  128.147 ms  127.981 ms  128.024 ms
+14  xr-lap1-pc1.x-win.dfn.de (188.1.144.114)  128.209 ms  127.974 ms xr-jen1-pc3.x-win.dfn.de (188.1.144.234)  129.470 ms
+15  xr-jen1-pc3.x-win.dfn.de (188.1.144.234)  129.293 ms  129.421 ms xr-ilm1-pc2.x-win.dfn.de (188.1.145.42)  130.423 ms
+16  xr-ilm1-pc2.x-win.dfn.de (188.1.145.42)  130.428 ms kr-ilm45.x-win.dfn.de (188.1.238.2)  130.167 ms  130.247 ms
+17  141.24.249.141 (141.24.249.141)  280.263 ms kr-ilm45.x-win.dfn.de (188.1.238.2)  130.372 ms  130.412 ms
+18  pl2.prakinf.tu-ilmenau.de (141.24.249.131)  130.400 ms 141.24.249.141 (141.24.249.141)  259.012 ms  198.979 ms
+========================================================================================
+========================================================================================
+*****************   TraceRoute   Command     Output ************************************
+----------------------------------------------------------------------------------------
+Sat Apr 22 07:49:32 UTC 2017
+----------------------------------------------------------------------------------------
+traceroute to pl2.prakinf.tu-ilmenau.de (141.24.249.131), 30 hops max, 60 byte packets
+ 1  141.212.113.1 (141.212.113.1)  0.816 ms  1.018 ms  1.349 ms
+ 2  10.224.253.24 (10.224.253.24)  0.330 ms  0.335 ms  0.324 ms
+ 3  l3-binarbl-cool-ipsvrf.r-bin-arbl.umnet.umich.edu (192.12.80.136)  0.619 ms  0.497 ms  0.568 ms
+ 4  l3-binarbl-bincath.r-bin-cath.umnet.umich.edu (192.12.80.13)  0.631 ms  0.589 ms  0.590 ms
+ 5  et-7-3-0.1102.rtsw.clev.net.internet2.edu (198.71.45.249)  15.204 ms  15.300 ms  15.274 ms
+ 6  et-3-0-0.4079.sdn-sw.pitt.net.internet2.edu (162.252.70.51)  18.102 ms  18.087 ms et-2-0-0.4079.sdn-sw.ashb.net.internet2.edu (162.252.70.54)  22.798 ms
+ 7  et-8-3-0.4079.sdn-sw.ashb.net.internet2.edu (162.252.70.52)  24.147 ms et-3-1-0.4079.rtsw.wash.net.internet2.edu (162.252.70.63)  23.404 ms  23.399 ms
+ 8  internet2-gw.mx1.lon.uk.geant.net (62.40.124.44)  98.101 ms  98.223 ms et-3-1-0.4079.rtsw.wash.net.internet2.edu (162.252.70.63)  23.450 ms
+ 9  ae0.mx1.ams.nl.geant.net (62.40.98.81)  105.473 ms internet2-gw.mx1.lon.uk.geant.net (62.40.124.44)  98.177 ms  98.196 ms
+10  ae0.mx1.ams.nl.geant.net (62.40.98.81)  105.547 ms  105.575 ms ae1.mx1.ham.de.geant.net (62.40.98.61)  123.501 ms
+11  ae1.mx1.ham.de.geant.net (62.40.98.61)  123.529 ms  120.620 ms dfn-gw.mx1.ham.de.geant.net (62.40.112.146)  122.548 ms
+12  dfn-gw.mx1.ham.de.geant.net (62.40.112.146)  122.437 ms  122.654 ms  122.451 ms
+13  cr-lap1-hundredgige0-2-0-0.x-win.dfn.de (188.1.144.25)  128.042 ms  127.919 ms xr-lap1-pc1.x-win.dfn.de (188.1.144.114)  127.789 ms
+14  xr-jen1-pc3.x-win.dfn.de (188.1.144.234)  129.501 ms  129.707 ms  129.251 ms
+15  xr-ilm1-pc2.x-win.dfn.de (188.1.145.42)  131.115 ms  130.458 ms xr-jen1-pc3.x-win.dfn.de (188.1.144.234)  129.519 ms
+16  xr-ilm1-pc2.x-win.dfn.de (188.1.145.42)  130.601 ms  130.716 ms kr-ilm45.x-win.dfn.de (188.1.238.2)  341.737 ms
+17  141.24.249.141 (141.24.249.141)  130.300 ms kr-ilm45.x-win.dfn.de (188.1.238.2)  335.374 ms 141.24.249.141 (141.24.249.141)  130.558 ms
+18  pl2.prakinf.tu-ilmenau.de (141.24.249.131)  130.328 ms 141.24.249.141 (141.24.249.141)  130.516 ms  130.586 ms
+========================================================================================
+========================================================================================
+*****************   TraceRoute   Command     Output ************************************
+----------------------------------------------------------------------------------------
+Sat Apr 22 08:49:52 UTC 2017
+----------------------------------------------------------------------------------------
+traceroute to pl2.prakinf.tu-ilmenau.de (141.24.249.131), 30 hops max, 60 byte packets
+ 1  141.212.113.1 (141.212.113.1)  0.831 ms  0.999 ms  1.148 ms
+ 2  10.224.253.24 (10.224.253.24)  0.246 ms  0.429 ms  0.410 ms
+ 3  l3-binarbl-cool-ipsvrf.r-bin-arbl.umnet.umich.edu (192.12.80.136)  0.701 ms  0.667 ms  0.656 ms
+ 4  l3-binarbl-bincath.r-bin-cath.umnet.umich.edu (192.12.80.13)  0.644 ms  0.634 ms  0.623 ms
+ 5  et-7-3-0.1102.rtsw.clev.net.internet2.edu (198.71.45.249)  15.303 ms  15.253 ms  15.277 ms
+ 6  et-2-0-0.4079.sdn-sw.ashb.net.internet2.edu (162.252.70.54)  22.822 ms  22.815 ms  22.823 ms
+ 7  et-8-3-0.4079.sdn-sw.ashb.net.internet2.edu (162.252.70.52)  23.227 ms et-3-1-0.4079.rtsw.wash.net.internet2.edu (162.252.70.63)  23.321 ms et-8-3-0.4079.sdn-sw.ashb.net.internet2.edu (162.252.70.52)  23.175 ms
+ 8  et-3-1-0.4079.rtsw.wash.net.internet2.edu (162.252.70.63)  23.434 ms  23.480 ms  23.462 ms
+ 9  ae0.mx1.ams.nl.geant.net (62.40.98.81)  105.395 ms  105.468 ms  106.338 ms
+10  ae1.mx1.ham.de.geant.net (62.40.98.61)  111.916 ms  112.170 ms ae0.mx1.ams.nl.geant.net (62.40.98.81)  105.956 ms
+11  cr-tub1.x-win.dfn.de (62.40.112.146)  122.202 ms ae1.mx1.ham.de.geant.net (62.40.98.61)  112.026 ms  112.102 ms
+12  cr-lap1-hundredgige0-2-0-0.x-win.dfn.de (188.1.144.25)  128.332 ms dfn-gw.mx1.ham.de.geant.net (62.40.112.146)  122.195 ms cr-lap1-hundredgige0-2-0-0.x-win.dfn.de (188.1.144.25)  128.254 ms
+13  cr-lap1-hundredgige0-2-0-0.x-win.dfn.de (188.1.144.25)  128.279 ms xr-lap1-pc1.x-win.dfn.de (188.1.144.114)  127.926 ms  128.001 ms
+14  xr-jen1-pc3.x-win.dfn.de (188.1.144.234)  129.408 ms xr-lap1-pc1.x-win.dfn.de (188.1.144.114)  128.096 ms xr-jen1-pc3.x-win.dfn.de (188.1.144.234)  129.332 ms
+15  xr-jen1-pc3.x-win.dfn.de (188.1.144.234)  129.442 ms  129.434 ms xr-ilm1-pc2.x-win.dfn.de (188.1.145.42)  130.683 ms
+16  kr-ilm45.x-win.dfn.de (188.1.238.2)  130.295 ms  130.424 ms xr-ilm1-pc2.x-win.dfn.de (188.1.145.42)  130.574 ms
+17  kr-ilm45.x-win.dfn.de (188.1.238.2)  130.405 ms  130.435 ms 141.24.249.141 (141.24.249.141)  134.033 ms
+18  pl2.prakinf.tu-ilmenau.de (141.24.249.131)  130.388 ms 141.24.249.141 (141.24.249.141)  130.781 ms pl2.prakinf.tu-ilmenau.de (141.24.249.131)  130.428 ms
+========================================================================================
+========================================================================================
+*****************   TraceRoute   Command     Output ************************************
+----------------------------------------------------------------------------------------
+Sat Apr 22 09:50:12 UTC 2017
+----------------------------------------------------------------------------------------
+traceroute to pl2.prakinf.tu-ilmenau.de (141.24.249.131), 30 hops max, 60 byte packets
+ 1  141.212.113.1 (141.212.113.1)  0.883 ms  1.017 ms  1.169 ms
+ 2  10.224.253.24 (10.224.253.24)  0.303 ms  0.302 ms  0.288 ms
+ 3  l3-binarbl-cool-ipsvrf.r-bin-arbl.umnet.umich.edu (192.12.80.136)  0.501 ms  0.682 ms  0.659 ms
+ 4  l3-binarbl-bincath.r-bin-cath.umnet.umich.edu (192.12.80.13)  1.145 ms  1.139 ms  1.128 ms
+ 5  et-7-3-0.1102.rtsw.clev.net.internet2.edu (198.71.45.249)  16.165 ms  16.186 ms  16.179 ms
+ 6  et-2-0-0.4079.sdn-sw.ashb.net.internet2.edu (162.252.70.54)  22.810 ms  22.881 ms et-3-0-0.4079.sdn-sw.pitt.net.internet2.edu (162.252.70.51)  18.083 ms
+ 7  et-3-1-0.4079.rtsw.wash.net.internet2.edu (162.252.70.63)  23.358 ms et-8-3-0.4079.sdn-sw.ashb.net.internet2.edu (162.252.70.52)  23.229 ms  23.233 ms
+ 8  internet2-gw.mx1.lon.uk.geant.net (62.40.124.44)  98.138 ms et-3-1-0.4079.rtsw.wash.net.internet2.edu (162.252.70.63)  23.447 ms internet2-gw.mx1.lon.uk.geant.net (62.40.124.44)  98.241 ms
+ 9  ae0.mx1.ams.nl.geant.net (62.40.98.81)  105.536 ms internet2-gw.mx1.lon.uk.geant.net (62.40.124.44)  98.382 ms  98.363 ms
+10  ae0.mx1.ams.nl.geant.net (62.40.98.81)  105.744 ms ae1.mx1.ham.de.geant.net (62.40.98.61)  111.948 ms ae0.mx1.ams.nl.geant.net (62.40.98.81)  105.541 ms
+11  ae1.mx1.ham.de.geant.net (62.40.98.61)  112.109 ms  112.021 ms  112.473 ms
+12  cr-tub1.x-win.dfn.de (62.40.112.146)  122.419 ms cr-lap1-hundredgige0-2-0-0.x-win.dfn.de (188.1.144.25)  128.033 ms  127.844 ms
+13  cr-lap1-hundredgige0-2-0-0.x-win.dfn.de (188.1.144.25)  128.311 ms  128.209 ms xr-lap1-pc1.x-win.dfn.de (188.1.144.114)  128.011 ms
+14  xr-lap1-pc1.x-win.dfn.de (188.1.144.114)  128.111 ms  128.173 ms  127.982 ms
+15  xr-jen1-pc3.x-win.dfn.de (188.1.144.234)  129.518 ms xr-ilm1-pc2.x-win.dfn.de (188.1.145.42)  130.538 ms  130.321 ms
+16  xr-ilm1-pc2.x-win.dfn.de (188.1.145.42)  130.548 ms kr-ilm45.x-win.dfn.de (188.1.238.2)  130.211 ms xr-ilm1-pc2.x-win.dfn.de (188.1.145.42)  130.616 ms
+17  141.24.249.141 (141.24.249.141)  130.515 ms kr-ilm45.x-win.dfn.de (188.1.238.2)  130.331 ms  130.397 ms
+18  pl2.prakinf.tu-ilmenau.de (141.24.249.131)  130.387 ms 141.24.249.141 (141.24.249.141)  130.565 ms  130.554 ms
+========================================================================================
+========================================================================================
+*****************   TraceRoute   Command     Output ************************************
+----------------------------------------------------------------------------------------
+Sat Apr 22 10:50:31 UTC 2017
+----------------------------------------------------------------------------------------
+traceroute to pl2.prakinf.tu-ilmenau.de (141.24.249.131), 30 hops max, 60 byte packets
+ 1  141.212.113.1 (141.212.113.1)  0.839 ms  1.960 ms  2.382 ms
+ 2  10.224.253.24 (10.224.253.24)  1.148 ms  1.141 ms  1.130 ms
+ 3  l3-binarbl-cool-ipsvrf.r-bin-arbl.umnet.umich.edu (192.12.80.136)  0.493 ms  0.563 ms  0.553 ms
+ 4  l3-binarbl-bincath.r-bin-cath.umnet.umich.edu (192.12.80.13)  0.597 ms  0.595 ms  0.580 ms
+ 5  et-7-3-0.1102.rtsw.clev.net.internet2.edu (198.71.45.249)  15.265 ms  15.399 ms  15.383 ms
+ 6  et-2-0-0.4079.sdn-sw.ashb.net.internet2.edu (162.252.70.54)  22.795 ms  23.283 ms et-3-0-0.4079.sdn-sw.pitt.net.internet2.edu (162.252.70.51)  18.161 ms
+ 7  et-8-3-0.4079.sdn-sw.ashb.net.internet2.edu (162.252.70.52)  23.407 ms  23.403 ms  23.393 ms
+ 8  et-3-1-0.4079.rtsw.wash.net.internet2.edu (162.252.70.63)  23.415 ms internet2.mx1.lon.uk.geant.net (62.40.124.44)  98.150 ms  98.140 ms
+ 9  internet2-gw.mx1.lon.uk.geant.net (62.40.124.44)  98.129 ms ae0.mx1.ams.nl.geant.net (62.40.98.81)  105.452 ms  105.444 ms
+10  ae0.mx1.ams.nl.geant.net (62.40.98.81)  105.704 ms  105.584 ms ae1.mx1.ham.de.geant.net (62.40.98.61)  111.986 ms
+11  ae1.mx1.ham.de.geant.net (62.40.98.61)  112.136 ms cr-tub1.x-win.dfn.de (62.40.112.146)  122.388 ms ae1.mx1.ham.de.geant.net (62.40.98.61)  112.098 ms
+12  cr-lap1-hundredgige0-2-0-0.x-win.dfn.de (188.1.144.25)  127.868 ms dfn-gw.mx1.ham.de.geant.net (62.40.112.146)  122.574 ms  122.452 ms
+13  cr-lap1-hundredgige0-2-0-0.x-win.dfn.de (188.1.144.25)  128.353 ms  128.419 ms xr-lap1-pc1.x-win.dfn.de (188.1.144.114)  128.088 ms
+14  xr-lap1-pc1.x-win.dfn.de (188.1.144.114)  128.176 ms  128.333 ms  127.955 ms
+15  xr-jen1-pc3.x-win.dfn.de (188.1.144.234)  129.656 ms xr-ilm1-pc2.x-win.dfn.de (188.1.145.42)  131.448 ms xr-jen1-pc3.x-win.dfn.de (188.1.144.234)  129.589 ms
+16  xr-ilm1-pc2.x-win.dfn.de (188.1.145.42)  130.586 ms kr-ilm45.x-win.dfn.de (188.1.238.2)  130.296 ms xr-ilm1-pc2.x-win.dfn.de (188.1.145.42)  130.742 ms
+17  kr-ilm45.x-win.dfn.de (188.1.238.2)  130.361 ms 141.24.249.141 (141.24.249.141)  130.397 ms kr-ilm45.x-win.dfn.de (188.1.238.2)  130.294 ms
+18  141.24.249.141 (141.24.249.141)  130.563 ms pl2.prakinf.tu-ilmenau.de (141.24.249.131)  130.332 ms  130.342 ms
+========================================================================================
+========================================================================================
+*****************   TraceRoute   Command     Output ************************************
+----------------------------------------------------------------------------------------
+Sat Apr 22 11:50:51 UTC 2017
+----------------------------------------------------------------------------------------
+traceroute to pl2.prakinf.tu-ilmenau.de (141.24.249.131), 30 hops max, 60 byte packets
+ 1  141.212.113.1 (141.212.113.1)  0.809 ms  1.384 ms  1.515 ms
+ 2  10.224.253.24 (10.224.253.24)  0.285 ms  0.261 ms  0.247 ms
+ 3  l3-binarbl-cool-ipsvrf.r-bin-arbl.umnet.umich.edu (192.12.80.136)  0.475 ms  0.466 ms  0.559 ms
+ 4  l3-binarbl-bincath.r-bin-cath.umnet.umich.edu (192.12.80.13)  0.691 ms  0.681 ms  0.640 ms
+ 5  et-7-3-0.1102.rtsw.clev.net.internet2.edu (198.71.45.249)  15.378 ms  15.252 ms  15.351 ms
+ 6  et-3-0-0.4079.sdn-sw.pitt.net.internet2.edu (162.252.70.51)  18.095 ms et-2-0-0.4079.sdn-sw.ashb.net.internet2.edu (162.252.70.54)  22.807 ms et-3-0-0.4079.sdn-sw.pitt.net.internet2.edu (162.252.70.51)  18.060 ms
+ 7  et-3-1-0.4079.rtsw.wash.net.internet2.edu (162.252.70.63)  23.342 ms  23.371 ms  23.384 ms
+ 8  internet2.mx1.lon.uk.geant.net (62.40.124.44)  98.085 ms  97.971 ms et-3-1-0.4079.rtsw.wash.net.internet2.edu (162.252.70.63)  23.464 ms
+ 9  ae0.mx1.ams.nl.geant.net (62.40.98.81)  105.403 ms  105.525 ms  105.493 ms
+10  ae1.mx1.ham.de.geant.net (62.40.98.61)  111.933 ms ae0.mx1.ams.nl.geant.net (62.40.98.81)  105.613 ms  105.613 ms
+11  cr-tub1.x-win.dfn.de (62.40.112.146)  121.952 ms  122.027 ms  121.944 ms
+12  cr-tub1.x-win.dfn.de (62.40.112.146)  122.414 ms  122.493 ms cr-lap1-hundredgige0-2-0-0.x-win.dfn.de (188.1.144.25)  128.187 ms
+13  cr-lap1-hundredgige0-2-0-0.x-win.dfn.de (188.1.144.25)  128.275 ms  128.120 ms  128.252 ms
+14  xr-jen1-pc3.x-win.dfn.de (188.1.144.234)  129.518 ms xr-lap1-pc1.x-win.dfn.de (188.1.144.114)  128.075 ms xr-jen1-pc3.x-win.dfn.de (188.1.144.234)  129.416 ms
+15  xr-jen1-pc3.x-win.dfn.de (188.1.144.234)  129.595 ms  129.666 ms  129.391 ms
+16  kr-ilm45.x-win.dfn.de (188.1.238.2)  130.313 ms xr-ilm1-pc2.x-win.dfn.de (188.1.145.42)  130.639 ms kr-ilm45.x-win.dfn.de (188.1.238.2)  130.244 ms
+17  141.24.249.141 (141.24.249.141)  130.404 ms kr-ilm45.x-win.dfn.de (188.1.238.2)  130.416 ms  130.403 ms
+18  141.24.249.141 (141.24.249.141)  130.541 ms pl2.prakinf.tu-ilmenau.de (141.24.249.131)  130.385 ms 141.24.249.141 (141.24.249.141)  130.478 ms
+========================================================================================
+========================================================================================
+*****************   TraceRoute   Command     Output ************************************
+----------------------------------------------------------------------------------------
+Sat Apr 22 12:51:10 UTC 2017
+----------------------------------------------------------------------------------------
+traceroute to pl2.prakinf.tu-ilmenau.de (141.24.249.131), 30 hops max, 60 byte packets
+ 1  141.212.113.1 (141.212.113.1)  3.933 ms  4.033 ms  4.193 ms
+ 2  10.224.253.24 (10.224.253.24)  0.278 ms  0.272 ms  0.260 ms
+ 3  l3-binarbl-cool-ipsvrf.r-bin-arbl.umnet.umich.edu (192.12.80.136)  0.616 ms  0.630 ms  0.621 ms
+ 4  l3-binarbl-bincath.r-bin-cath.umnet.umich.edu (192.12.80.13)  0.609 ms  0.593 ms  0.581 ms
+ 5  et-7-3-0.1102.rtsw.clev.net.internet2.edu (198.71.45.249)  15.210 ms  15.412 ms  15.313 ms
+ 6  et-3-0-0.4079.sdn-sw.pitt.net.internet2.edu (162.252.70.51)  18.192 ms et-2-0-0.4079.sdn-sw.ashb.net.internet2.edu (162.252.70.54)  22.842 ms et-3-0-0.4079.sdn-sw.pitt.net.internet2.edu (162.252.70.51)  18.159 ms
+ 7  et-3-1-0.4079.rtsw.wash.net.internet2.edu (162.252.70.63)  23.642 ms  23.341 ms et-8-3-0.4079.sdn-sw.ashb.net.internet2.edu (162.252.70.52)  23.127 ms
+ 8  et-3-1-0.4079.rtsw.wash.net.internet2.edu (162.252.70.63)  23.412 ms internet2.mx1.lon.uk.geant.net (62.40.124.44)  98.065 ms  98.179 ms
+ 9  ae0.mx1.ams.nl.geant.net (62.40.98.81)  105.425 ms internet2-gw.mx1.lon.uk.geant.net (62.40.124.44)  98.133 ms  98.126 ms
+10  ae0.mx1.ams.nl.geant.net (62.40.98.81)  105.550 ms  105.573 ms  105.651 ms
+11  dfn-gw.mx1.ham.de.geant.net (62.40.112.146)  122.228 ms  122.196 ms  122.123 ms
+12  dfn-gw.mx1.ham.de.geant.net (62.40.112.146)  122.192 ms  122.262 ms cr-lap1-hundredgige0-2-0-0.x-win.dfn.de (188.1.144.25)  127.835 ms
+13  cr-lap1-hundredgige0-2-0-0.x-win.dfn.de (188.1.144.25)  128.364 ms  128.356 ms  127.991 ms
+14  xr-lap1-pc1.x-win.dfn.de (188.1.144.114)  128.158 ms xr-jen1-pc3.x-win.dfn.de (188.1.144.234)  129.599 ms  129.298 ms
+15  xr-ilm1-pc2.x-win.dfn.de (188.1.145.42)  130.464 ms  130.465 ms  130.328 ms
+16  kr-ilm45.x-win.dfn.de (188.1.238.2)  130.247 ms xr-ilm1-pc2.x-win.dfn.de (188.1.145.42)  130.482 ms  130.478 ms
+17  kr-ilm45.x-win.dfn.de (188.1.238.2)  130.358 ms  130.348 ms  130.402 ms
+18  pl2.prakinf.tu-ilmenau.de (141.24.249.131)  130.451 ms  130.393 ms 141.24.249.141 (141.24.249.141)  133.430 ms
+========================================================================================
+========================================================================================
+*****************   TraceRoute   Command     Output ************************************
+----------------------------------------------------------------------------------------
+Sat Apr 22 13:51:30 UTC 2017
+----------------------------------------------------------------------------------------
+traceroute to pl2.prakinf.tu-ilmenau.de (141.24.249.131), 30 hops max, 60 byte packets
+ 1  141.212.113.1 (141.212.113.1)  1.055 ms  1.015 ms  1.150 ms
+ 2  10.224.253.24 (10.224.253.24)  0.277 ms  0.275 ms  0.263 ms
+ 3  l3-binarbl-cool-ipsvrf.r-bin-arbl.umnet.umich.edu (192.12.80.136)  0.502 ms  0.499 ms  0.479 ms
+ 4  l3-binarbl-bincath.r-bin-cath.umnet.umich.edu (192.12.80.13)  0.585 ms  0.840 ms  0.829 ms
+ 5  et-7-3-0.1102.rtsw.clev.net.internet2.edu (198.71.45.249)  15.263 ms  15.378 ms  15.366 ms
+ 6  et-2-0-0.4079.sdn-sw.ashb.net.internet2.edu (162.252.70.54)  22.813 ms  22.855 ms et-3-0-0.4079.sdn-sw.pitt.net.internet2.edu (162.252.70.51)  18.114 ms
+ 7  et-8-3-0.4079.sdn-sw.ashb.net.internet2.edu (162.252.70.52)  23.140 ms et-3-1-0.4079.rtsw.wash.net.internet2.edu (162.252.70.63)  23.362 ms  23.356 ms
+ 8  et-3-1-0.4079.rtsw.wash.net.internet2.edu (162.252.70.63)  23.499 ms internet2-gw.mx1.lon.uk.geant.net (62.40.124.44)  97.995 ms et-3-1-0.4079.rtsw.wash.net.internet2.edu (162.252.70.63)  23.432 ms
+ 9  ae0.mx1.ams.nl.geant.net (62.40.98.81)  105.520 ms internet2-gw.mx1.lon.uk.geant.net (62.40.124.44)  98.126 ms ae0.mx1.ams.nl.geant.net (62.40.98.81)  105.671 ms
+10  ae0.mx1.ams.nl.geant.net (62.40.98.81)  105.558 ms ae1.mx1.ham.de.geant.net (62.40.98.61)  111.979 ms ae0.mx1.ams.nl.geant.net (62.40.98.81)  105.554 ms
+11  ae1.mx1.ham.de.geant.net (62.40.98.61)  112.022 ms cr-tub1.x-win.dfn.de (62.40.112.146)  122.459 ms ae1.mx1.ham.de.geant.net (62.40.98.61)  112.104 ms
+12  dfn-gw.mx1.ham.de.geant.net (62.40.112.146)  122.662 ms  122.578 ms  122.514 ms
+13  cr-lap1-hundredgige0-2-0-0.x-win.dfn.de (188.1.144.25)  128.045 ms  128.178 ms  128.168 ms
+14  xr-lap1-pc1.x-win.dfn.de (188.1.144.114)  128.092 ms xr-jen1-pc3.x-win.dfn.de (188.1.144.234)  129.314 ms  129.498 ms
+15  xr-jen1-pc3.x-win.dfn.de (188.1.144.234)  129.680 ms  130.002 ms xr-ilm1-pc2.x-win.dfn.de (188.1.145.42)  130.494 ms
+16  xr-ilm1-pc2.x-win.dfn.de (188.1.145.42)  130.584 ms  130.667 ms  130.569 ms
+17  kr-ilm45.x-win.dfn.de (188.1.238.2)  130.396 ms  130.344 ms  130.546 ms
+18  pl2.prakinf.tu-ilmenau.de (141.24.249.131)  130.548 ms 141.24.249.141 (141.24.249.141)  133.218 ms pl2.prakinf.tu-ilmenau.de (141.24.249.131)  130.364 ms
+========================================================================================
+========================================================================================
+*****************   TraceRoute   Command     Output ************************************
+----------------------------------------------------------------------------------------
+Sat Apr 22 14:51:50 UTC 2017
+----------------------------------------------------------------------------------------
+traceroute to pl2.prakinf.tu-ilmenau.de (141.24.249.131), 30 hops max, 60 byte packets
+ 1  141.212.113.1 (141.212.113.1)  0.813 ms  0.999 ms  1.150 ms
+ 2  10.224.253.24 (10.224.253.24)  0.259 ms  0.254 ms  0.241 ms
+ 3  l3-binarbl-cool-ipsvrf.r-bin-arbl.umnet.umich.edu (192.12.80.136)  0.524 ms  0.535 ms  0.514 ms
+ 4  l3-binarbl-bincath.r-bin-cath.umnet.umich.edu (192.12.80.13)  0.613 ms  0.612 ms  0.583 ms
+ 5  et-7-3-0.1102.rtsw.clev.net.internet2.edu (198.71.45.249)  15.322 ms  15.273 ms  15.294 ms
+ 6  et-2-0-0.4079.sdn-sw.ashb.net.internet2.edu (162.252.70.54)  23.081 ms  23.153 ms  23.140 ms
+ 7  et-8-3-0.4079.sdn-sw.ashb.net.internet2.edu (162.252.70.52)  23.230 ms  23.322 ms  23.308 ms
+ 8  et-3-1-0.4079.rtsw.wash.net.internet2.edu (162.252.70.63)  23.561 ms  23.551 ms internet2-gw.mx1.lon.uk.geant.net (62.40.124.44)  98.174 ms
+ 9  internet2-gw.mx1.lon.uk.geant.net (62.40.124.44)  98.278 ms  98.255 ms  98.202 ms
+10  ae1.mx1.ham.de.geant.net (62.40.98.61)  111.922 ms  112.246 ms  112.453 ms
+11  ae1.mx1.ham.de.geant.net (62.40.98.61)  112.440 ms  112.032 ms cr-tub1.x-win.dfn.de (62.40.112.146)  122.124 ms
+12  cr-lap1-hundredgige0-2-0-0.x-win.dfn.de (188.1.144.25)  127.879 ms cr-tub1.x-win.dfn.de (62.40.112.146)  122.118 ms cr-lap1-hundredgige0-2-0-0.x-win.dfn.de (188.1.144.25)  128.198 ms
+13  xr-lap1-pc1.x-win.dfn.de (188.1.144.114)  128.106 ms  128.220 ms cr-lap1-hundredgige0-2-0-0.x-win.dfn.de (188.1.144.25)  128.158 ms
+14  xr-lap1-pc1.x-win.dfn.de (188.1.144.114)  128.235 ms  128.386 ms  128.463 ms
+15  xr-ilm1-pc2.x-win.dfn.de (188.1.145.42)  130.481 ms  130.437 ms  130.516 ms
+16  xr-ilm1-pc2.x-win.dfn.de (188.1.145.42)  130.674 ms kr-ilm45.x-win.dfn.de (188.1.238.2)  130.234 ms  130.264 ms
+17  141.24.249.141 (141.24.249.141)  130.685 ms kr-ilm45.x-win.dfn.de (188.1.238.2)  130.359 ms 141.24.249.141 (141.24.249.141)  130.381 ms
+18  pl2.prakinf.tu-ilmenau.de (141.24.249.131)  130.374 ms 141.24.249.141 (141.24.249.141)  130.494 ms  130.492 ms
+========================================================================================
+========================================================================================
+*****************   TraceRoute   Command     Output ************************************
+----------------------------------------------------------------------------------------
+Sat Apr 22 15:52:09 UTC 2017
+----------------------------------------------------------------------------------------
+traceroute to pl2.prakinf.tu-ilmenau.de (141.24.249.131), 30 hops max, 60 byte packets
+ 1  141.212.113.1 (141.212.113.1)  0.901 ms  0.968 ms  1.145 ms
+ 2  10.224.253.24 (10.224.253.24)  0.270 ms  0.264 ms  0.251 ms
+ 3  l3-binarbl-cool-ipsvrf.r-bin-arbl.umnet.umich.edu (192.12.80.136)  0.753 ms  0.470 ms  0.728 ms
+ 4  l3-binarbl-bincath.r-bin-cath.umnet.umich.edu (192.12.80.13)  0.717 ms  0.711 ms  0.688 ms
+ 5  et-7-3-0.1102.rtsw.clev.net.internet2.edu (198.71.45.249)  15.304 ms  15.261 ms  15.250 ms
+ 6  et-2-0-0.4079.sdn-sw.ashb.net.internet2.edu (162.252.70.54)  22.986 ms  22.832 ms  22.935 ms
+ 7  et-8-3-0.4079.sdn-sw.ashb.net.internet2.edu (162.252.70.52)  23.157 ms  23.120 ms et-3-1-0.4079.rtsw.wash.net.internet2.edu (162.252.70.63)  23.819 ms
+ 8  et-3-1-0.4079.rtsw.wash.net.internet2.edu (162.252.70.63)  23.771 ms  23.787 ms internet2-gw.mx1.lon.uk.geant.net (62.40.124.44)  98.050 ms
+ 9  ae0.mx1.ams.nl.geant.net (62.40.98.81)  105.518 ms  105.591 ms  105.581 ms
+10  ae0.mx1.ams.nl.geant.net (62.40.98.81)  105.569 ms ae1.mx1.ham.de.geant.net (62.40.98.61)  112.039 ms  111.921 ms
+11  dfn-gw.mx1.ham.de.geant.net (62.40.112.146)  122.198 ms ae1.mx1.ham.de.geant.net (62.40.98.61)  112.260 ms  112.251 ms
+12  dfn-gw.mx1.ham.de.geant.net (62.40.112.146)  122.535 ms cr-lap1-hundredgige0-2-0-0.x-win.dfn.de (188.1.144.25)  127.865 ms dfn-gw.mx1.ham.de.geant.net (62.40.112.146)  122.087 ms
+13  xr-lap1-pc1.x-win.dfn.de (188.1.144.114)  128.166 ms  128.437 ms  128.236 ms
+14  xr-jen1-pc3.x-win.dfn.de (188.1.144.234)  129.558 ms  129.494 ms  129.633 ms
+15  xr-ilm1-pc2.x-win.dfn.de (188.1.145.42)  131.795 ms  131.945 ms  130.924 ms
+16  xr-ilm1-pc2.x-win.dfn.de (188.1.145.42)  131.041 ms  131.129 ms kr-ilm45.x-win.dfn.de (188.1.238.2)  130.241 ms
+17  kr-ilm45.x-win.dfn.de (188.1.238.2)  130.313 ms  130.305 ms  130.326 ms
+18  141.24.249.141 (141.24.249.141)  130.465 ms pl2.prakinf.tu-ilmenau.de (141.24.249.131)  130.342 ms 141.24.249.141 (141.24.249.141)  130.425 ms
+========================================================================================
+========================================================================================
+*****************   TraceRoute   Command     Output ************************************
+----------------------------------------------------------------------------------------
+Sat Apr 22 16:52:29 UTC 2017
+----------------------------------------------------------------------------------------
+traceroute to pl2.prakinf.tu-ilmenau.de (141.24.249.131), 30 hops max, 60 byte packets
+ 1  141.212.113.1 (141.212.113.1)  15.768 ms  16.157 ms  16.655 ms
+ 2  10.224.253.24 (10.224.253.24)  0.245 ms  0.381 ms  0.382 ms
+ 3  l3-binarbl-cool-ipsvrf.r-bin-arbl.umnet.umich.edu (192.12.80.136)  1.039 ms  1.042 ms  1.031 ms
+ 4  l3-binarbl-bincath.r-bin-cath.umnet.umich.edu (192.12.80.13)  0.611 ms  0.598 ms  0.584 ms
+ 5  et-7-3-0.1102.rtsw.clev.net.internet2.edu (198.71.45.249)  15.315 ms  15.262 ms  15.278 ms
+ 6  et-2-0-0.4079.sdn-sw.ashb.net.internet2.edu (162.252.70.54)  22.828 ms et-3-0-0.4079.sdn-sw.pitt.net.internet2.edu (162.252.70.51)  18.092 ms  18.113 ms
+ 7  et-8-3-0.4079.sdn-sw.ashb.net.internet2.edu (162.252.70.52)  23.144 ms et-3-1-0.4079.rtsw.wash.net.internet2.edu (162.252.70.63)  23.466 ms et-8-3-0.4079.sdn-sw.ashb.net.internet2.edu (162.252.70.52)  23.098 ms
+ 8  et-3-1-0.4079.rtsw.wash.net.internet2.edu (162.252.70.63)  23.426 ms  23.430 ms  23.504 ms
+ 9  ae0.mx1.ams.nl.geant.net (62.40.98.81)  105.582 ms internet2.mx1.lon.uk.geant.net (62.40.124.44)  108.154 ms ae0.mx1.ams.nl.geant.net (62.40.98.81)  105.470 ms
+10  ae0.mx1.ams.nl.geant.net (62.40.98.81)  105.584 ms  105.617 ms ae1.mx1.ham.de.geant.net (62.40.98.61)  115.633 ms
+11  dfn-gw.mx1.ham.de.geant.net (62.40.112.146)  122.207 ms  122.333 ms ae1.mx1.ham.de.geant.net (62.40.98.61)  112.073 ms
+12  cr-tub1.x-win.dfn.de (62.40.112.146)  122.319 ms  122.290 ms  122.438 ms
+13  cr-lap1-hundredgige0-2-0-0.x-win.dfn.de (188.1.144.25)  127.909 ms  127.925 ms  127.913 ms
+14  xr-lap1-pc1.x-win.dfn.de (188.1.144.114)  128.270 ms  128.006 ms  127.969 ms
+15  xr-ilm1-pc2.x-win.dfn.de (188.1.145.42)  130.564 ms  130.647 ms xr-jen1-pc3.x-win.dfn.de (188.1.144.234)  129.592 ms
+16  kr-ilm45.x-win.dfn.de (188.1.238.2)  130.264 ms xr-ilm1-pc2.x-win.dfn.de (188.1.145.42)  130.703 ms  130.593 ms
+17  141.24.249.141 (141.24.249.141)  130.401 ms  130.388 ms kr-ilm45.x-win.dfn.de (188.1.238.2)  130.321 ms
+18  141.24.249.141 (141.24.249.141)  130.452 ms pl2.prakinf.tu-ilmenau.de (141.24.249.131)  130.361 ms 141.24.249.141 (141.24.249.141)  130.649 ms
+========================================================================================
+========================================================================================
+*****************   TraceRoute   Command     Output ************************************
+----------------------------------------------------------------------------------------
+Sat Apr 22 17:52:48 UTC 2017
+----------------------------------------------------------------------------------------
+traceroute to pl2.prakinf.tu-ilmenau.de (141.24.249.131), 30 hops max, 60 byte packets
+ 1  141.212.113.1 (141.212.113.1)  1.078 ms  1.242 ms  1.563 ms
+ 2  10.224.253.24 (10.224.253.24)  0.376 ms  0.368 ms  0.356 ms
+ 3  l3-binarbl-cool-ipsvrf.r-bin-arbl.umnet.umich.edu (192.12.80.136)  0.583 ms  0.556 ms  0.555 ms
+ 4  l3-binarbl-bincath.r-bin-cath.umnet.umich.edu (192.12.80.13)  0.583 ms  0.625 ms  0.675 ms
+ 5  et-7-3-0.1102.rtsw.clev.net.internet2.edu (198.71.45.249)  18.668 ms  18.621 ms  18.626 ms
+ 6  et-2-0-0.4079.sdn-sw.ashb.net.internet2.edu (162.252.70.54)  22.937 ms et-3-0-0.4079.sdn-sw.pitt.net.internet2.edu (162.252.70.51)  18.105 ms et-2-0-0.4079.sdn-sw.ashb.net.internet2.edu (162.252.70.54)  22.829 ms
+ 7  et-8-3-0.4079.sdn-sw.ashb.net.internet2.edu (162.252.70.52)  25.144 ms et-3-1-0.4079.rtsw.wash.net.internet2.edu (162.252.70.63)  23.436 ms  23.400 ms
+ 8  internet2-gw.mx1.lon.uk.geant.net (62.40.124.44)  98.065 ms et-3-1-0.4079.rtsw.wash.net.internet2.edu (162.252.70.63)  23.589 ms internet2-gw.mx1.lon.uk.geant.net (62.40.124.44)  98.114 ms
+ 9  internet2-gw.mx1.lon.uk.geant.net (62.40.124.44)  98.164 ms ae0.mx1.ams.nl.geant.net (62.40.98.81)  105.439 ms  105.441 ms
+10  ae1.mx1.ham.de.geant.net (62.40.98.61)  115.718 ms  112.019 ms  112.130 ms
+11  dfn-gw.mx1.ham.de.geant.net (62.40.112.146)  122.407 ms ae1.mx1.ham.de.geant.net (62.40.98.61)  112.107 ms  112.079 ms
+12  cr-lap1-hundredgige0-2-0-0.x-win.dfn.de (188.1.144.25)  127.892 ms dfn-gw.mx1.ham.de.geant.net (62.40.112.146)  122.361 ms cr-lap1-hundredgige0-2-0-0.x-win.dfn.de (188.1.144.25)  128.386 ms
+13  cr-lap1-hundredgige0-2-0-0.x-win.dfn.de (188.1.144.25)  128.262 ms xr-lap1-pc1.x-win.dfn.de (188.1.144.114)  128.472 ms cr-lap1-hundredgige0-2-0-0.x-win.dfn.de (188.1.144.25)  128.241 ms
+14  xr-jen1-pc3.x-win.dfn.de (188.1.144.234)  129.587 ms  130.047 ms  129.464 ms
+15  xr-ilm1-pc2.x-win.dfn.de (188.1.145.42)  130.624 ms xr-jen1-pc3.x-win.dfn.de (188.1.144.234)  129.537 ms  129.468 ms
+16  kr-ilm45.x-win.dfn.de (188.1.238.2)  130.318 ms  130.246 ms xr-ilm1-pc2.x-win.dfn.de (188.1.145.42)  130.496 ms
+17  kr-ilm45.x-win.dfn.de (188.1.238.2)  144.051 ms 141.24.249.141 (141.24.249.141)  130.405 ms kr-ilm45.x-win.dfn.de (188.1.238.2)  138.976 ms
+18  pl2.prakinf.tu-ilmenau.de (141.24.249.131)  130.326 ms  130.379 ms 141.24.249.141 (141.24.249.141)  130.408 ms
+========================================================================================
+========================================================================================
+*****************   TraceRoute   Command     Output ************************************
+----------------------------------------------------------------------------------------
+Sat Apr 22 18:53:08 UTC 2017
+----------------------------------------------------------------------------------------
+traceroute to pl2.prakinf.tu-ilmenau.de (141.24.249.131), 30 hops max, 60 byte packets
+ 1  141.212.113.1 (141.212.113.1)  0.865 ms  1.013 ms  1.188 ms
+ 2  10.224.253.24 (10.224.253.24)  0.221 ms  0.550 ms  0.536 ms
+ 3  l3-binarbl-cool-ipsvrf.r-bin-arbl.umnet.umich.edu (192.12.80.136)  0.572 ms  0.461 ms  0.522 ms
+ 4  l3-binarbl-bincath.r-bin-cath.umnet.umich.edu (192.12.80.13)  1.122 ms  1.114 ms  1.102 ms
+ 5  et-7-3-0.1102.rtsw.clev.net.internet2.edu (198.71.45.249)  15.551 ms  15.635 ms  15.614 ms
+ 6  et-2-0-0.4079.sdn-sw.ashb.net.internet2.edu (162.252.70.54)  22.835 ms  22.837 ms et-3-0-0.4079.sdn-sw.pitt.net.internet2.edu (162.252.70.51)  18.191 ms
+ 7  et-8-3-0.4079.sdn-sw.ashb.net.internet2.edu (162.252.70.52)  23.221 ms  23.220 ms  23.254 ms
+ 8  internet2.mx1.lon.uk.geant.net (62.40.124.44)  98.106 ms et-3-1-0.4079.rtsw.wash.net.internet2.edu (162.252.70.63)  23.479 ms  23.489 ms
+ 9  ae0.mx1.ams.nl.geant.net (62.40.98.81)  106.026 ms  105.535 ms internet2.mx1.lon.uk.geant.net (62.40.124.44)  98.196 ms
+10  ae1.mx1.ham.de.geant.net (62.40.98.61)  111.978 ms ae0.mx1.ams.nl.geant.net (62.40.98.81)  105.739 ms ae1.mx1.ham.de.geant.net (62.40.98.61)  111.934 ms
+11  ae1.mx1.ham.de.geant.net (62.40.98.61)  112.039 ms cr-tub1.x-win.dfn.de (62.40.112.146)  122.131 ms ae1.mx1.ham.de.geant.net (62.40.98.61)  112.106 ms
+12  dfn-gw.mx1.ham.de.geant.net (62.40.112.146)  122.246 ms cr-lap1-hundredgige0-2-0-0.x-win.dfn.de (188.1.144.25)  128.293 ms  128.291 ms
+13  xr-lap1-pc1.x-win.dfn.de (188.1.144.114)  128.541 ms cr-lap1-hundredgige0-2-0-0.x-win.dfn.de (188.1.144.25)  128.261 ms  128.227 ms
+14  xr-lap1-pc1.x-win.dfn.de (188.1.144.114)  128.891 ms  128.452 ms  128.286 ms
+15  xr-jen1-pc3.x-win.dfn.de (188.1.144.234)  129.499 ms  129.367 ms  129.412 ms
+16  xr-ilm1-pc2.x-win.dfn.de (188.1.145.42)  130.785 ms  130.884 ms  130.438 ms
+17  kr-ilm45.x-win.dfn.de (188.1.238.2)  130.410 ms 141.24.249.141 (141.24.249.141)  130.418 ms kr-ilm45.x-win.dfn.de (188.1.238.2)  130.310 ms
+18  141.24.249.141 (141.24.249.141)  130.488 ms  130.498 ms pl2.prakinf.tu-ilmenau.de (141.24.249.131)  130.369 ms
+========================================================================================
+========================================================================================
+*****************   TraceRoute   Command     Output ************************************
+----------------------------------------------------------------------------------------
+Sat Apr 22 19:53:28 UTC 2017
+----------------------------------------------------------------------------------------
+traceroute to pl2.prakinf.tu-ilmenau.de (141.24.249.131), 30 hops max, 60 byte packets
+ 1  141.212.113.1 (141.212.113.1)  1.237 ms  1.367 ms  1.518 ms
+ 2  10.224.253.24 (10.224.253.24)  12.594 ms  12.638 ms  12.628 ms
+ 3  l3-binarbl-cool-ipsvrf.r-bin-arbl.umnet.umich.edu (192.12.80.136)  0.505 ms  0.738 ms  0.704 ms
+ 4  l3-binarbl-bincath.r-bin-cath.umnet.umich.edu (192.12.80.13)  0.707 ms  0.679 ms  0.666 ms
+ 5  et-7-3-0.1102.rtsw.clev.net.internet2.edu (198.71.45.249)  15.820 ms  15.824 ms  15.806 ms
+ 6  et-2-0-0.4079.sdn-sw.ashb.net.internet2.edu (162.252.70.54)  22.841 ms et-3-0-0.4079.sdn-sw.pitt.net.internet2.edu (162.252.70.51)  18.108 ms et-2-0-0.4079.sdn-sw.ashb.net.internet2.edu (162.252.70.54)  22.751 ms
+ 7  et-8-3-0.4079.sdn-sw.ashb.net.internet2.edu (162.252.70.52)  23.169 ms et-3-1-0.4079.rtsw.wash.net.internet2.edu (162.252.70.63)  23.354 ms et-8-3-0.4079.sdn-sw.ashb.net.internet2.edu (162.252.70.52)  23.149 ms
+ 8  internet2.mx1.lon.uk.geant.net (62.40.124.44)  98.009 ms  98.118 ms  98.081 ms
+ 9  internet2-gw.mx1.lon.uk.geant.net (62.40.124.44)  98.199 ms ae0.mx1.ams.nl.geant.net (62.40.98.81)  105.598 ms  105.527 ms
+10  ae1.mx1.ham.de.geant.net (62.40.98.61)  111.998 ms ae0.mx1.ams.nl.geant.net (62.40.98.81)  105.613 ms  105.539 ms
+11  ae1.mx1.ham.de.geant.net (62.40.98.61)  112.088 ms  112.172 ms cr-tub1.x-win.dfn.de (62.40.112.146)  122.229 ms
+12  cr-lap1-hundredgige0-2-0-0.x-win.dfn.de (188.1.144.25)  128.155 ms  128.260 ms dfn-gw.mx1.ham.de.geant.net (62.40.112.146)  122.502 ms
+13  xr-lap1-pc1.x-win.dfn.de (188.1.144.114)  128.027 ms  128.182 ms  127.927 ms
+14  xr-jen1-pc3.x-win.dfn.de (188.1.144.234)  129.645 ms  129.773 ms xr-lap1-pc1.x-win.dfn.de (188.1.144.114)  128.006 ms
+15  xr-ilm1-pc2.x-win.dfn.de (188.1.145.42)  130.436 ms xr-jen1-pc3.x-win.dfn.de (188.1.144.234)  129.381 ms  129.437 ms
+16  xr-ilm1-pc2.x-win.dfn.de (188.1.145.42)  130.579 ms  130.445 ms kr-ilm45.x-win.dfn.de (188.1.238.2)  130.268 ms
+17  kr-ilm45.x-win.dfn.de (188.1.238.2)  130.488 ms  130.412 ms  130.407 ms
+18  141.24.249.141 (141.24.249.141)  130.521 ms  130.462 ms  130.772 ms
+19  pl2.prakinf.tu-ilmenau.de (141.24.249.131)  130.583 ms  130.427 ms  130.478 ms
+========================================================================================
+========================================================================================
+*****************   TraceRoute   Command     Output ************************************
+----------------------------------------------------------------------------------------
+Sat Apr 22 20:53:47 UTC 2017
+----------------------------------------------------------------------------------------
+traceroute to pl2.prakinf.tu-ilmenau.de (141.24.249.131), 30 hops max, 60 byte packets
+ 1  141.212.113.1 (141.212.113.1)  1.066 ms  1.177 ms  1.357 ms
+ 2  10.224.253.24 (10.224.253.24)  0.281 ms  0.359 ms  0.347 ms
+ 3  l3-binarbl-cool-ipsvrf.r-bin-arbl.umnet.umich.edu (192.12.80.136)  0.535 ms  0.693 ms  0.685 ms
+ 4  l3-binarbl-bincath.r-bin-cath.umnet.umich.edu (192.12.80.13)  0.675 ms  0.661 ms  0.640 ms
+ 5  et-7-3-0.1102.rtsw.clev.net.internet2.edu (198.71.45.249)  15.332 ms  15.348 ms  15.335 ms
+ 6  et-2-0-0.4079.sdn-sw.ashb.net.internet2.edu (162.252.70.54)  22.782 ms  22.788 ms et-3-0-0.4079.sdn-sw.pitt.net.internet2.edu (162.252.70.51)  18.131 ms
+ 7  et-3-1-0.4079.rtsw.wash.net.internet2.edu (162.252.70.63)  23.347 ms et-8-3-0.4079.sdn-sw.ashb.net.internet2.edu (162.252.70.52)  23.362 ms et-3-1-0.4079.rtsw.wash.net.internet2.edu (162.252.70.63)  23.335 ms
+ 8  et-3-1-0.4079.rtsw.wash.net.internet2.edu (162.252.70.63)  23.491 ms  23.485 ms internet2.mx1.lon.uk.geant.net (62.40.124.44)  98.168 ms
+ 9  internet2-gw.mx1.lon.uk.geant.net (62.40.124.44)  98.180 ms  98.697 ms  98.633 ms
+10  ae0.mx1.ams.nl.geant.net (62.40.98.81)  105.568 ms  105.563 ms ae1.mx1.ham.de.geant.net (62.40.98.61)  111.916 ms
+11  ae1.mx1.ham.de.geant.net (62.40.98.61)  112.083 ms  112.060 ms dfn-gw.mx1.ham.de.geant.net (62.40.112.146)  122.418 ms
+12  cr-lap1-hundredgige0-2-0-0.x-win.dfn.de (188.1.144.25)  128.260 ms cr-tub1.x-win.dfn.de (62.40.112.146)  122.339 ms cr-lap1-hundredgige0-2-0-0.x-win.dfn.de (188.1.144.25)  128.267 ms
+13  cr-lap1-hundredgige0-2-0-0.x-win.dfn.de (188.1.144.25)  128.246 ms  128.240 ms xr-lap1-pc1.x-win.dfn.de (188.1.144.114)  128.384 ms
+14  xr-jen1-pc3.x-win.dfn.de (188.1.144.234)  129.862 ms xr-lap1-pc1.x-win.dfn.de (188.1.144.114)  128.434 ms xr-jen1-pc3.x-win.dfn.de (188.1.144.234)  130.131 ms
+15  xr-jen1-pc3.x-win.dfn.de (188.1.144.234)  130.247 ms  129.553 ms xr-ilm1-pc2.x-win.dfn.de (188.1.145.42)  130.486 ms
+16  kr-ilm45.x-win.dfn.de (188.1.238.2)  130.265 ms xr-ilm1-pc2.x-win.dfn.de (188.1.145.42)  130.510 ms  130.654 ms
+17  kr-ilm45.x-win.dfn.de (188.1.238.2)  130.365 ms  130.530 ms 141.24.249.141 (141.24.249.141)  130.801 ms
+18  pl2.prakinf.tu-ilmenau.de (141.24.249.131)  130.477 ms  130.590 ms 141.24.249.141 (141.24.249.141)  130.783 ms
+========================================================================================
+========================================================================================
+*****************   TraceRoute   Command     Output ************************************
+----------------------------------------------------------------------------------------
+Sat Apr 22 21:54:08 UTC 2017
+----------------------------------------------------------------------------------------
+traceroute to pl2.prakinf.tu-ilmenau.de (141.24.249.131), 30 hops max, 60 byte packets
+ 1  141.212.113.1 (141.212.113.1)  0.897 ms  1.058 ms  1.181 ms
+ 2  10.224.253.24 (10.224.253.24)  0.296 ms  0.438 ms  0.428 ms
+ 3  l3-binarbl-cool-ipsvrf.r-bin-arbl.umnet.umich.edu (192.12.80.136)  0.512 ms  0.486 ms  0.482 ms
+ 4  l3-binarbl-bincath.r-bin-cath.umnet.umich.edu (192.12.80.13)  0.610 ms  0.603 ms  0.593 ms
+ 5  et-7-3-0.1102.rtsw.clev.net.internet2.edu (198.71.45.249)  15.258 ms  15.256 ms  15.243 ms
+ 6  et-3-0-0.4079.sdn-sw.pitt.net.internet2.edu (162.252.70.51)  18.109 ms  18.157 ms  18.110 ms
+ 7  et-8-3-0.4079.sdn-sw.ashb.net.internet2.edu (162.252.70.52)  23.237 ms  23.254 ms  23.243 ms
+ 8  et-7-0-0.4079.sdn-sw.phil.net.internet2.edu (162.252.70.118)  26.898 ms et-3-1-0.4079.rtsw.wash.net.internet2.edu (162.252.70.63)  23.742 ms et-7-0-0.4079.sdn-sw.phil.net.internet2.edu (162.252.70.118)  26.890 ms
+ 9  et-7-0-0.4079.sdn-sw.phil.net.internet2.edu (162.252.70.118)  26.944 ms et-7-1-0.4079.rtsw.newy32aoa.net.internet2.edu (162.252.70.102)  28.644 ms  28.598 ms
+10  et-7-1-0.4079.rtsw.newy32aoa.net.internet2.edu (162.252.70.102)  28.769 ms  28.698 ms internet2.mx1.ams.nl.geant.net (62.40.124.46)  119.215 ms
+11  internet2.mx1.ams.nl.geant.net (62.40.124.46)  119.305 ms ae1.mx1.ham.de.geant.net (62.40.98.61)  125.851 ms internet2.mx1.ams.nl.geant.net (62.40.124.46)  119.352 ms
+12  ae1.mx1.ham.de.geant.net (62.40.98.61)  125.760 ms cr-tub1.x-win.dfn.de (62.40.112.146)  136.022 ms ae1.mx1.ham.de.geant.net (62.40.98.61)  125.927 ms
+13  cr-tub1.x-win.dfn.de (62.40.112.146)  136.021 ms  136.008 ms  136.325 ms
+14  cr-lap1-hundredgige0-2-0-0.x-win.dfn.de (188.1.144.25)  141.665 ms  141.614 ms  142.062 ms
+15  xr-lap1-pc1.x-win.dfn.de (188.1.144.114)  141.882 ms  142.272 ms  141.951 ms
+16  xr-ilm1-pc2.x-win.dfn.de (188.1.145.42)  144.452 ms xr-jen1-pc3.x-win.dfn.de (188.1.144.234)  144.834 ms xr-ilm1-pc2.x-win.dfn.de (188.1.145.42)  144.387 ms
+17  xr-ilm1-pc2.x-win.dfn.de (188.1.145.42)  144.537 ms  144.621 ms kr-ilm45.x-win.dfn.de (188.1.238.2)  146.755 ms
+18  141.24.249.141 (141.24.249.141)  144.248 ms  144.125 ms kr-ilm45.x-win.dfn.de (188.1.238.2)  146.725 ms
+19  141.24.249.141 (141.24.249.141)  144.343 ms  144.408 ms pl2.prakinf.tu-ilmenau.de (141.24.249.131)  144.013 ms
+========================================================================================
+========================================================================================
+*****************   TraceRoute   Command     Output ************************************
+----------------------------------------------------------------------------------------
+Sat Apr 22 22:54:28 UTC 2017
+----------------------------------------------------------------------------------------
+traceroute to pl2.prakinf.tu-ilmenau.de (141.24.249.131), 30 hops max, 60 byte packets
+ 1  141.212.113.1 (141.212.113.1)  2.180 ms  2.807 ms  3.012 ms
+ 2  10.224.253.24 (10.224.253.24)  0.393 ms  0.253 ms  0.292 ms
+ 3  l3-binarbl-cool-ipsvrf.r-bin-arbl.umnet.umich.edu (192.12.80.136)  0.511 ms  0.506 ms  0.494 ms
+ 4  l3-binarbl-bincath.r-bin-cath.umnet.umich.edu (192.12.80.13)  0.615 ms  0.609 ms  0.599 ms
+ 5  et-7-3-0.1102.rtsw.clev.net.internet2.edu (198.71.45.249)  15.290 ms  15.277 ms  15.237 ms
+ 6  et-3-0-0.4079.sdn-sw.pitt.net.internet2.edu (162.252.70.51)  18.129 ms et-2-0-0.4079.sdn-sw.ashb.net.internet2.edu (162.252.70.54)  22.816 ms  22.821 ms
+ 7  et-8-3-0.4079.sdn-sw.ashb.net.internet2.edu (162.252.70.52)  25.539 ms  25.016 ms et-3-1-0.4079.rtsw.wash.net.internet2.edu (162.252.70.63)  23.625 ms
+ 8  et-3-1-0.4079.rtsw.wash.net.internet2.edu (162.252.70.63)  23.629 ms et-7-0-0.4079.sdn-sw.phil.net.internet2.edu (162.252.70.118)  26.860 ms  26.871 ms
+ 9  et-7-0-0.4079.sdn-sw.phil.net.internet2.edu (162.252.70.118)  26.929 ms et-7-1-0.4079.rtsw.newy32aoa.net.internet2.edu (162.252.70.102)  28.618 ms  28.589 ms
+10  et-7-1-0.4079.rtsw.newy32aoa.net.internet2.edu (162.252.70.102)  28.944 ms  29.281 ms  29.264 ms
+11  internet2.mx1.ams.nl.geant.net (62.40.124.46)  119.353 ms  119.436 ms  119.335 ms
+12  ae1.mx1.ham.de.geant.net (62.40.98.61)  125.676 ms cr-tub1.x-win.dfn.de (62.40.112.146)  136.194 ms ae1.mx1.ham.de.geant.net (62.40.98.61)  125.750 ms
+13  dfn-gw.mx1.ham.de.geant.net (62.40.112.146)  136.236 ms  136.229 ms cr-lap1-hundredgige0-2-0-0.x-win.dfn.de (188.1.144.25)  141.784 ms
+14  xr-lap1-pc1.x-win.dfn.de (188.1.144.114)  142.226 ms  142.341 ms  142.833 ms
+15  xr-lap1-pc1.x-win.dfn.de (188.1.144.114)  142.874 ms  141.935 ms xr-jen1-pc3.x-win.dfn.de (188.1.144.234)  143.275 ms
+16  xr-ilm1-pc2.x-win.dfn.de (188.1.145.42)  144.043 ms xr-jen1-pc3.x-win.dfn.de (188.1.144.234)  143.139 ms xr-ilm1-pc2.x-win.dfn.de (188.1.145.42)  144.068 ms
+17  xr-ilm1-pc2.x-win.dfn.de (188.1.145.42)  144.556 ms kr-ilm45.x-win.dfn.de (188.1.238.2)  144.123 ms  144.046 ms
+18  kr-ilm45.x-win.dfn.de (188.1.238.2)  144.215 ms 141.24.249.141 (141.24.249.141)  144.198 ms  144.193 ms
+19  pl2.prakinf.tu-ilmenau.de (141.24.249.131)  144.053 ms 141.24.249.141 (141.24.249.141)  144.215 ms  144.309 ms
+========================================================================================
+========================================================================================
+*****************   TraceRoute   Command     Output ************************************
+----------------------------------------------------------------------------------------
+Sat Apr 22 23:54:48 UTC 2017
+----------------------------------------------------------------------------------------
+traceroute to pl2.prakinf.tu-ilmenau.de (141.24.249.131), 30 hops max, 60 byte packets
+ 1  141.212.113.1 (141.212.113.1)  0.888 ms  0.924 ms  1.062 ms
+ 2  10.224.253.24 (10.224.253.24)  0.376 ms  0.290 ms  0.273 ms
+ 3  l3-binarbl-cool-ipsvrf.r-bin-arbl.umnet.umich.edu (192.12.80.136)  0.523 ms  0.635 ms  0.611 ms
+ 4  l3-binarbl-bincath.r-bin-cath.umnet.umich.edu (192.12.80.13)  0.669 ms  0.632 ms  0.571 ms
+ 5  et-7-3-0.1102.rtsw.clev.net.internet2.edu (198.71.45.249)  15.278 ms  15.306 ms  15.281 ms
+ 6  et-2-0-0.4079.sdn-sw.ashb.net.internet2.edu (162.252.70.54)  22.785 ms et-3-0-0.4079.sdn-sw.pitt.net.internet2.edu (162.252.70.51)  18.225 ms  18.219 ms
+ 7  et-8-3-0.4079.sdn-sw.ashb.net.internet2.edu (162.252.70.52)  23.166 ms et-3-1-0.4079.rtsw.wash.net.internet2.edu (162.252.70.63)  23.609 ms  23.593 ms
+ 8  et-3-1-0.4079.rtsw.wash.net.internet2.edu (162.252.70.63)  23.580 ms internet2-gw.mx1.lon.uk.geant.net (62.40.124.44)  98.176 ms  98.126 ms
+ 9  internet2.mx1.lon.uk.geant.net (62.40.124.44)  98.438 ms  98.282 ms  98.363 ms
+10  ae0.mx1.ams.nl.geant.net (62.40.98.81)  105.599 ms  105.581 ms  105.581 ms
+11  dfn-gw.mx1.ham.de.geant.net (62.40.112.146)  122.156 ms  122.384 ms  122.368 ms
+12  dfn-gw.mx1.ham.de.geant.net (62.40.112.146)  122.348 ms  122.290 ms cr-lap1-hundredgige0-2-0-0.x-win.dfn.de (188.1.144.25)  127.910 ms
+13  cr-lap1-hundredgige0-2-0-0.x-win.dfn.de (188.1.144.25)  128.381 ms xr-lap1-pc1.x-win.dfn.de (188.1.144.114)  127.918 ms  127.809 ms
+14  xr-jen1-pc3.x-win.dfn.de (188.1.144.234)  129.594 ms  129.472 ms xr-lap1-pc1.x-win.dfn.de (188.1.144.114)  127.921 ms
+15  xr-jen1-pc3.x-win.dfn.de (188.1.144.234)  129.479 ms xr-ilm1-pc2.x-win.dfn.de (188.1.145.42)  130.510 ms  130.481 ms
+16  xr-ilm1-pc2.x-win.dfn.de (188.1.145.42)  130.563 ms kr-ilm45.x-win.dfn.de (188.1.238.2)  130.279 ms  130.374 ms
+17  141.24.249.141 (141.24.249.141)  130.584 ms kr-ilm45.x-win.dfn.de (188.1.238.2)  130.369 ms 141.24.249.141 (141.24.249.141)  130.562 ms
+18  pl2.prakinf.tu-ilmenau.de (141.24.249.131)  130.333 ms 141.24.249.141 (141.24.249.141)  130.569 ms pl2.prakinf.tu-ilmenau.de (141.24.249.131)  130.296 ms
+========================================================================================
+========================================================================================

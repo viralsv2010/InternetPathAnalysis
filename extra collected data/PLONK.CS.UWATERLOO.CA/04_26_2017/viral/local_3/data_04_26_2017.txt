@@ -1,0 +1,403 @@
+*****************       Ping    Command     Output ************************************
+----------------------------------------------------------------------------------------
+Wed Apr 26 00:18:14 UTC 2017
+----------------------------------------------------------------------------------------
+PING PLANETLAB1.CS.PURDUE.edu (128.10.18.52) 56(84) bytes of data.
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=1 ttl=48 time=33.5 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=2 ttl=48 time=33.6 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=3 ttl=48 time=42.3 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=4 ttl=48 time=33.8 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=5 ttl=48 time=33.3 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=6 ttl=48 time=33.6 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=7 ttl=48 time=33.6 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=8 ttl=48 time=33.6 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=9 ttl=48 time=33.8 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=10 ttl=48 time=33.6 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=11 ttl=48 time=38.3 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=12 ttl=48 time=35.8 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=13 ttl=48 time=33.1 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=14 ttl=48 time=37.6 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=15 ttl=48 time=33.6 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=16 ttl=48 time=42.1 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=17 ttl=48 time=33.1 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=18 ttl=48 time=33.8 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=19 ttl=48 time=46.0 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=20 ttl=48 time=33.3 ms
+
+--- PLANETLAB1.CS.PURDUE.edu ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19029ms
+rtt min/avg/max/mdev = 33.124/35.613/46.052/3.659 ms
+========================================================================================
+========================================================================================
+*****************       Ping    Command     Output ************************************
+----------------------------------------------------------------------------------------
+Wed Apr 26 01:18:38 UTC 2017
+----------------------------------------------------------------------------------------
+PING PLANETLAB1.CS.PURDUE.edu (128.10.18.52) 56(84) bytes of data.
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=1 ttl=48 time=33.5 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=2 ttl=48 time=33.6 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=3 ttl=48 time=34.6 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=4 ttl=48 time=36.9 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=5 ttl=48 time=44.6 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=6 ttl=48 time=37.8 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=7 ttl=48 time=34.6 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=8 ttl=48 time=33.1 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=9 ttl=48 time=38.0 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=10 ttl=48 time=34.1 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=11 ttl=48 time=41.8 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=12 ttl=48 time=35.3 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=13 ttl=48 time=35.2 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=14 ttl=48 time=40.1 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=15 ttl=48 time=33.1 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=16 ttl=48 time=45.6 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=17 ttl=48 time=48.3 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=18 ttl=48 time=42.1 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=19 ttl=48 time=36.6 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=20 ttl=48 time=33.6 ms
+
+--- PLANETLAB1.CS.PURDUE.edu ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19025ms
+rtt min/avg/max/mdev = 33.171/37.667/48.393/4.495 ms
+========================================================================================
+========================================================================================
+*****************       Ping    Command     Output ************************************
+----------------------------------------------------------------------------------------
+Wed Apr 26 02:19:03 UTC 2017
+----------------------------------------------------------------------------------------
+PING PLANETLAB1.CS.PURDUE.edu (128.10.18.52) 56(84) bytes of data.
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=1 ttl=48 time=35.5 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=2 ttl=48 time=36.3 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=3 ttl=48 time=42.8 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=4 ttl=48 time=41.1 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=5 ttl=48 time=46.8 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=6 ttl=48 time=35.1 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=7 ttl=48 time=38.7 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=8 ttl=48 time=36.1 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=9 ttl=48 time=44.0 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=10 ttl=48 time=36.3 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=11 ttl=48 time=45.0 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=12 ttl=48 time=48.3 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=13 ttl=48 time=35.6 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=14 ttl=48 time=39.5 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=15 ttl=48 time=43.3 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=16 ttl=48 time=34.8 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=17 ttl=48 time=42.1 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=18 ttl=48 time=36.6 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=19 ttl=48 time=34.8 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=20 ttl=48 time=36.3 ms
+
+--- PLANETLAB1.CS.PURDUE.edu ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19027ms
+rtt min/avg/max/mdev = 34.884/39.517/48.392/4.250 ms
+========================================================================================
+========================================================================================
+*****************       Ping    Command     Output ************************************
+----------------------------------------------------------------------------------------
+Wed Apr 26 03:19:27 UTC 2017
+----------------------------------------------------------------------------------------
+PING PLANETLAB1.CS.PURDUE.edu (128.10.18.52) 56(84) bytes of data.
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=1 ttl=48 time=34.5 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=2 ttl=48 time=35.9 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=3 ttl=48 time=51.1 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=4 ttl=48 time=54.3 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=5 ttl=48 time=51.3 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=6 ttl=48 time=35.9 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=7 ttl=48 time=34.5 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=8 ttl=48 time=35.3 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=9 ttl=48 time=34.6 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=10 ttl=48 time=39.7 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=11 ttl=48 time=60.9 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=12 ttl=48 time=35.9 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=13 ttl=48 time=50.3 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=14 ttl=48 time=39.8 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=15 ttl=48 time=39.1 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=16 ttl=48 time=39.7 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=17 ttl=48 time=42.6 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=18 ttl=48 time=41.6 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=19 ttl=48 time=41.6 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=20 ttl=48 time=43.1 ms
+
+--- PLANETLAB1.CS.PURDUE.edu ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19022ms
+rtt min/avg/max/mdev = 34.520/42.129/60.905/7.395 ms
+========================================================================================
+========================================================================================
+*****************       Ping    Command     Output ************************************
+----------------------------------------------------------------------------------------
+Wed Apr 26 04:19:51 UTC 2017
+----------------------------------------------------------------------------------------
+PING PLANETLAB1.CS.PURDUE.edu (128.10.18.52) 56(84) bytes of data.
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=1 ttl=48 time=40.5 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=2 ttl=48 time=35.8 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=3 ttl=48 time=48.3 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=4 ttl=48 time=38.3 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=5 ttl=48 time=41.3 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=6 ttl=48 time=35.1 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=7 ttl=48 time=35.3 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=8 ttl=48 time=38.6 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=9 ttl=48 time=35.8 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=10 ttl=48 time=47.0 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=11 ttl=48 time=49.2 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=12 ttl=48 time=59.6 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=13 ttl=48 time=43.5 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=14 ttl=48 time=48.7 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=15 ttl=48 time=50.0 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=16 ttl=48 time=85.3 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=17 ttl=48 time=53.6 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=18 ttl=48 time=54.8 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=19 ttl=48 time=50.1 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=20 ttl=48 time=51.8 ms
+
+--- PLANETLAB1.CS.PURDUE.edu ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19025ms
+rtt min/avg/max/mdev = 35.170/47.186/85.337/11.265 ms
+========================================================================================
+========================================================================================
+*****************       Ping    Command     Output ************************************
+----------------------------------------------------------------------------------------
+Wed Apr 26 05:20:16 UTC 2017
+----------------------------------------------------------------------------------------
+PING PLANETLAB1.CS.PURDUE.edu (128.10.18.52) 56(84) bytes of data.
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=1 ttl=48 time=38.8 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=2 ttl=48 time=34.5 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=3 ttl=48 time=37.1 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=4 ttl=48 time=39.6 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=5 ttl=48 time=33.3 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=6 ttl=48 time=33.3 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=7 ttl=48 time=44.6 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=8 ttl=48 time=47.8 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=9 ttl=48 time=43.9 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=10 ttl=48 time=35.8 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=11 ttl=48 time=35.4 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=12 ttl=48 time=41.6 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=13 ttl=48 time=33.6 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=14 ttl=48 time=38.8 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=15 ttl=48 time=45.3 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=16 ttl=48 time=46.6 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=17 ttl=48 time=36.1 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=18 ttl=48 time=36.1 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=19 ttl=48 time=35.9 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=20 ttl=48 time=44.8 ms
+
+--- PLANETLAB1.CS.PURDUE.edu ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19030ms
+rtt min/avg/max/mdev = 33.373/39.194/47.888/4.680 ms
+========================================================================================
+========================================================================================
+*****************       Ping    Command     Output ************************************
+----------------------------------------------------------------------------------------
+Wed Apr 26 06:20:40 UTC 2017
+----------------------------------------------------------------------------------------
+PING PLANETLAB1.CS.PURDUE.edu (128.10.18.52) 56(84) bytes of data.
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=1 ttl=48 time=45.8 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=2 ttl=48 time=37.6 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=3 ttl=48 time=36.1 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=4 ttl=48 time=38.6 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=5 ttl=48 time=41.2 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=6 ttl=48 time=39.1 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=7 ttl=48 time=46.3 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=8 ttl=48 time=34.1 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=9 ttl=48 time=33.4 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=10 ttl=48 time=55.0 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=11 ttl=48 time=35.1 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=12 ttl=48 time=33.6 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=13 ttl=48 time=33.3 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=14 ttl=48 time=33.0 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=15 ttl=48 time=33.8 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=16 ttl=48 time=33.3 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=17 ttl=48 time=33.5 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=18 ttl=48 time=33.8 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=19 ttl=48 time=33.6 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=20 ttl=48 time=88.3 ms
+
+--- PLANETLAB1.CS.PURDUE.edu ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19027ms
+rtt min/avg/max/mdev = 33.092/39.974/88.359/12.450 ms
+========================================================================================
+========================================================================================
+*****************       Ping    Command     Output ************************************
+----------------------------------------------------------------------------------------
+Wed Apr 26 07:21:04 UTC 2017
+----------------------------------------------------------------------------------------
+PING PLANETLAB1.CS.PURDUE.edu (128.10.18.52) 56(84) bytes of data.
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=1 ttl=48 time=47.3 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=2 ttl=48 time=33.8 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=3 ttl=48 time=33.3 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=4 ttl=48 time=34.6 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=5 ttl=48 time=38.4 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=6 ttl=48 time=33.1 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=7 ttl=48 time=35.6 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=8 ttl=48 time=35.8 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=9 ttl=48 time=45.5 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=10 ttl=48 time=36.8 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=11 ttl=48 time=42.3 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=12 ttl=48 time=37.1 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=13 ttl=48 time=33.6 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=14 ttl=48 time=33.8 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=15 ttl=48 time=36.4 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=16 ttl=48 time=37.8 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=17 ttl=48 time=43.8 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=18 ttl=48 time=38.1 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=19 ttl=48 time=33.6 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=20 ttl=48 time=33.6 ms
+
+--- PLANETLAB1.CS.PURDUE.edu ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19028ms
+rtt min/avg/max/mdev = 33.143/37.266/47.344/4.191 ms
+========================================================================================
+========================================================================================
+*****************       Ping    Command     Output ************************************
+----------------------------------------------------------------------------------------
+Wed Apr 26 08:21:29 UTC 2017
+----------------------------------------------------------------------------------------
+PING PLANETLAB1.CS.PURDUE.edu (128.10.18.52) 56(84) bytes of data.
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=1 ttl=48 time=36.3 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=2 ttl=48 time=33.3 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=3 ttl=48 time=45.6 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=4 ttl=48 time=35.1 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=5 ttl=48 time=33.3 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=6 ttl=48 time=33.3 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=7 ttl=48 time=35.6 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=8 ttl=48 time=40.9 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=9 ttl=48 time=33.6 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=10 ttl=48 time=33.3 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=11 ttl=48 time=33.7 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=12 ttl=48 time=41.6 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=13 ttl=48 time=59.4 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=14 ttl=48 time=59.8 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=15 ttl=48 time=34.6 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=16 ttl=48 time=59.3 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=17 ttl=48 time=35.1 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=18 ttl=48 time=45.1 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=19 ttl=48 time=33.6 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=20 ttl=48 time=35.6 ms
+
+--- PLANETLAB1.CS.PURDUE.edu ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19027ms
+rtt min/avg/max/mdev = 33.374/39.951/59.897/9.033 ms
+========================================================================================
+========================================================================================
+*****************       Ping    Command     Output ************************************
+----------------------------------------------------------------------------------------
+Wed Apr 26 09:21:53 UTC 2017
+----------------------------------------------------------------------------------------
+PING PLANETLAB1.CS.PURDUE.edu (128.10.18.52) 56(84) bytes of data.
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=1 ttl=48 time=33.4 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=2 ttl=48 time=35.9 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=3 ttl=48 time=39.9 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=4 ttl=48 time=35.2 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=5 ttl=48 time=43.8 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=6 ttl=48 time=40.8 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=7 ttl=48 time=33.6 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=8 ttl=48 time=43.3 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=9 ttl=48 time=55.3 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=10 ttl=48 time=38.8 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=11 ttl=48 time=51.1 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=12 ttl=48 time=44.4 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=13 ttl=48 time=41.4 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=14 ttl=48 time=43.8 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=15 ttl=48 time=37.1 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=16 ttl=48 time=33.6 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=17 ttl=48 time=35.1 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=18 ttl=48 time=35.1 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=19 ttl=48 time=34.4 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=20 ttl=48 time=52.3 ms
+
+--- PLANETLAB1.CS.PURDUE.edu ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19027ms
+rtt min/avg/max/mdev = 33.404/40.455/55.366/6.418 ms
+========================================================================================
+========================================================================================
+*****************       Ping    Command     Output ************************************
+----------------------------------------------------------------------------------------
+Wed Apr 26 10:22:13 UTC 2017
+----------------------------------------------------------------------------------------
+PING PLANETLAB1.CS.PURDUE.edu (128.10.18.52) 56(84) bytes of data.
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=1 ttl=48 time=34.8 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=2 ttl=48 time=44.4 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=3 ttl=48 time=33.3 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=4 ttl=48 time=39.8 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=5 ttl=48 time=36.4 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=6 ttl=48 time=49.9 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=7 ttl=48 time=35.1 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=8 ttl=48 time=34.1 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=9 ttl=48 time=37.8 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=10 ttl=48 time=45.8 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=11 ttl=48 time=44.8 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=12 ttl=48 time=34.1 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=13 ttl=48 time=36.1 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=14 ttl=48 time=33.0 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=15 ttl=48 time=33.6 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=16 ttl=48 time=33.1 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=17 ttl=48 time=33.6 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=18 ttl=48 time=33.8 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=19 ttl=48 time=33.6 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=20 ttl=48 time=33.5 ms
+
+--- PLANETLAB1.CS.PURDUE.edu ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19024ms
+rtt min/avg/max/mdev = 33.094/37.078/49.907/4.988 ms
+========================================================================================
+========================================================================================
+*****************       Ping    Command     Output ************************************
+----------------------------------------------------------------------------------------
+Wed Apr 26 11:22:37 UTC 2017
+----------------------------------------------------------------------------------------
+PING PLANETLAB1.CS.PURDUE.edu (128.10.18.52) 56(84) bytes of data.
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=1 ttl=48 time=33.5 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=2 ttl=48 time=36.6 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=3 ttl=48 time=33.3 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=4 ttl=48 time=33.6 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=5 ttl=48 time=33.5 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=6 ttl=48 time=44.6 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=7 ttl=48 time=33.8 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=8 ttl=48 time=33.3 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=9 ttl=48 time=35.3 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=10 ttl=48 time=34.1 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=11 ttl=48 time=33.9 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=12 ttl=48 time=33.8 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=13 ttl=48 time=43.1 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=14 ttl=48 time=35.3 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=15 ttl=48 time=41.3 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=16 ttl=48 time=33.8 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=17 ttl=48 time=35.7 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=18 ttl=48 time=33.6 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=19 ttl=48 time=36.8 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=20 ttl=48 time=43.6 ms
+
+--- PLANETLAB1.CS.PURDUE.edu ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19030ms
+rtt min/avg/max/mdev = 33.370/36.175/44.641/3.698 ms
+========================================================================================
+========================================================================================
+*****************       Ping    Command     Output ************************************
+----------------------------------------------------------------------------------------
+Wed Apr 26 12:23:02 UTC 2017
+----------------------------------------------------------------------------------------
+PING PLANETLAB1.CS.PURDUE.edu (128.10.18.52) 56(84) bytes of data.
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=1 ttl=48 time=36.8 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=2 ttl=48 time=34.1 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=3 ttl=48 time=60.1 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=4 ttl=48 time=33.6 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=5 ttl=48 time=33.8 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=6 ttl=48 time=33.6 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=7 ttl=48 time=42.8 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=8 ttl=48 time=37.1 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=9 ttl=48 time=43.3 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=10 ttl=48 time=58.3 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=11 ttl=48 time=52.1 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=12 ttl=48 time=60.1 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=13 ttl=48 time=52.6 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=14 ttl=48 time=35.6 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=15 ttl=48 time=33.3 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=16 ttl=48 time=46.3 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=17 ttl=48 time=36.3 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=18 ttl=48 time=43.1 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=19 ttl=48 time=45.6 ms
+64 bytes from planetlab1.cs.purdue.edu (128.10.18.52): icmp_seq=20 ttl=48 time=36.8 ms
+
+--- PLANETLAB1.CS.PURDUE.edu ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19027ms
+rtt min/avg/max/mdev = 33.375/42.813/60.141/9.098 ms
+========================================================================================
+========================================================================================

@@ -1,0 +1,744 @@
+*****************   TraceRoute   Command     Output ************************************
+----------------------------------------------------------------------------------------
+Wed Apr 19 00:06:52 UTC 2017
+----------------------------------------------------------------------------------------
+traceroute to PL1.ENG.MONASH.EDU.AU (130.194.252.8), 30 hops max, 60 byte packets
+ 1  gates-agg-vlan110.net.cs.cmu.edu (128.2.208.1)  0.361 ms  0.339 ms  0.343 ms
+ 2  CORE255-POD-A.GW.CMU.NET (128.2.255.153)  0.407 ms  0.376 ms  0.375 ms
+ 3  WEAN-CORE-CORE255-VRF.GW.CMU.NET (128.2.255.134)  1.778 ms  1.775 ms  1.756 ms
+ 4  CORE0-WEAN-CORE.GW.CMU.NET (128.2.0.129)  0.393 ms CORE255-WEAN-CORE.GW.CMU.NET (128.2.255.129)  0.340 ms CORE0-WEAN-CORE.GW.CMU.NET (128.2.0.129)  0.318 ms
+ 5  POD-I-DCNS-CORE255.GW.CMU.NET (128.2.255.194)  35.057 ms POD-I-CYH-CORE0.GW.CMU.NET (128.2.0.250)  0.310 ms POD-I-DCNS-CORE255.GW.CMU.NET (128.2.255.194)  34.935 ms
+ 6  162.223.17.78 (162.223.17.78)  10.450 ms  10.470 ms 162.223.17.106 (162.223.17.106)  36.387 ms
+ 7  204.238.76.45 (204.238.76.45)  10.493 ms  10.651 ms  10.512 ms
+ 8  204.238.76.34 (204.238.76.34)  14.120 ms  14.157 ms  14.093 ms
+ 9  et-8-1-0.4079.sdn-sw.ashb.net.internet2.edu (162.252.70.62)  14.434 ms et-9-0-0.4079.sdn-sw.ashb.net.internet2.edu (162.252.70.66)  14.475 ms  14.565 ms
+10  et-2-1-0.4079.rtsw.clev.net.internet2.edu (162.252.70.55)  22.308 ms  22.356 ms  22.450 ms
+11  et-3-0-0.4079.sdn-sw.eqch.net.internet2.edu (162.252.70.113)  31.401 ms  31.334 ms  31.241 ms
+12  et-7-0-0.4079.sdn-sw.minn.net.internet2.edu (162.252.70.107)  39.213 ms  39.043 ms  38.963 ms
+13  et-7-0-0.4079.sdn-sw.miss2.net.internet2.edu (162.252.70.59)  62.323 ms  62.394 ms  62.167 ms
+14  et-4-1-0.4079.rtsw.seat.net.internet2.edu (162.252.70.1)  72.408 ms  72.452 ms  72.395 ms
+15  aarnet-2-lo-jmb-706.sttlwa.pacificwave.net (207.231.240.4)  72.736 ms  72.826 ms  72.796 ms
+16  et-2-0-0.pe1.a.hnl.aarnet.net.au (113.197.15.200)  124.356 ms  124.247 ms  124.241 ms
+17  et-2-1-0.pe1.sxt.bkvl.nsw.aarnet.net.au (113.197.15.98)  219.040 ms  219.001 ms  218.950 ms
+18  et-2-3-0.pe1.mcqp.nsw.aarnet.net.au (113.197.15.144)  217.811 ms  217.774 ms *
+19  et-0-3-0.pe1.eskp.nsw.aarnet.net.au (113.197.15.3)  218.964 ms  218.827 ms  218.877 ms
+20  et-0-3-0.pe1.wmlb.vic.aarnet.net.au (113.197.15.9)  230.204 ms  230.215 ms  230.320 ms
+21  gw1.xe-5-0-1-202.pe1.wmlb.vic.aarnet.net.au (138.44.64.55)  230.619 ms  230.831 ms  230.697 ms
+22  * * *
+23  * * *
+24  pl1.eng.monash.edu.au (130.194.252.8)  230.634 ms  230.612 ms  230.584 ms
+========================================================================================
+========================================================================================
+*****************   TraceRoute   Command     Output ************************************
+----------------------------------------------------------------------------------------
+Wed Apr 19 01:07:16 UTC 2017
+----------------------------------------------------------------------------------------
+traceroute to PL1.ENG.MONASH.EDU.AU (130.194.252.8), 30 hops max, 60 byte packets
+ 1  gates-agg-vlan110.net.cs.cmu.edu (128.2.208.1)  5.487 ms  5.493 ms  5.471 ms
+ 2  CORE255-POD-A.GW.CMU.NET (128.2.255.153)  0.398 ms  0.387 ms  0.368 ms
+ 3  WEAN-CORE-CORE255-VRF.GW.CMU.NET (128.2.255.134)  1.756 ms  1.744 ms  1.745 ms
+ 4  CORE0-WEAN-CORE.GW.CMU.NET (128.2.0.129)  0.419 ms  0.399 ms  0.409 ms
+ 5  POD-I-DCNS-CORE255.GW.CMU.NET (128.2.255.194)  55.210 ms POD-I-CYH-CORE0.GW.CMU.NET (128.2.0.250)  9.255 ms POD-I-DCNS-CORE255.GW.CMU.NET (128.2.255.194)  55.168 ms
+ 6  162.223.17.106 (162.223.17.106)  10.273 ms  10.277 ms 162.223.17.78 (162.223.17.78)  10.382 ms
+ 7  204.238.76.45 (204.238.76.45)  10.536 ms  10.473 ms  10.522 ms
+ 8  204.238.76.34 (204.238.76.34)  13.915 ms  13.913 ms  14.001 ms
+ 9  et-8-1-0.4079.sdn-sw.ashb.net.internet2.edu (162.252.70.62)  14.622 ms et-9-0-0.4079.sdn-sw.ashb.net.internet2.edu (162.252.70.66)  14.573 ms et-11-3-0.4079.sdn-sw.ashb.net.internet2.edu (162.252.70.64)  14.507 ms
+10  et-2-1-0.4079.rtsw.clev.net.internet2.edu (162.252.70.55)  22.257 ms  22.239 ms  22.433 ms
+11  et-3-0-0.4079.sdn-sw.eqch.net.internet2.edu (162.252.70.113)  31.186 ms  31.183 ms  31.372 ms
+12  et-7-0-0.4079.sdn-sw.minn.net.internet2.edu (162.252.70.107)  39.208 ms  38.981 ms  39.013 ms
+13  et-7-0-0.4079.sdn-sw.miss2.net.internet2.edu (162.252.70.59)  62.326 ms  62.288 ms  62.140 ms
+14  et-4-1-0.4079.rtsw.seat.net.internet2.edu (162.252.70.1)  72.416 ms  72.388 ms  72.363 ms
+15  aarnet-2-lo-jmb-706.sttlwa.pacificwave.net (207.231.240.4)  72.721 ms  72.695 ms  72.785 ms
+16  et-2-0-0.pe1.a.hnl.aarnet.net.au (113.197.15.200)  124.202 ms  124.402 ms  124.259 ms
+17  et-2-1-0.pe1.sxt.bkvl.nsw.aarnet.net.au (113.197.15.98)  217.237 ms  217.496 ms  217.361 ms
+18  et-2-3-0.pe1.mcqp.nsw.aarnet.net.au (113.197.15.144)  217.681 ms  217.743 ms  217.749 ms
+19  et-0-3-0.pe1.eskp.nsw.aarnet.net.au (113.197.15.3)  219.194 ms  219.169 ms  219.109 ms
+20  et-0-3-0.pe1.wmlb.vic.aarnet.net.au (113.197.15.9)  230.177 ms  230.043 ms  230.042 ms
+21  gw1.xe-5-0-1-202.pe1.wmlb.vic.aarnet.net.au (138.44.64.55)  231.225 ms  231.148 ms  231.522 ms
+22  * * *
+23  * * *
+24  pl1.eng.monash.edu.au (130.194.252.8)  230.629 ms  230.696 ms  230.681 ms
+========================================================================================
+========================================================================================
+*****************   TraceRoute   Command     Output ************************************
+----------------------------------------------------------------------------------------
+Wed Apr 19 02:07:41 UTC 2017
+----------------------------------------------------------------------------------------
+traceroute to PL1.ENG.MONASH.EDU.AU (130.194.252.8), 30 hops max, 60 byte packets
+ 1  gates-agg-vlan110.net.cs.cmu.edu (128.2.208.1)  0.695 ms  0.759 ms  0.901 ms
+ 2  CORE255-POD-A.GW.CMU.NET (128.2.255.153)  0.366 ms  0.359 ms  0.438 ms
+ 3  WEAN-CORE-CORE255-VRF.GW.CMU.NET (128.2.255.134)  1.758 ms  1.776 ms  1.799 ms
+ 4  CORE0-WEAN-CORE.GW.CMU.NET (128.2.0.129)  0.378 ms CORE255-WEAN-CORE.GW.CMU.NET (128.2.255.129)  0.336 ms CORE0-WEAN-CORE.GW.CMU.NET (128.2.0.129)  0.372 ms
+ 5  POD-I-CYH-CORE0.GW.CMU.NET (128.2.0.250)  26.419 ms POD-I-DCNS-CORE255.GW.CMU.NET (128.2.255.194)  364.184 ms  364.189 ms
+ 6  162.223.17.78 (162.223.17.78)  10.649 ms  10.612 ms  10.580 ms
+ 7  204.238.76.45 (204.238.76.45)  11.955 ms  11.871 ms  10.603 ms
+ 8  204.238.76.34 (204.238.76.34)  14.037 ms  13.900 ms  14.076 ms
+ 9  et-11-3-0.4079.sdn-sw.ashb.net.internet2.edu (162.252.70.64)  14.589 ms et-9-0-0.4079.sdn-sw.ashb.net.internet2.edu (162.252.70.66)  14.572 ms et-11-3-0.4079.sdn-sw.ashb.net.internet2.edu (162.252.70.64)  14.383 ms
+10  et-2-1-0.4079.rtsw.clev.net.internet2.edu (162.252.70.55)  22.309 ms  22.265 ms  22.316 ms
+11  et-3-0-0.4079.sdn-sw.eqch.net.internet2.edu (162.252.70.113)  31.406 ms  31.244 ms  31.311 ms
+12  et-7-0-0.4079.sdn-sw.minn.net.internet2.edu (162.252.70.107)  39.386 ms  39.102 ms  39.192 ms
+13  et-7-0-0.4079.sdn-sw.miss2.net.internet2.edu (162.252.70.59)  62.189 ms  62.273 ms  62.134 ms
+14  et-4-1-0.4079.rtsw.seat.net.internet2.edu (162.252.70.1)  72.322 ms  72.398 ms  72.391 ms
+15  aarnet-2-lo-jmb-706.sttlwa.pacificwave.net (207.231.240.4)  72.498 ms  72.515 ms  72.668 ms
+16  et-2-0-0.pe1.a.hnl.aarnet.net.au (113.197.15.200)  124.488 ms  124.142 ms  124.314 ms
+17  et-2-1-0.pe1.sxt.bkvl.nsw.aarnet.net.au (113.197.15.98)  217.458 ms  217.425 ms  217.350 ms
+18  et-2-3-0.pe1.mcqp.nsw.aarnet.net.au (113.197.15.144)  217.797 ms  217.712 ms  217.605 ms
+19  et-0-3-0.pe1.eskp.nsw.aarnet.net.au (113.197.15.3)  218.890 ms  218.935 ms  218.881 ms
+20  et-0-3-0.pe1.wmlb.vic.aarnet.net.au (113.197.15.9)  230.092 ms  229.967 ms  229.938 ms
+21  gw1.xe-5-0-1-202.pe1.wmlb.vic.aarnet.net.au (138.44.64.55)  230.586 ms  230.521 ms  230.629 ms
+22  * * *
+23  * * *
+24  pl1.eng.monash.edu.au (130.194.252.8)  230.737 ms  230.667 ms  230.738 ms
+========================================================================================
+========================================================================================
+*****************   TraceRoute   Command     Output ************************************
+----------------------------------------------------------------------------------------
+Wed Apr 19 03:08:06 UTC 2017
+----------------------------------------------------------------------------------------
+traceroute to PL1.ENG.MONASH.EDU.AU (130.194.252.8), 30 hops max, 60 byte packets
+ 1  gates-agg-vlan110.net.cs.cmu.edu (128.2.208.1)  0.354 ms  0.386 ms  0.361 ms
+ 2  CORE255-POD-A.GW.CMU.NET (128.2.255.153)  0.388 ms  0.412 ms  0.411 ms
+ 3  WEAN-CORE-CORE255-VRF.GW.CMU.NET (128.2.255.134)  1.808 ms  1.811 ms  1.807 ms
+ 4  CORE255-WEAN-CORE.GW.CMU.NET (128.2.255.129)  0.408 ms  0.341 ms CORE0-WEAN-CORE.GW.CMU.NET (128.2.0.129)  0.367 ms
+ 5  POD-I-CYH-CORE0.GW.CMU.NET (128.2.0.250)  0.769 ms POD-I-DCNS-CORE255.GW.CMU.NET (128.2.255.194)  0.425 ms  0.581 ms
+ 6  162.223.17.78 (162.223.17.78)  10.633 ms  10.499 ms  10.458 ms
+ 7  204.238.76.45 (204.238.76.45)  10.551 ms  10.521 ms  10.476 ms
+ 8  204.238.76.34 (204.238.76.34)  14.234 ms  13.880 ms  13.860 ms
+ 9  et-11-3-0.4079.sdn-sw.ashb.net.internet2.edu (162.252.70.64)  14.564 ms et-8-1-0.4079.sdn-sw.ashb.net.internet2.edu (162.252.70.62)  14.637 ms  14.653 ms
+10  et-2-1-0.4079.rtsw.clev.net.internet2.edu (162.252.70.55)  22.644 ms  22.480 ms  22.446 ms
+11  et-3-0-0.4079.sdn-sw.eqch.net.internet2.edu (162.252.70.113)  31.275 ms  31.174 ms  31.383 ms
+12  et-7-0-0.4079.sdn-sw.minn.net.internet2.edu (162.252.70.107)  39.311 ms  39.294 ms  39.223 ms
+13  et-7-0-0.4079.sdn-sw.miss2.net.internet2.edu (162.252.70.59)  62.509 ms  62.371 ms  62.368 ms
+14  et-4-1-0.4079.rtsw.seat.net.internet2.edu (162.252.70.1)  72.490 ms  72.502 ms  72.470 ms
+15  aarnet-2-lo-jmb-706.sttlwa.pacificwave.net (207.231.240.4)  72.810 ms  72.408 ms  72.626 ms
+16  et-2-0-0.pe1.a.hnl.aarnet.net.au (113.197.15.200)  124.509 ms  124.419 ms  124.441 ms
+17  et-2-1-0.pe1.sxt.bkvl.nsw.aarnet.net.au (113.197.15.98)  217.437 ms  217.461 ms  217.087 ms
+18  et-2-3-0.pe1.mcqp.nsw.aarnet.net.au (113.197.15.144)  217.553 ms  217.899 ms  217.623 ms
+19  et-0-3-0.pe1.eskp.nsw.aarnet.net.au (113.197.15.3)  218.817 ms  218.902 ms  218.821 ms
+20  et-0-3-0.pe1.wmlb.vic.aarnet.net.au (113.197.15.9)  229.972 ms  230.032 ms  229.958 ms
+21  gw1.xe-5-0-1-202.pe1.wmlb.vic.aarnet.net.au (138.44.64.55)  230.669 ms * *
+22  * * *
+23  * * *
+24  pl1.eng.monash.edu.au (130.194.252.8)  230.505 ms  230.867 ms  230.699 ms
+========================================================================================
+========================================================================================
+*****************   TraceRoute   Command     Output ************************************
+----------------------------------------------------------------------------------------
+Wed Apr 19 04:08:31 UTC 2017
+----------------------------------------------------------------------------------------
+traceroute to PL1.ENG.MONASH.EDU.AU (130.194.252.8), 30 hops max, 60 byte packets
+ 1  gates-agg-vlan110.net.cs.cmu.edu (128.2.208.1)  0.365 ms  0.340 ms  0.330 ms
+ 2  CORE255-POD-A.GW.CMU.NET (128.2.255.153)  0.353 ms  0.372 ms  0.444 ms
+ 3  WEAN-CORE-CORE255-VRF.GW.CMU.NET (128.2.255.134)  1.771 ms  1.755 ms  1.754 ms
+ 4  CORE255-WEAN-CORE.GW.CMU.NET (128.2.255.129)  0.358 ms CORE0-WEAN-CORE.GW.CMU.NET (128.2.0.129)  0.418 ms  0.351 ms
+ 5  POD-I-CYH-CORE0.GW.CMU.NET (128.2.0.250)  84.474 ms POD-I-DCNS-CORE255.GW.CMU.NET (128.2.255.194)  2.894 ms  2.816 ms
+ 6  162.223.17.106 (162.223.17.106)  10.270 ms  10.290 ms 162.223.17.78 (162.223.17.78)  10.406 ms
+ 7  204.238.76.45 (204.238.76.45)  10.769 ms  10.754 ms  10.526 ms
+ 8  204.238.76.34 (204.238.76.34)  13.924 ms  14.050 ms  14.070 ms
+ 9  et-11-3-0.4079.sdn-sw.ashb.net.internet2.edu (162.252.70.64)  14.419 ms et-9-0-0.4079.sdn-sw.ashb.net.internet2.edu (162.252.70.66)  15.552 ms et-8-1-0.4079.sdn-sw.ashb.net.internet2.edu (162.252.70.62)  14.602 ms
+10  et-2-1-0.4079.rtsw.clev.net.internet2.edu (162.252.70.55)  25.025 ms  24.953 ms  24.872 ms
+11  et-3-0-0.4079.sdn-sw.eqch.net.internet2.edu (162.252.70.113)  31.427 ms  31.753 ms  31.784 ms
+12  et-7-0-0.4079.sdn-sw.minn.net.internet2.edu (162.252.70.107)  38.973 ms  39.147 ms  39.103 ms
+13  et-7-0-0.4079.sdn-sw.miss2.net.internet2.edu (162.252.70.59)  62.386 ms  62.160 ms  62.240 ms
+14  et-4-1-0.4079.rtsw.seat.net.internet2.edu (162.252.70.1)  72.344 ms  72.489 ms  72.653 ms
+15  aarnet-2-lo-jmb-706.sttlwa.pacificwave.net (207.231.240.4)  72.747 ms  72.665 ms  72.655 ms
+16  et-2-0-0.pe1.a.hnl.aarnet.net.au (113.197.15.200)  124.312 ms  124.345 ms  124.211 ms
+17  et-2-1-0.pe1.sxt.bkvl.nsw.aarnet.net.au (113.197.15.98)  217.764 ms  217.538 ms  217.483 ms
+18  et-2-3-0.pe1.mcqp.nsw.aarnet.net.au (113.197.15.144)  217.761 ms  217.765 ms  217.818 ms
+19  et-0-3-0.pe1.eskp.nsw.aarnet.net.au (113.197.15.3)  219.047 ms  218.890 ms  218.904 ms
+20  et-0-3-0.pe1.wmlb.vic.aarnet.net.au (113.197.15.9)  230.316 ms  230.135 ms  230.276 ms
+21  gw1.xe-5-0-1-202.pe1.wmlb.vic.aarnet.net.au (138.44.64.55)  231.224 ms  230.999 ms  231.272 ms
+22  * * *
+23  * * *
+24  pl1.eng.monash.edu.au (130.194.252.8)  230.827 ms  230.999 ms  230.671 ms
+========================================================================================
+========================================================================================
+*****************   TraceRoute   Command     Output ************************************
+----------------------------------------------------------------------------------------
+Wed Apr 19 05:08:56 UTC 2017
+----------------------------------------------------------------------------------------
+traceroute to PL1.ENG.MONASH.EDU.AU (130.194.252.8), 30 hops max, 60 byte packets
+ 1  gates-agg-vlan110.net.cs.cmu.edu (128.2.208.1)  0.333 ms  0.347 ms  0.369 ms
+ 2  CORE255-POD-A.GW.CMU.NET (128.2.255.153)  0.350 ms  0.392 ms  0.374 ms
+ 3  WEAN-CORE-CORE255-VRF.GW.CMU.NET (128.2.255.134)  1.751 ms  1.822 ms  1.805 ms
+ 4  CORE0-WEAN-CORE.GW.CMU.NET (128.2.0.129)  0.417 ms CORE255-WEAN-CORE.GW.CMU.NET (128.2.255.129)  0.401 ms  0.366 ms
+ 5  POD-I-DCNS-CORE255.GW.CMU.NET (128.2.255.194)  121.680 ms  121.679 ms  121.648 ms
+ 6  162.223.17.78 (162.223.17.78)  10.399 ms 162.223.17.106 (162.223.17.106)  10.251 ms  10.254 ms
+ 7  204.238.76.45 (204.238.76.45)  10.673 ms  10.447 ms  10.633 ms
+ 8  204.238.76.34 (204.238.76.34)  13.887 ms  14.055 ms  14.059 ms
+ 9  et-11-3-0.4079.sdn-sw.ashb.net.internet2.edu (162.252.70.64)  14.595 ms  14.589 ms et-9-0-0.4079.sdn-sw.ashb.net.internet2.edu (162.252.70.66)  14.437 ms
+10  et-2-1-0.4079.rtsw.clev.net.internet2.edu (162.252.70.55)  22.545 ms  22.260 ms  22.535 ms
+11  et-3-0-0.4079.sdn-sw.eqch.net.internet2.edu (162.252.70.113)  31.222 ms  31.402 ms  31.401 ms
+12  et-7-0-0.4079.sdn-sw.minn.net.internet2.edu (162.252.70.107)  39.244 ms  38.962 ms  39.163 ms
+13  et-7-0-0.4079.sdn-sw.miss2.net.internet2.edu (162.252.70.59)  62.230 ms  62.072 ms  62.264 ms
+14  et-4-1-0.4079.rtsw.seat.net.internet2.edu (162.252.70.1)  72.469 ms  72.557 ms  72.557 ms
+15  aarnet-2-lo-jmb-706.sttlwa.pacificwave.net (207.231.240.4)  72.750 ms  72.553 ms  72.685 ms
+16  et-2-0-0.pe1.a.hnl.aarnet.net.au (113.197.15.200)  124.280 ms  124.312 ms  124.230 ms
+17  et-2-1-0.pe1.sxt.bkvl.nsw.aarnet.net.au (113.197.15.98)  217.422 ms  217.296 ms  217.143 ms
+18  et-2-3-0.pe1.mcqp.nsw.aarnet.net.au (113.197.15.144)  217.881 ms  217.732 ms  217.575 ms
+19  et-0-3-0.pe1.eskp.nsw.aarnet.net.au (113.197.15.3)  218.715 ms  218.862 ms  235.110 ms
+20  et-0-3-0.pe1.wmlb.vic.aarnet.net.au (113.197.15.9)  230.181 ms  230.057 ms  229.981 ms
+21  gw1.xe-5-0-1-202.pe1.wmlb.vic.aarnet.net.au (138.44.64.55)  230.451 ms  230.554 ms  230.625 ms
+22  * * *
+23  * * *
+24  pl1.eng.monash.edu.au (130.194.252.8)  230.810 ms  230.690 ms  230.734 ms
+========================================================================================
+========================================================================================
+*****************   TraceRoute   Command     Output ************************************
+----------------------------------------------------------------------------------------
+Wed Apr 19 06:09:21 UTC 2017
+----------------------------------------------------------------------------------------
+traceroute to PL1.ENG.MONASH.EDU.AU (130.194.252.8), 30 hops max, 60 byte packets
+ 1  gates-agg-vlan110.net.cs.cmu.edu (128.2.208.1)  0.416 ms  0.396 ms  0.434 ms
+ 2  CORE255-POD-A.GW.CMU.NET (128.2.255.153)  0.420 ms  0.357 ms  0.392 ms
+ 3  WEAN-CORE-CORE255-VRF.GW.CMU.NET (128.2.255.134)  1.739 ms  1.760 ms  1.732 ms
+ 4  CORE0-WEAN-CORE.GW.CMU.NET (128.2.0.129)  0.393 ms CORE255-WEAN-CORE.GW.CMU.NET (128.2.255.129)  0.330 ms CORE0-WEAN-CORE.GW.CMU.NET (128.2.0.129)  0.339 ms
+ 5  POD-I-CYH-CORE0.GW.CMU.NET (128.2.0.250)  0.261 ms  0.407 ms POD-I-DCNS-CORE255.GW.CMU.NET (128.2.255.194)  0.377 ms
+ 6  162.223.17.78 (162.223.17.78)  10.506 ms 162.223.17.106 (162.223.17.106)  10.277 ms  10.316 ms
+ 7  204.238.76.45 (204.238.76.45)  10.608 ms  10.502 ms  10.462 ms
+ 8  204.238.76.34 (204.238.76.34)  13.893 ms  14.029 ms  13.903 ms
+ 9  et-9-0-0.4079.sdn-sw.ashb.net.internet2.edu (162.252.70.66)  14.615 ms  14.606 ms et-8-1-0.4079.sdn-sw.ashb.net.internet2.edu (162.252.70.62)  14.610 ms
+10  et-2-1-0.4079.rtsw.clev.net.internet2.edu (162.252.70.55)  22.449 ms  22.412 ms  22.611 ms
+11  et-3-0-0.4079.sdn-sw.eqch.net.internet2.edu (162.252.70.113)  32.395 ms  31.375 ms  31.266 ms
+12  et-7-0-0.4079.sdn-sw.minn.net.internet2.edu (162.252.70.107)  39.115 ms  39.039 ms  39.118 ms
+13  et-7-0-0.4079.sdn-sw.miss2.net.internet2.edu (162.252.70.59)  62.197 ms  62.275 ms  62.193 ms
+14  et-4-1-0.4079.rtsw.seat.net.internet2.edu (162.252.70.1)  72.541 ms  72.512 ms  72.426 ms
+15  aarnet-2-lo-jmb-706.sttlwa.pacificwave.net (207.231.240.4)  72.703 ms  72.458 ms  72.435 ms
+16  et-2-0-0.pe1.a.hnl.aarnet.net.au (113.197.15.200)  124.161 ms  124.235 ms  124.152 ms
+17  et-2-1-0.pe1.sxt.bkvl.nsw.aarnet.net.au (113.197.15.98)  217.373 ms  217.285 ms  217.280 ms
+18  et-2-3-0.pe1.mcqp.nsw.aarnet.net.au (113.197.15.144)  217.797 ms  217.809 ms  217.823 ms
+19  et-0-3-0.pe1.eskp.nsw.aarnet.net.au (113.197.15.3)  218.955 ms  218.876 ms  218.922 ms
+20  et-0-3-0.pe1.wmlb.vic.aarnet.net.au (113.197.15.9)  230.167 ms  229.942 ms  230.150 ms
+21  gw1.xe-5-0-1-202.pe1.wmlb.vic.aarnet.net.au (138.44.64.55)  230.568 ms  230.814 ms  230.617 ms
+22  * * *
+23  * * *
+24  pl1.eng.monash.edu.au (130.194.252.8)  230.823 ms  230.852 ms  230.740 ms
+========================================================================================
+========================================================================================
+*****************   TraceRoute   Command     Output ************************************
+----------------------------------------------------------------------------------------
+Wed Apr 19 07:09:46 UTC 2017
+----------------------------------------------------------------------------------------
+traceroute to PL1.ENG.MONASH.EDU.AU (130.194.252.8), 30 hops max, 60 byte packets
+ 1  gates-agg-vlan110.net.cs.cmu.edu (128.2.208.1)  0.315 ms  0.318 ms  0.337 ms
+ 2  CORE255-POD-A.GW.CMU.NET (128.2.255.153)  0.372 ms  0.354 ms  0.389 ms
+ 3  WEAN-CORE-CORE255-VRF.GW.CMU.NET (128.2.255.134)  1.861 ms  1.881 ms  1.903 ms
+ 4  CORE0-WEAN-CORE.GW.CMU.NET (128.2.0.129)  0.374 ms CORE255-WEAN-CORE.GW.CMU.NET (128.2.255.129)  0.344 ms  0.354 ms
+ 5  POD-I-CYH-CORE0.GW.CMU.NET (128.2.0.250)  1.068 ms  1.045 ms  1.014 ms
+ 6  162.223.17.106 (162.223.17.106)  10.285 ms  10.269 ms  10.279 ms
+ 7  204.238.76.45 (204.238.76.45)  10.503 ms  10.570 ms  10.553 ms
+ 8  204.238.76.34 (204.238.76.34)  26.040 ms  23.483 ms  23.462 ms
+ 9  et-11-3-0.4079.sdn-sw.ashb.net.internet2.edu (162.252.70.64)  14.405 ms et-8-1-0.4079.sdn-sw.ashb.net.internet2.edu (162.252.70.62)  14.628 ms et-9-0-0.4079.sdn-sw.ashb.net.internet2.edu (162.252.70.66)  14.548 ms
+10  et-2-1-0.4079.rtsw.clev.net.internet2.edu (162.252.70.55)  22.358 ms  22.375 ms  22.410 ms
+11  et-3-0-0.4079.sdn-sw.eqch.net.internet2.edu (162.252.70.113)  31.214 ms  31.197 ms  31.359 ms
+12  et-7-0-0.4079.sdn-sw.minn.net.internet2.edu (162.252.70.107)  40.938 ms  40.251 ms  40.231 ms
+13  et-7-0-0.4079.sdn-sw.miss2.net.internet2.edu (162.252.70.59)  62.612 ms  62.110 ms  62.100 ms
+14  et-4-1-0.4079.rtsw.seat.net.internet2.edu (162.252.70.1)  72.373 ms  72.903 ms  72.787 ms
+15  aarnet-2-lo-jmb-706.sttlwa.pacificwave.net (207.231.240.4)  72.653 ms  72.537 ms  72.759 ms
+16  et-2-0-0.pe1.a.hnl.aarnet.net.au (113.197.15.200)  124.187 ms  124.501 ms  124.186 ms
+17  et-2-1-0.pe1.sxt.bkvl.nsw.aarnet.net.au (113.197.15.98)  217.113 ms  217.339 ms  217.206 ms
+18  et-2-3-0.pe1.mcqp.nsw.aarnet.net.au (113.197.15.144)  217.545 ms  217.639 ms  217.717 ms
+19  et-0-3-0.pe1.eskp.nsw.aarnet.net.au (113.197.15.3)  218.755 ms  218.784 ms  218.705 ms
+20  et-0-3-0.pe1.wmlb.vic.aarnet.net.au (113.197.15.9)  230.067 ms  229.975 ms  230.081 ms
+21  gw1.xe-5-0-1-202.pe1.wmlb.vic.aarnet.net.au (138.44.64.55)  230.656 ms  230.366 ms  230.531 ms
+22  * * *
+23  * * *
+24  pl1.eng.monash.edu.au (130.194.252.8)  230.510 ms  230.698 ms  230.416 ms
+========================================================================================
+========================================================================================
+*****************   TraceRoute   Command     Output ************************************
+----------------------------------------------------------------------------------------
+Wed Apr 19 08:10:11 UTC 2017
+----------------------------------------------------------------------------------------
+traceroute to PL1.ENG.MONASH.EDU.AU (130.194.252.8), 30 hops max, 60 byte packets
+ 1  gates-agg-vlan110.net.cs.cmu.edu (128.2.208.1)  0.537 ms  0.479 ms  0.485 ms
+ 2  CORE255-POD-A.GW.CMU.NET (128.2.255.153)  0.495 ms  0.555 ms  0.566 ms
+ 3  WEAN-CORE-CORE255-VRF.GW.CMU.NET (128.2.255.134)  1.808 ms  1.817 ms  1.790 ms
+ 4  CORE255-WEAN-CORE.GW.CMU.NET (128.2.255.129)  0.448 ms CORE0-WEAN-CORE.GW.CMU.NET (128.2.0.129)  0.359 ms CORE255-WEAN-CORE.GW.CMU.NET (128.2.255.129)  0.408 ms
+ 5  POD-I-DCNS-CORE255.GW.CMU.NET (128.2.255.194)  145.369 ms POD-I-CYH-CORE0.GW.CMU.NET (128.2.0.250)  0.282 ms POD-I-DCNS-CORE255.GW.CMU.NET (128.2.255.194)  145.373 ms
+ 6  162.223.17.106 (162.223.17.106)  10.286 ms 162.223.17.78 (162.223.17.78)  10.497 ms 162.223.17.106 (162.223.17.106)  10.278 ms
+ 7  204.238.76.45 (204.238.76.45)  10.489 ms  10.596 ms  10.459 ms
+ 8  204.238.76.34 (204.238.76.34)  14.910 ms  14.889 ms  14.840 ms
+ 9  et-8-1-0.4079.sdn-sw.ashb.net.internet2.edu (162.252.70.62)  14.477 ms et-11-3-0.4079.sdn-sw.ashb.net.internet2.edu (162.252.70.64)  14.573 ms et-9-0-0.4079.sdn-sw.ashb.net.internet2.edu (162.252.70.66)  14.572 ms
+10  et-2-1-0.4079.rtsw.clev.net.internet2.edu (162.252.70.55)  22.420 ms  22.287 ms  22.292 ms
+11  et-3-0-0.4079.sdn-sw.eqch.net.internet2.edu (162.252.70.113)  31.277 ms  31.427 ms  31.411 ms
+12  et-7-0-0.4079.sdn-sw.minn.net.internet2.edu (162.252.70.107)  39.007 ms  39.430 ms  39.231 ms
+13  et-7-0-0.4079.sdn-sw.miss2.net.internet2.edu (162.252.70.59)  62.132 ms  62.335 ms  62.343 ms
+14  et-4-1-0.4079.rtsw.seat.net.internet2.edu (162.252.70.1)  72.331 ms  72.490 ms  72.438 ms
+15  aarnet-2-lo-jmb-706.sttlwa.pacificwave.net (207.231.240.4)  72.558 ms  72.795 ms  72.690 ms
+16  et-2-0-0.pe1.a.hnl.aarnet.net.au (113.197.15.200)  124.335 ms  124.534 ms  124.436 ms
+17  et-2-1-0.pe1.sxt.bkvl.nsw.aarnet.net.au (113.197.15.98)  217.280 ms  217.344 ms  217.446 ms
+18  et-2-3-0.pe1.mcqp.nsw.aarnet.net.au (113.197.15.144)  217.814 ms  217.801 ms  217.683 ms
+19  et-0-3-0.pe1.eskp.nsw.aarnet.net.au (113.197.15.3)  219.019 ms  218.922 ms  218.920 ms
+20  et-0-3-0.pe1.wmlb.vic.aarnet.net.au (113.197.15.9)  230.143 ms  230.166 ms  230.159 ms
+21  gw1.xe-5-0-1-202.pe1.wmlb.vic.aarnet.net.au (138.44.64.55)  230.702 ms  230.434 ms  230.633 ms
+22  * * *
+23  * * *
+24  pl1.eng.monash.edu.au (130.194.252.8)  230.923 ms  230.805 ms  230.671 ms
+========================================================================================
+========================================================================================
+*****************   TraceRoute   Command     Output ************************************
+----------------------------------------------------------------------------------------
+Wed Apr 19 09:10:36 UTC 2017
+----------------------------------------------------------------------------------------
+traceroute to PL1.ENG.MONASH.EDU.AU (130.194.252.8), 30 hops max, 60 byte packets
+ 1  gates-agg-vlan110.net.cs.cmu.edu (128.2.208.1)  1.548 ms  1.549 ms  1.634 ms
+ 2  CORE255-POD-A.GW.CMU.NET (128.2.255.153)  0.349 ms  0.421 ms  0.430 ms
+ 3  WEAN-CORE-CORE255-VRF.GW.CMU.NET (128.2.255.134)  1.743 ms  1.728 ms  1.737 ms
+ 4  CORE255-WEAN-CORE.GW.CMU.NET (128.2.255.129)  0.473 ms CORE0-WEAN-CORE.GW.CMU.NET (128.2.0.129)  0.433 ms  0.423 ms
+ 5  POD-I-CYH-CORE0.GW.CMU.NET (128.2.0.250)  46.507 ms POD-I-DCNS-CORE255.GW.CMU.NET (128.2.255.194)  1.218 ms POD-I-CYH-CORE0.GW.CMU.NET (128.2.0.250)  46.429 ms
+ 6  162.223.17.106 (162.223.17.106)  10.264 ms  10.263 ms 162.223.17.78 (162.223.17.78)  10.395 ms
+ 7  204.238.76.45 (204.238.76.45)  10.512 ms  10.460 ms  10.578 ms
+ 8  204.238.76.34 (204.238.76.34)  13.893 ms  14.043 ms  14.052 ms
+ 9  et-8-1-0.4079.sdn-sw.ashb.net.internet2.edu (162.252.70.62)  14.687 ms et-9-0-0.4079.sdn-sw.ashb.net.internet2.edu (162.252.70.66)  14.633 ms et-8-1-0.4079.sdn-sw.ashb.net.internet2.edu (162.252.70.62)  14.453 ms
+10  et-2-1-0.4079.rtsw.clev.net.internet2.edu (162.252.70.55)  22.498 ms  22.420 ms  22.526 ms
+11  et-3-0-0.4079.sdn-sw.eqch.net.internet2.edu (162.252.70.113)  31.193 ms  31.393 ms  31.388 ms
+12  et-7-0-0.4079.sdn-sw.minn.net.internet2.edu (162.252.70.107)  38.997 ms  38.989 ms  39.059 ms
+13  et-7-0-0.4079.sdn-sw.miss2.net.internet2.edu (162.252.70.59)  62.206 ms  62.187 ms  62.099 ms
+14  et-4-1-0.4079.rtsw.seat.net.internet2.edu (162.252.70.1)  72.472 ms  72.342 ms  72.522 ms
+15  aarnet-2-lo-jmb-706.sttlwa.pacificwave.net (207.231.240.4)  72.451 ms  72.508 ms  72.493 ms
+16  et-2-0-0.pe1.a.hnl.aarnet.net.au (113.197.15.200)  124.505 ms  124.384 ms  124.237 ms
+17  et-2-1-0.pe1.sxt.bkvl.nsw.aarnet.net.au (113.197.15.98)  221.420 ms  220.161 ms  220.131 ms
+18  et-2-3-0.pe1.mcqp.nsw.aarnet.net.au (113.197.15.144)  217.791 ms  217.689 ms  217.957 ms
+19  et-0-3-0.pe1.eskp.nsw.aarnet.net.au (113.197.15.3)  218.857 ms  218.975 ms  218.806 ms
+20  et-0-3-0.pe1.wmlb.vic.aarnet.net.au (113.197.15.9)  230.106 ms  229.974 ms  229.887 ms
+21  gw1.xe-5-0-1-202.pe1.wmlb.vic.aarnet.net.au (138.44.64.55)  230.507 ms  230.987 ms  230.594 ms
+22  * * *
+23  * * *
+24  pl1.eng.monash.edu.au (130.194.252.8)  230.723 ms  230.697 ms  230.620 ms
+========================================================================================
+========================================================================================
+*****************   TraceRoute   Command     Output ************************************
+----------------------------------------------------------------------------------------
+Wed Apr 19 10:11:01 UTC 2017
+----------------------------------------------------------------------------------------
+traceroute to PL1.ENG.MONASH.EDU.AU (130.194.252.8), 30 hops max, 60 byte packets
+ 1  gates-agg-vlan110.net.cs.cmu.edu (128.2.208.1)  0.344 ms  0.346 ms  0.369 ms
+ 2  CORE255-POD-A.GW.CMU.NET (128.2.255.153)  0.347 ms  0.468 ms  0.449 ms
+ 3  WEAN-CORE-CORE255-VRF.GW.CMU.NET (128.2.255.134)  1.649 ms  1.669 ms  1.736 ms
+ 4  CORE255-WEAN-CORE.GW.CMU.NET (128.2.255.129)  0.418 ms  0.409 ms CORE0-WEAN-CORE.GW.CMU.NET (128.2.0.129)  0.374 ms
+ 5  POD-I-DCNS-CORE255.GW.CMU.NET (128.2.255.194)  0.510 ms POD-I-CYH-CORE0.GW.CMU.NET (128.2.0.250)  3.433 ms POD-I-DCNS-CORE255.GW.CMU.NET (128.2.255.194)  0.430 ms
+ 6  162.223.17.106 (162.223.17.106)  10.312 ms  10.248 ms 162.223.17.78 (162.223.17.78)  10.412 ms
+ 7  204.238.76.45 (204.238.76.45)  10.429 ms  10.603 ms  10.476 ms
+ 8  204.238.76.34 (204.238.76.34)  14.415 ms  14.357 ms  14.352 ms
+ 9  et-11-3-0.4079.sdn-sw.ashb.net.internet2.edu (162.252.70.64)  14.399 ms et-8-1-0.4079.sdn-sw.ashb.net.internet2.edu (162.252.70.62)  14.569 ms  14.486 ms
+10  et-2-1-0.4079.rtsw.clev.net.internet2.edu (162.252.70.55)  22.460 ms  22.414 ms  22.374 ms
+11  et-3-0-0.4079.sdn-sw.eqch.net.internet2.edu (162.252.70.113)  31.356 ms  31.190 ms  32.519 ms
+12  et-7-0-0.4079.sdn-sw.minn.net.internet2.edu (162.252.70.107)  39.070 ms  39.156 ms  39.114 ms
+13  et-7-0-0.4079.sdn-sw.miss2.net.internet2.edu (162.252.70.59)  62.141 ms  62.218 ms  62.130 ms
+14  et-4-1-0.4079.rtsw.seat.net.internet2.edu (162.252.70.1)  72.494 ms  72.359 ms  72.525 ms
+15  aarnet-2-lo-jmb-706.sttlwa.pacificwave.net (207.231.240.4)  72.648 ms  72.775 ms  72.780 ms
+16  et-2-0-0.pe1.a.hnl.aarnet.net.au (113.197.15.200)  124.425 ms  124.291 ms  124.315 ms
+17  et-2-1-0.pe1.sxt.bkvl.nsw.aarnet.net.au (113.197.15.98)  217.291 ms  217.210 ms  217.229 ms
+18  et-2-3-0.pe1.mcqp.nsw.aarnet.net.au (113.197.15.144)  217.594 ms  217.650 ms  217.608 ms
+19  et-0-3-0.pe1.eskp.nsw.aarnet.net.au (113.197.15.3)  218.867 ms  218.908 ms  218.833 ms
+20  et-0-3-0.pe1.wmlb.vic.aarnet.net.au (113.197.15.9)  230.236 ms  229.917 ms  229.967 ms
+21  gw1.xe-5-0-1-202.pe1.wmlb.vic.aarnet.net.au (138.44.64.55)  230.486 ms  230.966 ms  230.774 ms
+22  * * *
+23  * * *
+24  pl1.eng.monash.edu.au (130.194.252.8)  230.543 ms  230.584 ms  230.539 ms
+========================================================================================
+========================================================================================
+*****************   TraceRoute   Command     Output ************************************
+----------------------------------------------------------------------------------------
+Wed Apr 19 11:11:26 UTC 2017
+----------------------------------------------------------------------------------------
+traceroute to PL1.ENG.MONASH.EDU.AU (130.194.252.8), 30 hops max, 60 byte packets
+ 1  gates-agg-vlan110.net.cs.cmu.edu (128.2.208.1)  45.683 ms  45.689 ms  45.712 ms
+ 2  CORE255-POD-A.GW.CMU.NET (128.2.255.153)  0.356 ms  0.427 ms  0.444 ms
+ 3  WEAN-CORE-CORE255-VRF.GW.CMU.NET (128.2.255.134)  1.715 ms  1.732 ms  1.758 ms
+ 4  CORE255-WEAN-CORE.GW.CMU.NET (128.2.255.129)  0.378 ms CORE0-WEAN-CORE.GW.CMU.NET (128.2.0.129)  0.376 ms  0.382 ms
+ 5  POD-I-DCNS-CORE255.GW.CMU.NET (128.2.255.194)  0.506 ms  0.546 ms  0.530 ms
+ 6  162.223.17.106 (162.223.17.106)  10.273 ms 162.223.17.78 (162.223.17.78)  10.376 ms 162.223.17.106 (162.223.17.106)  10.208 ms
+ 7  204.238.76.45 (204.238.76.45)  10.468 ms  10.629 ms  10.579 ms
+ 8  204.238.76.34 (204.238.76.34)  14.064 ms  13.901 ms  14.016 ms
+ 9  et-11-3-0.4079.sdn-sw.ashb.net.internet2.edu (162.252.70.64)  14.438 ms et-9-0-0.4079.sdn-sw.ashb.net.internet2.edu (162.252.70.66)  14.609 ms et-11-3-0.4079.sdn-sw.ashb.net.internet2.edu (162.252.70.64)  14.557 ms
+10  et-2-1-0.4079.rtsw.clev.net.internet2.edu (162.252.70.55)  22.338 ms  22.462 ms  22.459 ms
+11  et-3-0-0.4079.sdn-sw.eqch.net.internet2.edu (162.252.70.113)  31.887 ms  31.775 ms  31.562 ms
+12  et-7-0-0.4079.sdn-sw.minn.net.internet2.edu (162.252.70.107)  38.971 ms  39.030 ms  39.101 ms
+13  et-7-0-0.4079.sdn-sw.miss2.net.internet2.edu (162.252.70.59)  62.104 ms  62.093 ms  62.079 ms
+14  et-4-1-0.4079.rtsw.seat.net.internet2.edu (162.252.70.1)  72.335 ms  72.298 ms  72.493 ms
+15  aarnet-2-lo-jmb-706.sttlwa.pacificwave.net (207.231.240.4)  72.450 ms  72.656 ms  72.582 ms
+16  et-2-0-0.pe1.a.hnl.aarnet.net.au (113.197.15.200)  124.321 ms  124.182 ms  124.114 ms
+17  et-2-1-0.pe1.sxt.bkvl.nsw.aarnet.net.au (113.197.15.98)  217.399 ms  217.073 ms  217.087 ms
+18  et-2-3-0.pe1.mcqp.nsw.aarnet.net.au (113.197.15.144)  217.803 ms  217.828 ms  217.682 ms
+19  et-0-3-0.pe1.eskp.nsw.aarnet.net.au (113.197.15.3)  218.855 ms  218.888 ms  218.844 ms
+20  et-0-3-0.pe1.wmlb.vic.aarnet.net.au (113.197.15.9)  229.999 ms  230.184 ms  229.960 ms
+21  gw1.xe-5-0-1-202.pe1.wmlb.vic.aarnet.net.au (138.44.64.55)  230.472 ms  230.585 ms  230.440 ms
+22  * * *
+23  * * *
+24  pl1.eng.monash.edu.au (130.194.252.8)  230.720 ms  230.665 ms  230.643 ms
+========================================================================================
+========================================================================================
+*****************   TraceRoute   Command     Output ************************************
+----------------------------------------------------------------------------------------
+Wed Apr 19 12:11:50 UTC 2017
+----------------------------------------------------------------------------------------
+traceroute to PL1.ENG.MONASH.EDU.AU (130.194.252.8), 30 hops max, 60 byte packets
+ 1  gates-agg-vlan110.net.cs.cmu.edu (128.2.208.1)  5.772 ms  5.734 ms  5.696 ms
+ 2  CORE255-POD-A.GW.CMU.NET (128.2.255.153)  0.409 ms  0.386 ms  0.376 ms
+ 3  WEAN-CORE-CORE255-VRF.GW.CMU.NET (128.2.255.134)  1.681 ms  1.678 ms  1.682 ms
+ 4  CORE0-WEAN-CORE.GW.CMU.NET (128.2.0.129)  0.392 ms  0.394 ms  0.407 ms
+ 5  POD-I-DCNS-CORE255.GW.CMU.NET (128.2.255.194)  17.978 ms POD-I-CYH-CORE0.GW.CMU.NET (128.2.0.250)  23.976 ms POD-I-DCNS-CORE255.GW.CMU.NET (128.2.255.194)  17.941 ms
+ 6  162.223.17.78 (162.223.17.78)  10.419 ms 162.223.17.106 (162.223.17.106)  10.246 ms 162.223.17.78 (162.223.17.78)  10.430 ms
+ 7  204.238.76.45 (204.238.76.45)  10.487 ms  10.685 ms  10.685 ms
+ 8  204.238.76.34 (204.238.76.34)  13.909 ms  14.028 ms  13.894 ms
+ 9  et-11-3-0.4079.sdn-sw.ashb.net.internet2.edu (162.252.70.64)  14.398 ms  14.599 ms et-9-0-0.4079.sdn-sw.ashb.net.internet2.edu (162.252.70.66)  14.643 ms
+10  et-2-1-0.4079.rtsw.clev.net.internet2.edu (162.252.70.55)  22.467 ms  22.263 ms  22.592 ms
+11  et-3-0-0.4079.sdn-sw.eqch.net.internet2.edu (162.252.70.113)  31.247 ms  31.135 ms  31.415 ms
+12  et-7-0-0.4079.sdn-sw.minn.net.internet2.edu (162.252.70.107)  38.992 ms  39.055 ms  39.154 ms
+13  et-7-0-0.4079.sdn-sw.miss2.net.internet2.edu (162.252.70.59)  62.321 ms  62.819 ms  62.384 ms
+14  et-4-1-0.4079.rtsw.seat.net.internet2.edu (162.252.70.1)  72.332 ms  72.551 ms  72.534 ms
+15  aarnet-2-lo-jmb-706.sttlwa.pacificwave.net (207.231.240.4)  72.795 ms  72.681 ms  72.697 ms
+16  et-2-0-0.pe1.a.hnl.aarnet.net.au (113.197.15.200)  124.506 ms  124.591 ms  124.544 ms
+17  et-2-1-0.pe1.sxt.bkvl.nsw.aarnet.net.au (113.197.15.98)  217.476 ms  217.474 ms  217.439 ms
+18  et-2-3-0.pe1.mcqp.nsw.aarnet.net.au (113.197.15.144)  217.699 ms  217.766 ms  217.627 ms
+19  et-0-3-0.pe1.eskp.nsw.aarnet.net.au (113.197.15.3)  218.872 ms  218.737 ms  218.712 ms
+20  et-0-3-0.pe1.wmlb.vic.aarnet.net.au (113.197.15.9)  230.083 ms  229.985 ms  229.933 ms
+21  gw1.xe-5-0-1-202.pe1.wmlb.vic.aarnet.net.au (138.44.64.55)  230.623 ms  230.726 ms  230.478 ms
+22  * * *
+23  * * *
+24  pl1.eng.monash.edu.au (130.194.252.8)  230.722 ms  230.743 ms  230.667 ms
+========================================================================================
+========================================================================================
+*****************   TraceRoute   Command     Output ************************************
+----------------------------------------------------------------------------------------
+Wed Apr 19 13:12:15 UTC 2017
+----------------------------------------------------------------------------------------
+traceroute to PL1.ENG.MONASH.EDU.AU (130.194.252.8), 30 hops max, 60 byte packets
+ 1  gates-agg-vlan110.net.cs.cmu.edu (128.2.208.1)  0.346 ms  0.311 ms  0.338 ms
+ 2  CORE255-POD-A.GW.CMU.NET (128.2.255.153)  0.390 ms  0.378 ms  0.431 ms
+ 3  WEAN-CORE-CORE255-VRF.GW.CMU.NET (128.2.255.134)  1.695 ms  1.768 ms  1.743 ms
+ 4  CORE0-WEAN-CORE.GW.CMU.NET (128.2.0.129)  0.326 ms CORE255-WEAN-CORE.GW.CMU.NET (128.2.255.129)  0.333 ms CORE0-WEAN-CORE.GW.CMU.NET (128.2.0.129)  0.407 ms
+ 5  POD-I-DCNS-CORE255.GW.CMU.NET (128.2.255.194)  42.719 ms POD-I-CYH-CORE0.GW.CMU.NET (128.2.0.250)  0.338 ms  0.311 ms
+ 6  162.223.17.78 (162.223.17.78)  10.459 ms  10.416 ms 162.223.17.106 (162.223.17.106)  10.236 ms
+ 7  204.238.76.45 (204.238.76.45)  10.671 ms  10.625 ms  10.450 ms
+ 8  204.238.76.34 (204.238.76.34)  14.104 ms  14.090 ms  13.906 ms
+ 9  et-8-1-0.4079.sdn-sw.ashb.net.internet2.edu (162.252.70.62)  14.623 ms et-9-0-0.4079.sdn-sw.ashb.net.internet2.edu (162.252.70.66)  14.508 ms  14.579 ms
+10  et-2-1-0.4079.rtsw.clev.net.internet2.edu (162.252.70.55)  22.236 ms  22.242 ms  22.625 ms
+11  et-3-0-0.4079.sdn-sw.eqch.net.internet2.edu (162.252.70.113)  31.360 ms  31.175 ms  31.354 ms
+12  et-7-0-0.4079.sdn-sw.minn.net.internet2.edu (162.252.70.107)  39.194 ms  39.077 ms  39.147 ms
+13  et-7-0-0.4079.sdn-sw.miss2.net.internet2.edu (162.252.70.59)  62.195 ms  62.301 ms  62.175 ms
+14  et-4-1-0.4079.rtsw.seat.net.internet2.edu (162.252.70.1)  72.507 ms  72.508 ms  72.543 ms
+15  aarnet-2-lo-jmb-706.sttlwa.pacificwave.net (207.231.240.4)  72.538 ms  72.544 ms  72.438 ms
+16  et-2-0-0.pe1.a.hnl.aarnet.net.au (113.197.15.200)  124.178 ms  124.316 ms  124.289 ms
+17  et-2-1-0.pe1.sxt.bkvl.nsw.aarnet.net.au (113.197.15.98)  217.285 ms  217.196 ms  217.228 ms
+18  et-2-3-0.pe1.mcqp.nsw.aarnet.net.au (113.197.15.144)  217.879 ms  217.843 ms  217.863 ms
+19  et-0-3-0.pe1.eskp.nsw.aarnet.net.au (113.197.15.3)  218.918 ms  218.916 ms  219.023 ms
+20  et-0-3-0.pe1.wmlb.vic.aarnet.net.au (113.197.15.9)  230.204 ms  230.163 ms  230.151 ms
+21  gw1.xe-5-0-1-202.pe1.wmlb.vic.aarnet.net.au (138.44.64.55)  230.417 ms  230.370 ms  230.467 ms
+22  * * *
+23  * * *
+24  pl1.eng.monash.edu.au (130.194.252.8)  230.723 ms  230.642 ms  230.571 ms
+========================================================================================
+========================================================================================
+*****************   TraceRoute   Command     Output ************************************
+----------------------------------------------------------------------------------------
+Wed Apr 19 14:12:40 UTC 2017
+----------------------------------------------------------------------------------------
+traceroute to PL1.ENG.MONASH.EDU.AU (130.194.252.8), 30 hops max, 60 byte packets
+ 1  gates-agg-vlan110.net.cs.cmu.edu (128.2.208.1)  0.317 ms  0.330 ms  0.351 ms
+ 2  CORE255-POD-A.GW.CMU.NET (128.2.255.153)  0.371 ms  0.421 ms  0.473 ms
+ 3  WEAN-CORE-CORE255-VRF.GW.CMU.NET (128.2.255.134)  1.743 ms  1.767 ms  1.748 ms
+ 4  CORE0-WEAN-CORE.GW.CMU.NET (128.2.0.129)  0.349 ms CORE255-WEAN-CORE.GW.CMU.NET (128.2.255.129)  0.421 ms  0.411 ms
+ 5  POD-I-DCNS-CORE255.GW.CMU.NET (128.2.255.194)  16.183 ms POD-I-CYH-CORE0.GW.CMU.NET (128.2.0.250)  0.335 ms  3.240 ms
+ 6  162.223.17.78 (162.223.17.78)  14.782 ms  12.671 ms 162.223.17.106 (162.223.17.106)  12.627 ms
+ 7  204.238.76.45 (204.238.76.45)  10.675 ms  10.450 ms  10.427 ms
+ 8  204.238.76.34 (204.238.76.34)  14.042 ms  14.023 ms  14.136 ms
+ 9  et-9-0-0.4079.sdn-sw.ashb.net.internet2.edu (162.252.70.66)  14.416 ms  14.735 ms et-8-1-0.4079.sdn-sw.ashb.net.internet2.edu (162.252.70.62)  14.601 ms
+10  et-2-1-0.4079.rtsw.clev.net.internet2.edu (162.252.70.55)  22.568 ms  22.531 ms  22.427 ms
+11  et-3-0-0.4079.sdn-sw.eqch.net.internet2.edu (162.252.70.113)  31.391 ms  31.352 ms  31.324 ms
+12  et-7-0-0.4079.sdn-sw.minn.net.internet2.edu (162.252.70.107)  41.420 ms  41.377 ms  41.436 ms
+13  et-7-0-0.4079.sdn-sw.miss2.net.internet2.edu (162.252.70.59)  62.176 ms  62.180 ms  62.193 ms
+14  et-4-1-0.4079.rtsw.seat.net.internet2.edu (162.252.70.1)  72.574 ms  72.530 ms  72.352 ms
+15  aarnet-2-lo-jmb-706.sttlwa.pacificwave.net (207.231.240.4)  72.572 ms  72.578 ms  72.498 ms
+16  et-2-0-0.pe1.a.hnl.aarnet.net.au (113.197.15.200)  124.398 ms  124.215 ms  124.188 ms
+17  et-2-1-0.pe1.sxt.bkvl.nsw.aarnet.net.au (113.197.15.98)  217.336 ms  217.177 ms  217.297 ms
+18  et-2-3-0.pe1.mcqp.nsw.aarnet.net.au (113.197.15.144)  217.868 ms  217.787 ms  217.593 ms
+19  et-0-3-0.pe1.eskp.nsw.aarnet.net.au (113.197.15.3)  218.978 ms  218.767 ms  218.656 ms
+20  et-0-3-0.pe1.wmlb.vic.aarnet.net.au (113.197.15.9)  230.123 ms  230.134 ms  230.110 ms
+21  gw1.xe-5-0-1-202.pe1.wmlb.vic.aarnet.net.au (138.44.64.55)  230.567 ms  230.595 ms  230.398 ms
+22  * * *
+23  * * *
+24  pl1.eng.monash.edu.au (130.194.252.8)  230.624 ms  230.974 ms  230.858 ms
+========================================================================================
+========================================================================================
+*****************   TraceRoute   Command     Output ************************************
+----------------------------------------------------------------------------------------
+Wed Apr 19 15:13:05 UTC 2017
+----------------------------------------------------------------------------------------
+traceroute to PL1.ENG.MONASH.EDU.AU (130.194.252.8), 30 hops max, 60 byte packets
+ 1  gates-agg-vlan110.net.cs.cmu.edu (128.2.208.1)  0.386 ms  0.339 ms  0.319 ms
+ 2  CORE255-POD-A.GW.CMU.NET (128.2.255.153)  0.366 ms  0.364 ms  0.361 ms
+ 3  WEAN-CORE-CORE255-VRF.GW.CMU.NET (128.2.255.134)  1.761 ms  1.761 ms  1.726 ms
+ 4  CORE255-WEAN-CORE.GW.CMU.NET (128.2.255.129)  0.342 ms CORE0-WEAN-CORE.GW.CMU.NET (128.2.0.129)  0.326 ms CORE255-WEAN-CORE.GW.CMU.NET (128.2.255.129)  0.326 ms
+ 5  POD-I-CYH-CORE0.GW.CMU.NET (128.2.0.250)  24.349 ms POD-I-DCNS-CORE255.GW.CMU.NET (128.2.255.194)  235.242 ms POD-I-CYH-CORE0.GW.CMU.NET (128.2.0.250)  24.322 ms
+ 6  162.223.17.78 (162.223.17.78)  10.470 ms  10.993 ms 162.223.17.106 (162.223.17.106)  10.265 ms
+ 7  204.238.76.45 (204.238.76.45)  10.539 ms  10.607 ms  10.489 ms
+ 8  204.238.76.34 (204.238.76.34)  14.044 ms  14.087 ms  14.091 ms
+ 9  et-9-0-0.4079.sdn-sw.ashb.net.internet2.edu (162.252.70.66)  14.569 ms  14.447 ms et-11-3-0.4079.sdn-sw.ashb.net.internet2.edu (162.252.70.64)  14.415 ms
+10  et-2-1-0.4079.rtsw.clev.net.internet2.edu (162.252.70.55)  22.364 ms  22.534 ms  22.193 ms
+11  et-3-0-0.4079.sdn-sw.eqch.net.internet2.edu (162.252.70.113)  31.284 ms  31.270 ms  31.280 ms
+12  et-7-0-0.4079.sdn-sw.minn.net.internet2.edu (162.252.70.107)  39.419 ms  39.017 ms  39.141 ms
+13  et-7-0-0.4079.sdn-sw.miss2.net.internet2.edu (162.252.70.59)  62.273 ms  62.285 ms  62.289 ms
+14  et-4-1-0.4079.rtsw.seat.net.internet2.edu (162.252.70.1)  72.591 ms  72.668 ms  72.596 ms
+15  aarnet-2-lo-jmb-706.sttlwa.pacificwave.net (207.231.240.4)  72.509 ms  72.655 ms  72.615 ms
+16  et-2-0-0.pe1.a.hnl.aarnet.net.au (113.197.15.200)  124.376 ms  124.168 ms  124.266 ms
+17  et-2-1-0.pe1.sxt.bkvl.nsw.aarnet.net.au (113.197.15.98)  217.416 ms  217.113 ms  217.319 ms
+18  et-2-3-0.pe1.mcqp.nsw.aarnet.net.au (113.197.15.144)  217.751 ms  217.714 ms  217.677 ms
+19  et-0-3-0.pe1.eskp.nsw.aarnet.net.au (113.197.15.3)  218.924 ms  219.012 ms  218.712 ms
+20  et-0-3-0.pe1.wmlb.vic.aarnet.net.au (113.197.15.9)  230.127 ms  230.071 ms  230.116 ms
+21  gw1.xe-5-0-1-202.pe1.wmlb.vic.aarnet.net.au (138.44.64.55)  230.708 ms  230.479 ms  230.751 ms
+22  * * *
+23  * * *
+24  pl1.eng.monash.edu.au (130.194.252.8)  230.584 ms  230.597 ms  230.545 ms
+========================================================================================
+========================================================================================
+*****************   TraceRoute   Command     Output ************************************
+----------------------------------------------------------------------------------------
+Wed Apr 19 16:13:30 UTC 2017
+----------------------------------------------------------------------------------------
+traceroute to PL1.ENG.MONASH.EDU.AU (130.194.252.8), 30 hops max, 60 byte packets
+ 1  gates-agg-vlan110.net.cs.cmu.edu (128.2.208.1)  11.852 ms  11.867 ms  11.886 ms
+ 2  CORE255-POD-A.GW.CMU.NET (128.2.255.153)  0.374 ms  0.386 ms  0.410 ms
+ 3  WEAN-CORE-CORE255-VRF.GW.CMU.NET (128.2.255.134)  1.775 ms  1.779 ms  1.821 ms
+ 4  CORE0-WEAN-CORE.GW.CMU.NET (128.2.0.129)  0.440 ms  0.427 ms  0.424 ms
+ 5  POD-I-CYH-CORE0.GW.CMU.NET (128.2.0.250)  11.823 ms  11.715 ms  11.593 ms
+ 6  * 162.223.17.78 (162.223.17.78)  10.428 ms  10.450 ms
+ 7  204.238.76.45 (204.238.76.45)  10.674 ms  10.493 ms  10.712 ms
+ 8  204.238.76.34 (204.238.76.34)  14.029 ms  14.126 ms  14.042 ms
+ 9  et-9-0-0.4079.sdn-sw.ashb.net.internet2.edu (162.252.70.66)  14.442 ms et-8-1-0.4079.sdn-sw.ashb.net.internet2.edu (162.252.70.62)  14.657 ms et-9-0-0.4079.sdn-sw.ashb.net.internet2.edu (162.252.70.66)  14.416 ms
+10  et-2-1-0.4079.rtsw.clev.net.internet2.edu (162.252.70.55)  22.836 ms  25.386 ms  24.682 ms
+11  et-3-0-0.4079.sdn-sw.eqch.net.internet2.edu (162.252.70.113)  31.197 ms  31.322 ms *
+12  et-7-0-0.4079.sdn-sw.minn.net.internet2.edu (162.252.70.107)  39.050 ms  39.056 ms  39.089 ms
+13  et-7-0-0.4079.sdn-sw.miss2.net.internet2.edu (162.252.70.59)  62.300 ms  62.155 ms  62.211 ms
+14  et-4-1-0.4079.rtsw.seat.net.internet2.edu (162.252.70.1)  72.486 ms  72.503 ms  72.512 ms
+15  aarnet-2-lo-jmb-706.sttlwa.pacificwave.net (207.231.240.4)  85.882 ms  83.024 ms  82.998 ms
+16  et-2-0-0.pe1.a.hnl.aarnet.net.au (113.197.15.200)  124.175 ms  124.401 ms  124.136 ms
+17  et-2-1-0.pe1.sxt.bkvl.nsw.aarnet.net.au (113.197.15.98)  217.398 ms  217.393 ms  217.364 ms
+18  et-2-3-0.pe1.mcqp.nsw.aarnet.net.au (113.197.15.144)  217.729 ms  217.978 ms  217.714 ms
+19  et-0-3-0.pe1.eskp.nsw.aarnet.net.au (113.197.15.3)  218.951 ms  218.781 ms  218.676 ms
+20  et-0-3-0.pe1.wmlb.vic.aarnet.net.au (113.197.15.9)  230.078 ms  230.103 ms  230.144 ms
+21  gw1.xe-5-0-1-202.pe1.wmlb.vic.aarnet.net.au (138.44.64.55)  230.480 ms  230.485 ms  230.673 ms
+22  * * *
+23  * * *
+24  pl1.eng.monash.edu.au (130.194.252.8)  230.757 ms  230.819 ms  230.770 ms
+========================================================================================
+========================================================================================
+*****************   TraceRoute   Command     Output ************************************
+----------------------------------------------------------------------------------------
+Wed Apr 19 17:13:54 UTC 2017
+----------------------------------------------------------------------------------------
+traceroute to PL1.ENG.MONASH.EDU.AU (130.194.252.8), 30 hops max, 60 byte packets
+ 1  gates-agg-vlan110.net.cs.cmu.edu (128.2.208.1)  0.333 ms  0.314 ms  0.365 ms
+ 2  CORE255-POD-A.GW.CMU.NET (128.2.255.153)  0.347 ms  0.445 ms  0.429 ms
+ 3  WEAN-CORE-CORE255-VRF.GW.CMU.NET (128.2.255.134)  1.800 ms  1.820 ms  1.841 ms
+ 4  CORE255-WEAN-CORE.GW.CMU.NET (128.2.255.129)  0.362 ms CORE0-WEAN-CORE.GW.CMU.NET (128.2.0.129)  0.382 ms  0.405 ms
+ 5  POD-I-CYH-CORE0.GW.CMU.NET (128.2.0.250)  38.058 ms POD-I-DCNS-CORE255.GW.CMU.NET (128.2.255.194)  15.810 ms  15.775 ms
+ 6  162.223.17.78 (162.223.17.78)  10.445 ms  10.447 ms 162.223.17.106 (162.223.17.106)  10.300 ms
+ 7  204.238.76.45 (204.238.76.45)  10.666 ms  10.491 ms  10.620 ms
+ 8  204.238.76.34 (204.238.76.34)  14.035 ms  13.957 ms  13.971 ms
+ 9  et-11-3-0.4079.sdn-sw.ashb.net.internet2.edu (162.252.70.64)  14.402 ms  14.575 ms et-9-0-0.4079.sdn-sw.ashb.net.internet2.edu (162.252.70.66)  14.458 ms
+10  et-2-1-0.4079.rtsw.clev.net.internet2.edu (162.252.70.55)  22.510 ms  22.233 ms  22.243 ms
+11  et-3-0-0.4079.sdn-sw.eqch.net.internet2.edu (162.252.70.113)  31.174 ms  31.247 ms  31.205 ms
+12  et-7-0-0.4079.sdn-sw.minn.net.internet2.edu (162.252.70.107)  39.169 ms  39.060 ms  39.017 ms
+13  et-7-0-0.4079.sdn-sw.miss2.net.internet2.edu (162.252.70.59)  62.372 ms  62.363 ms  62.297 ms
+14  et-4-1-0.4079.rtsw.seat.net.internet2.edu (162.252.70.1)  72.377 ms  72.618 ms  72.552 ms
+15  aarnet-2-lo-jmb-706.sttlwa.pacificwave.net (207.231.240.4)  72.489 ms  72.608 ms  72.461 ms
+16  et-2-0-0.pe1.a.hnl.aarnet.net.au (113.197.15.200)  124.282 ms  124.252 ms  124.259 ms
+17  et-2-1-0.pe1.sxt.bkvl.nsw.aarnet.net.au (113.197.15.98)  217.238 ms  217.360 ms  217.341 ms
+18  et-2-3-0.pe1.mcqp.nsw.aarnet.net.au (113.197.15.144)  217.600 ms  217.585 ms  217.599 ms
+19  et-0-3-0.pe1.eskp.nsw.aarnet.net.au (113.197.15.3)  218.869 ms  219.025 ms  218.983 ms
+20  et-0-3-0.pe1.wmlb.vic.aarnet.net.au (113.197.15.9)  230.240 ms  230.098 ms  230.160 ms
+21  gw1.xe-5-0-1-202.pe1.wmlb.vic.aarnet.net.au (138.44.64.55)  230.616 ms  230.586 ms  230.422 ms
+22  * * *
+23  * * *
+24  pl1.eng.monash.edu.au (130.194.252.8)  230.537 ms  230.866 ms  230.788 ms
+========================================================================================
+========================================================================================
+*****************   TraceRoute   Command     Output ************************************
+----------------------------------------------------------------------------------------
+Wed Apr 19 18:14:19 UTC 2017
+----------------------------------------------------------------------------------------
+traceroute to PL1.ENG.MONASH.EDU.AU (130.194.252.8), 30 hops max, 60 byte packets
+ 1  gates-agg-vlan110.net.cs.cmu.edu (128.2.208.1)  0.396 ms  0.333 ms  0.316 ms
+ 2  CORE255-POD-A.GW.CMU.NET (128.2.255.153)  0.364 ms  0.415 ms  0.371 ms
+ 3  WEAN-CORE-CORE255-VRF.GW.CMU.NET (128.2.255.134)  1.713 ms  1.709 ms  1.709 ms
+ 4  CORE255-WEAN-CORE.GW.CMU.NET (128.2.255.129)  0.341 ms  0.354 ms CORE0-WEAN-CORE.GW.CMU.NET (128.2.0.129)  0.434 ms
+ 5  POD-I-DCNS-CORE255.GW.CMU.NET (128.2.255.194)  0.432 ms POD-I-CYH-CORE0.GW.CMU.NET (128.2.0.250)  4.000 ms  3.964 ms
+ 6  162.223.17.78 (162.223.17.78)  10.933 ms  10.659 ms  10.640 ms
+ 7  204.238.76.45 (204.238.76.45)  10.621 ms  10.819 ms  10.800 ms
+ 8  204.238.76.34 (204.238.76.34)  14.088 ms  14.089 ms  13.903 ms
+ 9  et-11-3-0.4079.sdn-sw.ashb.net.internet2.edu (162.252.70.64)  14.421 ms  14.597 ms et-9-0-0.4079.sdn-sw.ashb.net.internet2.edu (162.252.70.66)  14.628 ms
+10  et-2-1-0.4079.rtsw.clev.net.internet2.edu (162.252.70.55)  22.280 ms  22.657 ms  22.527 ms
+11  et-3-0-0.4079.sdn-sw.eqch.net.internet2.edu (162.252.70.113)  31.265 ms  31.200 ms  31.342 ms
+12  et-7-0-0.4079.sdn-sw.minn.net.internet2.edu (162.252.70.107)  39.702 ms  39.715 ms  39.698 ms
+13  et-7-0-0.4079.sdn-sw.miss2.net.internet2.edu (162.252.70.59)  62.141 ms  62.155 ms  62.237 ms
+14  et-4-1-0.4079.rtsw.seat.net.internet2.edu (162.252.70.1)  72.443 ms  72.531 ms  72.535 ms
+15  aarnet-2-lo-jmb-706.sttlwa.pacificwave.net (207.231.240.4)  72.588 ms  72.630 ms  72.431 ms
+16  et-2-0-0.pe1.a.hnl.aarnet.net.au (113.197.15.200)  124.135 ms  124.254 ms  124.122 ms
+17  et-2-1-0.pe1.sxt.bkvl.nsw.aarnet.net.au (113.197.15.98)  217.394 ms  217.103 ms  217.071 ms
+18  et-2-3-0.pe1.mcqp.nsw.aarnet.net.au (113.197.15.144)  217.575 ms  217.752 ms  217.820 ms
+19  et-0-3-0.pe1.eskp.nsw.aarnet.net.au (113.197.15.3)  218.902 ms  218.638 ms  218.701 ms
+20  et-0-3-0.pe1.wmlb.vic.aarnet.net.au (113.197.15.9)  230.148 ms  229.917 ms  229.923 ms
+21  gw1.xe-5-0-1-202.pe1.wmlb.vic.aarnet.net.au (138.44.64.55)  230.388 ms  230.458 ms  230.388 ms
+22  * * *
+23  * * *
+24  pl1.eng.monash.edu.au (130.194.252.8)  230.513 ms  230.533 ms  230.474 ms
+========================================================================================
+========================================================================================
+*****************   TraceRoute   Command     Output ************************************
+----------------------------------------------------------------------------------------
+Wed Apr 19 19:14:45 UTC 2017
+----------------------------------------------------------------------------------------
+traceroute to PL1.ENG.MONASH.EDU.AU (130.194.252.8), 30 hops max, 60 byte packets
+ 1  gates-agg-vlan110.net.cs.cmu.edu (128.2.208.1)  0.346 ms  0.313 ms  0.363 ms
+ 2  CORE255-POD-A.GW.CMU.NET (128.2.255.153)  0.374 ms  0.351 ms  0.398 ms
+ 3  WEAN-CORE-CORE255-VRF.GW.CMU.NET (128.2.255.134)  1.780 ms  1.741 ms  1.721 ms
+ 4  CORE0-WEAN-CORE.GW.CMU.NET (128.2.0.129)  0.463 ms  0.371 ms  0.358 ms
+ 5  POD-I-DCNS-CORE255.GW.CMU.NET (128.2.255.194)  346.527 ms  346.544 ms  346.520 ms
+ 6  162.223.17.106 (162.223.17.106)  10.230 ms  10.283 ms  10.289 ms
+ 7  204.238.76.45 (204.238.76.45)  10.619 ms  10.697 ms  10.697 ms
+ 8  204.238.76.34 (204.238.76.34)  13.922 ms  22.000 ms  22.114 ms
+ 9  et-9-0-0.4079.sdn-sw.ashb.net.internet2.edu (162.252.70.66)  25.041 ms et-11-3-0.4079.sdn-sw.ashb.net.internet2.edu (162.252.70.64)  24.973 ms  24.989 ms
+10  et-2-1-0.4079.rtsw.clev.net.internet2.edu (162.252.70.55)  33.066 ms  25.623 ms  23.926 ms
+11  et-3-0-0.4079.sdn-sw.eqch.net.internet2.edu (162.252.70.113)  32.932 ms  32.642 ms  32.570 ms
+12  et-7-0-0.4079.sdn-sw.minn.net.internet2.edu (162.252.70.107)  40.314 ms  39.204 ms  39.180 ms
+13  et-7-0-0.4079.sdn-sw.miss2.net.internet2.edu (162.252.70.59)  62.416 ms  62.186 ms  62.198 ms
+14  et-4-1-0.4079.rtsw.seat.net.internet2.edu (162.252.70.1)  72.509 ms  72.499 ms  72.522 ms
+15  aarnet-2-lo-jmb-706.sttlwa.pacificwave.net (207.231.240.4)  72.668 ms  72.515 ms  72.528 ms
+16  et-2-0-0.pe1.a.hnl.aarnet.net.au (113.197.15.200)  124.178 ms  124.364 ms  124.170 ms
+17  et-2-1-0.pe1.sxt.bkvl.nsw.aarnet.net.au (113.197.15.98)  217.431 ms  217.104 ms  217.415 ms
+18  et-2-3-0.pe1.mcqp.nsw.aarnet.net.au (113.197.15.144)  217.710 ms  217.559 ms  217.709 ms
+19  et-0-3-0.pe1.eskp.nsw.aarnet.net.au (113.197.15.3)  218.623 ms  218.891 ms  218.703 ms
+20  et-0-3-0.pe1.wmlb.vic.aarnet.net.au (113.197.15.9)  230.076 ms  230.047 ms  230.151 ms
+21  gw1.xe-5-0-1-202.pe1.wmlb.vic.aarnet.net.au (138.44.64.55)  230.657 ms  230.549 ms  230.709 ms
+22  * * *
+23  * * *
+24  pl1.eng.monash.edu.au (130.194.252.8)  230.710 ms  230.975 ms  230.933 ms
+========================================================================================
+========================================================================================
+*****************   TraceRoute   Command     Output ************************************
+----------------------------------------------------------------------------------------
+Wed Apr 19 20:15:09 UTC 2017
+----------------------------------------------------------------------------------------
+traceroute to PL1.ENG.MONASH.EDU.AU (130.194.252.8), 30 hops max, 60 byte packets
+ 1  gates-agg-vlan110.net.cs.cmu.edu (128.2.208.1)  0.386 ms  0.393 ms  0.358 ms
+ 2  CORE255-POD-A.GW.CMU.NET (128.2.255.153)  0.371 ms  0.374 ms  0.344 ms
+ 3  WEAN-CORE-CORE255-VRF.GW.CMU.NET (128.2.255.134)  1.730 ms  1.743 ms  1.458 ms
+ 4  CORE255-WEAN-CORE.GW.CMU.NET (128.2.255.129)  0.342 ms  0.360 ms CORE0-WEAN-CORE.GW.CMU.NET (128.2.0.129)  2.744 ms
+ 5  POD-I-DCNS-CORE255.GW.CMU.NET (128.2.255.194)  594.984 ms  594.997 ms  594.965 ms
+ 6  162.223.17.78 (162.223.17.78)  10.477 ms  10.464 ms 162.223.17.106 (162.223.17.106)  10.269 ms
+ 7  204.238.76.45 (204.238.76.45)  10.668 ms  10.520 ms  10.683 ms
+ 8  204.238.76.34 (204.238.76.34)  14.015 ms  14.083 ms  14.045 ms
+ 9  et-9-0-0.4079.sdn-sw.ashb.net.internet2.edu (162.252.70.66)  14.597 ms et-8-1-0.4079.sdn-sw.ashb.net.internet2.edu (162.252.70.62)  15.299 ms  15.314 ms
+10  et-2-1-0.4079.rtsw.clev.net.internet2.edu (162.252.70.55)  22.631 ms  22.515 ms  22.883 ms
+11  et-3-0-0.4079.sdn-sw.eqch.net.internet2.edu (162.252.70.113)  31.496 ms  31.392 ms  31.148 ms
+12  et-7-0-0.4079.sdn-sw.minn.net.internet2.edu (162.252.70.107)  39.105 ms  39.160 ms  39.023 ms
+13  et-7-0-0.4079.sdn-sw.miss2.net.internet2.edu (162.252.70.59)  62.364 ms  62.114 ms  62.689 ms
+14  et-4-1-0.4079.rtsw.seat.net.internet2.edu (162.252.70.1)  73.081 ms  72.444 ms  72.989 ms
+15  aarnet-2-lo-jmb-706.sttlwa.pacificwave.net (207.231.240.4)  72.594 ms  72.446 ms  72.495 ms
+16  et-2-0-0.pe1.a.hnl.aarnet.net.au (113.197.15.200)  124.337 ms  124.848 ms  124.514 ms
+17  et-2-1-0.pe1.sxt.bkvl.nsw.aarnet.net.au (113.197.15.98)  217.355 ms  218.646 ms  218.368 ms
+18  et-2-3-0.pe1.mcqp.nsw.aarnet.net.au (113.197.15.144)  217.826 ms  217.586 ms  218.799 ms
+19  et-0-3-0.pe1.eskp.nsw.aarnet.net.au (113.197.15.3)  218.864 ms  218.758 ms  218.856 ms
+20  et-0-3-0.pe1.wmlb.vic.aarnet.net.au (113.197.15.9)  230.012 ms  230.152 ms  230.107 ms
+21  gw1.xe-5-0-1-202.pe1.wmlb.vic.aarnet.net.au (138.44.64.55)  230.689 ms  230.400 ms  230.558 ms
+22  * * *
+23  * * *
+24  pl1.eng.monash.edu.au (130.194.252.8)  230.902 ms  230.579 ms  230.828 ms
+========================================================================================
+========================================================================================
+*****************   TraceRoute   Command     Output ************************************
+----------------------------------------------------------------------------------------
+Wed Apr 19 21:15:34 UTC 2017
+----------------------------------------------------------------------------------------
+traceroute to PL1.ENG.MONASH.EDU.AU (130.194.252.8), 30 hops max, 60 byte packets
+ 1  gates-agg-vlan110.net.cs.cmu.edu (128.2.208.1)  0.359 ms  0.359 ms  0.374 ms
+ 2  CORE255-POD-A.GW.CMU.NET (128.2.255.153)  0.352 ms  0.365 ms  0.382 ms
+ 3  WEAN-CORE-CORE255-VRF.GW.CMU.NET (128.2.255.134)  1.726 ms  1.730 ms  1.732 ms
+ 4  CORE255-WEAN-CORE.GW.CMU.NET (128.2.255.129)  0.361 ms CORE0-WEAN-CORE.GW.CMU.NET (128.2.0.129)  0.363 ms CORE255-WEAN-CORE.GW.CMU.NET (128.2.255.129)  0.333 ms
+ 5  POD-I-CYH-CORE0.GW.CMU.NET (128.2.0.250)  0.243 ms POD-I-DCNS-CORE255.GW.CMU.NET (128.2.255.194)  2.810 ms POD-I-CYH-CORE0.GW.CMU.NET (128.2.0.250)  0.380 ms
+ 6  162.223.17.106 (162.223.17.106)  10.390 ms 162.223.17.78 (162.223.17.78)  10.447 ms  10.492 ms
+ 7  204.238.76.45 (204.238.76.45)  10.550 ms  10.559 ms  10.481 ms
+ 8  204.238.76.34 (204.238.76.34)  13.877 ms  14.046 ms  13.865 ms
+ 9  et-9-0-0.4079.sdn-sw.ashb.net.internet2.edu (162.252.70.66)  14.414 ms et-8-1-0.4079.sdn-sw.ashb.net.internet2.edu (162.252.70.62)  14.466 ms et-11-3-0.4079.sdn-sw.ashb.net.internet2.edu (162.252.70.64)  14.569 ms
+10  et-2-1-0.4079.rtsw.clev.net.internet2.edu (162.252.70.55)  22.417 ms  22.417 ms  22.354 ms
+11  et-3-0-0.4079.sdn-sw.eqch.net.internet2.edu (162.252.70.113)  32.100 ms  31.882 ms  31.207 ms
+12  et-7-0-0.4079.sdn-sw.minn.net.internet2.edu (162.252.70.107)  39.203 ms  39.266 ms  39.188 ms
+13  et-7-0-0.4079.sdn-sw.miss2.net.internet2.edu (162.252.70.59)  62.221 ms  62.286 ms  62.192 ms
+14  et-4-1-0.4079.rtsw.seat.net.internet2.edu (162.252.70.1)  72.411 ms  72.582 ms  72.376 ms
+15  aarnet-2-lo-jmb-706.sttlwa.pacificwave.net (207.231.240.4)  72.497 ms  72.584 ms  72.561 ms
+16  et-2-0-0.pe1.a.hnl.aarnet.net.au (113.197.15.200)  124.445 ms  124.461 ms  124.284 ms
+17  et-2-1-0.pe1.sxt.bkvl.nsw.aarnet.net.au (113.197.15.98)  217.444 ms  217.364 ms  217.463 ms
+18  et-2-3-0.pe1.mcqp.nsw.aarnet.net.au (113.197.15.144)  217.807 ms  217.826 ms  217.870 ms
+19  et-0-3-0.pe1.eskp.nsw.aarnet.net.au (113.197.15.3)  218.975 ms  218.785 ms  218.896 ms
+20  et-0-3-0.pe1.wmlb.vic.aarnet.net.au (113.197.15.9)  230.152 ms  230.076 ms  229.983 ms
+21  gw1.xe-5-0-1-202.pe1.wmlb.vic.aarnet.net.au (138.44.64.55)  230.544 ms  230.415 ms  230.554 ms
+22  * * *
+23  * * *
+24  pl1.eng.monash.edu.au (130.194.252.8)  230.749 ms  230.527 ms  230.599 ms
+========================================================================================
+========================================================================================
+*****************   TraceRoute   Command     Output ************************************
+----------------------------------------------------------------------------------------
+Wed Apr 19 22:15:59 UTC 2017
+----------------------------------------------------------------------------------------
+traceroute to PL1.ENG.MONASH.EDU.AU (130.194.252.8), 30 hops max, 60 byte packets
+ 1  gates-agg-vlan110.net.cs.cmu.edu (128.2.208.1)  21.630 ms  21.629 ms  21.662 ms
+ 2  CORE255-POD-A.GW.CMU.NET (128.2.255.153)  0.344 ms  0.437 ms  0.461 ms
+ 3  WEAN-CORE-CORE255-VRF.GW.CMU.NET (128.2.255.134)  1.775 ms  1.779 ms  1.867 ms
+ 4  CORE255-WEAN-CORE.GW.CMU.NET (128.2.255.129)  0.397 ms  0.410 ms CORE0-WEAN-CORE.GW.CMU.NET (128.2.0.129)  0.329 ms
+ 5  POD-I-DCNS-CORE255.GW.CMU.NET (128.2.255.194)  0.398 ms  0.570 ms POD-I-CYH-CORE0.GW.CMU.NET (128.2.0.250)  22.930 ms
+ 6  162.223.17.78 (162.223.17.78)  14.520 ms 162.223.17.106 (162.223.17.106)  14.318 ms 162.223.17.78 (162.223.17.78)  14.312 ms
+ 7  204.238.76.45 (204.238.76.45)  10.654 ms  10.467 ms  10.608 ms
+ 8  204.238.76.34 (204.238.76.34)  13.903 ms  14.021 ms  13.864 ms
+ 9  et-11-3-0.4079.sdn-sw.ashb.net.internet2.edu (162.252.70.64)  14.467 ms et-9-0-0.4079.sdn-sw.ashb.net.internet2.edu (162.252.70.66)  14.445 ms et-8-1-0.4079.sdn-sw.ashb.net.internet2.edu (162.252.70.62)  15.037 ms
+10  et-2-1-0.4079.rtsw.clev.net.internet2.edu (162.252.70.55)  22.421 ms  22.448 ms  22.454 ms
+11  et-3-0-0.4079.sdn-sw.eqch.net.internet2.edu (162.252.70.113)  32.951 ms  33.006 ms  32.844 ms
+12  et-7-0-0.4079.sdn-sw.minn.net.internet2.edu (162.252.70.107)  39.056 ms  39.193 ms  39.176 ms
+13  et-7-0-0.4079.sdn-sw.miss2.net.internet2.edu (162.252.70.59)  62.351 ms  62.338 ms  62.230 ms
+14  et-4-1-0.4079.rtsw.seat.net.internet2.edu (162.252.70.1)  72.531 ms  72.517 ms  72.317 ms
+15  aarnet-2-lo-jmb-706.sttlwa.pacificwave.net (207.231.240.4)  72.580 ms  80.402 ms  80.417 ms
+16  et-2-0-0.pe1.a.hnl.aarnet.net.au (113.197.15.200)  124.270 ms  124.297 ms  124.165 ms
+17  et-2-1-0.pe1.sxt.bkvl.nsw.aarnet.net.au (113.197.15.98)  217.280 ms  217.192 ms  217.271 ms
+18  et-2-3-0.pe1.mcqp.nsw.aarnet.net.au (113.197.15.144)  217.785 ms  217.609 ms  217.736 ms
+19  et-0-3-0.pe1.eskp.nsw.aarnet.net.au (113.197.15.3)  221.896 ms  218.793 ms  218.863 ms
+20  et-0-3-0.pe1.wmlb.vic.aarnet.net.au (113.197.15.9)  229.962 ms  230.093 ms  230.154 ms
+21  gw1.xe-5-0-1-202.pe1.wmlb.vic.aarnet.net.au (138.44.64.55)  230.587 ms  230.625 ms  230.599 ms
+22  * * *
+23  * * *
+24  pl1.eng.monash.edu.au (130.194.252.8)  230.710 ms  230.568 ms  230.892 ms
+========================================================================================
+========================================================================================
+*****************   TraceRoute   Command     Output ************************************
+----------------------------------------------------------------------------------------
+Wed Apr 19 23:16:24 UTC 2017
+----------------------------------------------------------------------------------------
+traceroute to PL1.ENG.MONASH.EDU.AU (130.194.252.8), 30 hops max, 60 byte packets
+ 1  gates-agg-vlan110.net.cs.cmu.edu (128.2.208.1)  0.356 ms  0.360 ms  0.370 ms
+ 2  CORE255-POD-A.GW.CMU.NET (128.2.255.153)  0.347 ms  0.401 ms  0.367 ms
+ 3  WEAN-CORE-CORE255-VRF.GW.CMU.NET (128.2.255.134)  1.763 ms  1.825 ms  1.797 ms
+ 4  CORE0-WEAN-CORE.GW.CMU.NET (128.2.0.129)  0.660 ms  0.674 ms  0.693 ms
+ 5  POD-I-DCNS-CORE255.GW.CMU.NET (128.2.255.194)  0.448 ms POD-I-CYH-CORE0.GW.CMU.NET (128.2.0.250)  0.256 ms POD-I-DCNS-CORE255.GW.CMU.NET (128.2.255.194)  0.514 ms
+ 6  162.223.17.78 (162.223.17.78)  10.412 ms 162.223.17.106 (162.223.17.106)  10.319 ms  10.300 ms
+ 7  204.238.76.45 (204.238.76.45)  10.452 ms  10.470 ms  10.489 ms
+ 8  204.238.76.34 (204.238.76.34)  14.002 ms  14.031 ms  13.892 ms
+ 9  et-11-3-0.4079.sdn-sw.ashb.net.internet2.edu (162.252.70.64)  14.499 ms et-9-0-0.4079.sdn-sw.ashb.net.internet2.edu (162.252.70.66)  14.560 ms  14.435 ms
+10  et-2-1-0.4079.rtsw.clev.net.internet2.edu (162.252.70.55)  22.282 ms  22.262 ms  22.299 ms
+11  et-3-0-0.4079.sdn-sw.eqch.net.internet2.edu (162.252.70.113)  31.345 ms  31.233 ms  31.184 ms
+12  et-7-0-0.4079.sdn-sw.minn.net.internet2.edu (162.252.70.107)  38.982 ms  39.171 ms  39.033 ms
+13  et-7-0-0.4079.sdn-sw.miss2.net.internet2.edu (162.252.70.59)  62.406 ms  62.237 ms  62.147 ms
+14  et-4-1-0.4079.rtsw.seat.net.internet2.edu (162.252.70.1)  72.446 ms  72.552 ms  72.462 ms
+15  aarnet-2-lo-jmb-706.sttlwa.pacificwave.net (207.231.240.4)  72.620 ms  72.598 ms  72.856 ms
+16  et-2-0-0.pe1.a.hnl.aarnet.net.au (113.197.15.200)  124.478 ms  124.486 ms  124.275 ms
+17  et-2-1-0.pe1.sxt.bkvl.nsw.aarnet.net.au (113.197.15.98)  217.321 ms  217.467 ms  217.396 ms
+18  et-2-3-0.pe1.mcqp.nsw.aarnet.net.au (113.197.15.144)  217.866 ms  217.812 ms  217.673 ms
+19  et-0-3-0.pe1.eskp.nsw.aarnet.net.au (113.197.15.3)  218.834 ms  218.851 ms  218.828 ms
+20  et-0-3-0.pe1.wmlb.vic.aarnet.net.au (113.197.15.9)  229.985 ms  229.996 ms  230.022 ms
+21  gw1.xe-5-0-1-202.pe1.wmlb.vic.aarnet.net.au (138.44.64.55)  230.572 ms  230.415 ms  230.582 ms
+22  * * *
+23  * * *
+24  pl1.eng.monash.edu.au (130.194.252.8)  231.481 ms  231.304 ms  231.025 ms
+========================================================================================
+========================================================================================
